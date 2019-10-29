@@ -1,0 +1,5 @@
+owner = TWS
+controller = TWS
+add_core = TWS
+trade_goods = timber
+life_rating = 50

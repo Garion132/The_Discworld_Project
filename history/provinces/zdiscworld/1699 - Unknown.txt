@@ -1,0 +1,5 @@
+owner = KLS
+controller = KLS
+add_core = KLS
+trade_goods = cattle
+life_rating = 20

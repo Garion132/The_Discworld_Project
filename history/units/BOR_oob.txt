@@ -1,0 +1,40 @@
+army = {
+	name = "Army of Borogravia"
+	location = 603
+	regiment = {
+		name= "10th Infantry"
+		type = miltia
+		home = 611
+	}
+	regiment = {
+		name= "9th Infantry"
+		type = miltia
+		home = 605
+	}
+	regiment = {
+		name= "8th Infantry"
+		type = miltia
+		home = 622
+	}
+	regiment = {
+		name= "7th Infantry"
+		type = miltia
+		home = 604
+	}
+	regiment = {
+		name= "1st Infantry"
+		type = miltia
+		home = 603
+	}
+	regiment = {
+		name= "2nd Infantry"
+		type = miltia
+		home = 608
+	}
+	regiment = {
+		name= "The Politicals"
+		type = warriors
+		home = 603
+	}
+}
+

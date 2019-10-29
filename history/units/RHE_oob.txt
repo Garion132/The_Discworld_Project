@@ -1,0 +1,32 @@
+army = {
+	name = "Army of Rheinthal"
+	location = 722
+	regiment = {
+		name= "1st Rheinthal infantry"
+		type = spearmen
+		home = 722
+	}
+	regiment = {
+		name= "2nd Rheinthal infantry"
+		type = spearmen
+		home = 731
+	}
+	regiment = {
+		name= "3rd Rheinthal infantry"
+		type = miltia
+		home = 732
+	}
+	regiment = {
+		name= "4th Rheinthal infantry"
+		type = miltia
+		home = 719
+	}
+	regiment = {
+		name= "5th Rheinthal infantry"
+		type = miltia
+		home = 725
+	}
+}
+
+
+

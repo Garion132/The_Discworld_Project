@@ -1,0 +1,5 @@
+owner = QRM
+controller = QRM
+add_core = QRM
+trade_goods = grain
+life_rating = 50

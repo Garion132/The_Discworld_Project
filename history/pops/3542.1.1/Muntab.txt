@@ -1,0 +1,1589 @@
+409={
+	farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 24000
+	}
+	clergymen = {
+		culture = muntabian
+		religion = catholic
+		size = 3000
+	}
+	aristocrats = {
+		culture = muntabian
+		religion = catholic
+		size = 500
+	}
+	bureaucrats = {
+		culture = muntabian
+		religion = catholic
+		size = 250
+	}
+	soldiers = {
+		culture = muntabian
+		religion = catholic
+		size = 5000
+	}
+	officers = {
+		culture = muntabian
+		religion = catholic
+		size = 400
+	}
+	artisans = {
+		culture = muntabian
+		religion = catholic
+		size = 4000
+	}
+	artisans = {
+		culture = muntabian
+		religion = catholic
+		size = 1500
+	}
+	artisans = {
+		culture = muntabian
+		religion = catholic
+		size = 1500
+	}
+	artisans = {
+		culture = muntabian
+		religion = catholic
+		size = 1800
+	}
+    }
+410={
+    farmers = {
+		culture = ghatian
+		religion = catholic
+		size = 1900
+	}
+    }
+926={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 1200
+	}
+}
+927={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 1300
+	}
+}
+928={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 1000
+	}
+}
+929={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 1700
+	}
+}
+930={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 2100
+	}
+	soldiers = {
+		culture = muntabian
+		religion = catholic
+		size = 1500
+	}
+}
+931={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 2500
+	}
+}
+932={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 3500
+	}
+	soldiers = {
+		culture = muntabian
+		religion = catholic
+		size = 2100
+	}
+}
+933={
+	aristocrats = {
+		culture = muntabian
+		religion = catholic
+		size = 20
+	}
+	clergymen = {
+		culture = muntabian
+		religion = catholic
+		size = 200
+	}
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 4600
+	}
+	soldiers = {
+		culture = muntabian
+		religion = catholic
+		size = 1500
+	}
+	artisans = {
+		culture = muntabian
+		religion = catholic
+		size = 1500
+	}
+}
+934={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 1500
+	}
+}
+935={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 1200
+	}
+}
+936={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 2500
+	}
+}
+937={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 4500
+	}
+}
+938={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 3200
+	}
+	soldiers = {
+		culture = muntabian
+		religion = catholic
+		size = 1100
+	}
+}
+939={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 2300
+	}
+}
+940={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 1100
+	}
+}
+941={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 2000
+	}
+}
+942={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 1000
+	}
+}
+943={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 1000
+	}
+}
+944={
+    labourers = {
+		culture = muntabian
+		religion = catholic
+		size = 1000
+	}
+}
+945={
+    labourers = {
+		culture = muntabian
+		religion = catholic
+		size = 1400
+	}
+}
+946={
+    labourers = {
+		culture = muntabian
+		religion = catholic
+		size = 950
+	}
+}
+947={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 2000
+	}
+}
+948={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 3500
+	}
+}
+949={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 1600
+	}
+}
+950={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 4210
+	}
+}
+951={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 2300
+	}
+}
+952={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 900
+	}
+}
+953={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 1400
+	}
+}
+954={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 2300
+	}
+}
+955={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 3500
+	}
+}
+956={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 1200
+	}
+}
+957={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 2400
+	}
+}
+958={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 2900
+	}
+}
+959={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 1100
+	}
+}
+960={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 3500
+	}
+}
+961={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 2600
+	}
+}
+962={
+    farmers = {
+		culture = ghatian
+		religion = catholic
+		size = 500
+	}
+}
+963={
+    farmers = {
+		culture = ghatian
+		religion = catholic
+		size = 3600
+	}
+}
+964={
+    farmers = {
+		culture = ghatian
+		religion = catholic
+		size = 4700
+	}
+}
+965={
+    farmers = {
+		culture = ghatian
+		religion = catholic
+		size = 1740
+	}
+}
+966={
+    farmers = {
+		culture = ghatian
+		religion = catholic
+		size = 3900
+	}
+}
+967={
+    farmers = {
+		culture = ghatian
+		religion = catholic
+		size = 23600
+	}
+	soldiers = {
+		culture = ghatian
+		religion = catholic
+		size = 3300
+	}
+	artisans = {
+		culture = ghatian
+		religion = catholic
+		size = 3800
+	}
+	artisans = {
+		culture = ghatian
+		religion = catholic
+		size = 1400
+	}
+	clergymen = {
+		culture = ghatian
+		religion = catholic
+		size = 540
+	}
+	aristocrats = {
+		culture = ghatian
+		religion = catholic
+		size = 340
+	}
+	bureaucrats = {
+		culture = ghatian
+		religion = catholic
+		size = 60
+	}
+}
+968={
+    farmers = {
+		culture = ghatian
+		religion = catholic
+		size = 2900
+	}
+	soldiers = {
+		culture = ghatian
+		religion = catholic
+		size = 1100
+	}
+}
+969={
+    farmers = {
+		culture = ghatian
+		religion = catholic
+		size = 3500
+	}
+	artisans = {
+		culture = ghatian
+		religion = catholic
+		size = 300
+	}
+	soldiers = {
+		culture = ghatian
+		religion = catholic
+		size = 800
+	}
+}
+970={
+    farmers = {
+		culture = ghatian
+		religion = catholic
+		size = 500
+	}
+}
+971={
+    farmers = {
+		culture = ghatian
+		religion = catholic
+		size = 500
+	}
+}
+972={
+    farmers = {
+		culture = ghatian
+		religion = catholic
+		size = 500
+	}
+}
+973={
+    farmers = {
+		culture = ghatian
+		religion = catholic
+		size = 500
+	}
+}
+974={
+    farmers = {
+		culture = ghatian
+		religion = catholic
+		size = 500
+	}
+}
+975={
+    farmers = {
+		culture = ghatian
+		religion = catholic
+		size = 500
+	}
+}
+976={
+    farmers = {
+		culture = ghatian
+		religion = catholic
+		size = 500
+	}
+}
+977={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 500
+	}
+}
+978={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 500
+	}
+}
+979={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 500
+	}
+}
+980={
+    aristocrats = {
+		culture = muntabian
+		religion = catholic
+		size = 150
+	}
+	soldiers = {
+		culture = muntabian
+		religion = catholic
+		size = 1500
+	}
+	artisans = {
+		culture = muntabian
+		religion = catholic
+		size = 2400
+	}
+	farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 2600
+	}
+}
+981={
+    farmers = {
+		culture = ghatian
+		religion = catholic
+		size = 500
+	}
+}
+982={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 1800
+	}
+}
+983={
+    farmers = {
+		culture = ghatian
+		religion = catholic
+		size = 500
+	}
+}
+984={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 500
+	}
+}
+985={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 500
+	}
+}
+986={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 500
+	}
+}
+987={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 500
+	}
+}
+988={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 500
+	}
+}
+989={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 500
+	}
+}
+990={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 500
+	}
+}
+991={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 500
+	}
+}
+992={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 500
+	}
+}
+993={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 500
+	}
+}
+994={
+    farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 500
+	}
+}
+995={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 500
+	}
+}
+996={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 500
+	}
+}
+997={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 500
+	}
+}
+998={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 500
+	}
+}
+999={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 500
+	}
+}
+1000={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 500
+	}
+}
+1001={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 500
+	}
+}
+1002={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 500
+	}
+}
+1003={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 500
+	}
+}
+1004={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 500
+	}
+}
+1005={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 500
+	}
+}
+1006={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 500
+	}
+}
+1007={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 500
+	}
+}
+1008={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 500
+	}
+}
+1009={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 500
+	}
+}
+1010={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 500
+	}
+}
+1011={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 500
+	}
+}
+1012={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 500
+	}
+}
+1013={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 500
+	}
+}
+1014={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 500
+	}
+}
+1015={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 500
+	}
+}
+1016={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 500
+	}
+}
+1017={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 500
+	}
+}
+1018={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 500
+	}
+}
+1019={
+    farmers = {
+		culture = orohaian
+		religion = catholic
+		size = 500
+	}
+}
+1020={
+    farmers = {
+		culture = orohaian
+		religion = catholic
+		size = 500
+	}
+}
+1021={
+    farmers = {
+		culture = orohaian
+		religion = catholic
+		size = 500
+	}
+}
+1022={
+    farmers = {
+		culture = orohaian
+		religion = catholic
+		size = 500
+	}
+}
+1023={
+    farmers = {
+		culture = orohaian
+		religion = catholic
+		size = 500
+	}
+}
+1024={
+    farmers = {
+		culture = orohaian
+		religion = catholic
+		size = 500
+	}
+}
+1025={
+    farmers = {
+		culture = orohaian
+		religion = catholic
+		size = 500
+	}
+}
+1026={
+    farmers = {
+		culture = orohaian
+		religion = catholic
+		size = 500
+	}
+}
+1027={
+    farmers = {
+		culture = orohaian
+		religion = catholic
+		size = 500
+	}
+}
+1028={
+    farmers = {
+		culture = orohaian
+		religion = catholic
+		size = 500
+	}
+}
+1029={
+    farmers = {
+		culture = orohaian
+		religion = catholic
+		size = 500
+	}
+}
+1030={
+    farmers = {
+		culture = orohaian
+		religion = catholic
+		size = 500
+	}
+}
+1031={
+    farmers = {
+		culture = orohaian
+		religion = catholic
+		size = 500
+	}
+}
+1032={
+    farmers = {
+		culture = orohaian
+		religion = catholic
+		size = 500
+	}
+}
+1033={
+    farmers = {
+		culture = orohaian
+		religion = catholic
+		size = 500
+	}
+}
+1034={
+    farmers = {
+		culture = orohaian
+		religion = catholic
+		size = 500
+	}
+}
+1035={
+    farmers = {
+		culture = orohaian
+		religion = catholic
+		size = 500
+	}
+}
+1036={
+    farmers = {
+		culture = orohaian
+		religion = catholic
+		size = 500
+	}
+}
+1037={
+    farmers = {
+		culture = orohaian
+		religion = catholic
+		size = 500
+	}
+}
+1038={
+    farmers = {
+		culture = orohaian
+		religion = catholic
+		size = 500
+	}
+}
+1519={
+    farmers = {
+		culture = farferian
+		religion = catholic
+		size = 17800
+	}
+	soldiers = {
+		culture = farferian
+		religion = catholic
+		size = 3400
+	}
+	aristocrats = {
+		culture = farferian
+		religion = catholic
+		size = 80
+	}
+	officers = {
+		culture = farferian
+		religion = catholic
+		size = 150
+	}
+	artisans = {
+		culture = farferian
+		religion = catholic
+		size = 8500
+	}
+}
+1520={
+    farmers = {
+		culture = farferian
+		religion = catholic
+		size = 6300
+	}
+}
+1521={
+    farmers = {
+		culture = farferian
+		religion = catholic
+		size = 1700
+	}
+}
+1522={
+	farmers = {
+		culture = farferian
+		religion = catholic
+		size = 2500
+	}
+}
+1523={
+    farmers = {
+		culture = farferian
+		religion = catholic
+		size = 8700
+	}
+}
+1524={
+    farmers = {
+		culture = farferian
+		religion = catholic
+		size = 3400
+	}
+}
+1525={
+    farmers = {
+		culture = farferian
+		religion = catholic
+		size = 3560
+	}
+}
+1526={
+    farmers = {
+		culture = farferian
+		religion = catholic
+		size = 1400
+	}
+}
+1527={
+    farmers = {
+		culture = farferian
+		religion = catholic
+		size = 1850
+	}
+}
+1528={
+    farmers = {
+		culture = khanlian
+		religion = catholic
+		size = 2400
+	}
+}
+1529={
+    farmers = {
+		culture = khanlian
+		religion = catholic
+		size = 1700
+	}
+}
+1530={
+    farmers = {
+		culture = khanlian
+		religion = catholic
+		size = 2500
+	}
+}
+1531={
+    farmers = {
+		culture = khanlian
+		religion = catholic
+		size = 3400
+	}
+}
+1532={
+    farmers = {
+		culture = khanlian
+		religion = catholic
+		size = 890
+	}
+}
+1533={
+    farmers = {
+		culture = khanlian
+		religion = catholic
+		size = 1200
+	}
+}
+1534={
+    farmers = {
+		culture = khanlian
+		religion = catholic
+		size = 1300
+	}
+}
+1535={
+    farmers = {
+		culture = khanlian
+		religion = catholic
+		size = 650
+	}
+}
+1536={
+    labourers = {
+		culture = khanlian
+		religion = catholic
+		size = 6700
+	}
+	soldiers = {
+		culture = khanlian
+		religion = catholic
+		size = 4600
+	}
+	aristocrats = {
+		culture = khanlian
+		religion = catholic
+		size = 2000
+	}
+	artisans = {
+		culture = khanlian
+		religion = catholic
+		size = 1000
+	}
+	artisans = {
+		culture = khanlian
+		religion = catholic
+		size = 1000
+	}
+	artisans = {
+		culture = khanlian
+		religion = catholic
+		size = 1000
+	}
+}
+1537={
+    farmers = {
+		culture = khanlian
+		religion = catholic
+		size = 1200
+	}
+}
+1538={
+    farmers = {
+		culture = khanlian
+		religion = catholic
+		size = 1470
+	}
+}
+1539={
+    farmers = {
+		culture = khanlian
+		religion = catholic
+		size = 6900
+	}
+}
+1540={
+    farmers = {
+		culture = khanlian
+		religion = catholic
+		size = 2500
+	}
+}
+1541={
+    farmers = {
+		culture = khanlian
+		religion = catholic
+		size = 2600
+	}
+}
+1542={
+    farmers = {
+		culture = khanlian
+		religion = catholic
+		size = 900
+	}
+}
+1543={
+    farmers = {
+		culture = khanlian
+		religion = catholic
+		size = 2100
+	}
+}
+1544={
+    farmers = {
+		culture = hrullian
+		religion = catholic
+		size = 1000
+	}
+}
+1545={
+    farmers = {
+		culture = hrullian
+		religion = catholic
+		size = 1000
+	}
+}
+1546={
+    farmers = {
+		culture = hrullian
+		religion = catholic
+		size = 1000
+	}
+}
+1547={
+    farmers = {
+		culture = hrullian
+		religion = catholic
+		size = 1000
+	}
+}
+1548={
+    farmers = {
+		culture = hrullian
+		religion = catholic
+		size = 1000
+	}
+}
+1549={
+    farmers = {
+		culture = hrullian
+		religion = catholic
+		size = 1000
+	}
+}
+1550={
+    farmers = {
+		culture = hrullian
+		religion = catholic
+		size = 1000
+	}
+}
+1551={
+    farmers = {
+		culture = hrullian
+		religion = catholic
+		size = 1000
+	}
+}
+1552={
+    farmers = {
+		culture = hrullian
+		religion = catholic
+		size = 1000
+	}
+}
+1553={
+    farmers = {
+		culture = hrullian
+		religion = catholic
+		size = 1000
+	}
+}
+1554={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 2200
+	}
+	farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 1250
+	}
+}
+1555={
+    farmers = {
+		culture = hrullian
+		religion = catholic
+		size = 1000
+	}
+}
+1556={
+    farmers = {
+		culture = hrullian
+		religion = catholic
+		size = 1000
+	}
+}
+1557={
+    farmers = {
+		culture = hrullian
+		religion = catholic
+		size = 1000
+	}
+}
+1558={
+    farmers = {
+		culture = hrullian
+		religion = catholic
+		size = 1000
+	}
+}
+1559={
+    farmers = {
+		culture = hrullian
+		religion = catholic
+		size = 1000
+	}
+}
+1560={
+    farmers = {
+		culture = hrullian
+		religion = catholic
+		size = 1000
+	}
+}
+1561={
+    farmers = {
+		culture = hrullian
+		religion = catholic
+		size = 1000
+	}
+}
+1562={
+    farmers = {
+		culture = hrullian
+		religion = catholic
+		size = 1000
+	}
+}
+1563={
+    farmers = {
+		culture = hrullian
+		religion = catholic
+		size = 1000
+	}
+}
+1564={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1800
+	}
+	farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 2350
+	}
+}
+1565={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1000
+	}
+}
+1566={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1000
+	}
+}
+1567={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1000
+	}
+}
+1568={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1000
+	}
+}
+1569={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1000
+	}
+}
+1570={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1000
+	}
+}
+1571={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1000
+	}
+}
+1572={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1000
+	}
+}
+1573={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1000
+	}
+}
+1574={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1000
+	}
+}
+1575={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1000
+	}
+}
+1576={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1000
+	}
+}
+1577={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1000
+	}
+}
+1578={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1000
+	}
+}
+1579={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1000
+	}
+}
+1580={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 4900
+	}
+	aristocrats = {
+		culture = brindisian
+		religion = catholic
+		size = 20
+	}
+}
+1581={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1250
+	}
+}
+1582={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1000
+	}
+}
+1583={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1000
+	}
+}
+1584={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 3400
+	}
+	soldiers = {
+		culture = brindisian
+		religion = catholic
+		size = 1200
+	}
+}
+1585={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1870
+	}
+}
+1586={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 2700
+	}
+	soldiers = {
+		culture = brindisian
+		religion = catholic
+		size = 700
+	}
+}
+1587={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 2850
+	}
+}
+1588={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 3580
+	}
+}
+1589={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 3800
+	}
+}
+1590={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1000
+	}
+}
+1591={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1000
+	}
+}
+1592={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 3690
+	}
+}
+1593={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1630
+	}
+}
+1594={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1000
+	}
+}
+1595={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1000
+	}
+}
+1596={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1000
+	}
+}
+1597={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1000
+	}
+}
+1598={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1000
+	}
+}
+1599={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1000
+	}
+}
+1600={
+    farmers = {
+		culture = brindisian
+		religion = catholic
+		size = 1000
+	}
+}

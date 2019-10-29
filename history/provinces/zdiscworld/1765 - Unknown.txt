@@ -1,0 +1,5 @@
+owner = TAL
+controller = TAL
+add_core = TAL
+trade_goods = coal
+life_rating = 20

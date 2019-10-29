@@ -1,0 +1,5 @@
+owner = TEZ
+controller = TEZ
+add_core = TEZ
+trade_goods = rubber
+life_rating = 30

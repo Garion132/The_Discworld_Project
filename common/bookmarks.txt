@@ -1,0 +1,8 @@
+bookmark =
+{
+	name = "DSC_NAME"
+	desc = "DSC_DESC"
+	date = 3542.1.1
+	cameraX = 2950 
+	cameraY = 1550
+}

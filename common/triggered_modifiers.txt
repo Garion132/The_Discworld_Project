@@ -1,0 +1,24 @@
+# Triggered modifiers are here.
+# these are checked for each countries once/month and then applied.
+#
+# Effects are fully scriptable here.
+
+AGA_isolation = {
+	trigger = {
+		exists = yes
+		tag = AGA
+		#government = absolute_monarchy
+	}
+	global_immigrant_attract = -10.0
+	tariff_efficiency_modifier = 10.0
+	icon = 3
+}
+AMP_city_of_the_worlds_desire = {
+	trigger = {
+		exists = yes
+		tag = AMP
+		#government = absolute_monarchy
+	}
+	global_immigrant_attract = 0.15
+	icon = 3
+}

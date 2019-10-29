@@ -1,0 +1,5 @@
+owner = HRL
+controller = HRL
+add_core = HRL
+trade_goods = cotton
+life_rating = 20

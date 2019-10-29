@@ -1,0 +1,6 @@
+owner = LOK
+controller = LOK
+add_core = LOK
+add_core = UBW
+trade_goods = coal
+life_rating = 50

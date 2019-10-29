@@ -1,0 +1,5 @@
+owner = GRJ
+controller = GRJ
+add_core = GRJ
+trade_goods = sulphur
+life_rating = 50

@@ -1,0 +1,21 @@
+army = {
+	name = "Army of Varneval"
+	location = 738
+	regiment = {
+		name= "1st Varneval infantry"
+		type = spearmen
+		home = 741
+	}
+	regiment = {
+		name= "2nd Varneval infantry"
+		type = spearmen
+		home = 738
+	}
+	regiment = {
+		name= "3rd Varneval infantry"
+		type = miltia
+		home = 735
+	}
+}
+
+

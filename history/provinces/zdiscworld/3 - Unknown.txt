@@ -1,0 +1,5 @@
+owner = AMP
+controller = AMP
+add_core = AMP
+trade_goods = treacle
+life_rating = 50

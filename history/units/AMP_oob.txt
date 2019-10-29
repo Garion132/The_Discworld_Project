@@ -1,0 +1,61 @@
+##influence
+SKN = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 10
+}
+CHR = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 10
+}
+STL = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 10
+}
+STH = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 10
+}
+QRM = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 10
+}
+ZEM = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 10
+}
+army = {
+	name = "Army of Ankh and Morpork"
+	location = 2
+	regiment = {
+		name= "Venturi's Heavy Infantry"
+		type = warriors
+		home = 2
+	}
+	regiment = {
+		name= "Venturi's Medium Dragoons"
+		type = cavalry
+		home = 1
+	}
+	regiment = {
+		name= "Selachii Middleweight Mounted Interlopers"
+		type = cavalry
+		home = 1
+	}
+	regiment = {
+		name= "Selachii's Light Infantry"
+		type = miltia
+		home = 2
+	}
+	regiment = {
+		name= "Duke of Eorle's First Heavy Infantry Regiment"
+		type = warriors
+		home = 2
+	}
+}
+

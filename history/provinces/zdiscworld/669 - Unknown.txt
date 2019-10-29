@@ -1,0 +1,5 @@
+owner = LPW
+controller = LPW
+add_core = LPW
+trade_goods = grain
+life_rating = 50

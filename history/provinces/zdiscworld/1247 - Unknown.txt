@@ -1,0 +1,5 @@
+owner = KPS
+controller = KPS
+add_core = KPS
+trade_goods = re_annuals
+life_rating = 45

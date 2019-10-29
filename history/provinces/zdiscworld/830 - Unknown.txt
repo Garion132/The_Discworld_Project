@@ -1,0 +1,5 @@
+owner = FUW
+controller = FUW
+add_core = FUW
+trade_goods = timber
+life_rating = 50

@@ -1,0 +1,5 @@
+owner = DJE
+controller = DJE
+add_core = DJE
+trade_goods = timber
+life_rating = 50

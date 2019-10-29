@@ -1,0 +1,5 @@
+owner = UR0
+controller = UR0
+add_core = UR0
+trade_goods = iron
+life_rating = 50

@@ -1,0 +1,59 @@
+##influence
+HER = {
+	value = 100		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 10
+}
+YMI = {
+	value = 100		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 10
+}
+ZAB = {
+	value = 100		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 10
+}
+army = {
+	name = "Klatchian Foreign Legion"
+	location = 368
+	regiment = {
+		name= "1.Klatchian Foreign Legion"
+		type = warriors
+		home = 352
+	}
+	regiment = {
+		name= "2.Klatchian Foreign Legion"
+		type = warriors
+		home = 1469
+	}
+}
+army = {
+	name = "Klatchian Legion"
+	location = 352
+	regiment = {
+		name= "1.Klatchian Legion"
+		type = warriors
+		home = 352
+	}
+	regiment = {
+		name= "2.Klatchian Legion"
+		type = warriors
+		home = 1469
+	}
+	regiment = {
+		name= "1.Klatchian Light Brigade"
+		type = spearmen
+		home = 1469
+	}
+	regiment = {
+		name= "2.Klatchian Light Brigade"
+		type = spearmen
+		home = 354
+	}
+	regiment = {
+		name= "3.Klatchian Light Brigade"
+		type = spearmen
+		home = 353
+	}
+}

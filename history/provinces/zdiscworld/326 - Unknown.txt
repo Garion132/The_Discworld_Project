@@ -1,0 +1,5 @@
+owner = BET
+controller = BET
+add_core = BET
+trade_goods = cotton
+life_rating = 50

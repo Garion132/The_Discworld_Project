@@ -1,0 +1,51 @@
+##influence
+SML = {
+	value = 100		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 10
+}
+USH = {
+	value = 100		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 10
+}
+BET = {
+	value = 100		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 10
+}
+IST = {
+	value = -100		#relation
+	level = 4	#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 15
+}
+army = {
+	name = "Divine Legion"
+	location = 270
+	regiment = {
+		name= "1.Divine Legion"
+		type = cavalry
+		home = 270
+	}
+	regiment = {
+		name= "2.Divine Legion"
+		type = warriors
+		home = 270
+	}
+	regiment = {
+		name= "3.Divine Legion"
+		type = warriors
+		home = 270
+	}
+	regiment = {
+		name= "4.Divine Legion"
+		type = spearmen
+		home = 270
+	}
+	regiment = {
+		name= "5.Divine Legion"
+		type = spearmen
+		home = 273
+	}
+}
+

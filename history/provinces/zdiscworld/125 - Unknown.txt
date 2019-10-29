@@ -1,0 +1,6 @@
+owner = STK
+controller = STK
+add_core = STK
+add_core = STG
+trade_goods = brassicas
+life_rating = 50

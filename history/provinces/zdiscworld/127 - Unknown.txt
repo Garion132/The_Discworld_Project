@@ -1,0 +1,6 @@
+owner = STM
+controller = STM
+add_core = STM
+add_core = STK
+trade_goods = wool
+life_rating = 50

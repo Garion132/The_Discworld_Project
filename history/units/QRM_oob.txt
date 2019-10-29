@@ -1,0 +1,20 @@
+army = {
+	name = "Quirmian Army"
+	location = 82
+	regiment = {
+		name= "Middleweight Infantry Regiment"
+		type = spearmen
+		home = 82
+	}
+	regiment = {
+		name= "Quirm Lancers"
+		type = cavalry
+		home = 82
+	}
+	regiment = {
+		name= "Obese Brigade"
+		type = warriors
+		home = 82
+	}
+}
+

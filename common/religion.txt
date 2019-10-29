@@ -1,0 +1,152 @@
+# If you add religions, and use those tags, do not change them without changing everywhere they are used.
+
+# Uses all 'modifiers' possible thats exported as a Modifier.
+
+christian = {
+	##treating as generic
+	catholic = {
+		icon = 1
+		color = { 0.8 0.8 0 }
+	}
+
+	protestant = {
+		icon = 2
+		color = { 0 0 0.7 }
+	}
+}
+
+dwarven_pantheon = {
+	tak = {
+		icon = 3
+		color = { 0 0.6 0 }
+		political_reform_desire = 0.25
+		local_ruling_party_support = -0.1	
+	}
+}
+
+omnian = {
+	omnianism = {
+		color = { 0.2 0.7 0.8 }
+		icon = 4
+		global_assimilation_rate = 0.05
+		political_reform_desire = -0.05
+	}
+
+	othordox_omnianism = {
+		color = { 0.3 0.6 0.6 }
+		icon = 5
+		global_assimilation_rate = 0.075
+		political_reform_desire = -0.05
+	}
+
+	plain_omnianism = {
+		color = { 0.2 0.6 0.9 }
+		icon = 6
+		global_assimilation_rate = 0.05
+		political_reform_desire = -0.05
+	}
+}
+
+main_gods = {
+	ioism = {
+		color = { 0.8 0.3 0 }
+		icon = 7
+	}
+
+	offler = {
+		color = { 0 0.3 0.8 }
+		icon = 8
+	}
+
+	sek = {
+		color = { 0.8 0 0.8 }
+		icon = 9
+	}
+}
+klatchian_gods = {
+	djelibeybism = {
+		color = { 0.8 0.3 0 }
+		icon = 10
+	}
+	ephebic = {
+		color = { 0.8 0.3 0.1 }
+		icon = 11
+		local_ruling_party_support = 0.1
+		social_reform_desire = -0.25
+	}
+}
+borogravian_gods = {
+	nugganite = {
+		color = { 0.8 0.3 0 }
+		icon = 12
+	}
+}
+nothing_gods = {
+	noddiism = {
+		color = { 0.7 0.2 0.4 }
+		icon = 13
+	}
+}
+
+genuan_gods = {
+	voodoo = {
+		color = { 0.8 0.3 0.1 }
+		icon = 14
+	}
+	genuan_gods = {
+		color = { 0.8 0.3 0.2 }
+		icon = 14
+	}
+}
+
+pagan = {
+	animist = {
+		icon = 14
+		color = { 0.5 0.0 0.0 }
+		pagan = yes
+		
+	}
+	shamanism= {
+		icon = 14
+		color = { 0.5 0.0 0.0 }
+		pagan = yes
+		
+	}
+	druidic = {
+		icon = 14
+		color = { 0.5 0.0 0.0 }
+		pagan = yes
+		
+	}
+	black_witchcraft={
+		icon = 14
+		color = { 0.1 0.1 0.1 }
+		pagan = yes
+		
+	}
+	white_witchcraft={
+		icon = 14
+		color = { 0.9 0.9 0.9 }
+		pagan = yes
+		
+	}
+	quezovercoatl = {
+		icon = 14
+		color = { 0.6 0.7 0.2 }		
+	}
+}
+
+muntab_gods= {
+	muntabist = {
+		color = { 0.8 0.3 0.1 }
+		icon = 14
+	}
+}
+
+krullian_gods= {
+	fate = {	
+		color = { 0.8 0.3 0.1 }
+		icon = 14
+	}
+}
+

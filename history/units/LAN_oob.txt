@@ -1,0 +1,9 @@
+army = {
+	name = "Army of lancre"
+	location = 420
+	regiment = {
+		name= "Lancrian Milita"
+		type = miltia
+		home = 420
+	}
+}

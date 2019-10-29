@@ -1,0 +1,5 @@
+owner = KNC
+controller = KNC
+add_core = KNC
+trade_goods = grain
+life_rating = 50

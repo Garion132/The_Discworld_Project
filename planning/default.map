@@ -1,0 +1,34 @@
+max_provinces = 1396
+
+sea_starts = { 
+	642 643 644 645 646 647 648 649 650 651 652 653 654
+}
+    
+definitions = "../mod/test/map/definition.csv"
+provinces = "provinces.bmp"
+positions = "positions.txt"
+terrain = "terrain.bmp"
+rivers = "rivers.bmp"
+terrain_definition = "terrain.txt"
+tree_definition = "trees.txt"
+continent = "continent.txt"
+adjacencies = "adjacencies.csv"
+region = "region.txt"
+region_sea = "region_sea.txt"
+province_flag_sprite = "province_flag_sprites"
+
+
+border_heights = {
+	500
+	800
+	1100
+}
+
+terrain_sheet_heights = {
+	500 #150
+}
+
+tree = 350
+
+border_cutoff = 1100.0
+

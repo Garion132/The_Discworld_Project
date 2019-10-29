@@ -1,0 +1,524 @@
+227={
+	farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 9800
+	}
+    }
+228={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 7000
+	}
+    }
+229={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 13500
+	}
+    }
+230={
+	farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 15800
+	}
+	soldiers = {
+		culture = istanzian
+		religion = catholic
+		size = 2500
+	}
+	aristocrats = {
+		culture = istanzian
+		religion = catholic
+		size = 60
+	}
+    }
+231={
+	farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 3600
+	}
+    }
+232={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 2800
+	}
+    }
+233={
+	farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 1700
+	}
+    }
+234={
+	artisans = {
+		culture = istanzian
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = istanzian
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = istanzian
+		religion = catholic
+		size = 5000
+	}
+	soldiers = {
+		culture = istanzian
+		religion = catholic
+		size = 5000
+	}
+	aristocrats = {
+		culture = istanzian
+		religion = catholic
+		size = 120
+	}
+	officers = {
+		culture = istanzian
+		religion = catholic
+		size = 200
+	}
+}
+235={
+	farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 1740
+	}
+    }
+236={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 100
+	}
+    }
+237={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 100
+	}
+    }
+238={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 100
+	}
+    }
+239={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 100
+	}
+    }
+240={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 100
+	}
+    }
+241={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 100
+	}
+    }
+242={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 100
+	}
+    }
+243={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 100
+	}
+    }
+244={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 100
+	}
+    }
+245={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 100
+	}
+    }
+246={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 100
+	}
+    }
+247={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 100
+	}
+    }
+248={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 100
+	}
+    }
+249={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 100
+	}
+    }
+250={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 100
+	}
+    }
+251={
+	farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 18500
+	}
+	soldiers = {
+		culture = istanzian
+		religion = catholic
+		size = 1500
+	}
+    }
+252={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 1000
+	}
+    }
+253={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 1000
+	}
+    }
+254={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 2930
+	}
+    }
+255={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 2800
+	}
+    }
+256={
+	farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 12500
+	}
+	soldiers = {
+		culture = istanzian
+		religion = catholic
+		size = 1900
+	}
+	aristocrats = {
+		culture = istanzian
+		religion = catholic
+		size = 150
+	}
+    }
+257={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 800
+	}
+    }
+258={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 900
+	}
+    }
+259={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 1000
+	}
+    }
+260={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 1000
+	}
+    }
+261={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 1000
+	}
+    }
+262={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 1000
+	}
+    }
+263={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 1000
+	}
+    }
+264={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 800
+	}
+    }
+265={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 800
+	}
+    }
+266={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 800
+	}
+    }
+267={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 800
+	}
+    }
+268={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 500
+	}
+    }
+269={
+        farmers = {
+		culture = istanzian
+		religion = catholic
+		size = 1500
+	}
+    }
+270={
+	clergymen = {
+		culture = omnian
+		religion = omnianism
+		size = 19000
+	}
+	artisans = {
+		culture = omnian
+		religion = omnianism
+		size = 9400
+	}
+	farmers = {
+		culture = omnian
+		religion = omnianism
+		size = 24400
+	}
+	soldiers = {
+		culture = omnian
+		religion = omnianism
+		size = 6200
+	}
+	
+    }
+271={
+	farmers = {
+		culture = omnian
+		religion = omnianism
+		size = 1600
+	}
+    }
+272={
+	farmers = {
+		culture = omnian
+		religion = omnianism
+		size = 800
+	}
+    }
+273={
+	farmers = {
+		culture = omnian
+		religion = omnianism
+		size = 7600
+	}
+	soldiers = {
+		culture = omnian
+		religion = omnianism
+		size = 2400
+	}
+    }
+274={
+	farmers = {
+		culture = omnian
+		religion = omnianism
+		size = 3500
+	}
+    }
+275={
+	farmers = {
+		culture = omnian
+		religion = omnianism
+		size = 1800
+	}
+    }
+276={
+        farmers = {
+		culture = omnian
+		religion = omnianism
+		size = 1100
+	}
+    }
+277={
+        farmers = {
+		culture = omnian
+		religion = omnianism
+		size = 1200
+	}
+    }
+278={
+        farmers = {
+		culture = omnian
+		religion = omnianism
+		size = 1400
+	}
+    }
+279={
+        farmers = {
+		culture = omnian
+		religion = omnianism
+		size = 1100
+	}
+    }
+280={
+        farmers = {
+		culture = omnian
+		religion = omnianism
+		size = 1200
+	}
+    }
+281={
+        farmers = {
+		culture = omnian
+		religion = omnianism
+		size = 1300
+	}
+    }
+282={
+        farmers = {
+		culture = omnian
+		religion = omnianism
+		size = 1000
+	}
+    }
+283={
+        farmers = {
+		culture = omnian
+		religion = omnianism
+		size = 800
+	}
+    }
+284={
+        farmers = {
+		culture = omnian
+		religion = omnianism
+		size = 1200
+	}
+    }
+285={
+        farmers = {
+		culture = omnian
+		religion = omnianism
+		size = 1400
+	}
+    }
+286={
+        farmers = {
+		culture = omnian
+		religion = omnianism
+		size = 1500
+	}
+    }
+287={
+    farmers = {
+		culture = omnian
+		religion = omnianism
+		size = 1600
+	}
+	soldiers = {
+		culture = omnian
+		religion = omnianism
+		size = 1200
+	}
+    }
+288={
+        farmers = {
+		culture = omnian
+		religion = omnianism
+		size = 1700
+	}
+    }
+289={
+        farmers = {
+		culture = omnian
+		religion = omnianism
+		size = 1500
+	}
+    }
+290={
+        farmers = {
+		culture = omnian
+		religion = omnianism
+		size = 1600
+	}
+    }

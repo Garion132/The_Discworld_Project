@@ -1,0 +1,58 @@
+#sto kerrig is a vassal state of sto lat
+vassal = {
+	first = STL
+	second = STK
+	start_date = 1816.1.1
+	end_date = 3568.1.1
+}
+#cartthengo can have a vassal
+vassal = {
+	first = CTG
+	second = TUR
+	start_date = 1816.1.1
+	end_date = 3600.1.1
+}
+#bonk has consolidated much of central uberwald
+vassal = {
+	first = BYK
+	second = LOK
+	start_date = 1816.1.1
+	end_date = 3568.1.1
+}
+vassal = {
+	first = BYK
+	second = BLI
+	start_date = 1816.1.1
+	end_date = 3568.1.1
+}
+vassal = {
+	first = BYK
+	second = GLZ
+	start_date = 1816.1.1
+	end_date = 3568.1.1
+}
+#used for bonk->uberwald
+vassal = {
+	first = UBW
+	second = FUW
+	start_date = 3568.1.1
+	end_date = 3600.1.1
+}
+vassal = {
+	first = UBW
+	second = MUN
+	start_date = 3568.1.1
+	end_date = 3600.1.1
+}
+vassal = {
+	first = UBW
+	second = GRJ
+	start_date = 3568.1.1
+	end_date = 3600.1.1
+}
+vassal = {
+	first = UBW
+	second = KNC
+	start_date = 3568.1.1
+	end_date = 3600.1.1
+}

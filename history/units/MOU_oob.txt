@@ -1,0 +1,45 @@
+army = {
+	name = "Army of Mouldavia"
+	location = 586
+	regiment = {
+		name= "1st Mouldavian Spears"
+		type = spearmen
+		home = 586
+	}
+	regiment = {
+		name= "1st Mouldavian Mounted"
+		type = cavalry
+		home = 586
+	}
+	regiment = {
+		name= "2nd Mouldavian Mounted"
+		type = cavalry
+		home = 586
+	}
+	regiment = {
+		name= "2nd Mouldavian Spears"
+		type = spearmen
+		home = 585
+	}
+	regiment = {
+		name= "3rd Mouldavian Spears"
+		type = spearmen
+		home = 583
+	}
+	regiment = {
+		name= "4th Mouldavian Spears"
+		type = spearmen
+		home = 584
+	}
+	regiment = {
+		name= "5th Mouldavian Spears"
+		type = spearmen
+		home = 587
+	}
+	regiment = {
+		name= "6th Mouldavian Spears"
+		type = spearmen
+		home = 582
+	}
+}
+

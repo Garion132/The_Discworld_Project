@@ -1,0 +1,29 @@
+#name = "War of Northern Aggression"
+name = "Restoration of order to Ghat"
+
+3540.1.1 = {
+	add_attacker = MUT
+	add_defender = GHA
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		casus_belli = conquest
+		actor = MUT
+		receiver = GHA
+	}
+	war_goal = {
+		casus_belli = status_quo
+		actor = GHA
+		receiver = MUT
+	}
+
+}
+
+3541.4.21 = {
+	rem_attacker = MUT
+	rem_defender = GHA
+}

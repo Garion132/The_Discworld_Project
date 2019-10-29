@@ -1,0 +1,50 @@
+capital = 1252
+primary_culture = octarine
+religion = protestant
+government = absolute_monarchy
+plurality = 2
+nationalvalue = nv_order
+literacy = 0.55
+civilized = yes
+
+prestige = 0
+
+# Political reforms
+slavery = yes_slavery
+upper_house_composition = appointed
+vote_franschise = none_voting
+public_meetings = yes_meeting
+press_rights = censored_press
+trade_unions = non_socialist
+voting_system = first_past_the_post
+political_parties = non_secret_ballots
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = trinket_safety
+health_care = trinket_health_care
+unemployment_subsidies = trinket_subsidies
+pensions = no_pensions 
+school_reforms = low_schools
+
+# Technologies
+steel_weaponry = 1
+
+# Inventions
+#corvettes = yes
+
+# Starting Consciousness
+consciousness = 3
+nonstate_consciousness = 1
+
+ruling_party = CHL_conservative
+upper_house = {
+	fascist = 0
+	liberal = 12
+	conservative = 83
+	reactionary = 5
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}

@@ -1,0 +1,5 @@
+owner = URT
+controller = URT
+add_core = URT
+trade_goods = dye
+life_rating = 50

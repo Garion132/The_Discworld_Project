@@ -1,0 +1,64 @@
+##influence
+KHN = {
+	value = 100		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 10
+}
+FRF = {
+	value = 100		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 10
+}
+HRL = {
+	value = 100		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 10
+}
+army = {
+	name = "Army of Muntab"
+	location = 409
+	regiment = {
+		name= "1st Infantry"
+		type = warriors
+		home = 409
+	}
+	regiment = {
+		name= "2nd Infantry"
+		type = warriors
+		home = 409
+	}
+	regiment = {
+		name= "3rd Infantry"
+		type = spearmen
+		home = 409
+	}
+	regiment = {
+		name= "4th Infantry"
+		type = spearmen
+		home = 409
+	}
+	regiment = {
+		name= "1st Mounted"
+		type = cavalry
+		home = 409
+	}
+}
+army = {
+	name = "Army of New Ghat"
+	location = 927
+	regiment = {
+		name= "1st Infantry"
+		type = warriors
+		home = 933
+	}
+	regiment = {
+		name= "2nd Infantry"
+		type = spearmen
+		home = 930
+	}
+	regiment = {
+		name= "3rd Infantry"
+		type = spearmen
+		home = 932
+	}
+}

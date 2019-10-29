@@ -1,0 +1,42 @@
+seige_engines = { 
+	icon = 22
+	
+	type = land
+	sprite = Artillery
+	active = no
+	unit_type = support
+	floating_flag = no
+
+	#Core Abilities
+	priority = 10
+	max_strength = 3
+	default_organisation = 30
+	maximum_speed = 4.00
+	weighted_value = 5.0
+
+
+	#Building Costs
+	build_time = 120
+	build_cost = {
+		seige_equipment = 10
+		canned_food = 10
+		liquor = 5
+		wine = 5
+	}
+	
+	supply_consumption = 1.0
+	supply_cost = {
+		seige_equipment = 0.1 #0.008
+		canned_food = 0.06 #0.004
+	}
+	
+
+	#Land Abilties
+	reconnaissance = 0
+	attack = 1
+	defence = 2
+	discipline = 1.0
+	support = 1.5
+	maneuver = 1
+
+}

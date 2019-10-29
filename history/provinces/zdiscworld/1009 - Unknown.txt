@@ -1,0 +1,5 @@
+owner = REH
+controller = REH
+add_core = REH
+trade_goods = tea
+life_rating = 45

@@ -1,0 +1,31 @@
+##influence
+BHA = {
+	value = 100		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 43
+}
+army = {
+	name = "Armies of Lord Tang"
+	location = 511
+	regiment = {
+		name= "1.Tang Infantry"
+		type = warriors
+		home = 511
+	}
+	regiment = {
+		name= "2.Tang Infantry"
+		type = warriors
+		home = 511
+	}
+	regiment = {
+		name= "3.Tang Infantry"
+		type = warriors
+		home = 511
+	}
+	regiment = {
+		name= "4.Tang Infantry"
+		type = warriors
+		home = 511
+	}
+}
+

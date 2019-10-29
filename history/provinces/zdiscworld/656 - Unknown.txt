@@ -1,0 +1,5 @@
+owner = ESC
+controller = ESC
+add_core = ESC
+trade_goods = grain
+life_rating = 50

@@ -1,0 +1,5 @@
+owner = MUN
+controller = MUN
+add_core = MUN
+trade_goods = iron
+life_rating = 50

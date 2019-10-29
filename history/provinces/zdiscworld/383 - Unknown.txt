@@ -1,0 +1,5 @@
+owner = HER
+controller = HER
+add_core = HER
+trade_goods = iron
+life_rating = 50

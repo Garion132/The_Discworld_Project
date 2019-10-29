@@ -1,0 +1,5 @@
+owner = USH
+controller = USH
+add_core = USH
+trade_goods = grain
+life_rating = 50

@@ -1,0 +1,5 @@
+owner = KLA
+controller = KLA
+add_core = KLA
+trade_goods = silk
+life_rating = 50

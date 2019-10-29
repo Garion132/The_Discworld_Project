@@ -1,0 +1,5 @@
+owner = CTG
+controller = CTG
+add_core = CTG
+trade_goods = tobacco
+life_rating = 20

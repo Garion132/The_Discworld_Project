@@ -1,0 +1,5 @@
+owner = LMT
+controller = LMT
+add_core = LMT
+trade_goods = re_annuals
+life_rating = 45

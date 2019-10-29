@@ -1,0 +1,5 @@
+owner = HOW
+controller = HOW
+add_core = HOW
+trade_goods = cotton
+life_rating = 50

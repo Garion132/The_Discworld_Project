@@ -1,0 +1,39 @@
+warriors = {
+	icon = 19
+	
+	type = land
+	sprite = Irregular
+	active = yes
+	unit_type = infantry
+	floating_flag = no
+	
+	#Core Abilities
+	priority = 5
+	max_strength = 3
+	default_organisation = 20
+	maximum_speed = 4.00
+	weighted_value = 1.0
+
+
+	#Building Costs
+	build_time = 45
+	build_cost = {
+		wool = 1
+		armor = 1
+		swords = 10
+	}
+	
+	supply_consumption = 0.8
+	supply_cost = {
+		swords = 0.1
+	}
+	
+
+	#Land Abilties
+	reconnaissance = 0
+	attack = 2
+	defence = 1
+	discipline = 0.8
+	support = 0.0
+	maneuver = 1
+}

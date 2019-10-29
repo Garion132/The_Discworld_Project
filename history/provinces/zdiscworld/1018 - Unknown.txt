@@ -1,0 +1,5 @@
+owner = ORO
+controller = ORO
+add_core = ORO
+trade_goods = re_annuals
+life_rating = 45

@@ -1,0 +1,5 @@
+owner = QRM
+controller = QRM
+add_core = QRM
+trade_goods = treacle
+life_rating = 50

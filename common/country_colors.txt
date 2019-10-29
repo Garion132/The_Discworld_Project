@@ -1,0 +1,18 @@
+# Country unit colors.
+
+# Agatea
+AGA = {
+    color1= { 181 72 106  }
+    color2= { 161 126 128  }
+    color3= { 131 101 85  }
+}
+AMP = {
+    color1= { 181 187 155  }
+    color2= { 153 177 100  }
+    color3= { 109 193 234  }
+}
+STL = {
+    color1= { 41 91 20  }
+    color2= { 160 160 160  }
+    color3= { 109 193 234  }
+}

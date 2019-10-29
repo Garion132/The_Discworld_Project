@@ -1,0 +1,833 @@
+441={
+	farmers = {
+		culture = nafooi
+		religion = catholic
+		size = 3600
+	}
+    }
+504={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+	soldiers = {
+		culture = agatean
+		religion = catholic
+		size = 1100
+	}
+	officers = {
+		culture = agatean
+		religion = catholic
+		size = 50 
+	}
+	artisans = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+	
+    }
+505={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+506={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+507={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+508={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+509={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+510={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+511={
+    farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+	soldiers = {
+		culture = agatean
+		religion = catholic
+		size = 1100
+	}
+	officers = {
+		culture = agatean
+		religion = catholic
+		size = 50 
+	}
+}
+512={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+513={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+514={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+515={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+516={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+517={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+518={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+519={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+520={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+521={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+522={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+523={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+524={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+525={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+526={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 2000
+	}
+    }
+527={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+528={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+529={
+    farmers = {
+		culture = bhangbhangduc
+		religion = catholic
+		size = 5000
+	}
+    }
+530={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+531={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 8700
+	}
+    }
+532={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 6000
+	}
+    }
+533={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+534={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+535={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 5000
+	}
+    }
+536={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 3100
+	}
+    }
+537={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 4500
+	}
+    }
+538={
+	bureaucrats = {
+		culture = agatean
+		religion = catholic
+		size = 100
+	}
+        labourers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+539={
+	bureaucrats = {
+		culture = agatean
+		religion = catholic
+		size = 100
+	}
+        labourers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+540={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 3000
+	}
+    }
+541={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 2900
+	}
+    }
+542={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 3500
+	}
+    }
+543={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 3500
+	}
+    }
+544={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 2000
+	}
+    }
+545={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 2000
+	}
+    }
+546={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 2000
+	}
+    }
+547={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+548={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+549={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 2000
+	}
+    }
+550={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 2000
+	}
+    }
+551={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+552={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+553={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+554={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 2000
+	}
+    }
+555={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 2000
+	}
+    }
+556={
+    farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+}
+557={
+    farmers = {
+		culture = agatean
+		religion = catholic
+		size = 120000
+	}
+
+	bureaucrats = {
+		culture = agatean
+		religion = catholic
+		size = 98000
+	}
+	
+	officers = {
+		culture = agatean
+		religion = catholic
+		size = 2000 
+	}
+
+	artisans = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = agatean
+		religion = catholic
+		size = 7100
+	}
+
+	aristocrats = {
+		culture = agatean
+		religion = catholic
+		size = 1052
+	}
+	labourers = {
+		culture = agatean
+		religion = catholic
+		size = 250000
+	}
+	soldiers = {
+		culture = agatean
+		religion = catholic
+		size = 32000
+	}
+
+}
+558={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+}
+559={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+560={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+561={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+562={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+563={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+564={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+565={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+566={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+567={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+568={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+569={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+570={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+571={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+572={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+573={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+574={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+575={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+576={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+577={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+578={
+	bureaucrats = {
+		culture = agatean
+		religion = catholic
+		size = 100
+	}
+        labourers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+579={
+	bureaucrats = {
+		culture = agatean
+		religion = catholic
+		size = 100
+	}
+	labourers = {
+		culture = agatean
+		religion = catholic
+		size = 10000
+	}
+    }
+1640={
+	farmers = {
+		culture = bhangbhangduc
+		religion = catholic
+		size = 3100
+	}
+}
+1641={
+	farmers = {
+		culture = bhangbhangduc
+		religion = catholic
+		size = 2700
+	}
+}
+1642={
+	farmers = {
+		culture = nafooi
+		religion = catholic
+		size = 1360
+	}
+}
+1643={
+	farmers = {
+		culture = nafooi
+		religion = catholic
+		size = 5800
+	}
+}
+1644={
+	farmers = {
+		culture = nafooi
+		religion = catholic
+		size = 1940
+	}
+}	
+1645={
+	farmers = {
+		culture = nafooi
+		religion = catholic
+		size = 630
+	}
+}
+1646={
+	farmers = {
+		culture = nafooi
+		religion = catholic
+		size = 870
+	}
+}
+1647={
+	farmers = {
+		culture = nafooi
+		religion = catholic
+		size = 630
+	}
+}
+1648={
+	farmers = {
+		culture = nafooi
+		religion = catholic
+		size = 840
+	}
+}
+1649={
+	farmers = {
+		culture = nafooi
+		religion = catholic
+		size = 1130
+	}
+}
+1650={
+	farmers = {
+		culture = nafooi
+		religion = catholic
+		size = 290
+	}
+}
+1651={
+	farmers = {
+		culture = nafooi
+		religion = catholic
+		size = 360
+	}
+}
+1652={
+	farmers = {
+		culture = nafooi
+		religion = catholic
+		size = 360
+	}
+}
+1653={
+	farmers = {
+		culture = nafooi
+		religion = catholic
+		size = 421
+	}
+}
+1654={
+	farmers = {
+		culture = nafooi
+		religion = catholic
+		size = 190
+	}
+}
+1655={
+	farmers = {
+		culture = bhangbhangduc
+		religion = catholic
+		size = 2500
+	}
+}	

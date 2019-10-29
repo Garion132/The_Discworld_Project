@@ -1,0 +1,5 @@
+owner = SAL
+controller = SAL
+add_core = SAL
+trade_goods = tea
+life_rating = 20

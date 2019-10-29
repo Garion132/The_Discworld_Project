@@ -1,0 +1,5 @@
+owner = SKN
+controller = SKN
+add_core = SKN
+trade_goods = sapent_pearwood
+life_rating = 50

@@ -1,0 +1,5 @@
+owner = HEG
+controller = HEG
+add_core = HEG
+trade_goods = timber
+life_rating = 20

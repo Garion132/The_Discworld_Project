@@ -1,0 +1,30 @@
+alliance=
+	{
+		first="STL"
+		second="STH"
+		end_date="3600.1.1"
+		start_date="2600.1.1"
+	}
+	
+alliance=
+	{
+		first="AMP"
+		second="QRM"
+		end_date="4000.1.1"
+		start_date="2600.1.1"
+	}
+	
+alliance=
+	{
+		first="TSO"
+		second="DJE"
+		end_date="4000.1.1"
+		start_date="2600.1.1"
+	}
+alliance=
+	{
+		first="EPH"
+		second="DJE"
+		end_date="4000.1.1"
+		start_date="2600.1.1"
+	}

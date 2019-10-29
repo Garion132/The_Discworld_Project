@@ -1,0 +1,213 @@
+political_decisions = {
+	form_uberwald = { #bonk->uberwald
+		potential = {
+			is_greater_power = yes
+			OR={
+				primary_culture = uberwaldian
+				primary_culture = vampyre
+				primary_culture = werewolves
+			}
+			NOT = {
+				exists = UBW
+			}
+		}	
+		allow = {
+			war = no
+			417={
+				controlled_by = THIS
+			}
+			OR ={
+				is_our_vassal = BYK
+				is_sphere_leader_of = BYK
+				tag = BYK
+				NOT={exists = BYK}
+			}
+			OR ={
+				is_our_vassal = LOK
+				is_sphere_leader_of = LOK
+				tag = LOK
+				NOT={exists = LOK}
+			}
+			OR ={
+				is_our_vassal = BLI
+				is_sphere_leader_of = BLI
+				tag = BLI
+				NOT={exists = BLI}
+			}
+			OR ={
+				is_our_vassal = GLZ
+				is_sphere_leader_of = GLZ
+				tag = GLZ
+				NOT={exists = GLZ}
+			}
+			OR ={
+				is_our_vassal = DLZ
+				is_sphere_leader_of = DLZ
+				tag = DLZ
+				NOT={exists = DLZ}
+			}
+			OR ={
+				is_our_vassal = NVX
+				is_sphere_leader_of = NVX
+				tag = NVX
+				NOT={exists = NVX}
+			}
+		}
+		
+		effect = {
+			prestige = 15
+			change_tag = UBW
+			any_country = {
+				limit = {
+					OR = {
+						tag = BYK
+						tag = LOK
+						tag = BLI
+						tag = GLZ
+						tag = DLZ
+						tag = NVX
+					}
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			set_country_flag = UBW_shattered
+			any_country = {
+				limit = {
+					OR = {
+						primary_culture = uberwaldian
+						primary_culture = vampyre 
+						primary_culture = werewolves 
+					}
+					NOT = {tag = VEL}
+				}
+				all_core={
+					limit = {
+						OR = {
+							has_pop_culture = uberwaldian
+							has_pop_culture = vampyre 
+							has_pop_culture = werewolves 
+						}
+					}
+					add_core = UBW
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	consolidate_uberwald = { #uberwald is now one state
+		potential = {
+			is_greater_power = yes
+			tag = UBW
+			has_country_flag = UBW_shattered
+		}	
+		allow = {
+			war = no
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+						# NOT = {
+							# OR={
+								# primary_culture = uberwaldian
+								# primary_culture = vampyre 
+								# primary_culture = werewolves 
+							# }
+						# }
+					}
+				}
+		}
+		
+		effect = {
+			prestige = 15
+			any_country = {
+				limit = {
+					OR = {
+						primary_culture = uberwaldian
+						primary_culture = vampyre 
+						primary_culture = werewolves 
+					}
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			clr_country_flag = UBW_shattered
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	# form_union_nation = {
+		# potential = {
+			# culture_has_union_tag = yes
+			# NOT = {
+				# OR = {
+					# cultural_union = { exists = yes }
+					# is_culture_group = germanic
+					# is_culture_group = scandinavian
+					# is_culture_group = italian
+					# is_culture_group = arab
+					# tag = ECU
+					# tag = CLM
+					# tag = VNZ
+				# }
+			# }
+		# }
+		
+		# allow = {
+			# prestige = 45
+			# war = no
+			# cultural_union = {
+				# all_core = {
+					# OR = {
+						# owned_by = THIS
+						# owner = {
+							# in_sphere = THIS
+						# }
+					# }
+				# }
+			# }
+		# }
+		# effect = {
+			# prestige = 20
+			# change_tag = culture
+			# any_country = {
+				# limit = {
+					# NOT = {
+						# is_greater_power = yes
+						# tag = AUS
+						# tag = KUK
+					# }
+					# is_culture_group = THIS
+					# in_sphere = THIS
+				# }
+				# country_event = { id=11101 days=0 }
+			# }
+			# add_accepted_culture = union
+		# }
+		# ai_will_do = {
+			# factor = 1
+		# }
+	# }	
+		
+}

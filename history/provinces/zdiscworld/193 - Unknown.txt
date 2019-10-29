@@ -1,0 +1,5 @@
+owner = STH
+controller = STH
+add_core = STH
+trade_goods = brassicas
+life_rating = 50

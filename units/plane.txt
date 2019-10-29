@@ -1,0 +1,40 @@
+plane = {
+	icon = 13
+	
+	type = land
+	sprite = Plane
+	active = no
+	unit_type = cavalry
+	floating_flag = no
+	
+	#Core Abilities
+	priority = 0
+	max_strength = 3
+	default_organisation = 30
+	maximum_speed = 5.00
+	weighted_value = 10.0
+
+
+	#Building Costs
+	build_time = 120
+	build_cost = {
+		small_arms = 10
+		canned_food = 10
+		wine = 10
+	}
+	
+	supply_consumption = 1.0
+	supply_cost = {
+		small_arms = 0.1
+		canned_food = 0.04
+	}
+	
+
+	#Land Abilties
+	reconnaissance = 4
+	attack = 1
+	defence = 10
+	discipline = 0.1
+	support = 2
+	maneuver = 2
+}

@@ -1,0 +1,5 @@
+owner = LOU
+controller = LOU
+add_core = LOU
+trade_goods = treacle
+life_rating = 50

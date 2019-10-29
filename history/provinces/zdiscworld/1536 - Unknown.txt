@@ -1,0 +1,5 @@
+owner = KHN
+controller = KHN
+add_core = KHN
+trade_goods = precious_metal
+life_rating = 20
