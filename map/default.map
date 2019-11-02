@@ -8,7 +8,7 @@ sea_starts = {
 	1458 1459 1460 1461 1462 1463 1464 1465 1466 1467
 }
     
-definitions = "../mod/test/map/definition.csv"
+definitions = "../mod/the_discworld_project/map/definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
 terrain = "terrain.bmp"
