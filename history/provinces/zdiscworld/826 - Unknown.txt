@@ -1,5 +1,6 @@
 owner = FUW
 controller = FUW
 add_core = FUW
+add_core = UBW
 trade_goods = coal
 life_rating = 50

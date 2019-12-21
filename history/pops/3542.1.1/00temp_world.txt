@@ -3598,12 +3598,22 @@
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 9800
+		size = 29800
+	}
+	aristocrats = {
+		culture = genuan
+		religion = catholic
+		size = 50
+	}
+	clergymen = {
+		culture = genuan
+		religion = catholic
+		size = 120
 	}
 	soldiers = {
 		culture = genuan
 		religion = catholic
-		size = 1500
+		size = 4500
 	}
 	artisans = {
 		culture = genuan

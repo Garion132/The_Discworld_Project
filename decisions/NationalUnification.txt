@@ -1,5 +1,5 @@
 political_decisions = {
-	form_uberwald = { #bonk->uberwald
+	consolidate_uberwald = { #uberwald is now one state
 		potential = {
 			is_greater_power = yes
 			OR={
@@ -13,104 +13,7 @@ political_decisions = {
 		}	
 		allow = {
 			war = no
-			417={
-				controlled_by = THIS
-			}
-			OR ={
-				is_our_vassal = BYK
-				is_sphere_leader_of = BYK
-				tag = BYK
-				NOT={exists = BYK}
-			}
-			OR ={
-				is_our_vassal = LOK
-				is_sphere_leader_of = LOK
-				tag = LOK
-				NOT={exists = LOK}
-			}
-			OR ={
-				is_our_vassal = BLI
-				is_sphere_leader_of = BLI
-				tag = BLI
-				NOT={exists = BLI}
-			}
-			OR ={
-				is_our_vassal = GLZ
-				is_sphere_leader_of = GLZ
-				tag = GLZ
-				NOT={exists = GLZ}
-			}
-			OR ={
-				is_our_vassal = DLZ
-				is_sphere_leader_of = DLZ
-				tag = DLZ
-				NOT={exists = DLZ}
-			}
-			OR ={
-				is_our_vassal = NVX
-				is_sphere_leader_of = NVX
-				tag = NVX
-				NOT={exists = NVX}
-			}
-		}
-		
-		effect = {
-			prestige = 15
-			change_tag = UBW
-			any_country = {
-				limit = {
-					OR = {
-						tag = BYK
-						tag = LOK
-						tag = BLI
-						tag = GLZ
-						tag = DLZ
-						tag = NVX
-					}
-					OR = {
-						in_sphere = THIS
-						vassal_of = THIS
-					}
-					NOT = {
-						tag = THIS
-					}
-				}
-				annex_to = THIS
-			}
-			set_country_flag = UBW_shattered
-			any_country = {
-				limit = {
-					OR = {
-						primary_culture = uberwaldian
-						primary_culture = vampyre 
-						primary_culture = werewolves 
-					}
-					NOT = {tag = VEL}
-				}
-				all_core={
-					limit = {
-						OR = {
-							has_pop_culture = uberwaldian
-							has_pop_culture = vampyre 
-							has_pop_culture = werewolves 
-						}
-					}
-					add_core = UBW
-				}
-			}
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	consolidate_uberwald = { #uberwald is now one state
-		potential = {
-			is_greater_power = yes
-			tag = UBW
-			has_country_flag = UBW_shattered
-		}	
-		allow = {
-			war = no
+			UBW={
 				all_core = {
 					OR = {
 						owned_by = THIS
@@ -129,10 +32,12 @@ political_decisions = {
 						# }
 					}
 				}
+			}
 		}
 		
 		effect = {
 			prestige = 15
+			change_tag = UBW
 			any_country = {
 				limit = {
 					OR = {
@@ -150,7 +55,7 @@ political_decisions = {
 				}
 				annex_to = THIS
 			}
-			clr_country_flag = UBW_shattered
+			set_country_flag = UBW_shattered
 		}
 		ai_will_do = {
 			factor = 1

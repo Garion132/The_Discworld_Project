@@ -1,5 +1,6 @@
 owner = MUN
 controller = MUN
 add_core = MUN
+add_core = UBW
 trade_goods = grain
 life_rating = 50
