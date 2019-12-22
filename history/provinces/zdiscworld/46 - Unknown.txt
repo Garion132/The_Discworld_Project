@@ -1,6 +1,7 @@
 owner = STL
 controller = STL
 add_core = STL
+add_core = STO
 add_core = STN
 trade_goods = cattle
 life_rating = 50

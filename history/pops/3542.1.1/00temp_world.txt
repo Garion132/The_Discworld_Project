@@ -562,7 +562,22 @@
 	farmers = {
 		culture = sto_lat
 		religion = catholic
-		size = 31000
+		size = 10520
+	}
+	farmers = {
+		culture = sto_lat
+		religion = catholic
+		size = 10260
+	}
+	farmers = {
+		culture = sto_lat
+		religion = catholic
+		size = 9070
+	}
+	craftsmen = {
+		culture = sto_lat
+		religion = catholic
+		size = 2500
 	}
 	artisans = {
 		culture = sto_lat
@@ -2381,237 +2396,6 @@
 		culture = djelibeybian
 		religion = catholic
 		size = 780
-	}
-    }
-309={
-	farmers = {
-		culture = smalian
-		religion = omnianism
-		size = 3800
-	}
-	clergymen = {
-		culture = omnian
-		religion = omnianism
-		size = 360
-	}
-    }
-310={
-	farmers = {
-		culture = smalian
-		religion = omnianism
-		size = 1850
-	}
-	clergymen = {
-		culture = omnian
-		religion = omnianism
-		size = 50
-	}
-    }
-311={
-	farmers = {
-		culture = smalian
-		religion = omnianism
-		size = 1600
-	}
-	clergymen = {
-		culture = omnian
-		religion = omnianism
-		size = 50
-	}
-    }
-312={
-	farmers = {
-		culture = smalian
-		religion = omnianism
-		size = 4470
-	}
-	clergymen = {
-		culture = omnian
-		religion = omnianism
-		size = 50
-	}
-    }
-313={
-        farmers = {
-		culture = ushistanian
-		religion = omnianism
-		size = 1500
-	}
-    }
-314={
-	farmers = {
-		culture = ushistanian
-		religion = omnianism
-		size = 1580
-	}
-    }
-315={
-	farmers = {
-		culture = ushistanian
-		religion = omnianism
-		size = 4400
-	}
-	soldiers = {
-		culture = ushistanian
-		religion = omnianism
-		size = 1150
-	}
-	aristocrats = {
-		culture = ushistanian
-		religion = omnianism
-		size = 75
-	}
-	artisans = {
-		culture = ushistanian
-		religion = omnianism
-		size = 400
-	}
-    }
-316={
-        farmers = {
-		culture = ushistanian
-		religion = omnianism
-		size = 1400
-	}
-    }
-317={
-	farmers = {
-		culture = ushistanian
-		religion = omnianism
-		size = 1420
-	}
-    }
-318={
-	farmers = {
-		culture = ushistanian
-		religion = omnianism
-		size = 1780
-	}
-    }
-319={
-	farmers = {
-		culture = ushistanian
-		religion = omnianism
-		size = 3200
-	}
-    }
-320={
-	farmers = {
-		culture = ushistanian
-		religion = omnianism
-		size = 1450
-	}
-    }
-321={
-	farmers = {
-		culture = ushistanian
-		religion = omnianism
-		size = 3000
-	}
-    }
-322={
-	farmers = {
-		culture = ushistanian
-		religion = omnianism
-		size = 1400
-	}
-    }
-323={
-	farmers = {
-		culture = betrek
-		religion = catholic
-		size = 500
-	}
-    }
-324={
-	farmers = {
-		culture = betrek
-		religion = catholic
-		size = 500
-	}
-    }
-325={
-	farmers = {
-		culture = betrek
-		religion = catholic
-		size = 500
-	}
-    }
-326={
-	farmers = {
-		culture = betrek
-		religion = catholic
-		size = 1500
-	}
-    }
-327={
-	farmers = {
-		culture = betrek
-		religion = catholic
-		size = 500
-	}
-    }
-328={
-	farmers = {
-		culture = betrek
-		religion = catholic
-		size = 500
-	}
-    }
-329={
-	farmers = {
-		culture = betrek
-		religion = catholic
-		size = 500
-	}
-    }
-330={
-	farmers = {
-		culture = betrek
-		religion = catholic
-		size = 500
-	}
-    }
-331={
-	farmers = {
-		culture = betrek
-		religion = catholic
-		size = 500
-	}
-    }
-332={
-	farmers = {
-		culture = betrek
-		religion = catholic
-		size = 500
-	}
-    }
-333={
-	farmers = {
-		culture = betrek
-		religion = catholic
-		size = 500
-	}
-    }
-334={
-	farmers = {
-		culture = betrek
-		religion = catholic
-		size = 500
-	}
-    }
-335={
-	farmers = {
-		culture = betrek
-		religion = catholic
-		size = 500
-	}
-    }
-336={
-	farmers = {
-		culture = betrek
-		religion = catholic
-		size = 500
 	}
     }
 337={
@@ -4868,36 +4652,41 @@
     farmers = {
 		culture = borogravian
 		religion = nugganite
-		size = 3500
+		size = 12580
 	}
 	soldiers = {
 		culture = borogravian
 		religion = nugganite
-		size = 1100
+		size = 3700
 	}
     }
 605={
 	farmers = {
 		culture = borogravian
 		religion = nugganite
-		size = 3500
+		size = 8500
 	}
 	soldiers = {
 		culture = borogravian
 		religion = nugganite
-		size = 1100
+		size = 2100
 	}
     }
 606={
 	farmers = {
 		culture = borogravian
 		religion = nugganite
-		size = 1100
+		size = 2100
+	}
+	soldiers = {
+		culture = borogravian
+		religion = nugganite
+		size = 850
 	}
 	farmers = {
 		culture = mouldavian
 		religion = catholic
-		size = 310
+		size = 910
 	}
 	soldiers = {
 		culture = mouldavian
@@ -4926,17 +4715,22 @@
 		religion = nugganite
 		size = 1100
 	}
+	soldiers = {
+		culture = mouldavian
+		religion = nugganite
+		size = 1100
+	}
     }
 608={
     farmers = {
 		culture = borogravian
 		religion = nugganite
-		size = 3500
+		size = 8500
 	}
 	soldiers = {
 		culture = borogravian
 		religion = nugganite
-		size = 1100
+		size = 1900
 	}
     }
 609={

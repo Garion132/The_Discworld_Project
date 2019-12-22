@@ -2,5 +2,6 @@ owner = STM
 controller = STM
 add_core = STM
 add_core = STK
+add_core = STO
 trade_goods = wool
 life_rating = 50

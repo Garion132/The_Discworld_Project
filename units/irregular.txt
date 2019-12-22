@@ -29,8 +29,8 @@ irregular = {
 
 	#Land Abilties
 	reconnaissance = 0
-	attack = 2
-	defence = 2
+	attack = 3
+	defence = 3
 	discipline = 1
 	support = 0.0
 	maneuver = 1

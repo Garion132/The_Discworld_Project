@@ -2,5 +2,6 @@ owner = STG
 controller = STG
 add_core = STK
 add_core = STG
+add_core = STO
 trade_goods = timber
 life_rating = 50

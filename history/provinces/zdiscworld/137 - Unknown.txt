@@ -1,5 +1,6 @@
 owner = SHR
 controller = SHR
 add_core = SHR
+add_core = STO
 trade_goods = brassicas
 life_rating = 50

@@ -1,5 +1,6 @@
 owner = QRM
 controller = QRM
 add_core = QRM
+add_core = STO
 trade_goods = treacle
 life_rating = 50

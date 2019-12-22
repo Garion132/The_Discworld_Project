@@ -397,6 +397,10 @@ paper_mill = {
 		trigger = { trade_goods_in_state = timber }
 		value = 0.25
 	}
+	bonus = {
+		trigger = { trade_goods_in_state = brassicas }
+		value = 0.25
+	}
 }
 
 regular_clothes_factory = {       
