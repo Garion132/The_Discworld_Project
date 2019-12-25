@@ -1,31 +1,70 @@
-#post_napoleonic_thought
-post_napoleonic_army_doctrine = {
-	limit = { post_napoleonic_thought = 1 }
+#Metulurgy
+ammunition_production = {
+	limit = { 
+		flintlock_arquebus = 1 
+	}
 	chance = {
-		base = 2
+		base = 0
+		modifier = {
+			factor = 2
+			technology = metallurgic_principles
+		}
 	}
 	effect = {
-		infantry = {
-			defence = 1
+		activate_building = ammunition_factory 
+	}
+}
+small_arms_production = {
+	limit = { 
+		flintlock_arquebus = 1 
+	}
+	chance = {
+		base = 0
+		modifier = {
+			factor = 2
+			technology = metallurgic_principles
 		}
-		engineer = {
-			defence = 1
+	}
+	effect = {
+		activate_building = small_arms_factory
+	}
+}
+explosives_production = {
+	limit = { 
+		iron_muzzle_loaded_artillery = 1 
+	}
+	chance = {
+		base = 2
+		modifier = {
+			factor = 2
+			metallurgic_principles = 1
 		}
-		cuirassier = {
-			defence = 1
+		modifier = {
+			factor = 2
+			invention = nitroglycerin
 		}
-		dragoon = {
-			defence = 1
+	}
+	effect = {
+		activate_building = explosives_factory 
+	}
+}
+artillery_production = {
+	limit = { 
+		iron_muzzle_loaded_artillery = 1 
+	}
+	chance = {
+		base = -2
+		modifier = {
+			factor = 2
+			invention = explosives_production
 		}
-		hussar = {
-			defence = 1
+		modifier = {
+			factor = 2
+			metallurgic_principles = 1
 		}
-		cavalry = {
-			defence = 1
-		}
-		irregular = {
-			defence = 1
-		}
+	}
+	effect = {
+		activate_building = artillery_factory 
 	}
 }
 #strategic_mobility
@@ -1028,14 +1067,6 @@ army_societal_status = {
 	limit = { army_professionalism = 1 }
 	chance = {
 		base = 2
-		modifier = {
-			factor = 2
-			romanticism = 1
-		}
-		modifier = {
-			factor = 2
-			realism = 1
-		}
 	}
 	effect = {
 		mobilisation_economy_impact = -0.05
@@ -1047,14 +1078,6 @@ army_independent_command = {
 	limit = { army_decision_making = 1 }
 	chance = {
 		base = 2
-		modifier = {
-			factor = 2
-			ideological_thought = 1
-		}
-		modifier = {
-			factor = 2
-			positivism = 1
-		}
 	}
 	effect = {
 		army_base = {

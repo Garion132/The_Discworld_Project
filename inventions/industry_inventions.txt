@@ -1,79 +1,3 @@
-#mechanical_production
-sharp_n_roberts_power_loom = {
-	limit = { mechanical_production = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			invention = work_classification
-		}
-		modifier = {
-			factor = 2
-			stock_exchange = 1
-		}
-	}
-	effect = {
-		rgo_goods_output = {
-			cotton = 0.2
-		}
-		rgo_goods_output = {
-			wool = 0.2
-		}
-	}
-}
-jacquard_power_loom = {
-	limit = { mechanical_production = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			invention = sharp_n_roberts_power_loom
-		}
-		modifier = {
-			factor = 2
-			invention = insurance_companies
-		}
-	}
-	effect = {
-		rgo_goods_output = {
-			wool = 0.2
-		}
-		rgo_goods_output = {
-			silk = 0.2
-		}
-		factory_goods_output = {
-			fabric = 0.05 
-		}
-	}
-}
-northrop_power_loom = {
-	limit = { mechanical_production = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			invention = jacquard_power_loom
-		}
-		modifier = {
-			factor = 2
-			invention = insurance_companies
-		}
-	}
-	effect = {
-		rgo_goods_output = {
-			cotton = 0.2
-		}
-		rgo_goods_output = {
-			wool = 0.2
-		}
-		rgo_goods_output = {
-			silk = 0.2
-		}
-		factory_goods_throughput = {
-			fabric = 0.05 
-		}
-	}
-}
 mechanical_saw = {
 	limit = { mechanical_production = 1 }
 	chance = {
@@ -115,7 +39,7 @@ mechanical_precision_saw = {
 		}
 	}
 }
-hussey_n_mccormicks_reaping_machine = {
+chalk_reaping_machine = {
 	limit = { mechanical_production = 1 }
 	chance = {
 		base = 2
@@ -126,31 +50,6 @@ hussey_n_mccormicks_reaping_machine = {
 		modifier = {
 			factor = 2
 			invention = work_specialization
-		}
-	}
-	effect = {
-		rgo_goods_output = {
-			grain = 0.2
-		}
-		rgo_goods_output = {
-			fruit = 0.2
-		}
-		rgo_goods_output = {
-			tea = 0.2
-		}
-	}
-}
-pitts_threshing_machine = {
-	limit = { mechanical_production = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			invention = hussey_n_mccormicks_reaping_machine
-		}
-		modifier = {
-			factor = 2
-			practical_steam_engine = 1
 		}
 	}
 	effect = {
@@ -230,25 +129,6 @@ machine_tools = {
 		}
 		factory_throughput = 0.05		
 		mine_RGO_eff = 0.5
-	}
-}
-whitney_n_colts_standardized_small_arms = {
-	limit = { interchangeable_parts = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			breech_loaded_rifles = 1
-		}
-		modifier = {
-			factor = 2
-			invention = manifest_destiny
-		}
-	}
-	effect = {
-		factory_goods_output = {
-			small_arms = 0.02 
-		}
 	}
 }
 food_packing_system = {
@@ -356,87 +236,6 @@ drying_techniques = {
 #	effect = {
 #	}
 #}
-#Metulurgy
-ammunition_production = {
-	limit = { 
-		metallurgic_principles = 1 
-		flintlock_arquebus = 1
-	}
-	chance = {
-		base = 0
-		modifier = {
-			factor = 2
-			technology = flintlock_arquebus
-		}
-		modifier = {
-			factor = 2
-			army_professionalism = 1
-		}
-	}
-	effect = {
-		activate_building = ammunition_factory 
-	}
-}
-small_arms_production = {
-	limit = { 
-		metallurgic_principles = 1 
-		flintlock_arquebus = 1
-	}
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			strategic_mobility = 1
-		}
-		modifier = {
-			factor = 2
-			early_railroad = 1
-		}
-	}
-	effect = {
-		activate_building = small_arms_factory
-	}
-}
-explosives_production = {
-	limit = { 
-		metallurgic_principles = 1 
-		flintlock_arquebus = 1
-	}
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			medicine = 1
-		}
-		modifier = {
-			factor = 2
-			invention = nitroglycerin
-		}
-	}
-	effect = {
-		activate_building = explosives_factory 
-	}
-}
-artillery_production = {
-	limit = { 
-		metallurgic_principles = 1 
-		flintlock_arquebus = 1
-	}
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			invention = explosives_production
-		}
-		modifier = {
-			factor = 2
-			iron_muzzle_loaded_artillery = 1
-		}
-	}
-	effect = {
-		activate_building = artillery_factory 
-	}
-}
 #clean_coal
 pit_coal = {
 	limit = { clean_coal = 1 }
@@ -670,40 +469,6 @@ vaccination = {
 		soldier_to_pop_loss = 0.01
 	}
 }
-chemotherapy = {
-	limit = { medicine = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			empiricism = 1
-		}
-		modifier = {
-			factor = 2
-			market_structure = 1
-		}
-	}
-	effect = {
-		land_attrition = -0.05  
-	}
-}
-genetics:_heredity = {
-	limit = { medicine = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			inorganic_chemistry = 1
-		}
-		modifier = {
-			factor = 2
-			colonial_nation = yes
-		}
-	}
-	effect = {
-		pop_growth = 0.0002
-	}
-}
 clinical_thermometers_and_binaural_stethoscopes = {
 	limit = { medicine = 1 }
 	chance = {
@@ -719,25 +484,6 @@ clinical_thermometers_and_binaural_stethoscopes = {
 	}
 	effect = {
 		pop_growth = 0.0002
-	}
-}
-prophylaxis_against_malaria = {
-	limit = { medicine = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			inorganic_chemistry = 1
-		}		
-		modifier = {
-			factor = 3
-			colonial_nation = yes
-		}
-	}
-	effect = {
-		land_attrition = -0.05 
-		soldier_to_pop_loss = 0.01
-		colonial_life_rating = -5
 	}
 }
 pressure_chambers_for_thorax_surgery = {
@@ -906,37 +652,4 @@ carbon_soil_enrichment = {
 	effect = {
 		farm_rgo_eff = 0.05
 	}
-}
-
-tulls_seed_drill = {
-	limit = { water_wheel_power = 1 }
-	chance = {
-		base = 6
-	}
-	effect = {
-		rgo_goods_output = {
-			grain = 0.1
-		}
-		rgo_goods_output = {
-			fruit = 0.1
-		}
-	}
-	
-	
-	
-}
-
-rotherham_plough = {
-	limit = { practical_steam_engine = 1 }
-	chance = {
-		base = 6
-	}
-	effect = {
-		rgo_goods_output = {
-			grain = 0.2
-		}
-	}
-	
-	
-	
 }

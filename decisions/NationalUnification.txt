@@ -61,6 +61,58 @@ political_decisions = {
 			factor = 1
 		}
 	}
+	form_sto_confed = {
+		potential = {
+			is_culture_group = sto_plains
+			NOT = {
+				exists = STO
+			}
+		}
+		
+		allow = {
+			prestige = 45
+			war = no
+			cultural_union = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR={
+								in_sphere = THIS
+								vassal_of = THIS
+								alliance_with = THIS
+							}
+						}
+						province_id = 59
+						province_id = 61
+						province_id = 62
+						province_id = 63
+						province_id = 60
+						province_id = 64
+						province_id = 65
+						province_id = 66
+					}
+				}
+			}
+		}
+		effect = {
+			prestige = 20
+			change_tag = culture
+			any_country = {
+				limit = {
+					is_culture_group = THIS
+					in_sphere = THIS
+				}
+				country_event = { id=11101 days=0 }
+			}
+			add_accepted_culture = union
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	
 	
 	# form_union_nation = {
 		# potential = {

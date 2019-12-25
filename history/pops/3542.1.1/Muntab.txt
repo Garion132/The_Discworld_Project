@@ -22,7 +22,7 @@
 	soldiers = {
 		culture = muntabian
 		religion = catholic
-		size = 5000
+		size = 7000
 	}
 	officers = {
 		culture = muntabian
@@ -54,61 +54,61 @@
     farmers = {
 		culture = ghatian
 		religion = catholic
-		size = 1900
+		size = 3900
 	}
     }
 926={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 1200
+		size = 2200
 	}
 }
 927={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 1300
+		size = 3300
 	}
 }
 928={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 1000
+		size = 4900
 	}
 }
 929={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 1700
+		size = 6700
 	}
 }
 930={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 2100
+		size = 8100
 	}
 	soldiers = {
 		culture = muntabian
 		religion = catholic
-		size = 1500
+		size = 3500
 	}
 }
 931={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 2500
+		size = 6500
 	}
 }
 932={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 3500
+		size = 7500
 	}
 	soldiers = {
 		culture = muntabian
@@ -130,7 +130,7 @@
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 4600
+		size = 8600
 	}
 	soldiers = {
 		culture = muntabian
@@ -147,117 +147,117 @@
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 1500
+		size = 9500
 	}
 }
 935={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 1200
+		size = 4200
 	}
 }
 936={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 2500
+		size = 16500
 	}
 }
 937={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 4500
+		size = 9500
 	}
 }
 938={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 3200
+		size = 12200
 	}
 	soldiers = {
 		culture = muntabian
 		religion = catholic
-		size = 1100
+		size = 3100
 	}
 }
 939={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 2300
+		size = 9300
 	}
 }
 940={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 1100
+		size = 6100
 	}
 }
 941={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 2000
+		size = 14000
 	}
 }
 942={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 1000
+		size = 6500
 	}
 }
 943={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 1000
+		size = 7800
 	}
 }
 944={
     labourers = {
 		culture = muntabian
 		religion = catholic
-		size = 1000
+		size = 3600
 	}
 }
 945={
     labourers = {
 		culture = muntabian
 		religion = catholic
-		size = 1400
+		size = 8400
 	}
 }
 946={
     labourers = {
 		culture = muntabian
 		religion = catholic
-		size = 950
+		size = 3950
 	}
 }
 947={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 2000
+		size = 7000
 	}
 }
 948={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 3500
+		size = 4500
 	}
 }
 949={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 1600
+		size = 3600
 	}
 }
 950={
@@ -278,21 +278,21 @@
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 900
+		size = 4900
 	}
 }
 953={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 1400
+		size = 5400
 	}
 }
 954={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 2300
+		size = 4300
 	}
 }
 955={
@@ -306,28 +306,28 @@
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 1200
+		size = 5200
 	}
 }
 957={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 2400
+		size = 3400
 	}
 }
 958={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 2900
+		size = 4900
 	}
 }
 959={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 1100
+		size = 7100
 	}
 }
 960={
@@ -348,14 +348,14 @@
     farmers = {
 		culture = ghatian
 		religion = catholic
-		size = 500
+		size = 3600
 	}
 }
 963={
     farmers = {
 		culture = ghatian
 		religion = catholic
-		size = 3600
+		size = 4600
 	}
 }
 964={

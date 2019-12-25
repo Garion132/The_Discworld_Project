@@ -1,13 +1,15 @@
-capital = 306
-primary_culture = djelibeybian
+capital = 1848
+primary_culture = foureckian
 religion = protestant
-government = absolute_monarchy
-plurality = 30
+government = democracy
+plurality = 5
 nationalvalue = nv_order
 literacy = 0.55
 civilized = yes
 
-prestige = 40
+#GreaterPowers = prestige
+#prestige = 100
+
 
 # Political reforms
 slavery = yes_slavery
@@ -28,23 +30,36 @@ unemployment_subsidies = trinket_subsidies
 pensions = no_pensions 
 school_reforms = low_schools
 
+#oob = "AMP_oob.txt"
+
 # Technologies
 steel_weaponry = 1
+siege_engines = 1
+metallurgic_principles = 1
+dirt_roads = 1
+theories_of_chemistry = 1
+simple_production_technquines = 1
+hand_cranked_power = 1
+guild_based_production = 1
+freedom_of_trade = 1
 
 # Inventions
 #corvettes = yes
+precision_work = yes
 
 # Starting Consciousness
 consciousness = 3
 nonstate_consciousness = 1
 
-ruling_party = DJE_conservative
+ruling_party = XX4_liberal
+last_election = 3537.2.6
 upper_house = {
 	fascist = 0
-	liberal = 12
-	conservative = 83
+	liberal = 71
+	conservative = 24
 	reactionary = 5
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
 }
+

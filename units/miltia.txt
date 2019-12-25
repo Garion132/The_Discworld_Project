@@ -24,8 +24,8 @@ miltia = {
 	
 	supply_consumption = 0.8
 	supply_cost = {
-		swords = 0.05
-		spears = 0.05
+		swords = 0.075
+		spears = 0.075
 	}
 	
 

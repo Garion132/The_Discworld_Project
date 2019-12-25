@@ -1,15 +1,72 @@
-No.8 powder
-Printing press
+Printing press:
+	Stamps
+	
 micromail
-moving pictures
-Black Ribbon Movement
-Golem backed dollar
-Deep-Shaft Fat Mining
 
+Impology:
+	moving pictures
+	iconograph
+	Imp Timepieces
+	Dis-Organisers MkI
+	Dis-Organisers MkII
+	Dis-Organisers MkV
+
+Public Magical Devices:
+	Omniscope
+	Broomstick Chartering
+	
+	Black Ribbon Movement
+	
+Deep mining:
+	Safety Lamps
+	Deep-Shaft Fat Mining
+	
+Quisition
+
+No.8 powder:
+	Barking Dogs(bombards)
+	
+dynamite:
+	Artillery
+	
+Gonnes
+
+Mechanical theory:
+	Burliegh & Stronginthearm Crossbows
+	Burliegh & Stronginthearm Piecemaker
+	Watchmaking
+	
+Goblin Liberation:
+	Goblin music
+	Goblin Engraving
+	
+Orc Acceptance
+
+Music With Rocks In
+
+Golem Construction:
+	Golem self ownership movement
+	Golem Reclimation
+	Golem backed dollar
+	Golem firefighting services
 
 Clacks:
 	Portable clacks towers
 	dual phase clacks
+	Goblin crews
 
 Steam engines:
 	Iron girder
+	Railways
+	Ankh-Morpork and Sto Plains Hygienic Railway
+
+Combination Harvester
+
+Device Intergration (needs to be locked to have the device flag)
+	The Undertaking(subways)
+
+Megalith computing
+
+Inn-sewer-ants
+
+reflected-sound-as-of-underground-sprits(economics)
