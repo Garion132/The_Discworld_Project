@@ -579,7 +579,7 @@ promote_to =
 	}
 	soldiers =
 	{
-		factor = 0.01
+		factor = 0.03
 		group = {
 			modifier = {
 				factor = -4
@@ -651,15 +651,15 @@ promote_to =
 		}
 		group = {
 			modifier = {
-				factor = -2
+				factor = 4
 				soldiers = 0.005
 			}
 			modifier = {
-				factor = -2
+				factor = 0
 				soldiers = 0.01
 			}
 			modifier = {
-				factor = -2
+				factor = 0
 				soldiers = 0.015
 			}
 			modifier = {

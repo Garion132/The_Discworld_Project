@@ -142,6 +142,10 @@ machine_parts_factory = {
 		trigger = { trade_goods_in_state = coal }
 		value = 0.125
 	}
+	bonus = {
+		trigger = { state_id = 1 }
+		value = 0.25
+	}
 }
 
 ############# ADVANCED FACTORIES
@@ -162,6 +166,10 @@ steamer_shipyard = {
 	bonus = {
 		trigger = { trade_goods_in_state = coal }
 		value = 0.125
+	}
+	bonus = {
+		trigger = { state_id = 1 }
+		value = 0.25
 	}
 }
 
@@ -203,6 +211,10 @@ luxury_clothes_factory = {
 		trigger = { trade_goods_in_state = silk }
 		value = 0.05
 	}
+	bonus = {
+		trigger = { state_id = 1 }
+		value = 0.25
+	}
 }
 
 luxury_furniture_factory = {       
@@ -220,6 +232,10 @@ luxury_furniture_factory = {
 	bonus = {
 		trigger = { trade_goods_in_state = tropical_wood }
 		value = 0.05
+	}
+	bonus = {
+		trigger = { state_id = 1 }
+		value = 0.25
 	}
 }
 
@@ -242,6 +258,10 @@ steel_factory = {
 		trigger = { trade_goods_in_state = coal }
 		value = 0.125
 	}
+	bonus = {
+		trigger = { state_id = 1 }
+		value = 0.25
+	}
 }
 
 artillery_factory = {       
@@ -259,6 +279,10 @@ artillery_factory = {
 	bonus = {
 		trigger = { has_building = explosives_factory }
 		value = 0.1
+	}
+	bonus = {
+		trigger = { state_id = 1 }
+		value = 0.25
 	}
 }
 
@@ -284,6 +308,10 @@ clipper_shipyard = {
 		trigger = { trade_goods_in_state = timber }
 		value = 0.05
 	}
+	bonus = {
+		trigger = { state_id = 1 }
+		value = 0.25
+	}
 }
 
 small_arms_factory = {       
@@ -302,6 +330,10 @@ small_arms_factory = {
 	bonus = {
 		trigger = { has_building = ammunition_factory }
 		value = 0.1
+	}
+	bonus = {
+		trigger = { state_id = 1 }
+		value = 0.25
 	}
 }
 
@@ -322,6 +354,10 @@ swords_factory = {
 		trigger = { has_building = lumber_mill }
 		value = 0.1
 	}
+	bonus = {
+		trigger = { state_id = 1 }
+		value = 0.25
+	}
 }
 
 spears_factory = {       
@@ -340,6 +376,10 @@ spears_factory = {
 	bonus = {
 		trigger = { has_building = lumber_mill }
 		value = 0.3
+	}
+	bonus = {
+		trigger = { state_id = 1 }
+		value = 0.25
 	}
 }
 
@@ -364,6 +404,10 @@ seige_workshop = {
 		trigger = { trade_goods_in_state = iron }
 		value = 0.05
 	}
+	bonus = {
+		trigger = { state_id = 1 }
+		value = 0.25
+	}
 }
 
 ############# COMMON FACTORIES
@@ -384,6 +428,10 @@ furniture_factory = {
 		trigger = { trade_goods_in_state = timber }
 		value = 0.1
 	}
+	bonus = {
+		trigger = { state_id = 1 }
+		value = 0.25
+	}
 }
 
 paper_mill = {       
@@ -399,6 +447,14 @@ paper_mill = {
 	}
 	bonus = {
 		trigger = { trade_goods_in_state = brassicas }
+		value = 0.5
+	}
+	bonus = {
+		trigger = { state_id = 40 }
+		value = 0.25
+	}
+	bonus = {
+		trigger = { state_id = 1 }
 		value = 0.25
 	}
 }
@@ -412,6 +468,10 @@ regular_clothes_factory = {
 	value = 15			#87
 	bonus = {
 		trigger = { has_building = fabric_factory }
+		value = 0.25
+	}
+	bonus = {
+		trigger = { state_id = 1 }
 		value = 0.25
 	}
 }
@@ -570,6 +630,10 @@ fabric_factory = {
 			}
 		value = 0.125
 	}
+	bonus = {
+		trigger = { state_id = 1 }
+		value = 0.25
+	}
 }
 
 cement_factory = {       
@@ -581,6 +645,10 @@ cement_factory = {
 	value = 3			#48
 	bonus = {
 		trigger = { trade_goods_in_state = coal }
+		value = 0.25
+	}
+	bonus = {
+		trigger = { state_id = 1 }
 		value = 0.25
 	}
 }
@@ -607,6 +675,10 @@ fertilizer_factory = {
 	value = 5			#50
 	bonus = {
 		trigger = { trade_goods_in_state = sulphur }
+		value = 0.25
+	}
+	bonus = {
+		trigger = { state_id = 1 }
 		value = 0.25
 	}
 }
