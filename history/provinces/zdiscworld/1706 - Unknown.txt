@@ -1,5 +1,5 @@
 owner = KLS
 controller = KLS
 add_core = KLS
-trade_goods = wool
+trade_goods = sulfur
 life_rating = 20

@@ -1,5 +1,5 @@
 owner = OHU
 controller = OHU
 add_core = OHU
-trade_goods = grain
+trade_goods = coal
 life_rating = 50

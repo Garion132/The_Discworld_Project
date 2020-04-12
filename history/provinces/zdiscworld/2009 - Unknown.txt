@@ -1,0 +1,5 @@
+owner = MOM
+controller = MOM
+add_core = MOM
+trade_goods = timber
+life_rating = 20

@@ -82,7 +82,12 @@
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 6700
+		size = 5700
+	}
+	soldiers = {
+		culture = momerathian
+		religion = catholic
+		size = 2100
 	}
 }
 930={

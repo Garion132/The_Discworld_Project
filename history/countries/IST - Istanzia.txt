@@ -9,6 +9,8 @@ civilized = yes
 
 prestige = 25
 
+oob = "IST_oob.txt"
+
 # Political reforms
 slavery = yes_slavery
 upper_house_composition = appointed

@@ -1,0 +1,5 @@
+owner = IRM
+controller = IRM
+add_core = IRM
+trade_goods = fruit
+life_rating = 20

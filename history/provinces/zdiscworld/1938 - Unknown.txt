@@ -2,5 +2,5 @@ owner = OML
 controller = OML
 add_core = OML
 add_core = MOU
-trade_goods = grain
+trade_goods = wool
 life_rating = 20

@@ -1,0 +1,5 @@
+owner = IRM
+controller = IRM
+add_core = IRM
+trade_goods = wool
+life_rating = 20

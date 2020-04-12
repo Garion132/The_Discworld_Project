@@ -112,3 +112,41 @@ country_event = {
 		
 	}
 }
+#Rise of Lesip
+country_event = {
+
+	id = 36901
+
+	trigger = {
+		tag = AMP 
+		year = 3552
+		NOT = {
+			year = 3553
+		}
+		always= no
+	}
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 6
+
+	}
+
+	title = "EVTNAME36901"
+	desc = "EVTDESC36901"
+	picture = "Administration"
+
+	option = {
+		name = "EVTOPTA36901" 
+		
+	}
+	option = {
+		name = "EVTOPTB36901" 
+		
+	}
+	option = {
+		name = "EVTOPTC36901" 
+
+	}
+}

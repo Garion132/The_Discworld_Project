@@ -1,0 +1,34 @@
+army = {
+	name = "1st Istanzian Force"
+	location = 234
+	regiment = {
+		name= "1st Heavy Foot"
+		type = warriors
+		home = 234
+	}
+	regiment = {
+		name= "1st Heavy Mounted"
+		type = cavalry
+		home = 234
+	}
+	regiment = {
+		name= "1st Light Foot"
+		type = spearmen
+		home = 230
+	}
+}
+
+army = {
+	name = "2nd Istanzian Force"
+	location = 251
+	regiment = {
+		name= "2nd Light Foot"
+		type = miltia
+		home = 251
+	}
+	regiment = {
+		name= "3rd Light Foot"
+		type = miltia
+		home = 256
+	}
+}
