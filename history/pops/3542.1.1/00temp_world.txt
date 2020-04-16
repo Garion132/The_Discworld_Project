@@ -249,17 +249,32 @@
 	}
 }
 3={
-        farmers = {
+    farmers = {
+		culture = morporkian
+		religion = catholic
+		size = 7400
+	}
+	soldiers = {
+		culture = morporkian
+		religion = catholic
+		size = 1200
+	}
+}
+4={
+    farmers = {
 		culture = morporkian
 		religion = catholic
 		size = 5000
 	}
-}
-4={
-        farmers = {
+	artisans = {
+		culture = ramtop
+		religion = catholic
+		size = 50
+	}
+	artisans = {
 		culture = morporkian
 		religion = catholic
-		size = 5000
+		size = 120
 	}
 }
 5={
@@ -3205,7 +3220,7 @@
     }
 404={
         farmers = {
-		culture = agatean
+		culture = sumtrian
 		religion = catholic
 		size = 500
 	}
@@ -3283,17 +3298,17 @@
 	}
     }
 413={
-        farmers = {
+    farmers = {
 		culture = innish
 		religion = catholic
-		size = 500
+		size = 3640
 	}
     }
 414={
-        farmers = {
+    farmers = {
 		culture = iram
 		religion = catholic
-		size = 500
+		size = 2150
 	}
     }
 415={
@@ -13690,70 +13705,75 @@
         farmers = {
 		culture = hergen
 		religion = catholic
-		size = 500
+		size = 1400
 	}
 }
 1965={
         farmers = {
 		culture = hergen
 		religion = catholic
-		size = 500
+		size = 1200
 	}
 }
 1965={
         farmers = {
 		culture = hergen
 		religion = catholic
-		size = 500
+		size = 1900
 	}
 }
 1966={
         farmers = {
 		culture = iram
 		religion = catholic
-		size = 500
+		size = 2500
 	}
 }
 1967={
         farmers = {
 		culture = iram
 		religion = catholic
-		size = 500
+		size = 3400
 	}
 }
 1968={
         farmers = {
 		culture = iram
 		religion = catholic
-		size = 500
+		size = 4200
 	}
 }
 1969={
         farmers = {
 		culture = iram
 		religion = catholic
-		size = 500
+		size = 3400
 	}
 }
 1970={
         farmers = {
 		culture = iram
 		religion = catholic
-		size = 500
+		size = 2600
 	}
 }
 1971={
-        farmers = {
+    farmers = {
 		culture = iram
 		religion = catholic
-		size = 500
+		size = 4100
+	}
+	soldiers = {
+		culture = iram
+		religion = catholic
+		size = 1235
 	}
 }
 1972={
         farmers = {
 		culture = iram
 		religion = catholic
-		size = 500
+		size = 2600
 	}
 }
 1973={
@@ -13769,7 +13789,7 @@
 	}
 }
 1974={
-        farmers = {
+    farmers = {
 		culture = iram
 		religion = catholic
 		size = 1200
@@ -13781,7 +13801,7 @@
 	}
 }
 1975={
-        farmers = {
+	farmers = {
 		culture = iram
 		religion = catholic
 		size = 1150
@@ -13796,7 +13816,7 @@
         farmers = {
 		culture = iram
 		religion = catholic
-		size = 500
+		size = 3400
 	}
 }
 1977={
@@ -14055,3 +14075,318 @@
 	}
 }
 
+2012={
+        farmers = {
+		culture = sumtrian
+		religion = catholic
+		size = 500
+	}
+}
+2013={
+        farmers = {
+		culture = sumtrian
+		religion = catholic
+		size = 500
+	}
+}
+2014={
+        farmers = {
+		culture = sumtrian
+		religion = catholic
+		size = 500
+	}
+}
+2015={
+        farmers = {
+		culture = sumtrian
+		religion = catholic
+		size = 500
+	}
+}
+2016={
+        farmers = {
+		culture = sumtrian
+		religion = catholic
+		size = 500
+	}
+}
+2017={
+        farmers = {
+		culture = sumtrian
+		religion = catholic
+		size = 500
+	}
+}
+2018={
+        farmers = {
+		culture = nafooi
+		religion = catholic
+		size = 500
+	}
+}
+2019={
+        farmers = {
+		culture = nafooi
+		religion = catholic
+		size = 500
+	}
+}
+2020={
+        farmers = {
+		culture = nafooi
+		religion = catholic
+		size = 500
+	}
+}
+2021={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2022={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2023={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2024={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2025={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2026={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2027={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2028={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2029={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2030={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2031={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2032={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2033={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2033={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2034={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2035={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2036={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2037={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2038={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2039={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2040={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2041={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2042={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2043={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2044={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2045={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2046={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2047={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2048={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2049={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2050={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2051={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2052={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2053={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2054={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}
+2055={
+        farmers = {
+		culture = agatean
+		religion = catholic
+		size = 500
+	}
+}

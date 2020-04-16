@@ -1,5 +1,5 @@
 owner = YMI
 controller = YMI
 add_core = YMI
-trade_goods = fruit
+trade_goods = iron
 life_rating = 50

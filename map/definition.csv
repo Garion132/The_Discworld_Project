@@ -2010,50 +2010,50 @@ province;red;green;blue;x;x
 2009;240;215;0;Malanje;x
 2010;113;240;0;Saurimo;x
 2011;191;224;239;Kubanda;x##outer moludavian states end
-2012;160;32;49;Lusaka;x
+2012;160;32;49;Lusaka;x##Sumtri
 2013;164;48;224;Mongu;x
-2014;64;96;240;Kasempa;x
+2014;64;96;240;Kasempa;x#
 2015;48;222;224;Monzo;x
 2016;160;224;48;Kazembe;x
-2017;152;152;197;Kasema;x
-2018;210;224;48;Chipata;x
+2017;152;152;197;Kasema;x##
+2018;210;224;48;Chipata;x##Slakki
 2019;224;160;16;Entebbe;x
-2020;101;48;160;Mbarara;x
-2021;160;156;48;Masindi;x
+2020;101;48;160;Mbarara;x##
+2021;160;156;48;Masindi;x##Mithos
 2022;32;96;96;Kitgum;x
-2023;145;48;160;Jinja;x
-2024;160;160;144;Nairobi;x
+2023;145;48;160;Jinja;x##
+2024;160;160;144;Nairobi;x##Trob
 2025;53;103;119;Marsabit;x
-2026;32;159;16;Lodwar;x
-2027;14;99;42;Nakuru;x
+2026;32;159;16;Lodwar;x##
+2027;14;99;42;Nakuru;x##virgin isles
 2028;224;33;17;Kisumu;x
 2029;33;160;144;Mombasa;x
-2030;160;33;144;Lamu;x
-2031;160;160;17;Wajir;x
+2030;160;33;144;Lamu;x##
+2031;160;160;17;Wajir;x##brown islands
 2032;153;109;98;Garissa;x
 2033;158;159;87;Voi;x
-2034;128;223;80;Kigali;x
-2035;80;147;223;Usumbura;x
-2036;96;33;175;Dar Es Salaam;x
+2034;128;223;80;Kigali;x##
+2035;80;147;223;Usumbura;x##Mithros extra
+2036;96;33;175;Dar Es Salaam;x##Rimmeross
 2037;224;217;32;Tanga;x
-2038;96;160;175;Kilwa;x
+2038;96;160;175;Kilwa;x#
 2039;160;96;48;Lindi;x
 2040;33;224;48;Songea;x
 2041;58;125;63;Masasi;x
 2042;224;160;176;Iringa;x
 2043;120;87;95;Tabora;x
-2044;97;33;143;Mwanza;x
+2044;97;33;143;Mwanza;x#
 2045;224;32;48;Morogoro;x
 2046;32;96;48;Ujiji;x
 2047;223;160;48;Arusha;x
 2048;224;32;176;Zanzibar;x
-2049;48;131;208;Maputo;x
-2050;48;64;208;Chaimate;x
+2049;48;131;208;Maputo;x##
+2050;48;64;208;Chaimate;x##Bounsea island
 2051;208;96;16;Inhambane;x
 2052;208;112;48;Massekisse;x
 2053;63;48;208;Sena;x
 2054;165;48;208;Tete;x
-2055;48;208;153;Songo;x
+2055;48;208;153;Songo;x##
 2056;208;48;131;Zombo;x
 2057;144;224;144;Sofala;x
 2058;116;208;48;Mossurize;x

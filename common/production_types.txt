@@ -493,6 +493,18 @@ explosives_factory = {
 		value = 0.1
 	}
 }
+ceramics_factory = {       
+	template = factory_template
+	input_goods = {   
+		clay = 3		#3.6
+	}
+	output_goods = ceramics 
+	value = 4			#60
+	bonus = {
+		trigger = { trade_goods_in_state = clay }
+		value = 0.25
+	}
+}
 
 ############# CHEAP FACTORIES
 
@@ -1266,7 +1278,7 @@ artisan_ceramics = {
 		clay = 3		#3.6
 	}
 	output_goods = ceramics 
-	value = 2			#4.4
+	value = 3			#4.4
 	
 	owner = {
 		poptype = artisans

@@ -1,5 +1,5 @@
 owner = SAL
 controller = SAL
 add_core = SAL
-trade_goods = grain
+trade_goods = dye
 life_rating = 20

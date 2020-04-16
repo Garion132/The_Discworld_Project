@@ -1,5 +1,5 @@
 owner = BEL
 controller = BEL
 add_core = BEL
-trade_goods = grain
+trade_goods = iron
 life_rating = 20

@@ -1,2 +1,5 @@
+owner = MID
+controller = MID
+add_core = MID
 trade_goods = cotton
 life_rating = 45

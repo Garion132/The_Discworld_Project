@@ -1,2 +1,5 @@
-trade_goods = grain
+owner = TLE
+controller = TLE
+add_core = TLE
+trade_goods = iron
 life_rating = 50
