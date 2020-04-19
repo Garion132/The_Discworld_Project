@@ -312,8 +312,6 @@ steel_weaponry = {
 	cost = 3600
 	unciv_military = yes
 	
-	activate_unit = spearmen
-	activate_unit = warriors
 	combat_width = -1
 
 	ai_chance = {
@@ -585,7 +583,7 @@ muzzle_loaded_rifles = {
 #heavy_armament
 siege_engines = {
 	area = heavy_armament
-	year = 3543
+	year = 3540
 	cost = 3600
 	unciv_military = yes
 	activate_unit = seige_engines
@@ -625,7 +623,7 @@ siege_engines = {
 }
 trebuchets = {
 	area = heavy_armament
-	year = 3543
+	year = 3550
 	cost = 3600
 	unciv_military = yes
 	seige_engines = {
@@ -669,7 +667,7 @@ trebuchets = {
 }
 bronze_muzzle_loaded_artillery = {
 	area = heavy_armament
-	year = 3543
+	year = 3575
 	cost = 3600
 	unciv_military = yes
 	activate_unit = artillery
@@ -709,7 +707,7 @@ bronze_muzzle_loaded_artillery = {
 }
 iron_muzzle_loaded_artillery = {
 	area = heavy_armament
-	year = 3543
+	year = 3590
 	cost = 7200
 	unciv_military = yes
 	artillery = {
@@ -753,7 +751,7 @@ iron_muzzle_loaded_artillery = {
 }
 iron_breech_loaded_artillery = {
 	area = heavy_armament
-	year = 3560
+	year = 3600
 	cost = 10800
 	unciv_military = yes
 	artillery = {
@@ -796,7 +794,7 @@ iron_breech_loaded_artillery = {
 }
 steel_breech_loaded_artillery = {
 	area = heavy_armament
-	year = 3580
+	year = 3620
 	cost = 14400
 	unciv_military = yes
 	artillery = {

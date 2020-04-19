@@ -18,12 +18,11 @@ warriors = {
 	#Building Costs
 	build_time = 45
 	build_cost = {
-		wool = 1
-		armor = 1
+		wool = 2
 		swords = 10
 	}
 	
-	supply_consumption = 0.8
+	supply_consumption = 1.0
 	supply_cost = {
 		swords = 0.1
 	}

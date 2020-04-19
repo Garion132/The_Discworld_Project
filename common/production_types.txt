@@ -759,6 +759,10 @@ coal_mine = {
 	output_goods = coal 
 	value = 4.8
 	mine = yes
+	bonus = {
+		trigger = { culture = dwarf}
+		value = 0.50
+	}
 }
 
 coffee_plantation = {
@@ -780,6 +784,10 @@ dye_plantation = {
 	output_goods = dye 
 	value = 1.88
 	farm = yes
+	bonus = {
+		trigger = { culture = urtalie}
+		value = 1.50
+	}
 }
 
 fishing_wharf = {
@@ -806,8 +814,12 @@ brassicas_farm = {
 iron_mine = {
 	template = RGO_template_labourers
 	output_goods = iron
-	value = 3.6
+	value = 7.2
 	mine = yes
+	bonus = {
+		trigger = { culture = dwarf}
+		value = 0.50
+	}
 }
 
 opium_plantation = {
@@ -829,6 +841,10 @@ precious_metal_mine = {
 	output_goods = precious_metal 
 	value = 2
 	mine = yes
+	bonus = {
+		trigger = { culture = dwarf}
+		value = 0.50
+	}
 }
 
 rubber_lodge = {
@@ -857,6 +873,10 @@ sulphur_mine = {
 	output_goods = sulphur 
 	value = 4
 	mine = yes
+	bonus = {
+		trigger = { culture = dwarf}
+		value = 0.50
+	}
 }
 
 fat_mine = {
@@ -864,6 +884,10 @@ fat_mine = {
 	output_goods = fats 
 	value = 6
 	mine = yes
+	bonus = {
+		trigger = { culture = dwarf}
+		value = 0.50
+	}
 }
 
 clay_mine = {
@@ -871,6 +895,10 @@ clay_mine = {
 	output_goods = clay 
 	value = 8
 	mine = yes
+	bonus = {
+		trigger = { culture = urtalie}
+		value = 0.50
+	}
 }
 
 treacle_mine = {
@@ -878,6 +906,10 @@ treacle_mine = {
 	output_goods = treacle 
 	value = 4
 	mine = yes
+	bonus = {
+		trigger = { culture = dwarf}
+		value = 0.50
+	}
 }
 
 tea_plantation = {
@@ -892,6 +924,10 @@ timber_lodge = {
 	output_goods = timber 
 	value = 16
 	farm = yes
+	bonus = {
+		trigger = { culture = skundlander}
+		value = 0.50
+	}
 }
 
 tobacco_plantation = {
@@ -921,6 +957,10 @@ tropical_wood_lodge = {
 	output_goods = tropical_wood 
 	value = 8
 	farm = yes
+	bonus = {
+		trigger = { culture = skundlander}
+		value = 0.50
+	}
 }
 
 sapent_pearwood_lodge = {

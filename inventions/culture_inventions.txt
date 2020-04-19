@@ -20,118 +20,305 @@ socialist_realism = {
 		shared_prestige = 25 
 	}
 }
-#analytic_philosophy
-i_analytic_philosophy = {
-	limit = { analytic_philosophy = 1 }
+#magical_education
+
+golem_self_ownership_movement = {
+	limit = { magical_education = 1 }
+	news = yes
+	chance = {
+		base = 2
+		modifier = {
+			factor = 2
+			modern_golemancy = 1
+		}
+	}
+	core_pop_consciousness_modifier = 0.01
+}
+
+golem_reclamation = {
+	limit = { magical_education = 1 }
 	news = no
 	chance = {
 		base = 2
 		modifier = {
 			factor = 2
-			impressionism = 1
-		}
-		modifier = {
-			factor = 2
-			biologism = 1
-		}	
-		modifier = {
-			factor = 1
-			plurality = 5
+			modern_golemancy = 1
 		}
 	}
+	core_pop_consciousness_modifier = 0.01
+}
+uu_education = {
+	limit = { magical_education = 1 }
+	news = no
+	chance = {
+		base = 2
+	}
 	effect = {
-		shared_prestige = 15 
+		education_efficiency = 0.50
 	}
 }
-modern_logics = {
-	limit = { analytic_philosophy = 1 }
+witchery = {
+	limit = { magical_education = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 1
 		modifier = {
-			factor = 2
-			functionalism = 1
+			factor = -10
+			total_pops = 190000
 		}
 		modifier = {
-			factor = 2
-			state_n_government = 1
+			factor = 4
+			is_culture_group = ramtops
 		}
 	}
 	effect = {
-		shared_prestige = 15 
+		education_efficiency = 0.50
 	}
 }
-logical_positivism = {
-	limit = { analytic_philosophy = 1 }
+
+#public_magical_devices
+omniscope = {
+	limit = { public_magical_devices = 1 }
 	news = no
 	chance = {
 		base = 2
-		modifier = {
-			factor = 2
-			impressionism = 1
-		}
-		modifier = {
-			factor = 2
-			biologism = 1
-		}
 	}
 	effect = {
-		shared_prestige = 15 
+		shared_prestige = 25 
 	}
 }
-philosophy_of_language = {
-	limit = { analytic_philosophy = 1 }
+broomstick_chartering = {
+	limit = { public_magical_devices = 1 }
 	news = no
 	chance = {
 		base = 2
-		modifier = {
-			factor = 2
-			colonial_nation = yes
-		}
-		modifier = {
-			factor = 2
-			nationalism_n_imperialism = 1
-		}
 	}
 	effect = {
-		shared_prestige = 15
+		shared_prestige = 5 
 	}
 }
-#phenomenology_n_hermeneutic
-phenomenology = {
-	limit = { phenomenology_n_hermeneutic = 1 }
+
+#impology
+moving_pictures = {
+	limit = { impology = 1 }
 	news = no
 	chance = {
 		base = 2
-		modifier = {
-			factor = 2
-			invention = expressionist_literature
-		}
-		modifier = {
-			factor = 2
-			social_science = 1
-		}
 	}
 	effect = {
-		shared_prestige = 20 
+		shared_prestige = 20
+		suppression_points_modifier = -0.05
+	}
+	core_pop_consciousness_modifier = 0.01
+}
+iconograph = {
+	limit = { impology = 1 }
+	news = no
+	chance = {
+		base = 2
+	}
+	effect = {
+		shared_prestige = 20
+		suppression_points_modifier = -0.02
+	}
+	core_pop_consciousness_modifier = 0.01
+}
+imp_timepieces = {
+	limit = { impology = 1 }
+	news = no
+	chance = {
+		base = 2
+	}
+	effect = {
+		factory_output = 0.025
 	}
 }
-hermeneutics = {
-	limit = { phenomenology_n_hermeneutic = 1 }
+dis_organisers_mk1 = {
+	limit = { impology = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = -6
 		modifier = {
-			factor = 2
-			social_science = 1
+			factor = 4
+			invention = imp_timepieces
 		}
 		modifier = {
-			factor = 2
-			invention = darwinism
+			factor = 4
+			year = 3570
 		}
 	}
 	effect = {
-		shared_prestige = 20 
+		factory_output = 0.025
+	}
+}
+dis_organisers_mk2 = {
+	limit = { impology = 1 }
+	news = no
+	chance = {
+		base = -6
+		modifier = {
+			factor = 4
+			invention = dis_organisers_mk1
+		}
+		modifier = {
+			factor = 4
+			year = 3575
+		}
+	}
+	effect = {
+		factory_output = 0.025
+	}
+}
+dis_organisers_mk4 = {
+	limit = { impology = 1 }
+	news = no
+	chance = {
+		base = -6
+		modifier = {
+			factor = 4
+			invention = dis_organisers_mk2
+		}
+		modifier = {
+			factor = 4
+			year = 3580
+		}
+	}
+	effect = {
+		factory_output = 0.025
+	}
+}
+#modern golemancy
+golem_backed_dollar = {
+	limit = { modern_golemancy = 1 }
+	news = no
+	chance = {
+		base = 2
+	}
+	effect = {
+		tax_eff = 3 
+	}
+}
+golem_firefighting_services = {
+	limit = { modern_golemancy = 1 }
+	news = no
+	chance = {
+		base = 2
+	}
+	effect = {
+		factory_output = 0.05
+	}
+}
+golem_constuction = {
+	limit = { modern_golemancy = 1 }
+	news = no
+	chance = {
+		base = 1
+	}
+	effect = {
+		factory_output = 0.25
+	}
+}
+golem_army = {
+	limit = { modern_golemancy = 1 }
+	news = no
+	chance = {
+		base = 0
+	}
+	effect = {
+		##
+	}
+}
+#devices
+the_undertaking = {
+	limit = { device_integration = 1 }
+	news = no
+	chance = {
+		base = 0
+	}
+	effect = {
+		permanent_prestige = 25
+		factory_throughput = 0.05
+		factory_cost = -0.01
+	}
+}
+
+
+#quisition_and_vetinarism
+vetinarism = {
+	limit = { new_quisition_and_vetinarism = 1 }
+	news = yes
+	chance = {
+		base = 2
+		modifier = {
+			factor = 4
+			tag = AMP
+		}
+	}
+	diplomatic_points_modifier = 0.03
+}
+new_quisition = {
+	limit = { new_quisition_and_vetinarism = 1 }
+	news = yes
+	chance = {
+		base = 2
+		modifier = {
+			factor = 4
+			tag = OMN
+		}
+	}
+	effect={
+		shared_prestige = 10
+	}
+}
+
+#racial_outreach
+
+black_ribbon = {
+	limit = { racial_outreach = 1 }
+	news = yes
+	chance = {
+		base = 1
+		modifier = {
+			factor = 5
+			culture = vampyre
+		}
+		modifier = {
+			factor = 10
+			tag = BYK
+		}
+	}
+	core_pop_consciousness_modifier = 0.01
+}
+#goblin_liberation
+goblin_music = {
+	limit = { goblin_liberation = 1 }
+	news = yes
+	chance = {
+		base = 2
+		modifier = {
+			factor = 4
+			tag = AMP
+		}
+	}
+	core_pop_consciousness_modifier = 0.01
+	effect = {
+		shared_prestige = 25 
+	}
+}
+goblin_engraving = {
+	limit = { goblin_liberation = 1 }
+	news = yes
+	chance = {
+		base = 2
+		modifier = {
+			factor = 4
+			tag = AMP
+		}
+	}
+	effect = {
+		factory_goods_output = {
+			luxury_furniture = 0.05
+		}
 	}
 }
 #social_science

@@ -163,46 +163,10 @@ mass_culture_n_the_avant_garde = {
 
 
 #philosophy
-late_enlightenment_philosophy = {
+magical_education = {
 	area = philosophy
-	year = 3544
+	year = 3540
 	cost = 3600
-
-
-	increase_research = 0.50
-	
-	ai_chance = {
-		factor = 51
-		modifier = {
-			factor = 1.02
-			tech_school = culture_tech_school
-		}
-		modifier = {
-			factor = 1.1
-			year = 3550
-		}
-		modifier = {
-			factor = 2
-			year = 3570
-		}
-		modifier = {
-			factor = 1.1
-			year = 1865
-		}
-		modifier = {
-			factor = 2
-			year = 1875
-		}
-		modifier = {
-			factor = 2
-			year = 1885
-		}
-	}
-}
-idealism = {
-	area = philosophy
-	year = 3550
-	cost = 7200
 
 	increase_research = 0.50
 	ai_chance = {
@@ -233,11 +197,10 @@ idealism = {
 		}
 	}
 }
-
-empiricism = {
+public_magical_devices = {
 	area = philosophy
-	year = 1860
-	cost = 10800
+	year = 3560
+	cost = 7200
 	
 	increase_research = 0.50
 	ai_chance = {
@@ -260,12 +223,12 @@ empiricism = {
 		}
 	}
 }
-analytic_philosophy = {
+impology = {
 	area = philosophy
-	year = 3580
-	cost = 14400
+	year = 3570
+	cost = 10800
 
-	increase_research = 1.0
+	increase_research = 0.5
 	ai_chance = {
 		factor = 51
 		modifier = {
@@ -282,9 +245,45 @@ analytic_philosophy = {
 		}
 	}
 }
-phenomenology_n_hermeneutic = {
+modern_golemancy = {
 	area = philosophy
-	year = 1880
+	year = 3590
+	cost = 14400
+
+
+	increase_research = 1.0
+	
+	ai_chance = {
+		factor = 51
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 1.1
+			year = 3550
+		}
+		modifier = {
+			factor = 2
+			year = 3570
+		}
+		modifier = {
+			factor = 1.1
+			year = 1865
+		}
+		modifier = {
+			factor = 2
+			year = 1875
+		}
+		modifier = {
+			factor = 2
+			year = 1885
+		}
+	}
+}
+megalith_computing = {
+	area = philosophy
+	year = 3600
 	cost = 18000
 
 	increase_research = 1.0
@@ -304,7 +303,7 @@ phenomenology_n_hermeneutic = {
 		}
 	}
 }
-anti__rationalism = {
+device_integration = {
 	area = philosophy
 	year = 3610
 	cost = 21600
@@ -329,7 +328,7 @@ anti__rationalism = {
 
 
 #social_thought
-malthusian_thought = {
+new_quisition_and_vetinarism = {
 	area = social_thought
 	year = 3544
 	cost = 3600
@@ -353,9 +352,9 @@ malthusian_thought = {
 		}
 	}
 }
-positivism = {
+racial_outreach = {
 	area = social_thought
-	year = 3544
+	year = 3555
 	cost = 7200
 	colonial_migration = 0.05
 	education_efficiency = 0.1
@@ -372,9 +371,9 @@ positivism = {
 	}
 
 }
-functionalism = {
+goblin_liberation = {
 	area = social_thought
-	year = 3544
+	year = 3570
 	cost = 10800
 
 	colonial_migration = 0.05
@@ -392,9 +391,9 @@ functionalism = {
 	}
 
 }
-biologism = {
+orc_acceptance = {
 	area = social_thought
-	year = 3570
+	year = 3580
 	cost = 14400
 
 	colonial_migration = 0.05
@@ -414,7 +413,7 @@ biologism = {
 }
 social_science = {
 	area = social_thought
-	year = 3580
+	year = 3590
 	cost = 18000
 
 	colonial_migration = 0.05

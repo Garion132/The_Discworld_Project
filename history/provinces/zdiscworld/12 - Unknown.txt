@@ -1,5 +1,5 @@
 owner = AMP
 controller = AMP
 add_core = AMP
-trade_goods = brassicas
+trade_goods = iron
 life_rating = 50

@@ -1,15 +1,15 @@
 # goods types, organized by category
 
 military_goods = {
-	swords = { 
+	swords = { #melee equipment
 		cost = 12.00
 		color = { 208 202 127 } 
 	}
-	spears = { 
+	spears = { #anti cav equipment
 		cost = 10.00
 		color = { 208 202 127 } 
 	}
-	bows_and_crossbows = { 
+	bows_and_crossbows = { #ranged Equipment
 		cost = 14.00
 		color = { 208 202 127 } 
 	}
@@ -39,6 +39,7 @@ military_goods = {
 	canned_food = { 
 		cost = 16.00 
 		color = { 255 39 12 }
+		available_from_start = no
 	}
 	golems = { 
 		cost = 110.00 
@@ -137,6 +138,7 @@ industrial_goods = {
 		cost = 12.0
 		color = { 0 0 0 }
 		available_from_start = no
+		tradeable = no
 	}
 	fertilizer = { 
 		cost = 10.0

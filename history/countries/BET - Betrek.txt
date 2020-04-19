@@ -19,6 +19,8 @@ trade_unions = non_socialist
 voting_system = first_past_the_post
 political_parties = non_secret_ballots
 
+oob = "BET_oob.txt"
+
 # Social Reforms
 wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit

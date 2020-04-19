@@ -55,6 +55,8 @@ on_surrender =
 
 on_new_great_nation = 
 {
+	10 = 19310
+	10 = 19320
 }
 
 on_lost_great_nation = 

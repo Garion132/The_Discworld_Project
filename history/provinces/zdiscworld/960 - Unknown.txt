@@ -1,5 +1,5 @@
 owner = MUT
 controller = MUT
 add_core = MUT
-trade_goods = grain
+trade_goods = iron
 life_rating = 45

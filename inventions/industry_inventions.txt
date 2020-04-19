@@ -1,5 +1,25 @@
+precision_work = {
+	limit = { simple_mechanization = 1 }
+	chance = {
+		base = 2
+		modifier = {
+			factor = 2
+			invention = mechanical_precision_saw
+		}
+		modifier = {
+			factor = 2
+			early_railroad = 1
+		}
+	}
+	effect = {
+		factory_goods_output = {
+			glass = 0.1
+		} 
+		activate_building = machine_parts_factory 
+	}
+}
 mechanical_saw = {
-	limit = { mechanical_production = 1 }
+	limit = { simple_mechanization = 1 }
 	chance = {
 		base = 2
 		modifier = {
@@ -87,29 +107,6 @@ mechanized_slaughtering_block = {
 	}
 }
 #interchangeable_parts
-precision_work = {
-	limit = { mechanical_production = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			invention = mechanical_precision_saw
-		}
-		modifier = {
-			factor = 2
-			early_railroad = 1
-		}
-	}
-	effect = {
-		factory_goods_output = {
-			glass = 0.1
-		} 
-		factory_goods_output = {
-			ammunition = 0.1
-		} 
-		activate_building = machine_parts_factory 
-	}
-}
 machine_tools = {
 	limit = { interchangeable_parts = 1 }
 	chance = {
@@ -411,6 +408,34 @@ steel_alloys = {
 	}
 }
 #early_railroad
+iron_girder = {
+	limit = { experimental_railroad = 1 }
+	news = no
+	chance = {
+		base = 2
+		modifier = {
+			factor = 8
+			is_culture_group = sto_plains
+		}
+	}
+	effect = {
+		shared_prestige = 25 
+	}
+}
+am_st_hygienic_railway = {
+	limit = { experimental_railroad = 1 }
+	news = no
+	chance = {
+		base = 2
+		modifier = {
+			factor = 8
+			is_culture_group = sto_plains
+		}
+	}
+	effect = {
+		shared_prestige = 25 
+	}
+}
 #iron_railroad
 #steel_railroad
 #medicine

@@ -22,7 +22,7 @@ spearmen = {
 		spears = 10
 	}
 	
-	supply_consumption = 0.8
+	supply_consumption = 1.0
 	supply_cost = {
 		spears = 0.1
 	}

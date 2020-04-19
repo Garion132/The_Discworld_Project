@@ -1,7 +1,12 @@
-Printing press:
-	Stamps
+	micromail
 	
-micromail
+Magical education:
+	Golem self ownership movement
+	Golem Reclamation
+
+Public Magical Devices:
+	Omniscope
+	Broomstick Chartering
 
 Impology:
 	moving pictures
@@ -10,19 +15,24 @@ Impology:
 	Dis-Organisers MkI
 	Dis-Organisers MkII
 	Dis-Organisers MkV
-
-Public Magical Devices:
-	Omniscope
-	Broomstick Chartering
 	
-	Black Ribbon Movement
+Modern_Golemancy:
+	Golem backed dollar
+	Golem firefighting services
+	Golem Construction
+	
+Megalith computing
+	
+Device Integration (needs to be locked to have the device flag)
+	The Undertaking(subways)
+
+
+
 	
 Deep mining:
 	Safety Lamps
 	Deep-Shaft Fat Mining
 	
-Quisition
-
 No.8 powder:
 	Barking Dogs(bombards)
 	
@@ -35,6 +45,12 @@ Mechanical theory:
 	Burliegh & Stronginthearm Crossbows
 	Burliegh & Stronginthearm Piecemaker
 	Watchmaking
+
+
+Quisition
+
+racial outreach:
+	Black Ribbon Movement
 	
 Goblin Liberation:
 	Goblin music
@@ -44,11 +60,9 @@ Orc Acceptance
 
 Music With Rocks In
 
-Golem Construction:
-	Golem self ownership movement
-	Golem Reclimation
-	Golem backed dollar
-	Golem firefighting services
+
+Printing press:
+	Stamps
 
 Clacks:
 	Portable clacks towers
@@ -62,11 +76,6 @@ Steam engines:
 
 Combination Harvester
 
-Device Intergration (needs to be locked to have the device flag)
-	The Undertaking(subways)
-
-Megalith computing
-
 Inn-sewer-ants
 
-reflected-sound-as-of-underground-sprits(economics)
+reflected-sound-as-of-underground-spirits(economics)

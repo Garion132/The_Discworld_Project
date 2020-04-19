@@ -1,3 +1,86 @@
+#weapon production
+spear_production = {
+	limit = { 
+		steel_weaponry = 1 
+	}
+	chance = {
+		base = 20
+		modifier = {
+			factor = 2
+			technology = metallurgic_principles
+		}
+	}
+	effect = {
+		activate_unit = spearmen
+		activate_building = spears_factory 
+	}
+}
+sword_production = {
+	limit = { 
+		steel_weaponry = 1 
+	}
+	chance = {
+		base = 20
+		modifier = {
+			factor = 2
+			technology = metallurgic_principles
+		}
+	}
+	effect = {
+		activate_unit = warriors
+		activate_building = swords_factory 
+	}
+}
+
+micromail = {
+	limit = { dwarf_forged_weaponry = 1 }
+	chance = {
+		base = 0
+		modifier = {
+			factor = 2
+			primary_culture = dwarf
+		}
+	}
+	effect = {
+		infantry = {
+			defence = 1
+		}
+		engineer = {
+			defence = 1
+		}
+		artillery = {
+			defence = 1
+		}
+		dragoon = {
+			defence = 1
+		}
+		hussar = {
+			defence = 1
+		}
+		cuirassier = {
+			defence = 0.5
+		}
+		cavalry = {
+			defence = 0.5
+		}
+		irregular = {
+			defence = 0.5
+		}
+		warriors = {
+			defence = 0.5
+		}
+		spearmen = {
+			defence = 0.5
+		}
+		milita = {
+			defence = 0.5
+		}
+		army_base = {
+			supply_consumption = 0.1
+		}
+	}
+}
+
 #Metulurgy
 ammunition_production = {
 	limit = { 

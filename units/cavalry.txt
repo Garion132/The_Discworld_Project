@@ -31,6 +31,7 @@ cavalry = {
 	supply_consumption = 1.0
 	supply_cost = {
 		wool = 0.2
+		swords = 0.05
 	}
 	
 

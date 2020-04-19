@@ -11,7 +11,7 @@ miltia = {
 	priority = 1
 	max_strength = 2
 	default_organisation = 20
-	maximum_speed = 4.00
+	maximum_speed = 4.50
 	weighted_value = 1.0
 
 
@@ -30,10 +30,10 @@ miltia = {
 	
 
 	#Land Abilties
-	reconnaissance = 0
+	reconnaissance = 0.2
 	attack = 1
 	defence = 1
-	discipline = 0.5
-	support = 0.0
-	maneuver = 1
+	discipline = 0.6
+	support = 0.1
+	maneuver = 1.2
 }

@@ -3,7 +3,7 @@ hand_cranked_power = {
 	area = tech_power
 	year = 3540
 	cost = 3600
-
+	
 	activate_building =  fabric_factory
 	mine_rgo_eff = 0.05
 	farm_rgo_eff = 0.15
@@ -137,7 +137,6 @@ water_wheel_power = {
 	year = 3570
 	cost = 3600
 
-	activate_building =  fabric_factory
 	mine_rgo_eff = 0.05
 	farm_rgo_eff = 0.15
 	ai_chance = {
@@ -272,6 +271,7 @@ simple_production_technquines = {
 	year = 3540
 	cost = 3600
 
+	activate_building = regular_clothes_factory 
 	ai_chance = {
 		factor = 1.5
 		modifier = {
@@ -305,6 +305,8 @@ simple_mechanization = {
 	area = mechanization
 	year = 3555
 	cost = 3600
+	
+	factory_throughput = 0.05
 
 	ai_chance = {
 		factor = 1.5
@@ -340,7 +342,10 @@ weaveries = {
 	year = 3570
 	cost = 3600
 
-	activate_building = regular_clothes_factory 
+
+	rgo_goods_output = {
+		regular_clothes = 0.75
+	}
 	ai_chance = {
 		factor = 1.5
 		modifier = {
@@ -881,8 +886,6 @@ dirt_roads = {
 	area = tech_infrastructure
 	year = 3540
 	cost = 3600
-
-	
 	
 	ai_chance = {
 		factor = 1.5 #1.1
@@ -905,7 +908,6 @@ cobbled_roads = {
 	area = tech_infrastructure
 	year = 3540
 	cost = 3600
-
 	
 	
 	ai_chance = {
@@ -977,7 +979,7 @@ steel_railroad = {
 	year = 3590
 	cost = 14400
 
-	max_railroad = 1 
+	max_railroad = 2
 	ai_chance = {
 		factor = 2
 		modifier = {
@@ -1000,7 +1002,7 @@ integral_rail_system = {
 	year = 3610
 	cost = 18000
 
-	max_railroad = 1
+	max_railroad = 2
 	ai_chance = {
 		factor = 2
 		modifier = {

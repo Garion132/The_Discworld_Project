@@ -98,6 +98,13 @@ dwarfs_group = {
 		radicalism = 5
 		mine_rgo_eff = 0.5
 	}
+	low_dwarfs_group = {
+		color = {248 165 255}
+		first_names = { Hong Feng Shi Li Chen Liu Qiu Sun Soong Liao Xue Zhang Xie Wu Shu Tsai Deng Zhen Huang Ye Yang
+		}
+		last_names = { Xiuquan Yunshan Xiuqing Dakai Yucheng Rengan Zicai Yongfu Fengjia Yatsen
+		}
+	}
 	
 	#union = AGA
 }
@@ -115,19 +122,6 @@ greatoutdoors_group = {
 	}
 	
 	#union = AGA
-}
-
-
-dwarf_cultures = {
-	leader = european
-	is_overseas = no
-	low_dwarfs_group = {
-		color = {248 165 255}
-		first_names = { Hong Feng Shi Li Chen Liu Qiu Sun Soong Liao Xue Zhang Xie Wu Shu Tsai Deng Zhen Huang Ye Yang
-		}
-		last_names = { Xiuquan Yunshan Xiuqing Dakai Yucheng Rengan Zicai Yongfu Fengjia Yatsen
-		}
-	}
 }
 
 morporkian = {
@@ -723,6 +717,104 @@ uberwalder = {
 		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
 		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
 	}
+	upper_uberwaldian = { #
+		color = { 54 56 55}
+		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
+		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
+		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
+		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
+		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
+		
+		last_names = { Allenby Battemberg Beatty Beresford Brown Buller Butler Campbell Cardigan Churchill
+		Cochrane Cockburn "de Robeck" Dundas Fisher French Gough Grant Grenfell Haig
+		Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery
+		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
+		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
+	}
+	outer_uberwaldian = { #
+		color = { 134 96 95}
+		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
+		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
+		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
+		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
+		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
+		
+		last_names = { Allenby Battemberg Beatty Beresford Brown Buller Butler Campbell Cardigan Churchill
+		Cochrane Cockburn "de Robeck" Dundas Fisher French Gough Grant Grenfell Haig
+		Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery
+		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
+		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
+	}
+	rheinthalian = { #
+		color = { 114 116 115}
+		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
+		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
+		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
+		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
+		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
+		
+		last_names = { Allenby Battemberg Beatty Beresford Brown Buller Butler Campbell Cardigan Churchill
+		Cochrane Cockburn "de Robeck" Dundas Fisher French Gough Grant Grenfell Haig
+		Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery
+		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
+		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
+	}
+	varnith = { #
+		color = { 94 136 95}
+		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
+		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
+		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
+		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
+		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
+		
+		last_names = { Allenby Battemberg Beatty Beresford Brown Buller Butler Campbell Cardigan Churchill
+		Cochrane Cockburn "de Robeck" Dundas Fisher French Gough Grant Grenfell Haig
+		Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery
+		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
+		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
+	}
+	dlinzer = { #
+		color = { 114 76 75}
+		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
+		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
+		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
+		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
+		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
+		
+		last_names = { Allenby Battemberg Beatty Beresford Brown Buller Butler Campbell Cardigan Churchill
+		Cochrane Cockburn "de Robeck" Dundas Fisher French Gough Grant Grenfell Haig
+		Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery
+		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
+		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
+	}
+	vieuxish = { #
+		color = { 74 116 75}
+		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
+		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
+		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
+		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
+		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
+		
+		last_names = { Allenby Battemberg Beatty Beresford Brown Buller Butler Campbell Cardigan Churchill
+		Cochrane Cockburn "de Robeck" Dundas Fisher French Gough Grant Grenfell Haig
+		Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery
+		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
+		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
+	}
+	lipswiger = { #
+		color = { 74 76 115}
+		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
+		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
+		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
+		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
+		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
+		
+		last_names = { Allenby Battemberg Beatty Beresford Brown Buller Butler Campbell Cardigan Churchill
+		Cochrane Cockburn "de Robeck" Dundas Fisher French Gough Grant Grenfell Haig
+		Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery
+		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
+		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
+	}
 	vampyre = { #vampires
 		color = { 145 34 42}
 		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
@@ -942,7 +1034,7 @@ hublands = {
 		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
 		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
 	}
-	hergen = { #
+	hergen = { #sweden
 		color = { 128 32 80}
 		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
 		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
