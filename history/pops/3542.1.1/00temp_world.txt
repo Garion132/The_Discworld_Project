@@ -7,7 +7,17 @@
 	capitalists = {
 		culture = morporkian
 		religion = ioism
-		size = 40
+		size = 80
+	}
+	capitalists = {
+		culture = dwarf
+		religion = tak
+		size = 3
+	}
+	capitalists = {
+		culture = morporkian
+		religion = catholic
+		size = 6
 	}
 	officers = {
 		culture = morporkian
@@ -77,7 +87,7 @@
 	soldiers = {
 		culture = morporkian
 		religion = ioism
-		size = 5000
+		size = 10000
 	}
 	labourers = {
 		culture = dwarf
@@ -2226,22 +2236,37 @@
     farmers = {
 		culture = ephebian
 		religion = ephebic
-		size = 8700
+		size = 9700
 	}
 	soldiers = {
 		culture = ephebian
 		religion = ephebic
-		size = 4500
+		size = 5500
 	}
 	artisans = {
 		culture = ephebian
 		religion = ephebic
-		size = 4000
+		size = 7000
+	}
+	artisans = {
+		culture = ephebian
+		religion = ephebic
+		size = 6000
 	}
 	slaves = {
 		culture = ephebian
 		religion = ephebic
 		size = 19000
+	}
+	aristocrats = {
+		culture = ephebian
+		religion = ephebic
+		size = 50
+	}
+	officers = {
+		culture = ephebian
+		religion = ephebic
+		size = 10
 	}
 	bureaucrats = {
 		culture = ephebian
@@ -2251,7 +2276,7 @@
 	clergymen = {
 		culture = ephebian
 		religion = ephebic
-		size = 500
+		size = 1000
 	}
     }
 295={
@@ -2478,6 +2503,11 @@
 		religion = catholic
 		size = 200
 	}
+	officers = {
+		culture = tsortian
+		religion = catholic
+		size = 10
+	}
 	soldiers = {
 		culture = tsortian
 		religion = catholic
@@ -2602,7 +2632,7 @@
 	farmers = {
 		culture = sirritian
 		religion = catholic
-		size = 500
+		size = 1970
 	}
     }
 351={
@@ -3062,28 +3092,33 @@
         farmers = {
 		culture = ur_culture
 		religion = catholic
-		size = 500
+		size = 2400
 	}
     }
 388={
-        farmers = {
+    farmers = {
 		culture = ur_culture
 		religion = catholic
-		size = 500
+		size = 3100
+	}
+	soldiers = {
+		culture = ur_culture
+		religion = catholic
+		size = 1250
 	}
     }
 389={
         farmers = {
 		culture = ur_culture
 		religion = catholic
-		size = 500
+		size = 1900
 	}
     }
 390={
         farmers = {
 		culture = ur_culture
 		religion = catholic
-		size = 500
+		size = 2500
 	}
     }
 391={
@@ -3158,7 +3193,7 @@
         farmers = {
 		culture = sirritian
 		religion = catholic
-		size = 500
+		size = 1890
 	}
     }
 396={
@@ -3264,10 +3299,15 @@
 	}
     }
 404={
-        farmers = {
+    farmers = {
 		culture = sumtrian
 		religion = catholic
-		size = 500
+		size = 9700
+	}
+	soldiers = {
+		culture = sumtrian
+		religion = catholic
+		size = 2700
 	}
     }
 405={
@@ -3314,7 +3354,7 @@
 	}
     }
 411={
-        farmers = {
+     farmers = {
 		culture = orohaian
 		religion = catholic
 		size = 500
@@ -3451,12 +3491,22 @@
 	aristocrats = {
 		culture = genuan
 		religion = catholic
-		size = 150
+		size = 250
+	}
+	capitalists = {
+		culture = genuan
+		religion = catholic
+		size = 3
 	}
 	clergymen = {
 		culture = genuan
 		religion = catholic
-		size = 120
+		size = 620
+	}
+	officers = {
+		culture = genuan
+		religion = catholic
+		size = 50
 	}
 	soldiers = {
 		culture = genuan
@@ -3471,7 +3521,7 @@
 	artisans = {
 		culture = morporkian
 		religion = catholic
-		size = 100
+		size = 200
 	}
     }
 419={
@@ -7629,84 +7679,84 @@
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 500
+		size = 1500
 	}
 }
 887={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 500
+		size = 1700
 	}
 }
 888={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 500
+		size = 2100
 	}
 }
 889={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 500
+		size = 1950
 	}
 }
 890={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 500
+		size = 980
 	}
 }
 891={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 500
+		size = 1300
 	}
 }
 892={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 500
+		size = 1500
 	}
 }
 893={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 500
+		size = 2100
 	}
 }
 894={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 500
+		size = 2900
 	}
 }
 895={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 500
+		size = 1500
 	}
 }
 896={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 500
+		size = 3100
 	}
 }
 897={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 500
+		size = 2400
 	}
 }
 898={
@@ -7745,6 +7795,11 @@
 		culture = genuan
 		religion = catholic
 		size = 230
+	}
+	soldiers = {
+		culture = genuan
+		religion = catholic
+		size = 1180
 	}
 }
 902={
@@ -14126,45 +14181,45 @@
 }
 
 2012={
-        farmers = {
+    farmers = {
 		culture = sumtrian
 		religion = catholic
-		size = 500
+		size = 5400
 	}
 }
 2013={
-        farmers = {
+    farmers = {
 		culture = sumtrian
 		religion = catholic
-		size = 500
+		size = 4700
 	}
 }
 2014={
-        farmers = {
+    farmers = {
 		culture = sumtrian
 		religion = catholic
-		size = 500
+		size = 8100
 	}
 }
 2015={
-        farmers = {
+    farmers = {
 		culture = sumtrian
 		religion = catholic
-		size = 500
+		size = 6100
 	}
 }
 2016={
-        farmers = {
+    farmers = {
 		culture = sumtrian
 		religion = catholic
-		size = 500
+		size = 3900
 	}
 }
 2017={
-        farmers = {
+	farmers = {
 		culture = sumtrian
 		religion = catholic
-		size = 500
+		size = 4600
 	}
 }
 2018={

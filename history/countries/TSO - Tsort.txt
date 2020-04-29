@@ -33,6 +33,8 @@ school_reforms = low_schools
 # Inventions
 #corvettes = yes
 
+oob = "TSO_oob.txt"
+
 # Starting Consciousness
 consciousness = 3
 nonstate_consciousness = 1

@@ -1,2 +1,5 @@
-trade_goods = fish
+owner = SUM
+controller = SUM
+add_core = SUM
+trade_goods = tobacco
 life_rating = 5

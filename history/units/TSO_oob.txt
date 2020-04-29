@@ -1,2 +1,31 @@
+army = {
+	name = "Army of Tsort"
+	location = 337
+	regiment = {
+		name= "1st Infantry"
+		type = miltia
+		home = 337
+	}
+	regiment = {
+		name= "2nd Infantry"
+		type = miltia
+		home = 338
+	}
+	regiment = {
+		name= "3rd Infantry"
+		type = miltia
+		home = 339
+	}
+	regiment = {
+		name= "4th Infantry"
+		type = miltia
+		home = 340
+	}
+	regiment = {
+		name= "5th Infantry"
+		type = miltia
+		home = 337
+	}
+}
 
 
