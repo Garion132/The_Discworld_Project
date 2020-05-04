@@ -1,2 +1,5 @@
+owner = SDW
+controller = SDW
+add_core = SDW
 trade_goods = grain
 life_rating = 50
