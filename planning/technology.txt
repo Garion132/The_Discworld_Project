@@ -1,30 +1,30 @@
-	micromail
+	micromail✔
 	
-Magical education:
-	Golem self ownership movement
-	Golem Reclamation
+Magical education:✔
+	Golem self ownership movement✔
+	Golem Reclamation✔
 
-Public Magical Devices:
-	Omniscope
-	Broomstick Chartering
+Public Magical Devices:✔
+	Omniscope✔
+	Broomstick Chartering✔
 
-Impology:
-	moving pictures
-	iconograph
-	Imp Timepieces
-	Dis-Organisers MkI
-	Dis-Organisers MkII
-	Dis-Organisers MkV
+Impology:✔
+	moving pictures✔
+	iconograph✔
+	Imp Timepieces✔
+	Dis-Organisers MkI✔
+	Dis-Organisers MkII✔
+	Dis-Organisers MkV✔
 	
-Modern_Golemancy:
-	Golem backed dollar
-	Golem firefighting services
-	Golem Construction
+Modern_Golemancy:✔
+	Golem backed dollar✔
+	Golem firefighting services✔
+	Golem Construction✔
 	
-Megalith computing
+Megalith computing✔
 	
-Device Integration (needs to be locked to have the device flag)
-	The Undertaking(subways)
+Device Integration (needs to be locked to have the device flag)✔
+	The Undertaking(subways)✔
 
 
 
@@ -47,20 +47,20 @@ Mechanical theory:
 	Watchmaking
 
 
-Quisition
+Quisition✔
 
-racial outreach:
-	Black Ribbon Movement
+racial outreach:✔
+	Black Ribbon Movement✔
 	
-Goblin Liberation:
-	Goblin music
-	Goblin Engraving
+Goblin Liberation:✔
+	Goblin music✔
+	Goblin Engraving✔
 	
-Orc Acceptance
+Orc Acceptance✔
 
 Music With Rocks In
 
-
+*comunication
 Printing press:
 	Stamps
 
@@ -69,12 +69,15 @@ Clacks:
 	dual phase clacks
 	Goblin crews
 
+
 Steam engines:
 	Iron girder
 	Railways
 	Ankh-Morpork and Sto Plains Hygienic Railway
 
 Combination Harvester
+
+*economics
 
 Inn-sewer-ants
 

@@ -118,7 +118,7 @@
 	}
     }
 236={
-        farmers = {
+    farmers = {
 		culture = istanzian
 		religion = catholic
 		size = 9430
@@ -126,7 +126,7 @@
 	soldiers = {
 		culture = istanzian
 		religion = omnianism
-		size = 35200
+		size = 3520
 	}
     }
 237={

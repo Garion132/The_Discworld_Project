@@ -4412,41 +4412,51 @@
 	}
     }
 500={
-        farmers = {
+    farmers = {
 		culture = laotani
 		religion = catholic
-		size = 500
+		size = 2400
+	}
+	soldiers = {
+		culture = laotani
+		religion = catholic
+		size = 800
 	}
     }
 501={
-        farmers = {
+    farmers = {
 		culture = laotani
 		religion = catholic
-		size = 500
+		size = 4100
+	}
+	soldiers = {
+		culture = laotani
+		religion = catholic
+		size = 1200
 	}
     }
 502={
-        farmers = {
+    farmers = {
 		culture = bewe
 		religion = catholic
-		size = 500
+		size = 1100
 	}
 	farmers = {
 		culture = laotani
 		religion = catholic
-		size = 1000
+		size = 2900
 	}
     }
 503={
-        farmers = {
+    farmers = {
 		culture = bewe
 		religion = catholic
-		size = 500
+		size = 100
 	}
 	farmers = {
 		culture = laotani
 		religion = catholic
-		size = 1000
+		size = 1400
 	}
     }
 580={
@@ -11263,6 +11273,11 @@
 		religion = catholic
 		size = 3600
 	}
+	farmers = {
+		culture = dwarf
+		religion = tak
+		size = 1780
+	}
 }
 1612={
 	farmers = {
@@ -11270,12 +11285,22 @@
 		religion = catholic
 		size = 1800
 	}
+	farmers = {
+		culture = dwarf
+		religion = tak
+		size = 2400
+	}
 }
 1613={
 	farmers = {
 		culture = llamedos
 		religion = catholic
 		size = 2350
+	}
+	farmers = {
+		culture = dwarf
+		religion = tak
+		size = 2100
 	}
 }
 1614={
@@ -11291,17 +11316,37 @@
 		religion = catholic
 		size = 1400
 	}
+	farmers = {
+		culture = dwarf
+		religion = tak
+		size = 2350
+	}
 }
 1616={
 	farmers = {
 		culture = llamedos
 		religion = catholic
-		size = 2480
+		size = 3480
+	}
+	soldiers = {
+		culture = llamedos
+		religion = catholic
+		size = 1180
 	}
 	clergymen = {
 		culture = llamedos
 		religion = catholic
 		size = 360
+	}
+	farmers = {
+		culture = dwarf
+		religion = tak
+		size = 1900
+	}
+	artisans = {
+		culture = llamedos
+		religion = catholic
+		size = 980
 	}
 }
 1617={
@@ -11316,6 +11361,11 @@
 		culture = llamedos
 		religion = catholic
 		size = 2460
+	}
+	farmers = {
+		culture = dwarf
+		religion = tak
+		size = 1700
 	}
 }
 1619={
