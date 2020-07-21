@@ -1,0 +1,40 @@
+#
+country_event = {
+
+	id = 38000  
+
+	trigger = {
+		OR={
+			tag = BOR 
+			tag = MOU 
+			tag = ZLO 
+		}
+		NOT = {
+			soldiers = 0.05
+		}
+	}
+ 
+	mean_time_to_happen =  {
+		months = 6
+
+	}
+
+	title = "EVTNAME36900"
+	desc = "EVTDESC36900"
+	picture = "Administration"
+
+	option = {
+		name = "EVTOPTA38000" 
+		any_state={
+			limit={
+				is_core = ROOT
+			}
+			any_pop={
+				limit={
+					type = soldiers
+				}
+				reduce_pop = 0.75
+			}
+		}
+	}
+}

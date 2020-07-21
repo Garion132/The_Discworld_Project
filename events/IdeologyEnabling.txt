@@ -15,7 +15,7 @@ country_event = {
 		NOT = {
 			is_ideology_enabled = socialist 
 		}
-		year = 1860
+		year = 3600
 		civilized = yes
 		literacy = 0.4
 		OR = {
@@ -85,7 +85,7 @@ country_event = {
 		NOT = {
 			is_ideology_enabled = communist 
 		}
-		year = 1870
+		year = 3610
 		civilized = yes
 		literacy = 0.5
 		OR = {
@@ -145,7 +145,7 @@ country_event = {
 		NOT = {
 			is_ideology_enabled = anarcho_liberal 
 		}
-		year = 1848
+		year = 3600
 		civilized = yes
 		literacy = 0.65
 		OR = {
@@ -188,7 +188,7 @@ country_event = {
 			is_ideology_enabled = fascist 
 		}
 		
-		year = 1905 
+		year = 3570
 		literacy = 0.65
 		civilized = yes
 		OR = {

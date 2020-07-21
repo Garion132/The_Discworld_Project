@@ -354,15 +354,15 @@
 	}
     }
 10={
-        farmers = {
+    farmers = {
 		culture = morporkian
 		religion = catholic
-		size = 1000
+		size = 1800
 	}
 	artisans = {
 		culture = morporkian
 		religion = catholic
-		size = 200
+		size = 360
 	}
     }
 11={
@@ -378,10 +378,15 @@
 	}
     }
 12={
-        farmers = {
+    farmers = {
 		culture = morporkian
 		religion = catholic
-		size = 1000
+		size = 3800
+	}
+	soldiers = {
+		culture = morporkian
+		religion = catholic
+		size = 1260
 	}
     }
 13={
@@ -837,7 +842,7 @@
 	farmers = {
 		culture = sto_plainer
 		religion = catholic
-		size = 350
+		size = 750
 	}
     }
 61={
@@ -849,98 +854,103 @@
 	farmers = {
 		culture = sto_plainer
 		religion = catholic
-		size = 290
+		size = 590
 	}
     }
 62={
         farmers = {
 		culture = quirmian
 		religion = catholic
-		size = 500
+		size = 1450
 	}
     }
 63={
         farmers = {
 		culture = quirmian
 		religion = catholic
-		size = 500
+		size = 1365
 	}
     }
 64={
         farmers = {
 		culture = quirmian
-		religion = catholic
-		size = 500
+		religion= catholic
+		size = 2461
 	}
     }
 65={
         farmers = {
 		culture = quirmian
 		religion = catholic
-		size = 500
+		size = 2130
 	}
     }
 66={
         farmers = {
 		culture = quirmian
 		religion = catholic
-		size = 500
+		size = 1870
 	}
     }
 67={
         farmers = {
 		culture = quirmian
 		religion = catholic
-		size = 500
+		size = 1640
 	}
     }
 68={
-        farmers = {
+    farmers = {
 		culture = quirmian
 		religion = catholic
-		size = 500
+		size = 940
 	}
     }
 69={
         farmers = {
 		culture = quirmian
 		religion = catholic
-		size = 500
+		size = 1360
 	}
     }
 70={
         farmers = {
 		culture = quirmian
 		religion = catholic
-		size = 500
+		size = 1260
 	}
     }
 71={
         farmers = {
 		culture = quirmian
 		religion = catholic
-		size = 500
+		size = 1580
 	}
     }
 72={
         farmers = {
 		culture = quirmian
 		religion = catholic
-		size = 500
+		size = 3650
 	}
     }
 73={
-        farmers = {
+    farmers = {
 		culture = quirmian
 		religion = catholic
-		size = 500
+		size = 3960
+	}
+	soldiers = {
+		culture = quirmian
+		religion = catholic
+		size = 1190
 	}
     }
 74={
         farmers = {
 		culture = quirmian
 		religion = catholic
-		size = 500
+		size = 1860
 	}
     }
 75={
@@ -1041,7 +1051,7 @@
 	soldiers = {
 		culture = quirmian
 		religion = catholic
-		size = 4500
+		size = 7500
 	}
 }
 83={
@@ -14585,5 +14595,17 @@
 		culture = hergen
 		religion = catholic
 		size = 500
+	}
+}
+2062={
+	farmers = {
+		culture = borogravian
+		religion = nugganite
+		size = 2506
+	}
+	soldiers = {
+		culture = borogravian
+		religion = nugganite
+		size = 1209
 	}
 }

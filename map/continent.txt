@@ -883,6 +883,7 @@ uberwald = {
 1204
 1205
 1206
+2062
 	}
 	assimilation_rate = -0.25
 }

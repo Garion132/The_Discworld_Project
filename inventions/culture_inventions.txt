@@ -20,6 +20,28 @@ socialist_realism = {
 		shared_prestige = 25 
 	}
 }
+communist = {
+	limit = { mass_culture_n_the_avant_garde = 1 }
+	news = no
+	chance = {
+		base = 2
+		modifier = {
+			factor = 2
+			government = proletarian_dictatorship
+		}
+		modifier = {
+			factor = 2
+			ruling_party_ideology = socialist
+		}
+		modifier = {
+			factor = 2
+			invention = dogma_of_mass_action
+		}
+	}
+	effect = {
+		shared_prestige = 25 
+	}
+}
 #magical_education
 
 golem_self_ownership_movement = {
