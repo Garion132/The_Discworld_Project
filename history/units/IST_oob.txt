@@ -13,7 +13,7 @@ army = {
 	}
 	regiment = {
 		name= "1st Light Foot"
-		type = spearmen
+		type = armored_footmen
 		home = 230
 	}
 }

@@ -29,12 +29,12 @@ army = {
 	}
 	regiment = {
 		name= "3rd Infantry"
-		type = spearmen
+		type = armored_footmen
 		home = 409
 	}
 	regiment = {
 		name= "4th Infantry"
-		type = spearmen
+		type = armored_footmen
 		home = 409
 	}
 	regiment = {
@@ -53,12 +53,12 @@ army = {
 	}
 	regiment = {
 		name= "2nd Infantry"
-		type = spearmen
+		type = armored_footmen
 		home = 930
 	}
 	regiment = {
 		name= "3rd Infantry"
-		type = spearmen
+		type = armored_footmen
 		home = 932
 	}
 }

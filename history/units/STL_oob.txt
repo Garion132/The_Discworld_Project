@@ -8,7 +8,7 @@ army = {
 	}
 	regiment = {
 		name= "1. Spears"
-		type = spearmen
+		type = armored_footmen
 		home = 40
 	}
 	regiment = {

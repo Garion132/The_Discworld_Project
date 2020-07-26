@@ -18,13 +18,12 @@ miltia = {
 	#Building Costs
 	build_time = 20
 	build_cost = {
-		swords = 2
+		wool = 2
 		spears = 2
 	}
 	
 	supply_consumption = 0.8
 	supply_cost = {
-		swords = 0.075
 		spears = 0.075
 	}
 	
@@ -32,8 +31,8 @@ miltia = {
 	#Land Abilties
 	reconnaissance = 0.2
 	attack = 1
-	defence = 1
-	discipline = 0.6
+	defence = 1.5
+	discipline = 0.7
 	support = 0.1
 	maneuver = 1.2
 }

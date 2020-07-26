@@ -872,24 +872,49 @@
 	}
     }
 64={
-        farmers = {
+    farmers = {
 		culture = quirmian
 		religion= catholic
 		size = 2461
 	}
+	farmers = {
+		culture = sto_plainer
+		religion= catholic
+		size = 890
+	}
+	artisans = {
+		culture = sto_plainer
+		religion= catholic
+		size = 570
+	}
+	soldiers = {
+		culture = sto_plainer
+		religion= catholic
+		size = 1100
+	}
     }
 65={
-        farmers = {
+    farmers = {
 		culture = quirmian
 		religion = catholic
-		size = 2130
+		size = 2930
+	}
+	farmers = {
+		culture = sto_plainer
+		religion= catholic
+		size = 1840
 	}
     }
 66={
-        farmers = {
+    farmers = {
 		culture = quirmian
 		religion = catholic
 		size = 1870
+	}
+	farmers = {
+		culture = sto_plainer
+		religion= catholic
+		size = 2050
 	}
     }
 67={
@@ -10267,31 +10292,36 @@
     farmers = {
 		culture = tezuman
 		religion = quezovercoatl
-		size = 1500
+		size = 1800
 	}
 	slaves = {
 		culture = tezuman
 		religion = quezovercoatl
-		size = 3000
+		size = 3300
 	}
 }
 1354={
     farmers = {
 		culture = tezuman
 		religion = quezovercoatl
-		size = 1500
+		size = 2100
 	}
 	slaves = {
 		culture = tezuman
 		religion = quezovercoatl
-		size = 3000
+		size = 3700
 	}
 }
 1355={
     farmers = {
 		culture = tezuman
 		religion = quezovercoatl
-		size = 2800
+		size = 3800
+	}
+	soldiers = {
+		culture = tezuman
+		religion = quezovercoatl
+		size = 1450
 	}
 	slaves = {
 		culture = tezuman
@@ -10640,7 +10670,12 @@
     farmers = {
 		culture = tezuman
 		religion = quezovercoatl
-		size = 1500
+		size = 1800
+	}
+	soldiers = {
+		culture = tezuman
+		religion = quezovercoatl
+		size = 1100
 	}
 	slaves = {
 		culture = tezuman
@@ -10649,10 +10684,15 @@
 	}
 }
 1385={
-    farmers = {
+     farmers = {
 		culture = tezuman
 		religion = quezovercoatl
-		size = 500
+		size = 1800
+	}
+	soldiers = {
+		culture = tezuman
+		religion = quezovercoatl
+		size = 1100
 	}
 	slaves = {
 		culture = tezuman
@@ -10664,7 +10704,7 @@
     farmers = {
 		culture = tezuman
 		religion = quezovercoatl
-		size = 1500
+		size = 1900
 	}
 	slaves = {
 		culture = tezuman
@@ -10676,7 +10716,7 @@
     farmers = {
 		culture = tezuman
 		religion = quezovercoatl
-		size = 1500
+		size = 1700
 	}
 	slaves = {
 		culture = tezuman
@@ -10688,7 +10728,7 @@
     farmers = {
 		culture = tezuman
 		religion = quezovercoatl
-		size = 1500
+		size = 1900
 	}
 	slaves = {
 		culture = tezuman
@@ -10705,19 +10745,24 @@
     labourers = {
 		culture = tezuman
 		religion = quezovercoatl
-		size = 1500
+		size = 2600
+	}
+	soldiers = {
+		culture = tezuman
+		religion = quezovercoatl
+		size = 1100
 	}
 }
 1390={
     farmers = {
 		culture = tezuman
 		religion = quezovercoatl
-		size = 1500
+		size = 3100
 	}
 	slaves = {
 		culture = tezuman
 		religion = quezovercoatl
-		size = 3000
+		size = 4000
 	}
 }
 1391={

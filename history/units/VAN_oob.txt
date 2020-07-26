@@ -3,12 +3,12 @@ army = {
 	location = 738
 	regiment = {
 		name= "1st Varneval infantry"
-		type = spearmen
+		type = armored_footmen
 		home = 741
 	}
 	regiment = {
 		name= "2nd Varneval infantry"
-		type = spearmen
+		type = armored_footmen
 		home = 738
 	}
 	regiment = {

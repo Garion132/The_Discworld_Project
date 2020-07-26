@@ -25,13 +25,15 @@ cavalry = {
 		armor = 1
 		wool = 15
 		wine = 10
-		swords = 5
+		swords = 2
+		spears = 2
 	}
 	
 	supply_consumption = 1.0
 	supply_cost = {
 		wool = 0.2
-		swords = 0.05
+		swords = 0.025
+		spears = 0.025
 	}
 	
 

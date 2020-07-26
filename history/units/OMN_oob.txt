@@ -39,12 +39,12 @@ army = {
 	}
 	regiment = {
 		name= "4.Divine Legion"
-		type = spearmen
+		type = armored_footmen
 		home = 270
 	}
 	regiment = {
 		name= "5.Divine Legion"
-		type = spearmen
+		type = armored_footmen
 		home = 273
 	}
 }

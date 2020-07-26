@@ -3,7 +3,7 @@ army = {
 	location = 82
 	regiment = {
 		name= "Middleweight Infantry Regiment"
-		type = spearmen
+		type = armored_footmen
 		home = 82
 	}
 	regiment = {

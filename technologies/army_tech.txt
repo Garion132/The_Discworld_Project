@@ -355,7 +355,7 @@ high_grade_steel_weaponry = {
 	warriors = {
 		attack = 0.25
 	}
-	spearmen = {
+	armored_footmen = {
 		attack = 0.25
 	}
 	miltia = {
@@ -405,7 +405,7 @@ dwarf_forged_weaponry = {#gonnes
 	warriors = {
 		attack = 0.25
 	}
-	spearmen = {
+	armored_footmen = {
 		attack = 0.25
 	}
 	miltia = {

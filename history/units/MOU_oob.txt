@@ -3,7 +3,7 @@ army = {
 	location = 586
 	regiment = {
 		name= "1st Mouldavian Spears"
-		type = spearmen
+		type = armored_footmen
 		home = 586
 	}
 	regiment = {
@@ -18,27 +18,27 @@ army = {
 	}
 	regiment = {
 		name= "2nd Mouldavian Spears"
-		type = spearmen
+		type = armored_footmen
 		home = 585
 	}
 	regiment = {
 		name= "3rd Mouldavian Spears"
-		type = spearmen
+		type = armored_footmen
 		home = 583
 	}
 	regiment = {
 		name= "4th Mouldavian Spears"
-		type = spearmen
+		type = armored_footmen
 		home = 584
 	}
 	regiment = {
 		name= "5th Mouldavian Spears"
-		type = spearmen
+		type = armored_footmen
 		home = 587
 	}
 	regiment = {
 		name= "6th Mouldavian Spears"
-		type = spearmen
+		type = armored_footmen
 		home = 582
 	}
 }

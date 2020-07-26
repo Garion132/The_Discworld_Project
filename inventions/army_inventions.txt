@@ -1,4 +1,19 @@
 #weapon production
+armor_production = {
+	limit = { 
+		high_grade_steel_weaponry = 1 
+	}
+	chance = {
+		base = 20
+		modifier = {
+			factor = 2
+			technology = metallurgic_principles
+		}
+	}
+	effect = {
+		activate_unit = armored_footmen 
+	}
+}
 spear_production = {
 	limit = { 
 		steel_weaponry = 1 
@@ -11,7 +26,6 @@ spear_production = {
 		}
 	}
 	effect = {
-		activate_unit = spearmen
 		activate_building = spears_factory 
 	}
 }
@@ -29,6 +43,22 @@ sword_production = {
 	effect = {
 		activate_unit = warriors
 		activate_building = swords_factory 
+	}
+}
+
+cavalry_training = {
+	limit = { 
+		steel_weaponry = 1 
+	}
+	chance = {
+		base = 20
+		modifier = {
+			factor = 2
+			technology = metallurgic_principles
+		}
+	}
+	effect = {
+		activate_unit = cavalry
 	}
 }
 
@@ -69,7 +99,7 @@ micromail = {
 		warriors = {
 			defence = 0.5
 		}
-		spearmen = {
+		armored_footmen = {
 			defence = 0.5
 		}
 		milita = {
