@@ -1,5 +1,5 @@
-capital = 374
-primary_culture = klatchian
+capital = 357
+primary_culture = dregs
 religion = protestant
 government = absolute_monarchy
 plurality = 30
@@ -29,6 +29,7 @@ pensions = no_pensions
 school_reforms = low_schools
 
 # Technologies
+steel_weaponry = 1
 
 # Inventions
 #corvettes = yes
@@ -37,7 +38,7 @@ school_reforms = low_schools
 consciousness = 3
 nonstate_consciousness = 1
 
-ruling_party = YMI_conservative
+ruling_party = DRG_conservative
 upper_house = {
 	fascist = 0
 	liberal = 12

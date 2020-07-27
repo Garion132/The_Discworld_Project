@@ -859,12 +859,16 @@ sheep_ranch = {
 	output_goods = wool 
 	value = 10
 	farm = yes
+	bonus = {
+		trigger = { culture = llamedos}
+		value = 1.25
+	}
 }
 
 silkworm_ranch = {
 	template = RGO_template_farmers
 	output_goods = silk 
-	value = 1.25
+	value = 2.25
 	farm = yes
 }
 

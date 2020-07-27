@@ -2751,7 +2751,7 @@
     farmers = {
 		culture = klatchian
 		religion = catholic
-		size = 8100
+		size = 12100
 	}
     }
 355={
@@ -2782,7 +2782,12 @@
 	farmers = {
 		culture = dregs
 		religion = catholic
-		size = 3400
+		size = 4400
+	}
+	soldiers = {
+		culture = dregs
+		religion = catholic
+		size = 3900
 	}
     }
 358={
@@ -2799,7 +2804,7 @@
 	soldiers = {
 		culture = dregs
 		religion = catholic
-		size = 1000
+		size = 1400
 	}
     }
 359={
@@ -2952,6 +2957,40 @@
 	farmers = {
 		culture = klatchian
 		religion = catholic
+		size = 2200
+	}
+	artisans = {
+		culture = klatchian
+		religion = catholic
+		size = 600
+	}
+	soldiers = {
+		culture = klatchian
+		religion = catholic
+		size = 1050
+	}
+    }
+373={
+	farmers = {
+		culture = klatchian
+		religion = catholic
+		size = 2960
+	}
+	soldiers = {
+		culture = klatchian
+		religion = catholic
+		size = 1100
+	}
+	artisans = {
+		culture = klatchian
+		religion = catholic
+		size = 450
+	}
+    }
+374={
+	farmers = {
+		culture = klatchian
+		religion = catholic
 		size = 7900
 	}
 	soldiers = {
@@ -2968,30 +3007,6 @@
 		culture = klatchian
 		religion = catholic
 		size = 80
-	}
-    }
-373={
-	farmers = {
-		culture = klatchian
-		religion = catholic
-		size = 960
-	}
-    }
-374={
-	farmers = {
-		culture = klatchian
-		religion = catholic
-		size = 2200
-	}
-	artisans = {
-		culture = klatchian
-		religion = catholic
-		size = 600
-	}
-	soldiers = {
-		culture = klatchian
-		religion = catholic
-		size = 1050
 	}
     }
 375={
@@ -3029,6 +3044,11 @@
     }
 379={
 	farmers = {
+		culture = dregs
+		religion = catholic
+		size = 2230
+	}
+	soldiers = {
 		culture = dregs
 		religion = catholic
 		size = 1090
@@ -3099,7 +3119,12 @@
     labourers = {
 		culture = dregs
 		religion = catholic
-		size = 980
+		size = 3980
+	}
+	soldiers = {
+		culture = dregs
+		religion = catholic
+		size = 1324
 	}
     }
 384={
@@ -3225,10 +3250,15 @@
 	}
     }
 395={
-        farmers = {
+     farmers = {
 		culture = sirritian
 		religion = catholic
-		size = 1890
+		size = 2890
+	}
+	soldiers = {
+		culture = sirritian
+		religion = catholic
+		size = 1190
 	}
     }
 396={
@@ -3422,6 +3452,11 @@
 		culture = innish
 		religion = catholic
 		size = 3640
+	}
+	soldiers = {
+		culture = innish
+		religion = catholic
+		size = 2100
 	}
     }
 414={
@@ -5129,7 +5164,7 @@
 	soldiers = {
 		culture = zlobenian
 		religion = nugganite
-		size = 3500
+		size = 6500
 	}
 	aristocrats = {
 		culture = zlobenian
@@ -10845,7 +10880,22 @@
     farmers = {
 		culture = klatchian
 		religion = catholic
-		size = 1100
+		size = 4100
+	}
+	farmers = {
+		culture = dwarf
+		religion = tak
+		size = 3100
+	}
+	soldiers = {
+		culture = dwarf
+		religion = tak
+		size = 2100
+	}
+	artisans = {
+		culture = dwarf
+		religion = tak
+		size = 820
 	}
 }
 1472={
@@ -11257,7 +11307,7 @@
 		religion = nugganite
 		size = 1000
 	}
-        farmers = {
+    farmers = {
 		culture = zlobenian
 		religion = nugganite
 		size = 750
@@ -11267,14 +11317,19 @@
 	farmers = {
 		culture = llamedos
 		religion = catholic
-		size = 1300
+		size = 3900
+	}
+	artisans = {
+		culture = llamedos
+		religion = catholic
+		size = 420
 	}
 }
 1605={
 	farmers = {
 		culture = llamedos
 		religion = catholic
-		size = 1780
+		size = 2780
 	}
 }
 1606={
@@ -11300,7 +11355,17 @@
 	farmers = {
 		culture = llamedos
 		religion = catholic
-		size = 3100
+		size = 6100
+	}
+	soldiers = {
+		culture = llamedos
+		religion = catholic
+		size = 1300
+	}
+	clergymen = {
+		culture = llamedos
+		religion = catholic
+		size = 183
 	}
 }
 1609={
@@ -11835,7 +11900,7 @@
 	farmers = {
 		culture = klatchistanian
 		religion = catholic
-		size = 15300
+		size = 5300
 	}
 }
 1685={
@@ -14099,42 +14164,47 @@
         farmers = {
 		culture = iram
 		religion = catholic
-		size = 2050
+		size = 3050
 	}
 }
 1986={
         farmers = {
 		culture = mouldavian
 		religion = catholic
-		size = 1800
+		size = 2800
 	}
 }
 1987={
-        farmers = {
+    farmers = {
 		culture = innish
 		religion = catholic
-		size = 1920
+		size = 2920
 	}
 }
 1988={
-        farmers = {
+	farmers = {
 		culture = mouldavian
 		religion = catholic
-		size = 1750
+		size = 4750
+	}
+	soldiers = {
+		culture = innish
+		religion = catholic
+		size = 1250
 	}
 }
 1989={
-        farmers = {
+    farmers = {
 		culture = innish
 		religion = catholic
-		size = 2100
+		size = 3100
 	}
 }
 1990={
-        farmers = {
+    farmers = {
 		culture = mouldavian
 		religion = catholic
-		size = 1740
+		size = 2740
 	}
 }
 1991={
@@ -14194,17 +14264,22 @@
 	}
 }
 1999={
-        farmers = {
+    farmers = {
 		culture = momerathian
 		religion = catholic
-		size = 1400
+		size = 3400
+	}
+	soldiers = {
+		culture = momerathian
+		religion = catholic
+		size = 2100
 	}
 }
 2000={
         farmers = {
 		culture = momerathian
 		religion = catholic
-		size = 500
+		size = 1900
 	}
 }
 2001={
@@ -14229,31 +14304,36 @@
 	}
 }
 2004={
-        farmers = {
+    farmers = {
 		culture = momerathian
 		religion = catholic
-		size = 500
+		size = 2600
 	}
 }
 2005={
         farmers = {
 		culture = momerathian
 		religion = catholic
-		size = 500
+		size = 2650
 	}
 }
 2006={
-        farmers = {
+    farmers = {
 		culture = momerathian
 		religion = catholic
-		size = 500
+		size = 3410
 	}
 }
 2007={
-        farmers = {
+    farmers = {
 		culture = momerathian
 		religion = catholic
-		size = 500
+		size = 3600
+	}
+	soldiers = {
+		culture = momerathian
+		religion = catholic
+		size = 2400
 	}
 }
 2008={
@@ -14271,17 +14351,22 @@
 	}
 }
 2010={
-        farmers = {
+    farmers = {
 		culture = momerathian
 		religion = catholic
-		size = 500
+		size = 2800
+	}
+	soldiers = {
+		culture = momerathian
+		religion = catholic
+		size = 1300
 	}
 }
 2011={
         farmers = {
 		culture = momerathian
 		religion = catholic
-		size = 500
+		size = 2500
 	}
 }
 

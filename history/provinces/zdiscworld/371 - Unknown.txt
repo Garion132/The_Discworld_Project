@@ -1,5 +1,6 @@
 owner = KLA
 controller = KLA
 add_core = KLA
+add_core = HOW
 trade_goods = tea
 life_rating = 50
