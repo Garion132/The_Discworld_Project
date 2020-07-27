@@ -5,10 +5,7 @@ country_event = {
 
 	trigger = {
 		tag = AMP 
-		year = 3552
-		NOT = {
-			year = 3553
-		}
+		year = 3557
 	}
 	
 	fire_only_once = yes
@@ -120,9 +117,6 @@ country_event = {
 	trigger = {
 		tag = AMP 
 		year = 3552
-		NOT = {
-			year = 3553
-		}
 		always= no
 	}
 	
