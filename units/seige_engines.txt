@@ -19,7 +19,6 @@ seige_engines = {
 	build_time = 120
 	build_cost = {
 		seige_equipment = 10
-		canned_food = 10
 		liquor = 5
 		wine = 5
 	}
@@ -27,7 +26,6 @@ seige_engines = {
 	supply_consumption = 1.0
 	supply_cost = {
 		seige_equipment = 0.1 #0.008
-		canned_food = 0.06 #0.004
 	}
 	
 

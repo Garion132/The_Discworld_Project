@@ -2,5 +2,5 @@ owner = TSO
 controller = TSO
 add_core = TSO
 add_core = SIR
-trade_goods = grain
+trade_goods = wool
 life_rating = 50

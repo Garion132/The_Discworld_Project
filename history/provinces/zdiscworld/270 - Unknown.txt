@@ -3,3 +3,8 @@ controller = OMN
 add_core = OMN
 trade_goods = fruit
 life_rating = 50
+state_building = {
+	level = 1
+	building = paper_mill
+	upgrade = yes
+}

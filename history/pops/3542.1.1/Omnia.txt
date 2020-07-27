@@ -384,7 +384,12 @@
 	artisans = {
 		culture = omnian
 		religion = omnianism
-		size = 9400
+		size = 8400
+	}
+	craftsmen = {
+		culture = omnian
+		religion = omnianism
+		size = 2500
 	}
 	farmers = {
 		culture = omnian
@@ -844,6 +849,11 @@
 		culture = ushistanian
 		religion = omnianism
 		size = 3200
+	}
+	soldiers = {
+		culture = ushistanian
+		religion = omnianism
+		size = 1350
 	}
     }
 320={
