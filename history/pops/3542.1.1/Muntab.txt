@@ -1446,28 +1446,28 @@
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1250
+		size = 3250
 	}
 }
 1582={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1000
+		size = 2100
 	}
 }
 1583={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1000
+		size = 6700
 	}
 }
 1584={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 3400
+		size = 4400
 	}
 	soldiers = {
 		culture = brindisian
@@ -1479,19 +1479,19 @@
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1870
+		size = 2870
 	}
 }
 1586={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 2700
+		size = 3700
 	}
 	soldiers = {
 		culture = brindisian
 		religion = catholic
-		size = 700
+		size = 1700
 	}
 }
 1587={
@@ -1519,14 +1519,14 @@
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1000
+		size = 3400
 	}
 }
 1591={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1000
+		size = 7100
 	}
 }
 1592={
@@ -1540,55 +1540,55 @@
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1630
+		size = 2630
 	}
 }
 1594={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1000
+		size = 4100
 	}
 }
 1595={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1000
+		size = 3900
 	}
 }
 1596={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1000
+		size = 5400
 	}
 }
 1597={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1000
+		size = 3700
 	}
 }
 1598={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1000
+		size = 2970
 	}
 }
 1599={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1000
+		size = 3280
 	}
 }
 1600={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1000
+		size = 4280
 	}
 }

@@ -22,7 +22,6 @@ cavalry = {
 	#Building Costs
 	build_time = 120
 	build_cost = {
-		armor = 1
 		wool = 15
 		wine = 10
 		swords = 2

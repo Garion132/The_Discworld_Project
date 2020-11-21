@@ -1,6 +1,6 @@
-owner = BYK
-controller = BYK
-add_core = BYK
+owner = BLA
+controller = BLA
+add_core = BLA
 add_core = UBW
 trade_goods = fats
 life_rating = 50

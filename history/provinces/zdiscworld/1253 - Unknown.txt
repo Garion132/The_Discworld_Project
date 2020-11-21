@@ -1,5 +1,5 @@
 owner = SLI
 controller = SLI
 add_core = SLI
-trade_goods = grain
+trade_goods = coal
 life_rating = 20

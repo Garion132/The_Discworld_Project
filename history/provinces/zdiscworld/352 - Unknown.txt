@@ -3,3 +3,18 @@ controller = KLA
 add_core = KLA
 trade_goods = tobacco
 life_rating = 50
+state_building = {
+	level = 1
+	building = furniture_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = luxury_furniture_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = glass_factory
+	upgrade = yes
+}

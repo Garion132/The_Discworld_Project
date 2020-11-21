@@ -750,18 +750,22 @@ RGO_template_labourers = {
 cattle_ranch = {
 	template = RGO_template_farmers
 	output_goods = cattle 
-	value = 3.6
+	value = 6.6
 	farm = yes
 }
 
 coal_mine = {
 	template = RGO_template_labourers
 	output_goods = coal 
-	value = 4.8
+	value = 9.6
 	mine = yes
 	bonus = {
 		trigger = { culture = dwarf}
 		value = 0.50
+	}
+	bonus = {
+		trigger = { culture = laotani}
+		value = 0.10
 	}
 }
 
@@ -775,14 +779,14 @@ coffee_plantation = {
 cotton_plantation = {
 	template = RGO_template_farmers
 	output_goods = cotton 
-	value = 4.4
+	value = 8.8
 	farm = yes
 }
 
 dye_plantation = {
 	template = RGO_template_farmers
 	output_goods = dye 
-	value = 1.88
+	value = 3.76
 	farm = yes
 	bonus = {
 		trigger = { culture = urtalie}
@@ -897,7 +901,7 @@ fat_mine = {
 clay_mine = {
 	template = RGO_template_labourers
 	output_goods = clay 
-	value = 8
+	value = 13
 	mine = yes
 	bonus = {
 		trigger = { culture = urtalie}
@@ -919,7 +923,7 @@ treacle_mine = {
 tea_plantation = {
 	template = RGO_template_farmers
 	output_goods = tea 
-	value = 3.5
+	value = 7.5
 	farm = yes
 }
 
@@ -959,7 +963,7 @@ local_winery = {
 tropical_wood_lodge = {
 	template = RGO_template_labourers
 	output_goods = tropical_wood 
-	value = 8
+	value = 13
 	farm = yes
 	bonus = {
 		trigger = { culture = skundlander}

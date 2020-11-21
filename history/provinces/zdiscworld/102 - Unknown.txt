@@ -3,3 +3,14 @@ controller = PSE
 add_core = PSE
 trade_goods = tobacco
 life_rating = 50
+
+state_building = {
+	level = 1
+	building = regular_clothes_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = regular_clothes_factory
+	upgrade = yes
+}

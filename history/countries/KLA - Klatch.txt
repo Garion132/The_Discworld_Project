@@ -32,9 +32,21 @@ oob = "KLA_oob.txt"
 
 # Technologies
 steel_weaponry = 1
+siege_engines = 1
+metallurgic_principles = 1
+dirt_roads = 1
+theories_of_chemistry = 1
+simple_production_technquines = 1
+hand_cranked_power = 1
+guild_based_production = 1
+freedom_of_trade = 1
+new_quisition_and_vetinarism = 1
 
 # Inventions
 #corvettes = yes
+precision_work = yes
+spear_production = yes
+sword_production = yes
 
 # Starting Consciousness
 consciousness = 3

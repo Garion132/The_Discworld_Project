@@ -1,5 +1,5 @@
 owner = BHA
 controller = BHA
 add_core = BHA
-trade_goods = fish
+trade_goods = cotton
 life_rating = 20

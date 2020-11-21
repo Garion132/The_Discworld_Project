@@ -737,91 +737,91 @@
 	farmers = {
 		culture = nafooi
 		religion = catholic
-		size = 1360
+		size = 6360
 	}
 }
 1643={
 	farmers = {
 		culture = nafooi
 		religion = catholic
-		size = 5800
+		size = 10800
 	}
 }
 1644={
 	farmers = {
 		culture = nafooi
 		religion = catholic
-		size = 1940
+		size = 6940
 	}
 }	
 1645={
 	farmers = {
 		culture = nafooi
 		religion = catholic
-		size = 630
+		size = 4630
 	}
 }
 1646={
 	farmers = {
 		culture = nafooi
 		religion = catholic
-		size = 870
+		size = 3870
 	}
 }
 1647={
 	farmers = {
 		culture = nafooi
 		religion = catholic
-		size = 630
+		size = 4630
 	}
 }
 1648={
 	farmers = {
 		culture = nafooi
 		religion = catholic
-		size = 840
+		size = 3840
 	}
 }
 1649={
 	farmers = {
 		culture = nafooi
 		religion = catholic
-		size = 1130
+		size = 6130
 	}
 }
 1650={
 	farmers = {
 		culture = nafooi
 		religion = catholic
-		size = 290
+		size = 4290
 	}
 }
 1651={
 	farmers = {
 		culture = nafooi
 		religion = catholic
-		size = 360
+		size = 4360
 	}
 }
 1652={
 	farmers = {
 		culture = nafooi
 		religion = catholic
-		size = 360
+		size = 3360
 	}
 }
 1653={
 	farmers = {
 		culture = nafooi
 		religion = catholic
-		size = 421
+		size = 4421
 	}
 }
 1654={
 	farmers = {
 		culture = nafooi
 		religion = catholic
-		size = 190
+		size = 3190
 	}
 }
 1655={

@@ -22,12 +22,14 @@ Modern_Golemancy:✔
 	Golem Construction✔
 	
 Megalith computing✔
+	Hex
+	the Glopper (monetary tech needed)
 	
 Device Integration (needs to be locked to have the device flag)✔
 	The Undertaking(subways)✔
 
 
-
+	Piecekeeper
 	
 Deep mining:
 	Safety Lamps

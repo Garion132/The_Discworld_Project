@@ -21,6 +21,18 @@ vassal = {
 # }
 vassal = {
 	first = BYK
+	second = BUG
+	start_date = 1816.1.1
+	end_date = 3568.1.1
+}
+vassal = {
+	first = BYK
+	second = BLA
+	start_date = 1816.1.1
+	end_date = 3568.1.1
+}
+vassal = {
+	first = BYK
 	second = BLI
 	start_date = 1816.1.1
 	end_date = 3568.1.1
@@ -28,6 +40,18 @@ vassal = {
 vassal = {
 	first = BYK
 	second = GLZ
+	start_date = 1816.1.1
+	end_date = 3568.1.1
+}
+vassal = {
+	first = BYK
+	second = PLU
+	start_date = 1816.1.1
+	end_date = 3568.1.1
+}
+vassal = {
+	first = BYK
+	second = KLO
 	start_date = 1816.1.1
 	end_date = 3568.1.1
 }

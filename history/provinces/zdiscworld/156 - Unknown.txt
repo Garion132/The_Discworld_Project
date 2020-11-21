@@ -1,5 +1,5 @@
 owner = SKN
 controller = SKN
 add_core = SKN
-trade_goods = sapent_pearwood
+trade_goods = tropical_wood
 life_rating = 50

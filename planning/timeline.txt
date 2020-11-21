@@ -8,9 +8,10 @@
 	equal rites events
 	eric
 	elhab and smale peace
-3553.1.1 lancre emerges from timeslip, event for the crowning of Verence II
-	leonard of quirm goes missing (hint to H.V)
-	cohen sets out
+3553.1.1 
+	-lancre emerges from timeslip, event for the crowning of Verence II
+	-leonard of quirm goes missing (hint to H.V)
+	-cohen sets out
 3554.1.1
 	genuan events around witches abroad
 	carrot arrives in ankh
@@ -36,6 +37,7 @@
 3558.1.1
 	fifth elephant (bonk/UBW gets lots of revolts if vimes fails)
 	clacks founded
+	events of the last hero, cohen leaves ageatea to twoflower (formation of PBRA) 
 
 3559.1.1
 	founding of the ankh-morpork times
@@ -47,8 +49,13 @@
 	Thud
 	
 3561.1.1
-	making money events, ankh get paper money
+	making money events, ankh gets paper money
 	
 3565.1.1
 	Snuff
 	
+3567.6.8
+	Rasing steam starts 
+	
+3568.7.1
+	rasing steam ends (reveal of the low queen)

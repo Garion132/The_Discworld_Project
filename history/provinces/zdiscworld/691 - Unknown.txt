@@ -1,6 +1,6 @@
-owner = BYK
-controller = BYK
-add_core = BYK
+owner = PLU
+controller = PLU
+add_core = PLU
 add_core = UBW
 trade_goods = timber
 life_rating = 50

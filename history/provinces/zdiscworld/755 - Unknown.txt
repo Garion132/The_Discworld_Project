@@ -1,6 +1,6 @@
-owner = BYK
-controller = BYK
-add_core = BYK
+owner = KLO
+controller = KLO
+add_core = KLO
 add_core = UBW
 trade_goods = grain
 life_rating = 50

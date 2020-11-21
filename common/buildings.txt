@@ -495,6 +495,25 @@ cement_factory = {
 	pop_build_factory = yes
 }
 
+ceramics_factory = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		machine_parts = 10
+		iron = 200
+		timber = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = ceramics_factory
+	pop_build_factory = yes
+}
+
 glass_factory = {
 	type = factory
 	on_completion = factory
