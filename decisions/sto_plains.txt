@@ -1,0 +1,20 @@
+political_decisions = {
+	zemphis_delegation = {
+		potential = {
+			tag = STL
+			ZEM={
+				is_vassal = no
+			}
+			NOT={has_country_flag = STL_ZEM_offer}
+		}
+		
+		allow = {
+			year = 3544
+		}
+		
+		effect = {
+			country_event = { id=39000 days=0 }
+			set_country_flag = STL_ZEM_offer
+		}
+	}
+}

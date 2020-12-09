@@ -101,7 +101,12 @@ political_decisions = {
 			any_country = {
 				limit = {
 					is_culture_group = THIS
-					in_sphere = THIS
+					NOT={tag=AMP}
+					OR={
+						in_sphere = THIS
+						vassal_of = THIS
+						alliance_with = THIS
+					}
 				}
 				country_event = { id=11101 days=0 }
 			}
@@ -166,5 +171,7 @@ political_decisions = {
 			# factor = 1
 		# }
 	# }	
+	
+	
 		
 }

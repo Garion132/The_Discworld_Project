@@ -1,4 +1,4 @@
-#XXXX storm disapears and XXXX becomes a AMP colony
+#Ghat taken, move onto lesser muntab
 country_event = {
 
 	id = 37000  
@@ -31,6 +31,41 @@ country_event = {
 		add_accepted_culture = ghatian
 		add_casus_belli = {
 			target = LMT
+			type = annex
+			months = 36
+		}
+	}
+}
+country_event = {
+
+	id = 37001  
+
+	trigger = {
+		tag = MUT
+		#year = 3552
+		#NOT = {
+		#	year = 3553
+		#}
+		owns=980
+		owns=978
+		LMT = {exists = no}
+	}
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 1
+
+	}
+
+	title = "EVTNAME37000"
+	desc = "EVTDESC37000"
+	picture = "Administration"
+
+	option = {
+		name = "EVTOPTA37000" 
+		add_casus_belli = {
+			target = REH
 			type = annex
 			months = 36
 		}

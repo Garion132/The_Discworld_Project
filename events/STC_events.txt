@@ -1,0 +1,86 @@
+#Sto lat event chain
+country_event = {#treaty with zemphis
+
+	id = 39000  
+
+	is_triggered_only = yes
+
+	title = "EVTNAME39000"
+	desc = "EVTDESC39000"
+	picture = "Administration"
+
+	option = {
+		name = "EVTOPTA39000" 
+		trigger = {money = 5000}
+		treasury = -5000
+		ZEM={country_event = { id=39001 days=0 }}
+	}
+	option = {
+		name = "EVTOPTB39000" 
+		ZEM={country_event = { id=39002 days=0 }}
+	}
+	option = {
+		name = "EVTOPTC39000" 
+		ZEM={country_event = { id=39003 days=0 }}
+	}
+}
+
+country_event = {#bribe
+
+	id = 39001 
+
+	is_triggered_only = yes
+
+	title = "EVTNAME39001"
+	desc = "EVTDESC39001"
+	picture = "Administration"
+
+	option = {
+		name = "EVTOPTA39001" 
+		treasury = 5000
+		FROM={create_vassal = ZEM}
+	}
+}
+country_event = {#favour
+
+	id = 39002 
+
+	is_triggered_only = yes
+
+	title = "EVTNAME39002"
+	desc = "EVTDESC39002"
+	picture = "Administration"
+
+	option = {
+		name = "EVTOPTA39002" 
+		ai_chance = {
+			factor = 80
+		}
+		FROM={create_vassal = ZEM}
+	}
+	option = {
+		name = "EVTOPTB39002" 
+		ai_chance = {
+			factor = 20
+		}
+	}
+}
+country_event = {#netural
+
+	id = 39003 
+
+	is_triggered_only = yes
+
+	title = "EVTNAME39003"
+	desc = "EVTDESC39003"
+	picture = "Administration"
+
+	option = {
+		name = "EVTOPTA39003" 
+		FROM={create_vassal = ZEM}
+	}
+	option = {
+		name = "EVTOPTB39003" 
+		
+	}
+}
