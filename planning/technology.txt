@@ -22,7 +22,7 @@ Modern_Golemancy:✔
 	Golem Construction✔
 	
 Megalith computing✔
-	Hex
+	Hex✔
 	the Glopper (monetary tech needed)
 	
 Device Integration (needs to be locked to have the device flag)✔
@@ -63,14 +63,20 @@ Orc Acceptance✔
 Music With Rocks In
 
 *comunication
-Printing press:
-	Stamps
 
-Clacks:
+messangers:✔
+
+postal service:✔
+
+Clacks:✔
 	Portable clacks towers
-	dual phase clacks
-	Goblin crews
+	dual phase clacks✔
+	Goblin crews✔
 
+Printing press:✔
+	Stamps✔
+	
+	
 
 Steam engines:
 	Iron girder

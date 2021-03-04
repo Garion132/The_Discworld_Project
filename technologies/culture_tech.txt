@@ -632,10 +632,10 @@ mass_politics = {
 }
 
 
-#psychology
-introspectionism = {
+#communication
+messengers = {
 	area = psychology
-	year = 3544
+	year = 3540
 	cost = 3600
 
 
@@ -663,7 +663,7 @@ introspectionism = {
 	}
 
 }
-associationism = {
+postal_service = {
 	area = psychology
 	year = 3544
 	cost = 7200
@@ -691,9 +691,9 @@ associationism = {
 		}
 	}
 }
-phenomenalism = {
+clacks = {
 	area = psychology
-	year = 3544
+	year = 3559
 	cost = 10800
 
 	regular_experience_level = 5
@@ -719,9 +719,9 @@ phenomenalism = {
 		}
 	}
 }
-experimental_psychology = {
+printing_press = {
 	area = psychology
-	year = 3570
+	year = 3565
 	cost = 14400
 
 	regular_experience_level = 5
@@ -747,9 +747,9 @@ experimental_psychology = {
 		}
 	}
 }
-psychoanalysis = {
+coloured_clacks = {
 	area = psychology
-	year = 3580
+	year = 3570
 	cost = 18000
 
 	regular_experience_level = 5
@@ -776,7 +776,7 @@ psychoanalysis = {
 	}
 
 }
-behaviorism = {
+magical_communication = {
 	area = psychology
 	year = 3610
 	cost = 21600

@@ -2482,68 +2482,68 @@
 305={
 	farmers = {
 		culture = djelibeybian
-		religion = catholic
+		religion = djelibeybism
 		size = 8500
 	}
 	soldiers = {
 		culture = djelibeybian
-		religion = catholic
+		religion = djelibeybism
 		size = 2400
 	}
     }
 306={
 	farmers = {
 		culture = djelibeybian
-		religion = catholic
+		religion = djelibeybism
 		size = 13000
 	}
 	soldiers = {
 		culture = djelibeybian
-		religion = catholic
+		religion = djelibeybism
 		size = 4500
 	}
 	artisans = {
 		culture = djelibeybian
-		religion = catholic
+		religion = djelibeybism
 		size = 900
 	}
 	artisans = {
 		culture = djelibeybian
-		religion = catholic
+		religion = djelibeybism
 		size = 900
 	}
 	artisans = {
 		culture = djelibeybian
-		religion = catholic
+		religion = djelibeybism
 		size = 1200
 	}
 	clergymen = {
 		culture = djelibeybian
-		religion = catholic
+		religion = djelibeybism
 		size = 1750
 	}
 	aristocrats = {
 		culture = djelibeybian
-		religion = catholic
+		religion = djelibeybism
 		size = 400
 	}
     }
 307={
 	farmers = {
 		culture = djelibeybian
-		religion = catholic
+		religion = djelibeybism
 		size = 3800
 	}
 	soldiers = {
 		culture = djelibeybian
-		religion = catholic
+		religion = djelibeybism
 		size = 1250
 	}
     }
 308={
 	farmers = {
 		culture = djelibeybian
-		religion = catholic
+		religion = djelibeybism
 		size = 780
 	}
     }
@@ -3434,22 +3434,22 @@
 408={
 	farmers = {
 		culture = klatchistanian
-		religion = catholic
+		religion = sek
 		size = 7200
 	}
 	clergymen = {
 		culture = klatchistanian
-		religion = catholic
+		religion = sek
 		size = 420
 	}
 	artisans = {
 		culture = klatchistanian
-		religion = catholic
+		religion = sek
 		size = 650
 	}
 	soldiers = {
 		culture = klatchistanian
-		religion = catholic
+		religion = sek
 		size = 1300
 	}
     }
@@ -4006,7 +4006,7 @@
 459={
         slaves = {
 		culture = krullian
-		religion = catholic
+		religion = fate
 		size = 2000
 	}
 	slaves = {
@@ -4016,36 +4016,36 @@
 	}
 	farmers = {
 		culture = krullian
-		religion = catholic
+		religion = fate
 		size = 1000
 	}
     }
 460={
         slaves = {
 		culture = krullian
-		religion = catholic
+		religion = fate
 		size = 3000
 	}
 	farmers = {
 		culture = krullian
-		religion = catholic
+		religion = fate
 		size = 1000
 	}
     }
 461={
         slaves = {
 		culture = krullian
-		religion = catholic
+		religion = fate
 		size = 2000
 	}
 	slaves = {
 		culture = klatchian
-		religion = catholic
+		religion = sek
 		size = 1000
 	}
 	farmers = {
 		culture = krullian
-		religion = catholic
+		religion = fate
 		size = 1000
 	}
     }
@@ -4069,19 +4069,19 @@
 	}
 	farmers = {
 		culture = krullian
-		religion = catholic
+		religion = fate
 		size = 1000
 	}
     }
 464={
         slaves = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 3000
 	}
 	farmers = {
 		culture = krullian
-		religion = catholic
+		religion = fate
 		size = 1000
 	}
     }
@@ -4103,7 +4103,7 @@
 	}
 	farmers = {
 		culture = krullian
-		religion = catholic
+		religion = fate
 		size = 1000
 	}
     }
@@ -4120,7 +4120,7 @@
 	}
 	farmers = {
 		culture = krullian
-		religion = catholic
+		religion = fate
 		size = 1000
 	}
     }
@@ -4142,44 +4142,44 @@
 	}
 	farmers = {
 		culture = krullian
-		religion = catholic
+		religion = fate
 		size = 1000
 	}
     }
 468={
 	artisans = {
 		culture = krullian
-		religion = catholic
+		religion = fate
 		size = 5000
 	}
 	artisans = {
 		culture = krullian
-		religion = catholic
+		religion = fate
 		size = 5000
 	}
 	artisans = {
 		culture = krullian
-		religion = catholic
+		religion = fate
 		size = 5000
 	}
 	artisans = {
 		culture = krullian
-		religion = catholic
+		religion = fate
 		size = 5000
 	}
 	artisans = {
 		culture = krullian
-		religion = catholic
+		religion = fate
 		size = 5000
 	}
 	labourers = {
 		culture = krullian
-		religion = catholic
+		religion = fate
 		size = 6000
 	}
 	slaves = {
 		culture = klatchian
-		religion = catholic
+		religion = sek
 		size = 200
 	}
 	slaves = {
@@ -4199,27 +4199,27 @@
 	}
 	slaves = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 1200
 	}
 	aristocrats = {
 		culture = krullian
-		religion = catholic
+		religion = fate
 		size = 750
 	}
 	officers = {
 		culture = krullian
-		religion = catholic
+		religion = fate
 		size = 10
 	}
 	bureaucrats = {
 		culture = krullian
-		religion = catholic
+		religion = fate
 		size = 500
 	}
 	soldiers = {
 		culture = krullian
-		religion = catholic
+		religion = fate
 		size = 10000
 	}
 	
@@ -4227,172 +4227,172 @@
 469={
 	aristocrats = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 15
 	}
         farmers = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 16500
 	}
     }
 470={
 	aristocrats = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 15
 	}
         farmers = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 21000
 	}
     }
 471={
 	aristocrats = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 15
 	}
         farmers = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 12500
 	}
     }
 472={
 	aristocrats = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 30
 	}
         farmers = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 19400
 	}
     }
 473={
 	farmers = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 48400
 	}
 	soldiers = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 5400
 	}
 	aristocrats = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 150
 	}
 	artisans = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 240
 	}
     }
 474={
         farmers = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 17800
 	}
     }
 475={
 	aristocrats = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 25
 	}
 	farmers = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 34000
 	}
     }
 476={
 	aristocrats = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 25
 	}
 	farmers = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 4800
 	}
     }
 477={
 	farmers = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 9400
 	}
 	aristocrats = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 25
 	}
 }
 478={
         farmers = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 39100
 	}
     }
 479={
 	farmers = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 3600
 	}
 	aristocrats = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 20
 	}
 	soldiers = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 1200
 	}
     }
 480={
         farmers = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 17800
 	}
     }
 481={
         farmers = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 9200
 	}
     }
 482={
         farmers = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 14200
 	}
     }
 483={
         farmers = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 16200
 	}
     }
 484={
         farmers = {
 		culture = howondalander
-		religion = catholic
+		religion = zambinist
 		size = 8400
 	}
     }

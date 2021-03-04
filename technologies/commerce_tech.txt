@@ -1,5 +1,5 @@
 #financial_institutions
-private_banks = {
+guilds = {
 	area = financial_institutions
 	year = 3540
 	cost = 3600
@@ -31,9 +31,40 @@ private_banks = {
 		}
 	}
 }
+private_banks = {
+	area = financial_institutions
+	year = 3544
+	cost = 3600
+
+	tax_eff = 5
+	
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 3.5
+			rank = 16
+		}
+		modifier = {
+			factor = 1.5
+			economic_policy = laissez_faire
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = commerce_tech_school
+		}
+		modifier = {
+			factor = 1.1
+			literacy = 0.3 
+		}
+		modifier = {
+			factor = 1.1
+			literacy = 0.6
+		}
+	}
+}
 stock_exchange = {
 	area = financial_institutions
-	year = 3540
+	year = 3560
 	cost = 7200
 
 	tax_eff = 5
@@ -64,7 +95,7 @@ stock_exchange = {
 }
 business_banks = {
 	area = financial_institutions
-	year = 3550
+	year = 3570
 	cost = 10800
 
 	tax_eff = 5
@@ -95,7 +126,7 @@ business_banks = {
 }
 investment_banks = {
 	area = financial_institutions
-	year = 3580
+	year = 3590
 	cost = 14400
 
 	tax_eff = 5
@@ -153,29 +184,6 @@ bank_inspection_board = {
 		}		
 	}
 }
-mutual_funds = {
-	area = financial_institutions
-	year = 3630
-	cost = 21600
-
-	tax_eff = 5
-	ai_chance = {
-		factor = 1.1
-		modifier = {
-			factor = 1.5
-			rank = 16
-		}
-		modifier = {
-			factor = 1.25
-			economic_policy = laissez_faire
-		}
-		modifier = {
-			factor = 1.02
-			tech_school = commerce_tech_school
-		}
-	}
-}
-
 
 #monetary_system
 no_standard = {
@@ -196,9 +204,9 @@ no_standard = {
 		}
 	}
 }
-ad_hoc_money_bill_printing = {
+ad_hoc_minting = {#
 	area = monetary_system
-	year = 3540
+	year = 3550
 	cost = 7200
 	
 	administrative_efficiency = 0.05
@@ -228,7 +236,7 @@ ad_hoc_money_bill_printing = {
 }  
 private_bank_money_bill_printing = {
 	area = monetary_system
-	year = 3540
+	year = 3560
 	cost = 10800
 
 	administrative_efficiency = 0.05
@@ -250,7 +258,7 @@ private_bank_money_bill_printing = {
 }
 central_bank_money_bill_printing = {
 	area = monetary_system
-	year = 3560
+	year = 3570
 	cost = 14400
 
 	administrative_efficiency = 0.05
@@ -272,7 +280,7 @@ central_bank_money_bill_printing = {
 }
 modern_central_bank_system = {
 	area = monetary_system
-	year = 3580
+	year = 3590
 	cost = 18000
 
 	administrative_efficiency = 0.05
