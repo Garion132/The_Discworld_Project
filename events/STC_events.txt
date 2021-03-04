@@ -105,10 +105,10 @@ country_event = {#treaty with zemphis
 		name = "EVTOPTA39004" 
 		treasury = -5000
 		FROM={create_vassal = ROOT}
-		STC={country_event = { id=39005 days=0 }}
+		STL={country_event = { id=39005 days=0 }}
 	}
 	option = {#disagree
 		name = "EVTOPTB39004" 
-		STC={country_event = { id=39006 days=0 }}
+		STL={country_event = { id=39006 days=0 }}
 	}
 }
