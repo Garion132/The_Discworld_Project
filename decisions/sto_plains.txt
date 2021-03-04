@@ -4,6 +4,7 @@ political_decisions = {
 			tag = STL
 			ZEM={
 				is_vassal = no
+				exists = yes
 			}
 			NOT={has_country_flag = STL_ZEM_offer}
 		}
@@ -15,6 +16,25 @@ political_decisions = {
 		effect = {
 			country_event = { id=39000 days=0 }
 			set_country_flag = STL_ZEM_offer
+		}
+	}
+	sto_mino_delegation = {
+		potential = {
+			tag = STL
+			STM={
+				is_vassal = no
+				exists = yes
+			}
+			NOT={has_country_flag = STL_STM_offer}
+		}
+		
+		allow = {
+			year = 3551
+		}
+		
+		effect = {
+			country_event = { id=39001 days=0 }
+			set_country_flag = STL_STM_offer
 		}
 	}
 }

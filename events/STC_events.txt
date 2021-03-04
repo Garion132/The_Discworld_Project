@@ -90,3 +90,25 @@ country_event = {#netural
 		
 	}
 }
+
+country_event = {#treaty with zemphis
+
+	id = 39004
+
+	is_triggered_only = yes
+
+	title = "EVTNAME39004"
+	desc = "EVTDESC39004"
+	picture = "Administration"
+
+	option = {#agree
+		name = "EVTOPTA39004" 
+		treasury = -5000
+		FROM={create_vassal = ROOT}
+		STC={country_event = { id=39005 days=0 }}
+	}
+	option = {#disagree
+		name = "EVTOPTB39004" 
+		STC={country_event = { id=39006 days=0 }}
+	}
+}
