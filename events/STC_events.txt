@@ -11,9 +11,15 @@ country_event = {#treaty with zemphis
 
 	option = {
 		name = "EVTOPTA39000" 
-		trigger = {money = 5000}
+		trigger = {
+			money = 5000
+			ZEM={ai = yes}
+		}
 		treasury = -5000
 		ZEM={country_event = { id=39001 days=0 }}
+		ai_chance = {
+			factor = 100
+		}
 	}
 	option = {
 		name = "EVTOPTB39000" 

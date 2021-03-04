@@ -453,7 +453,7 @@ flintlock_arquebus = {
 	cost = 3600
 	unciv_military = yes
 	
-	activate_unit = irregular
+	activate_unit = aqui
 	combat_width = -1
 
 	ai_chance = {
@@ -1065,7 +1065,7 @@ military_directionism = {
 }
 aeronautics = {
 	area = military_science
-	year = 1914
+	year = 3610
 	cost = 21600
 	army_base = {
 		default_organisation = 10

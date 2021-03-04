@@ -887,6 +887,8 @@ dirt_roads = {
 	year = 3540
 	cost = 3600
 	
+	supply_consumption = -0.05
+	
 	ai_chance = {
 		factor = 1.5 #1.1
 		modifier = {
@@ -909,6 +911,7 @@ cobbled_roads = {
 	year = 3540
 	cost = 3600
 	
+	supply_consumption = -0.05
 	
 	ai_chance = {
 		factor = 1.5 #1.1
@@ -931,6 +934,8 @@ paved_roads = {
 	area = tech_infrastructure
 	year = 3550
 	cost = 3600
+	
+	supply_consumption = -0.1
 
 	
 	ai_chance = {

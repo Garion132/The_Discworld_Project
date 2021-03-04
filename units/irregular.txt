@@ -1,43 +1,38 @@
 irregular = {
-	icon = 17
+	icon = 20
 	
 	type = land
 	sprite = Irregular
-	active = no
+	active = yes
 	unit_type = infantry
 	floating_flag = no
 	
 	#Core Abilities
-	priority = 5
-	max_strength = 3
+	priority = 1
+	max_strength = 2
 	default_organisation = 20
-	maximum_speed = 4.00
+	maximum_speed = 4.50
 	weighted_value = 1.0
 
 
 	#Building Costs
-	build_time = 45
+	build_time = 20
 	build_cost = {
-		armor = 1
-		wool = 10
-		swords = 5
-		spears = 5
+		wool = 2
+		spears = 2
 	}
 	
-	supply_consumption = 1.0
+	supply_consumption = 0.8
 	supply_cost = {
-		wool = 0.1
-		armor = 0.01
-		spears = 0.1
-		swords = 0.1
+		spears = 0.075
 	}
 	
 
 	#Land Abilties
-	reconnaissance = 0
-	attack = 3
-	defence = 3
-	discipline = 1
-	support = 0.0
-	maneuver = 1
+	reconnaissance = 0.2
+	attack = 1
+	defence = 1.5
+	discipline = 0.7
+	support = 0.1
+	maneuver = 1.2
 }

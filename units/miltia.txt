@@ -1,38 +1,44 @@
-miltia = {
-	icon = 20
+aqui = {
+	icon = 17
+	
 	
 	type = land
 	sprite = Irregular
-	active = yes
+	active = no
 	unit_type = infantry
 	floating_flag = no
 	
 	#Core Abilities
-	priority = 1
-	max_strength = 2
+	priority = 5
+	max_strength = 3
 	default_organisation = 20
-	maximum_speed = 4.50
+	maximum_speed = 4.00
 	weighted_value = 1.0
 
 
 	#Building Costs
-	build_time = 20
+	build_time = 45
 	build_cost = {
-		wool = 2
-		spears = 2
+		armor = 1
+		wool = 10
+		swords = 5
+		spears = 5
 	}
 	
-	supply_consumption = 0.8
+	supply_consumption = 1.0
 	supply_cost = {
-		spears = 0.075
+		wool = 0.1
+		armor = 0.01
+		spears = 0.1
+		swords = 0.1
 	}
 	
 
 	#Land Abilties
-	reconnaissance = 0.2
-	attack = 1
-	defence = 1.5
-	discipline = 0.7
-	support = 0.1
-	maneuver = 1.2
+	reconnaissance = 0
+	attack = 3
+	defence = 3
+	discipline = 1
+	support = 0.0
+	maneuver = 1
 }

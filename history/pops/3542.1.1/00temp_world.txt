@@ -5845,21 +5845,21 @@
     farmers = {
 		culture = uberwaldian
 		religion = othordox_omnianism
-		size = 1750
+		size = 3750
 	}
 }
 695={
     farmers = {
 		culture = uberwaldian
 		religion = othordox_omnianism
-		size = 2600
+		size = 3600
 	}
 }
 696={
     farmers = {
 		culture = uberwaldian
 		religion = othordox_omnianism
-		size = 1840
+		size = 3840
 	}
 }
 697={
@@ -6035,7 +6035,7 @@
     farmers = {
 		culture = uberwaldian
 		religion = catholic
-		size = 500
+		size = 4500
 	}
 }
 705={
@@ -6066,12 +6066,12 @@
     farmers = {
 		culture = uberwaldian
 		religion = catholic
-		size = 6400
+		size = 7900
 	}
 	aristocrats = {
 		culture = vampyre
 		religion = catholic
-		size = 10
+		size = 20
 	}
 }
 708={

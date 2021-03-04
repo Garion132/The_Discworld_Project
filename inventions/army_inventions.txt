@@ -854,7 +854,7 @@ heavy_artillery = {
 }
 #military_staff_system
 cuirassier_activation = {
-	limit = { military_staff_system = 1 }
+	limit = { military_directionism = 1 }
 	chance = {
 		base = 2
 		modifier = {
@@ -867,7 +867,7 @@ cuirassier_activation = {
 	}
 }
 dragoon_activation = {
-	limit = { military_staff_system = 1 }
+	limit = { military_directionism = 1 }
 	chance = {
 		base = 2
 		modifier = {
@@ -880,7 +880,7 @@ dragoon_activation = {
 	}
 }
 hussar_activation = {
-	limit = { military_staff_system = 1 }
+	limit = { military_directionism = 1 }
 	chance = {
 		base = 2
 		modifier = {
