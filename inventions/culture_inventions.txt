@@ -389,14 +389,6 @@ social_psychology = {
 	news = no
 	chance = {
 		base = 2
-		modifier = {
-			factor = 2
-			experimental_psychology = 1
-		}
-		modifier = {
-			factor = 2
-			behaviorism = 1
-		}
 	}
 	core_pop_consciousness_modifier = 0.01
 }
@@ -425,10 +417,6 @@ social_anthropology = {
 	news = no
 	chance = {
 		base = 2
-		modifier = {
-			factor = 2
-			invention = darwinism
-		}
 		modifier = {
 			factor = 2
 			assembly_line = 1
@@ -1195,9 +1183,7 @@ stamps = {
 	chance = {
 		base = 2
 	}
-	effect = {
-		tax_efficiency = 0.02
-	}
+	tax_efficiency = 0.02
 }
 dual_phase_clacks = {
 	limit = { clacks = 1 }
@@ -1205,9 +1191,7 @@ dual_phase_clacks = {
 	chance = {
 		base = 2
 	}
-	effect = {
-		tax_efficiency = 0.02
-	}
+	tax_efficiency = 0.02
 }
 goblin_crews = {
 	limit = { clacks = 1 }
@@ -1219,7 +1203,5 @@ goblin_crews = {
 			goblin_liberation = 1
 		}
 	}
-	effect = {
-		tax_efficiency = 0.02
-	}
+	tax_efficiency = 0.02
 }

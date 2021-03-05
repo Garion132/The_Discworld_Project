@@ -3,27 +3,27 @@ army = {
 	location = 323
 	regiment = {
 		name= "1st Infantry"
-		type = miltia
+		type = irregular
 		home = 323
 	}
 	regiment = {
 		name= "2nd Infantry"
-		type = miltia
+		type = irregular
 		home = 323
 	}
 	regiment = {
 		name= "3rd Infantry"
-		type = miltia
+		type = irregular
 		home = 331
 	}
 	regiment = {
 		name= "4th Infantry"
-		type = miltia
+		type = irregular
 		home = 332
 	}
 	regiment = {
 		name= "5th Infantry"
-		type = miltia
+		type = irregular
 		home = 328
 	}
 }

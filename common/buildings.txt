@@ -215,6 +215,23 @@ spears_factory = {
 	production_type = spears_factory
 	pop_build_factory = yes
 }
+armor_foundry = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		iron = 100
+		cement = 100
+	}
+	time = 480
+	visibility = yes
+	onmap = no
+
+	production_type = armor_foundry
+	pop_build_factory = yes
+}
 golem_foundry = {
 	type = factory
 	on_completion = factory

@@ -20,11 +20,13 @@ armored_footmen = {
 	build_cost = {
 		armor = 1
 		swords = 5
+		spears = 5
 	}
 	
 	supply_consumption = 1.0
 	supply_cost = {
 		swords = 0.1
+		spears = 0.1
 	}
 	
 

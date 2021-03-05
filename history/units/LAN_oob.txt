@@ -3,7 +3,7 @@ army = {
 	location = 420
 	regiment = {
 		name= "Lancrian Milita"
-		type = miltia
+		type = irregular
 		home = 420
 	}
 }

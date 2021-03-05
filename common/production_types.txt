@@ -193,6 +193,28 @@ golem_foundry = {
 	}
 }
 
+armor_foundry = {       
+	template = factory_template
+	input_goods = { 
+		iron = 5		#12.5
+		regular_clothes = 1		#5.8 (huhuh huhuh) total input+maint = 18.3
+	}
+	output_goods = armor 
+	value = 1  		#25
+	bonus = {
+		trigger = { trade_goods_in_state = iron }
+		value = 0.175
+	}
+	bonus = {
+		trigger = { has_building = steel_factory }
+		value = 0.5
+	}
+	bonus = {
+		trigger = { trade_goods_in_state = silk }
+		value = 0.125
+	}
+}
+
 ############# LUXURY GOODS FACTORIES
 
 luxury_clothes_factory = {       

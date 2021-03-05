@@ -358,7 +358,7 @@ high_grade_steel_weaponry = {
 	armored_footmen = {
 		attack = 0.25
 	}
-	miltia = {
+	irregular = {
 		attack = 0.25
 	}
 	
@@ -408,7 +408,7 @@ dwarf_forged_weaponry = {#gonnes
 	armored_footmen = {
 		attack = 0.25
 	}
-	miltia = {
+	irregular = {
 		attack = 0.25
 	}
 	

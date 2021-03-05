@@ -54,7 +54,7 @@ army = {
 	}
 	regiment = {
 		name= "Selachii's Light Infantry"
-		type = miltia
+		type = irregular
 		home = 2
 	}
 	regiment = {

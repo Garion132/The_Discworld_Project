@@ -13,17 +13,17 @@ army = {
 	}
 	regiment = {
 		name= "3rd Rheinthal infantry"
-		type = miltia
+		type = irregular
 		home = 732
 	}
 	regiment = {
 		name= "4th Rheinthal infantry"
-		type = miltia
+		type = irregular
 		home = 719
 	}
 	regiment = {
 		name= "5th Rheinthal infantry"
-		type = miltia
+		type = irregular
 		home = 725
 	}
 }

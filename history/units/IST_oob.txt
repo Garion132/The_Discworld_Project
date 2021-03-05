@@ -23,12 +23,12 @@ army = {
 	location = 251
 	regiment = {
 		name= "2nd Light Foot"
-		type = miltia
+		type = irregular
 		home = 251
 	}
 	regiment = {
 		name= "3rd Light Foot"
-		type = miltia
+		type = irregular
 		home = 256
 	}
 }

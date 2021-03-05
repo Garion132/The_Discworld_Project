@@ -1,13 +1,36 @@
 #weapon production
 armor_production = {
 	limit = { 
+		steel_weaponry = 1 
+	}
+	chance = {
+		base = 2
+		modifier = {
+			factor = 3
+			technology = metallurgic_principles
+		}
+		modifier = {
+			factor = 20
+			technology = high_grade_steel_weaponry
+		}
+	}
+	effect = {
+		activate_building = armor_foundry 
+	}
+}
+armored_tatics = {
+	limit = { 
 		high_grade_steel_weaponry = 1 
 	}
 	chance = {
-		base = 20
+		base = -14
 		modifier = {
 			factor = 2
 			technology = metallurgic_principles
+		}
+		modifier = {
+			factor = 20
+			invention = armor_production
 		}
 	}
 	effect = {
@@ -70,6 +93,10 @@ micromail = {
 			factor = 2
 			primary_culture = dwarf
 		}
+		modifier = {
+			factor = 2
+			controls = 1
+		}
 	}
 	effect = {
 		infantry = {
@@ -93,7 +120,7 @@ micromail = {
 		cavalry = {
 			defence = 0.5
 		}
-		irregular = {
+		aqui = {
 			defence = 0.5
 		}
 		warriors = {
@@ -102,7 +129,7 @@ micromail = {
 		armored_footmen = {
 			defence = 0.5
 		}
-		milita = {
+		irregular = {
 			defence = 0.5
 		}
 		army_base = {
@@ -144,7 +171,7 @@ small_arms_production = {
 }
 explosives_production = {
 	limit = { 
-		iron_muzzle_loaded_artillery = 1 
+		bronze_muzzle_loaded_artillery = 1 
 	}
 	chance = {
 		base = 2
@@ -163,7 +190,7 @@ explosives_production = {
 }
 artillery_production = {
 	limit = { 
-		iron_muzzle_loaded_artillery = 1 
+		bronze_muzzle_loaded_artillery = 1 
 	}
 	chance = {
 		base = -2
@@ -213,7 +240,7 @@ field_fortifications = {
 		cavalry = {
 			defence = 1
 		}
-		irregular = {
+		aqui = {
 			defence = 1
 		}
 	}
@@ -242,7 +269,7 @@ signal_detachments = {
 		base = 2
 		modifier = {
 			factor = 2
-			military_staff_system = 1
+			irregularry_staff_system = 1
 		}
 		modifier = {
 			factor = 2
@@ -293,7 +320,7 @@ flexible_firepower = {
 		cavalry = {
 			defence = 0.5
 		}
-		irregular = {
+		aqui = {
 			defence = 0.5
 		}
 		army_base = {
@@ -333,7 +360,7 @@ synchronized_heavy_support = {
 		cavalry = {
 			defence = 0.5
 		}
-		irregular = {
+		aqui = {
 			defence = 0.5
 		}
 		army_base = {
@@ -347,7 +374,7 @@ staff_command_support = {
 		base = 3
 		modifier = {
 			factor = 2
-			military_staff_system = 1
+			irregularry_staff_system = 1
 		}
 		modifier = {
 			factor = 2
@@ -394,7 +421,7 @@ trench_systems = {
 		cavalry = {
 			defence = 0.5
 		}
-		irregular = {
+		aqui = {
 			defence = 0.5
 		}
 		army_base = {
@@ -437,7 +464,7 @@ elastic_defense_system = {
 		cavalry = {
 			defence = 0.5
 		}
-		irregular = {
+		aqui = {
 			defence = 0.5
 		}
 		army_base = {
@@ -475,7 +502,7 @@ flexible_counterattacks = {
 		cavalry = {
 			attack = 0.5
 		}
-		irregular = {
+		aqui = {
 			attack = 0.5
 		}
 		army_base = {
@@ -526,7 +553,7 @@ low_echelon_fire_support = {
 			attack = 0.5
 			defence = 1
 		}
-		irregular = {
+		aqui = {
 			attack = 0.5
 			defence = 1
 		}
@@ -654,7 +681,7 @@ human_wave_vs_spearhead = {
 		cavalry = {
 			defence = 2
 		}
-		irregular = {
+		aqui = {
 			defence = 2
 		}
 		army_base = {
@@ -694,7 +721,7 @@ flintlock_rifle_armament = {
 			attack = 0.5
 			supply_consumption = 0.10
 		}
-		irregular = {
+		aqui = {
 			attack = 0.5
 			supply_consumption = 0.10
 		}
@@ -729,7 +756,7 @@ muzzle_loaded_rifle_armament = {
 			attack = 0.5
 			supply_consumption = 0.10
 		}
-		irregular = {
+		aqui = {
 			attack = 0.5
 			supply_consumption = 0.10
 		}
@@ -852,9 +879,9 @@ heavy_artillery = {
 		}
 	}
 }
-#military_staff_system
+#irregularry_staff_system
 cuirassier_activation = {
-	limit = { military_directionism = 1 }
+	limit = { irregularry_directionism = 1 }
 	chance = {
 		base = 2
 		modifier = {
@@ -867,7 +894,7 @@ cuirassier_activation = {
 	}
 }
 dragoon_activation = {
-	limit = { military_directionism = 1 }
+	limit = { irregularry_directionism = 1 }
 	chance = {
 		base = 2
 		modifier = {
@@ -880,7 +907,7 @@ dragoon_activation = {
 	}
 }
 hussar_activation = {
-	limit = { military_directionism = 1 }
+	limit = { irregularry_directionism = 1 }
 	chance = {
 		base = 2
 		modifier = {
@@ -893,11 +920,11 @@ hussar_activation = {
 	}
 }	
 	
-#military_plans
-telegraph_coordination = {
-	limit = { military_plans = 1 }
+#irregularry_plans
+clacks_coordination = {
+	limit = { irregularry_plans = 1 }
 	chance = {
-		base = 2
+		base = -4
 		modifier = {
 			factor = 1
 			army_professionalism = 1
@@ -905,6 +932,10 @@ telegraph_coordination = {
 		modifier = {
 			factor = 2
 			early_railroad = 1
+		}
+		modifier = {
+			factor = 6
+			clacks = 1
 		}
 	}
 	effect = {
@@ -916,7 +947,7 @@ telegraph_coordination = {
 }
 
 mobilization_time_tables = {
-	limit = { military_plans = 1 }
+	limit = { irregularry_plans = 1 }
 	chance = {
 		base = 2
 		modifier = {
@@ -934,7 +965,7 @@ mobilization_time_tables = {
 }
 
 personnel_category_tables = {
-	limit = { military_plans = 1 }
+	limit = { irregularry_plans = 1 }
 	chance = {
 		base = 2
 		modifier = {
@@ -951,9 +982,9 @@ personnel_category_tables = {
 	}
 }
 
-#military_statistics
+#irregularry_statistics
 ammunition_area_effect_calculations = {
-	limit = { military_statistics = 1 }
+	limit = { irregularry_statistics = 1 }
 	chance = {
 		base = 2
 		modifier = {
@@ -974,7 +1005,7 @@ ammunition_area_effect_calculations = {
 }
 
 empirical_combat_efficiency_matrix = {
-	limit = { military_statistics = 1 }
+	limit = { irregularry_statistics = 1 }
 	chance = {
 		base = 2
 		modifier = {
@@ -995,7 +1026,7 @@ empirical_combat_efficiency_matrix = {
 }
 
 combat_loss_evaluation_schemata = {
-	limit = { military_statistics = 1 }
+	limit = { irregularry_statistics = 1 }
 	chance = {
 		base = 2
 		modifier = {
@@ -1015,9 +1046,9 @@ combat_loss_evaluation_schemata = {
 	}
 }
 
-#military_logistics
+#irregularry_logistics
 pre_planned_depot_systems = {
-	limit = { military_logistics = 1 }
+	limit = { irregularry_logistics = 1 }
 	chance = {
 		base = 2
 		modifier = {
@@ -1038,7 +1069,7 @@ pre_planned_depot_systems = {
 }
 
 logistical_calculations = {
-	limit = { military_logistics = 1 }
+	limit = { irregularry_logistics = 1 }
 	chance = {
 		base = 2
 		modifier = {
@@ -1059,7 +1090,7 @@ logistical_calculations = {
 }
 
 replenishment_transport_organisation = {
-	limit = { military_logistics = 1 }
+	limit = { irregularry_logistics = 1 }
 	chance = {
 		base = 3
 		modifier = {
@@ -1079,9 +1110,9 @@ replenishment_transport_organisation = {
 	}
 }
 
-#military_directionism
+#irregularry_directionism
 army_political_lobbying = {
-	limit = { military_directionism = 1 }
+	limit = { irregularry_directionism = 1 }
 	chance = {
 		base = 2
 		modifier = {
@@ -1098,8 +1129,8 @@ army_political_lobbying = {
 	}
 }
 
-army_military_political_decision_making = {
-	limit = { military_directionism = 1 }
+army_irregularry_political_decision_making = {
+	limit = { irregularry_directionism = 1 }
 	chance = {
 		base = 2
 		modifier = {
@@ -1119,8 +1150,8 @@ army_military_political_decision_making = {
 	}
 }
 
-army_local_military_government = {
-	limit = { military_directionism = 1 }
+army_local_irregularry_government = {
+	limit = { irregularry_directionism = 1 }
 	chance = {
 		base = 2
 		modifier = {

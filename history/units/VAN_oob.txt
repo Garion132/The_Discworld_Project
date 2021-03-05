@@ -13,7 +13,7 @@ army = {
 	}
 	regiment = {
 		name= "3rd Varneval infantry"
-		type = miltia
+		type = irregular
 		home = 735
 	}
 }
