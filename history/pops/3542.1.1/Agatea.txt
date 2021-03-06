@@ -43,10 +43,15 @@
 	}
     }
 507={
-        farmers = {
+    farmers = {
 		culture = agatean
 		religion = catholic
 		size = 10000
+	}
+	soldiers = {
+		culture = agatean
+		religion = catholic
+		size = 1100
 	}
     }
 508={
@@ -559,21 +564,36 @@
         farmers = {
 		culture = agatean
 		religion = catholic
-		size = 10000
+		size = 26000
+	}
+	soldiers = {
+		culture = agatean
+		religion = catholic
+		size = 1600
 	}
 }
 559={
         farmers = {
 		culture = agatean
 		religion = catholic
-		size = 10000
+		size = 18000
+	}
+	soldiers = {
+		culture = agatean
+		religion = catholic
+		size = 1600
 	}
     }
 560={
         farmers = {
 		culture = agatean
 		religion = catholic
-		size = 10000
+		size = 29000
+	}
+	soldiers = {
+		culture = agatean
+		religion = catholic
+		size = 1600
 	}
     }
 561={
@@ -582,12 +602,22 @@
 		religion = catholic
 		size = 10000
 	}
+	soldiers = {
+		culture = agatean
+		religion = catholic
+		size = 1600
+	}
     }
 562={
         farmers = {
 		culture = agatean
 		religion = catholic
 		size = 10000
+	}
+	soldiers = {
+		culture = agatean
+		religion = catholic
+		size = 1600
 	}
     }
 563={

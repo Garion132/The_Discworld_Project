@@ -9,9 +9,7 @@ country_event = {
 			tag = MOU 
 			tag = ZLO 
 		}
-		NOT = {
-			soldiers = 0.05
-		}
+		always = no
 	}
  
 	mean_time_to_happen =  {
@@ -36,5 +34,68 @@ country_event = {
 				reduce_pop = 0.75
 			}
 		}
+	}
+}
+country_event = {
+
+	id = 38001 
+
+	trigger = {
+		OR={
+			tag = BOR 
+			tag = MOU 
+			tag = ZLO 
+			tag = LOU 
+			tag = RHE
+			tag = VAN
+		}
+	}
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 6
+
+	}
+
+	title = "EVTNAME38001"
+	desc = "EVTDESC38001"
+	picture = "Administration"
+
+	option = {
+		name = "EVTOPTA38001" 
+		add_country_modifier = {
+			name = hotbed_of_war
+		}
+	}
+}
+
+country_event = {#inheritance of outer mouldavia
+
+	id = 38002 
+
+	trigger = {
+		tag = MOU 
+		year = 3561
+		OML={
+			ai = yes
+		}
+	}
+	news = yes
+	news_desc_short = "EVTDESC38002_NEWS_SHORT"
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 6
+	}
+
+	title = "EVTNAME38002"
+	desc = "EVTDESC38002"
+	picture = "Administration"
+
+	option = {
+		name = "EVTOPTA38002" 
+		inherit = OML
 	}
 }

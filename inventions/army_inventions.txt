@@ -881,7 +881,7 @@ heavy_artillery = {
 }
 #irregularry_staff_system
 cuirassier_activation = {
-	limit = { irregularry_directionism = 1 }
+	limit = { military_statistics = 1 }
 	chance = {
 		base = 2
 		modifier = {
@@ -894,7 +894,7 @@ cuirassier_activation = {
 	}
 }
 dragoon_activation = {
-	limit = { irregularry_directionism = 1 }
+	limit = { military_statistics = 1 }
 	chance = {
 		base = 2
 		modifier = {
@@ -907,7 +907,7 @@ dragoon_activation = {
 	}
 }
 hussar_activation = {
-	limit = { irregularry_directionism = 1 }
+	limit = { military_statistics = 1 }
 	chance = {
 		base = 2
 		modifier = {

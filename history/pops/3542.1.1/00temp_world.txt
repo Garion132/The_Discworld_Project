@@ -4737,11 +4737,6 @@
 		religion = nugganite
 		size = 4500
 	}
-	soldiers = {
-		culture = borogravian
-		religion = nugganite
-		size = 1500
-	}
     }
 592={
 	farmers = {
@@ -4821,11 +4816,6 @@
 		religion = nugganite
 		size = 3900
 	}
-	soldiers = {
-		culture = borogravian
-		religion = nugganite
-		size = 1600
-	}
     }
 599={
 	farmers = {
@@ -4889,7 +4879,7 @@
 	soldiers = {
 		culture = borogravian
 		religion = nugganite
-		size = 9200
+		size = 6200
 	}
 	aristocrats = {
 		culture = borogravian
@@ -4911,7 +4901,7 @@
 	soldiers = {
 		culture = borogravian
 		religion = nugganite
-		size = 3700
+		size = 1700
 	}
     }
 605={
@@ -4920,22 +4910,12 @@
 		religion = nugganite
 		size = 8500
 	}
-	soldiers = {
-		culture = borogravian
-		religion = nugganite
-		size = 2100
-	}
     }
 606={
 	farmers = {
 		culture = borogravian
 		religion = nugganite
 		size = 2100
-	}
-	soldiers = {
-		culture = borogravian
-		religion = nugganite
-		size = 850
 	}
 	farmers = {
 		culture = mouldavian
@@ -4972,7 +4952,7 @@
 	soldiers = {
 		culture = mouldavian
 		religion = nugganite
-		size = 1100
+		size = 1800
 	}
     }
 608={
@@ -4981,22 +4961,12 @@
 		religion = nugganite
 		size = 8500
 	}
-	soldiers = {
-		culture = borogravian
-		religion = nugganite
-		size = 1900
-	}
     }
 609={
     farmers = {
 		culture = borogravian
 		religion = nugganite
 		size = 3500
-	}
-	soldiers = {
-		culture = borogravian
-		religion = nugganite
-		size = 1100
 	}
     }
 610={
@@ -5005,22 +4975,12 @@
 		religion = nugganite
 		size = 3500
 	}
-	soldiers = {
-		culture = borogravian
-		religion = nugganite
-		size = 1100
-	}
     }
 611={
     farmers = {
 		culture = borogravian
 		religion = nugganite
 		size = 7800
-	}
-	soldiers = {
-		culture = borogravian
-		religion = nugganite
-		size = 1300
 	}
     }
 612={
@@ -5065,7 +5025,7 @@
 	soldiers = {
 		culture = borogravian
 		religion = nugganite
-		size = 2100
+		size = 1800
 	}
     }
 617={
@@ -5073,11 +5033,6 @@
 		culture = borogravian
 		religion = nugganite
 		size = 3500
-	}
-	soldiers = {
-		culture = borogravian
-		religion = nugganite
-		size = 1200
 	}
     }
 618={
@@ -5093,11 +5048,6 @@
 		religion = nugganite
 		size = 4700
 	}
-	soldiers = {
-		culture = borogravian
-		religion = nugganite
-		size = 1200
-	}
     }
 620={
 	farmers = {
@@ -5108,7 +5058,7 @@
 	soldiers = {
 		culture = borogravian
 		religion = nugganite
-		size = 2100
+		size = 1700
 	}
     }
 621={

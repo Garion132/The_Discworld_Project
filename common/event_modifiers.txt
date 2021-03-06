@@ -758,3 +758,8 @@ liberian_research_boost = {
 	research_points_modifier = 0.15
 	icon = 5
 }
+
+hotbed_of_war = {
+	mobilisation_size = 0.30
+	icon = 8
+}

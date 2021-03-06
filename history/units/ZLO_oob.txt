@@ -13,32 +13,32 @@ army = {
 	}
 	regiment = {
 		name= "1st Zlobenian Spears"
-		type = armored_footmen
+		type = warriors
 		home = 626
 	}
 	regiment = {
 		name= "2nd Zlobenian Spears"
-		type = armored_footmen
+		type = warriors
 		home = 625
 	}
 	regiment = {
 		name= "3rd Zlobenian Spears"
-		type = armored_footmen
+		type = warriors
 		home = 624
 	}
 	regiment = {
 		name= "4th Zlobenian Spears"
-		type = armored_footmen
+		type = warriors
 		home = 630
 	}
 	regiment = {
 		name= "5th Zlobenian Spears"
-		type = armored_footmen
+		type = warriors
 		home = 634
 	}
 	regiment = {
 		name= "6th Zlobenian Spears"
-		type = armored_footmen
+		type = warriors
 		home = 631
 	}
 }

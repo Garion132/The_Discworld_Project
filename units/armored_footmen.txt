@@ -34,7 +34,7 @@ armored_footmen = {
 	reconnaissance = 0
 	attack = 2
 	defence = 2
-	discipline = 0.8
+	discipline = 0.9
 	support = 0.0
 	maneuver = 1
 }

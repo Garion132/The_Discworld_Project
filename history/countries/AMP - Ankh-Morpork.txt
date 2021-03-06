@@ -57,6 +57,7 @@ hand_cranked_power = 1
 guild_based_production = 1
 freedom_of_trade = 1
 new_quisition_and_vetinarism = 1
+guilds = 1
 
 # Inventions
 #corvettes = yes
