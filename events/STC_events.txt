@@ -91,8 +91,7 @@ country_event = {#netural
 	}
 }
 
-country_event = {#treaty with zemphis
-
+country_event = {#treaty with northern minors
 	id = 39004
 
 	is_triggered_only = yes
@@ -103,12 +102,51 @@ country_event = {#treaty with zemphis
 
 	option = {#agree
 		name = "EVTOPTA39004" 
-		treasury = -5000
+		treasury = 5000
 		FROM={create_vassal = ROOT}
 		STL={country_event = { id=39005 days=0 }}
 	}
 	option = {#disagree
 		name = "EVTOPTB39004" 
 		STL={country_event = { id=39006 days=0 }}
+	}
+}
+country_event = {#agreed
+
+	id = 39005
+
+	is_triggered_only = yes
+
+	title = "EVTNAME39005"
+	desc = "EVTDESC39005"
+	picture = "Administration"
+
+	option = {
+		name = "EVTOPTA39005" 
+		
+	}
+}
+country_event = {#disagreed
+
+	id = 39006
+
+	is_triggered_only = yes
+
+	title = "EVTNAME39006"
+	desc = "EVTDESC39006"
+	picture = "Administration"
+
+	option = {#go in
+		name = "EVTOPTA39006" 
+		war = {
+			target = FROM
+			attacker_goal = { casus_belli = make_puppet }
+			defender_goal = { casus_belli = status_quo }
+			call_ally = no
+		}
+	}
+	option = {
+		name = "EVTOPTB39006" 
+		
 	}
 }

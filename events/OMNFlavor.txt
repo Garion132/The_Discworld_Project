@@ -34,10 +34,75 @@ country_event = {
 				factor = -0.1
 			}	
 		}
+		set_country_flag = OMN_brutha_death
 	}
 
 	option = {#a blow
 		name = "EVTOPTA40000" 
-		
+		country_event = {id=40001 days = 50}
+	}
+}
+
+#deciding the future
+country_event = {
+
+	id = 40001
+
+	is_triggered_only = yes
+
+
+	title = "EVTNAME40001"
+	desc = "EVTDESC40001"
+	picture = "Administration"
+	
+	immediate = {
+		any_pop = {
+			limit = {
+				location = {
+					is_colonial = no
+				}
+			}
+			ideology = {
+				value = liberal
+				factor = -0.1
+			}	
+		}
+		set_country_flag = OMN_brutha_death
+	}
+
+	option = {#leave peace behind
+		name = "EVTOPTA40001" 
+		casus_belli = {
+			target = BET
+			type = make_puppet
+			months = 40
+		}
+		casus_belli = {
+			target = IST
+			type = make_puppet
+			months = 40
+		}
+		casus_belli = {
+			target = SML
+			type = make_puppet
+			months = 40
+		}
+		casus_belli = {
+			target = USH
+			type = make_puppet
+			months = 40
+		}
+	}
+	option = {#try peaceful means
+		name = "EVTOPTB40001" 
+		any_neighbor_country={
+			limit={
+				is_culture_group = THIS
+			}
+			relation = {
+				who = THIS
+				value = 50
+			}
+		}
 	}
 }

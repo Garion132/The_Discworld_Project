@@ -1251,7 +1251,7 @@
 	    soldiers = {
 		culture = pseudopolian
 		religion = catholic
-		size = 9500
+		size = 19500
 	}
 	    artisans = {
 		culture = pseudopolian
@@ -1303,7 +1303,7 @@
 	farmers = {
 		culture = pseudopolian
 		religion = catholic
-		size = 2650
+		size = 3650
 	}
 	artisans = {
 		culture = pseudopolian
@@ -1315,105 +1315,115 @@
         farmers = {
 		culture = pseudopolian
 		religion = catholic
-		size = 960
+		size = 2960
 	}
     }
 105={
         farmers = {
 		culture = pseudopolian
 		religion = catholic
-		size = 1450
+		size = 3450
 	}
     }
 106={
         farmers = {
 		culture = pseudopolian
 		religion = catholic
-		size = 2113
+		size = 4113
 	}
     }
 107={
-        farmers = {
+     farmers = {
 		culture = pseudopolian
 		religion = catholic
-		size = 980
+		size = 2980
 	}
     }
 108={
         farmers = {
 		culture = pseudopolian
 		religion = catholic
-		size = 1230
+		size = 4230
 	}
     }
 109={
         farmers = {
 		culture = pseudopolian
 		religion = catholic
-		size = 1420
+		size = 3420
 	}
     }
 110={
         farmers = {
 		culture = pseudopolian
 		religion = catholic
-		size = 978
+		size = 2978
 	}
     }
 111={
         farmers = {
 		culture = pseudopolian
 		religion = catholic
-		size = 1143
+		size = 3143
 	}
     }
 112={
         farmers = {
 		culture = pseudopolian
 		religion = catholic
-		size = 2510
+		size = 6510
+	}
+	soldiers = {
+		culture = pseudopolian
+		religion = catholic
+		size = 1630
 	}
     }
 113={
         farmers = {
 		culture = pseudopolian
 		religion = catholic
-		size = 2040
+		size = 5040
+	}
+	soldiers = {
+		culture = pseudopolian
+		religion = catholic
+		size = 1800
 	}
     }
 114={
         farmers = {
 		culture = pseudopolian
 		religion = catholic
-		size = 1630
+		size = 5630
 	}
     }
 115={
         farmers = {
 		culture = pseudopolian
 		religion = catholic
-		size = 1780
+		size = 3780
 	}
     }
 116={
         farmers = {
 		culture = pseudopolian
 		religion = catholic
-		size = 1840
+		size = 2840
 	}
     }
 117={
         farmers = {
 		culture = pseudopolian
 		religion = catholic
-		size = 996
+		size = 2996
 	}
     }
 118={
         farmers = {
 		culture = pseudopolian
 		religion = catholic
-		size = 1025
+		size = 3025
 	}
     }
 119={
@@ -2731,7 +2741,7 @@
 	soldiers = {
 		culture = klatchian
 		religion = catholic
-		size = 13000
+		size = 9000
 	}
 	artisans = {
 		culture = klatchian
@@ -2889,7 +2899,7 @@
 	farmers = {
 		culture = dregs
 		religion = catholic
-		size = 760
+		size = 3760
 	}
     }
 364={
@@ -2930,7 +2940,12 @@
 	farmers = {
 		culture = klatchian
 		religion = catholic
-		size = 2100
+		size = 2180
+	}
+	farmers = {
+		culture = howondalander
+		religion = catholic
+		size = 630
 	}
     }
 367={
@@ -2942,7 +2957,7 @@
 	farmers = {
 		culture = howondalander
 		religion = catholic
-		size = 2100
+		size = 2600
 	}
     }
 368={
@@ -2951,41 +2966,61 @@
 		religion = catholic
 		size = 1840
 	}
+	farmers = {
+		culture = howondalander
+		religion = catholic
+		size = 2400
+	}
     }
 369={
     farmers = {
 		culture = klatchian
-		religion = catholic
+		religion = sek
 		size = 2400
 	}
 	aristocrats = {
 		culture = klatchian
-		religion = catholic
+		religion = sek
 		size = 20
 	}
 	farmers = {
 		culture = howondalander
 		religion = catholic
-		size = 1200
+		size = 7200
+	}
+	soldiers = {
+		culture = howondalander
+		religion = catholic
+		size = 2400
 	}
 }
 370={
 	farmers = {
 		culture = klatchian
 		religion = catholic
-		size = 2300
+		size = 3300
+	}
+	farmers = {
+		culture = howondalander
+		religion = catholic
+		size = 1700
 	}
     }
 371={
     farmers = {
 		culture = klatchian
 		religion = catholic
-		size = 800
+		size = 2800
 	}
 	farmers = {
 		culture = howondalander
 		religion = catholic
-		size = 400
+		size = 2400
+	}
+	soldiers = {
+		culture = howondalander
+		religion = catholic
+		size = 970
 	}
     }
 372={
@@ -3048,14 +3083,19 @@
 	farmers = {
 		culture = klatchian
 		religion = catholic
-		size = 980
+		size = 2980
+	}
+	soldiers = {
+		culture = klatchian
+		religion = catholic
+		size = 780
 	}
     }
 376={
 	farmers = {
 		culture = klatchian
 		religion = catholic
-		size = 1900
+		size = 2600
 	}
     }
 377={
@@ -3173,7 +3213,7 @@
         farmers = {
 		culture = dregs
 		religion = catholic
-		size = 780
+		size = 2980
 	}
     }
 386={
@@ -3314,7 +3354,7 @@
     farmers = {
 		culture = urtalie
 		religion = catholic
-		size = 1600
+		size = 4630
 	}
 	aristocrats = {
 		culture = urtalie
@@ -4473,7 +4513,12 @@
 		religion = catholic
 		size = 12000
 	}
-    }
+	soldiers = {
+		culture = laotani
+		religion = catholic
+		size = 2200
+	}
+}
 494={
     farmers = {
 		culture = laotani
@@ -4497,14 +4542,24 @@
 	farmers = {
 		culture = laotani
 		religion = catholic
-		size = 2600
+		size = 12600
+	}
+	soldiers = {
+		culture = laotani
+		religion = catholic
+		size = 3500
 	}
     }
 497={
 	farmers = {
 		culture = laotani
 		religion = catholic
-		size = 4500
+		size = 9500
+	}
+	soldiers = {
+		culture = laotani
+		religion = catholic
+		size = 2200
 	}
     }
 498={
@@ -9347,42 +9402,42 @@
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 700
+		size = 2700
 	}
 }
 1219={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 1200
 	}
 }
 1220={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 1500
 	}
 }
 1221={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 2600
 	}
 }
 1222={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 1300
 	}
 }
 1223={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 870
+		size = 1870
 	}
 }
 1224={
@@ -9401,14 +9456,14 @@
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 960
+		size = 1960
 	}
 }
 1226={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 1860
+		size = 2860
 	}
 	farmers = {
 		culture = llamedos
@@ -9420,245 +9475,245 @@
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 1200
 	}
 }
 1228={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 1400
 	}
 }
 1229={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 1800
 	}
 }
 1230={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 2000
 	}
 }
 1231={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 1500
 	}
 }
 1232={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 1400
 	}
 }
 1233={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 1600
 	}
 }
 1234={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 1300
 	}
 }
 1235={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 2500
 	}
 }
 1236={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 2100
 	}
 }
 1237={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 1800
 	}
 }
 1238={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 1670
 	}
 }
 1239={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 1500
 	}
 }
 1240={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 2000
 	}
 }
 1241={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 1900
 	}
 }
 1242={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 2200
 	}
 }
 1243={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 2300
 	}
 }
 1244={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 2200
 	}
 }
 1245={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 1900
 	}
 }
 1246={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 1800
 	}
 }
 1247={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 1900
 	}
 }
 1248={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 770
+		size = 2770
 	}
 }
 1249={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 710
+		size = 1710
 	}
 }
 1250={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 640
+		size = 1640
 	}
 }
 1251={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 1050
+		size = 2050
 	}
 }
 1252={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 980
+		size = 1980
 	}
 }
 1253={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 1600
 	}
 }
 1254={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 1700
 	}
 }
 1255={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 1300
 	}
 }
 1256={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 1800
 	}
 }
 1257={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 1780
 	}
 }
 1258={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 2500
 	}
 }
 1259={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 1900
 	}
 }
 1260={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 500
+		size = 1700
 	}
 }
 1261={
     farmers = {
 		culture = octarine
 		religion = catholic
-		size = 750
+		size = 1750
 	}
 }
 1262={
@@ -11046,14 +11101,24 @@
     farmers = {
 		culture = bewe
 		religion = catholic
-		size = 1200
+		size = 11200
+	}
+	artisans = {
+		culture = bewe
+		religion = catholic
+		size = 2200
+	}
+	soldiers = {
+		culture = bewe
+		religion = catholic
+		size = 2200
 	}
 }
 1485={
     farmers = {
 		culture = bewe
 		religion = catholic
-		size = 1400
+		size = 4400
 	}
 }
 1486={
@@ -11135,7 +11200,7 @@
     farmers = {
 		culture = sbelinian
 		religion = catholic
-		size = 500
+		size = 4100
 	}
 }
 1497={
@@ -11149,126 +11214,146 @@
     farmers = {
 		culture = tetsean
 		religion = ephebic
-		size = 1400
+		size = 2400
 	}
 }
 1499={
     farmers = {
 		culture = tetsean
 		religion = ephebic
-		size = 900
+		size = 1860
 	}
 }
 1500={
     farmers = {
 		culture = tetsean
 		religion = ephebic
-		size = 500
+		size = 3420
 	}
 }
 1501={
     farmers = {
 		culture = tetsean
 		religion = ephebic
-		size = 500
+		size = 4060
 	}
 }
 1502={
     farmers = {
 		culture = tetsean
 		religion = ephebic
-		size = 500
+		size = 3710
 	}
 }
 1503={
     farmers = {
 		culture = tetsean
 		religion = ephebic
-		size = 500
+		size = 9940
+	}
+	artisans = {
+		culture = tetsean
+		religion = ephebic
+		size = 1200
+	}
+	aristocrats = {
+		culture = tetsean
+		religion = ephebic
+		size = 25
+	}
+	soldiers = {
+		culture = tetsean
+		religion = ephebic
+		size = 2300
 	}
 }
 1504={
     farmers = {
 		culture = tetsean
 		religion = ephebic
-		size = 500
+		size = 3180
 	}
 }
 1505={
     farmers = {
 		culture = tetsean
 		religion = ephebic
-		size = 500
+		size = 3450
 	}
 }
 1506={
     farmers = {
 		culture = tetsean
 		religion = ephebic
-		size = 500
+		size = 2750
 	}
 }
 1507={
     farmers = {
 		culture = tetsean
 		religion = ephebic
-		size = 500
+		size = 1980
+	}
+	soldiers = {
+		culture = tetsean
+		religion = ephebic
+		size = 894
 	}
 }
 1508={
     farmers = {
 		culture = tetsean
 		religion = ephebic
-		size = 500
+		size = 2700
 	}
 }
 1509={
     farmers = {
 		culture = tetsean
 		religion = ephebic
-		size = 500
+		size = 3640
 	}
 }
 1510={
     farmers = {
 		culture = tetsean
 		religion = ephebic
-		size = 500
+		size = 4700
 	}
 }
 1511={
     farmers = {
 		culture = tetsean
 		religion = ephebic
-		size = 500
+		size = 3600
 	}
 }
 1512={
     farmers = {
 		culture = tetsean
 		religion = ephebic
-		size = 500
+		size = 1970
 	}
 }
 1513={
     farmers = {
 		culture = tetsean
 		religion = ephebic
-		size = 500
+		size = 2490
 	}
 }
 1514={
     farmers = {
 		culture = tetsean
 		religion = ephebic
-		size = 500
+		size = 2980
 	}
 }
 1515={
     farmers = {
 		culture = tetsean
 		religion = ephebic
-		size = 500
+		size = 3100
 	}
 }
 1516={
@@ -11282,14 +11367,14 @@
     farmers = {
 		culture = tetsean
 		religion = ephebic
-		size = 500
+		size = 2800
 	}
 }
 1518={
     farmers = {
 		culture = tetsean
 		religion = ephebic
-		size = 500
+		size = 3400
 	}
 }
 1601={

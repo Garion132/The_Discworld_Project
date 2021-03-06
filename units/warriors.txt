@@ -9,7 +9,7 @@ warriors = {
 	
 	#Core Abilities
 	priority = 5
-	max_strength = 3
+	max_strength = 2
 	default_organisation = 20
 	maximum_speed = 4.00
 	weighted_value = 1.0

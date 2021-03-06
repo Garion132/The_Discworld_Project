@@ -30,11 +30,61 @@ political_decisions = {
 		
 		allow = {
 			year = 3551
+			OR={
+				alliance_with = STM
+				relation = { who = STM value = 100 }
+			}
 		}
 		
 		effect = {
-			country_event = { id=39001 days=0 }
+			STM={country_event = { id=39004 days=0 }}
 			set_country_flag = STL_STM_offer
+		}
+	}
+	sto_herrige_delegation = {
+		potential = {
+			tag = STL
+			STM={
+				is_vassal = no
+				exists = yes
+			}
+			NOT={has_country_flag = STL_STH_offer}
+		}
+		
+		allow = {
+			year = 3551
+			OR={
+				alliance_with = STH
+				relation = { who = STH value = 100 }
+			}
+		}
+		
+		effect = {
+			STH={country_event = { id=39004 days=0 }}
+			set_country_flag = STL_STH_offer
+		}
+	}
+	sheep_ridge_delegation = {
+		potential = {
+			tag = STL
+			STM={
+				is_vassal = no
+				exists = yes
+			}
+			NOT={has_country_flag = STL_SHR_offer}
+		}
+		
+		allow = {
+			year = 3551
+			OR={
+				alliance_with = SHR
+				relation = { who = SHR value = 100 }
+			}
+		}
+		
+		effect = {
+			SHR={country_event = { id=39004 days=0 }}
+			set_country_flag = STL_SHR_offer
 		}
 	}
 }

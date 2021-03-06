@@ -120,8 +120,8 @@ theocracy = {
 	
 	
 	election = yes
-	duration = 120
-	appoint_ruling_party = yes
+	duration = 360
+	appoint_ruling_party = no
 	flagType = monarchy
 }
  

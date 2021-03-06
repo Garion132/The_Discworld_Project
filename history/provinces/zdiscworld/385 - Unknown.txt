@@ -1,6 +1,5 @@
 owner = HER
 controller = HER
-add_core = HER
 add_core = DRG
 trade_goods = fruit
 life_rating = 50

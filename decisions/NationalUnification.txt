@@ -117,6 +117,151 @@ political_decisions = {
 		}
 	}
 	
+	reunite_omnia = {
+		potential = {
+			tag = OMN
+			has_country_flag = OMN_brutha_death
+		}
+		
+		allow = {
+			prestige = 100
+			war = no
+			IST ={
+				OR={
+					vassal_of = THIS
+					exists = no
+				}
+			}
+			BET ={
+				OR={
+					vassal_of = THIS
+					exists = no
+				}
+			}
+			SML ={
+				OR={
+					vassal_of = THIS
+					exists = no
+				}
+			}
+			USH ={
+				OR={
+					vassal_of = THIS
+					exists = no
+				}
+			}
+		}
+		effect = {
+			prestige = 20
+			any_country = {
+				limit = {
+					is_culture_group = THIS
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+				any_state ={
+					add_core = OMN
+				}
+			}
+			add_accepted_culture = union
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	vassalise_smale = {
+		potential = {
+			tag = OMN
+			has_country_flag = OMN_brutha_death
+		}
+		
+		allow = {
+			year = 3560
+			prestige = 80
+			war = no
+			SML ={
+				in_sphere = THIS
+				alliance_with = THIS
+				relation = {who = THIS value = 100}
+			}
+		}
+		effect = {
+			create_vassal = SML
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	vassalise_betrek = {
+		potential = {
+			tag = OMN
+			has_country_flag = OMN_brutha_death
+		}
+		
+		allow = {
+			year = 3560
+			prestige = 80
+			war = no
+			BET ={
+				in_sphere = THIS
+				alliance_with = THIS
+				relation = {who = THIS value = 100}
+			}
+		}
+		effect = {
+			create_vassal = BET
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	vassalise_ushistan = {
+		potential = {
+			tag = OMN
+			has_country_flag = OMN_brutha_death
+		}
+		
+		allow = {
+			year = 3560
+			prestige = 80
+			war = no
+			USH ={
+				in_sphere = THIS
+				alliance_with = THIS
+				relation = {who = THIS value = 100}
+			}
+		}
+		effect = {
+			create_vassal = USH
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	vassalise_istanzia = {
+		potential = {
+			tag = OMN
+			has_country_flag = OMN_brutha_death
+		}
+		
+		allow = {
+			year = 3560
+			prestige = 80
+			war = no
+			IST ={
+				in_sphere = THIS
+				alliance_with = THIS
+				relation = {who = THIS value = 100}
+			}
+		}
+		effect = {
+			create_vassal = IST
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
 	
 	
 	# form_union_nation = {

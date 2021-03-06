@@ -334,42 +334,42 @@
 	}
     }
 264={
-        farmers = {
+    farmers = {
 		culture = istanzian
 		religion = catholic
 		size = 6800
 	}
     }
 265={
-        farmers = {
+    farmers = {
 		culture = istanzian
 		religion = catholic
 		size = 2800
 	}
     }
 266={
-        farmers = {
+    farmers = {
 		culture = istanzian
 		religion = catholic
 		size = 4800
 	}
     }
 267={
-        farmers = {
+    farmers = {
 		culture = istanzian
 		religion = catholic
 		size = 3800
 	}
     }
 268={
-        farmers = {
+    farmers = {
 		culture = istanzian
 		religion = catholic
 		size = 2400
 	}
     }
 269={
-        farmers = {
+    farmers = {
 		culture = istanzian
 		religion = catholic
 		size = 9500
@@ -384,12 +384,17 @@
 	artisans = {
 		culture = omnian
 		religion = omnianism
-		size = 8400
+		size = 9400
 	}
 	craftsmen = {
 		culture = omnian
 		religion = omnianism
-		size = 2500
+		size = 4500
+	}
+	clerks = {
+		culture = omnian
+		religion = omnianism
+		size = 500
 	}
 	farmers = {
 		culture = omnian
@@ -399,7 +404,7 @@
 	soldiers = {
 		culture = omnian
 		religion = omnianism
-		size = 6200
+		size = 13200
 	}
 	
     }
@@ -412,7 +417,7 @@
 	soldiers = {
 		culture = omnian
 		religion = omnianism
-		size = 1800
+		size = 2800
 	}
 	clergymen = {
 		culture = omnian
@@ -434,7 +439,7 @@
 	soldiers = {
 		culture = omnian
 		religion = omnianism
-		size = 2100
+		size = 2600
 	}
     }
 273={
@@ -489,7 +494,7 @@
 	}
     }
 276={
-        farmers = {
+    farmers = {
 		culture = omnian
 		religion = omnianism
 		size = 5100
@@ -513,10 +518,10 @@
 	}
     }
 278={
-        farmers = {
+    farmers = {
 		culture = omnian
 		religion = omnianism
-		size = 4400
+		size = 5400
 	}
 	clergymen = {
 		culture = omnian
@@ -525,10 +530,10 @@
 	}
     }
 279={
-        farmers = {
+    farmers = {
 		culture = omnian
 		religion = omnianism
-		size = 3100
+		size = 6100
 	}
 	clergymen = {
 		culture = omnian
@@ -538,11 +543,11 @@
 	soldiers = {
 		culture = omnian
 		religion = omnianism
-		size = 1400
+		size = 1900
 	}
     }
 280={
-        farmers = {
+    farmers = {
 		culture = omnian
 		religion = omnianism
 		size = 6200
@@ -559,7 +564,7 @@
 	}
     }
 281={
-        farmers = {
+    farmers = {
 		culture = omnian
 		religion = omnianism
 		size = 4300
@@ -571,10 +576,10 @@
 	}
     }
 282={
-        farmers = {
+    farmers = {
 		culture = omnian
 		religion = omnianism
-		size = 7600
+		size = 8600
 	}
 	clergymen = {
 		culture = omnian
@@ -583,7 +588,7 @@
 	}
     }	
 283={
-        farmers = {
+    farmers = {
 		culture = omnian
 		religion = omnianism
 		size = 12400
@@ -595,7 +600,7 @@
 	}
     }
 284={
-        farmers = {
+    farmers = {
 		culture = omnian
 		religion = omnianism
 		size = 8200
@@ -612,10 +617,10 @@
 	}
     }
 285={
-        farmers = {
+    farmers = {
 		culture = omnian
 		religion = omnianism
-		size = 4400
+		size = 6400
 	}
 	clergymen = {
 		culture = omnian
@@ -624,7 +629,7 @@
 	}
     }
 286={
-        farmers = {
+    farmers = {
 		culture = omnian
 		religion = omnianism
 		size = 9500
@@ -639,7 +644,7 @@
     farmers = {
 		culture = omnian
 		religion = omnianism
-		size = 8600
+		size = 10600
 	}
 	clergymen = {
 		culture = omnian
@@ -653,22 +658,37 @@
 	}
     }
 288={
-        farmers = {
+    farmers = {
 		culture = omnian
 		religion = omnianism
-		size = 2700
+		size = 5900
 	}
 	clergymen = {
 		culture = omnian
 		religion = omnianism
 		size = 300
 	}
-    }
-289={
-        farmers = {
+	soldiers = {
 		culture = omnian
 		religion = omnianism
-		size = 4500
+		size = 1850
+	}
+	aristocrats = {
+		culture = omnian
+		religion = omnianism
+		size = 120
+	}
+    }
+289={
+    farmers = {
+		culture = omnian
+		religion = omnianism
+		size = 5500
+	}
+	soldiers = {
+		culture = omnian
+		religion = omnianism
+		size = 1050
 	}
 	clergymen = {
 		culture = omnian
@@ -677,10 +697,10 @@
 	}
     }
 290={
-        farmers = {
+    farmers = {
 		culture = omnian
 		religion = omnianism
-		size = 3600
+		size = 4600
 	}
 	clergymen = {
 		culture = omnian
@@ -689,10 +709,10 @@
 	}
     }
 291={
-        farmers = {
+    farmers = {
 		culture = omnian
 		religion = omnianism
-		size = 3800
+		size = 4800
 	}
 	clergymen = {
 		culture = omnian
@@ -701,10 +721,10 @@
 	}
     }
 292={
-        farmers = {
+    farmers = {
 		culture = omnian
 		religion = omnianism
-		size = 4900
+		size = 5900
 	}
 	clergymen = {
 		culture = omnian
@@ -716,7 +736,7 @@
 	farmers = {
 		culture = omnian
 		religion = omnianism
-		size = 5800
+		size = 6800
 	}
 	clergymen = {
 		culture = omnian
@@ -783,7 +803,7 @@
 	}
     }
 313={
-        farmers = {
+    farmers = {
 		culture = ushistanian
 		religion = omnianism
 		size = 2500
@@ -834,7 +854,7 @@
 	soldiers = {
 		culture = ushistanian
 		religion = omnianism
-		size = 1300
+		size = 2300
 	}
     }
 318={
@@ -853,7 +873,7 @@
 	soldiers = {
 		culture = ushistanian
 		religion = omnianism
-		size = 1350
+		size = 1950
 	}
     }
 320={

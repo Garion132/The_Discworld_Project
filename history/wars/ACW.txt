@@ -23,7 +23,7 @@ name = "Restoration of order to Ghat"
 
 }
 
-3541.4.21 = {
+3542.4.21 = {
 	rem_attacker = MUT
 	rem_defender = GHA
 }

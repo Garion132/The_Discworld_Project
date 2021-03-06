@@ -7,7 +7,7 @@ nationalvalue = nv_order
 literacy = 0.80
 civilized = yes
 
-prestige = 119
+prestige = 124
 
 
 # Political reforms
@@ -41,15 +41,20 @@ simple_production_technquines = 1
 hand_cranked_power = 1
 guild_based_production = 1
 freedom_of_trade = 1
+guilds = 1
+no_standard = 1
+early_classical_theory_and_critique = 1
 
 # Inventions
 #corvettes = yes
+new_quisition = yes
 
 # Starting Consciousness
 consciousness = 3
 nonstate_consciousness = 1
 
 ruling_party = OMN_liberal
+last_election = 3529.6.1
 upper_house = {
 	fascist = 5
 	liberal = 55

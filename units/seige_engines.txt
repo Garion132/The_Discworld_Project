@@ -9,7 +9,7 @@ seige_engines = {
 
 	#Core Abilities
 	priority = 10
-	max_strength = 3
+	max_strength = 2
 	default_organisation = 30
 	maximum_speed = 4.00
 	weighted_value = 5.0
