@@ -102,7 +102,7 @@ raw_material_goods = {
 		available_from_start = no
 	}
 	precious_metal = { 
-		cost = 8
+		cost = 16
 		tradeable = no
 		money = yes	
 		color = { 253 199 110 }
