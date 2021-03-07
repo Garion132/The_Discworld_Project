@@ -763,3 +763,10 @@ hotbed_of_war = {
 	mobilisation_size = 0.30
 	icon = 8
 }
+
+kythian_crisis = {
+	immigrant_attract = -2.5
+	immigrant_push = 2.0
+	population_growth = -0.2
+	icon = 20
+}

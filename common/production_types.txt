@@ -961,7 +961,7 @@ timber_lodge = {
 	farm = yes
 	bonus = {
 		trigger = { pop_majority_culture = skundlander}
-		value = 0.50
+		value = 1.50
 	}
 }
 

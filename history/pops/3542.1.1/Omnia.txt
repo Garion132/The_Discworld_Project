@@ -389,12 +389,12 @@
 	craftsmen = {
 		culture = omnian
 		religion = omnianism
-		size = 4500
+		size = 8500
 	}
 	clerks = {
 		culture = omnian
 		religion = omnianism
-		size = 500
+		size = 900
 	}
 	farmers = {
 		culture = omnian

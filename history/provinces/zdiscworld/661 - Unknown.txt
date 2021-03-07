@@ -2,5 +2,5 @@ owner = LPW
 controller = LPW
 add_core = LPW
 add_core = UBW
-trade_goods = grain
+trade_goods = timber
 life_rating = 50

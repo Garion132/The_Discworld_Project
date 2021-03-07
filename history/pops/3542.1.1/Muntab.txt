@@ -1158,276 +1158,276 @@
     farmers = {
 		culture = khanlian
 		religion = catholic
-		size = 900
+		size = 2900
 	}
 }
 1543={
     farmers = {
 		culture = khanlian
 		religion = catholic
-		size = 2100
+		size = 3100
 	}
 }
 1544={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 1000
+		size = 3650
 	}
 }
 1545={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 1000
+		size = 2870
 	}
 }
 1546={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 1000
+		size = 2250
 	}
 }
 1547={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 1000
+		size = 1980
 	}
 }
 1548={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 1000
+		size = 2980
 	}
 }
 1549={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 1000
+		size = 3750
 	}
 }
 1550={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 1000
+		size = 4036
 	}
 }
 1551={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 1000
+		size = 3105
 	}
 }
 1552={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 1000
+		size = 2350
 	}
 }
 1553={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 1000
+		size = 4000
 	}
 }
 1554={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 2200
+		size = 4200
 	}
 	farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 1250
+		size = 3250
 	}
 }
 1555={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 1000
+		size = 4020
 	}
 }
 1556={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 1000
+		size = 3980
 	}
 }
 1557={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 1000
+		size = 3650
 	}
 }
 1558={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 1000
+		size = 2580
 	}
 }
 1559={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 1000
+		size = 3695
 	}
 }
 1560={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 1000
+		size = 4500
 	}
 }
 1561={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 1000
+		size = 8740
 	}
 }
 1562={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 1000
+		size = 3870
 	}
 }
 1563={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 1000
+		size = 4600
 	}
 }
 1564={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1800
+		size = 3800
 	}
 	farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 2350
+		size = 5350
 	}
 }
 1565={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1000
+		size = 6950
 	}
 }
 1566={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1000
+		size = 11205
 	}
 }
 1567={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1000
+		size = 7820
 	}
 }
 1568={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1000
+		size = 6350
 	}
 }
 1569={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1000
+		size = 7450
 	}
 }
 1570={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1000
+		size = 8620
 	}
 }
 1571={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1000
+		size = 8750
 	}
 }
 1572={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1000
+		size = 8950
 	}
 }
 1573={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1000
+		size = 7410
 	}
 }
 1574={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1000
+		size = 6350
 	}
 }
 1575={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1000
+		size = 4500
 	}
 }
 1576={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1000
+		size = 3600
 	}
 }
 1577={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1000
+		size = 7850
 	}
 }
 1578={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1000
+		size = 6920
 	}
 }
 1579={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1000
+		size = 8650
 	}
 }
 1580={

@@ -1276,7 +1276,7 @@
 	craftsmen = {
 		culture = pseudopolian
 		religion = catholic
-		size = 8900
+		size = 10980
 	}
 		labourers = {
 		culture = pseudopolian
@@ -1293,7 +1293,12 @@
 		religion = catholic
 		size = 20
 	}
-		bureaucrats = {
+	bureaucrats = {
+		culture = pseudopolian
+		religion = catholic
+		size = 750
+	}
+	clerks = {
 		culture = pseudopolian
 		religion = catholic
 		size = 750
