@@ -2,4 +2,4 @@ owner = VEL
 controller = VEL
 add_core = VEL
 trade_goods = iron
-life_rating = 50
+life_rating = 52

@@ -2,4 +2,4 @@ owner = ELH
 controller = ELH
 add_core = ELH
 trade_goods = cattle
-life_rating = 50
+life_rating = 52

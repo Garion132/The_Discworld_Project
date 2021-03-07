@@ -2,4 +2,4 @@ owner = VAN
 controller = VAN
 add_core = VAN
 trade_goods = timber
-life_rating = 50
+life_rating = 52

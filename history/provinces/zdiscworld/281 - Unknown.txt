@@ -2,4 +2,4 @@ owner = OMN
 controller = OMN
 add_core = OMN
 trade_goods = cotton
-life_rating = 50
+life_rating = 52

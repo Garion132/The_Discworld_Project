@@ -2,4 +2,4 @@ owner = HER
 controller = HER
 add_core = HER
 trade_goods = fish
-life_rating = 50
+life_rating = 52

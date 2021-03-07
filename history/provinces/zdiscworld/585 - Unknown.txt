@@ -2,4 +2,4 @@ owner = MOU
 controller = MOU
 add_core = MOU
 trade_goods = cattle
-life_rating = 50
+life_rating = 52

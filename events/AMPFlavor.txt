@@ -111,7 +111,6 @@ country_event = {
 }
 #Rise of Lesip
 country_event = {
-
 	id = 36901
 
 	trigger = {
@@ -142,5 +141,36 @@ country_event = {
 	option = {
 		name = "EVTOPTC36901" 
 
+	}
+}
+#A-M becomes the migratory point
+country_event = {
+
+	id = 36902
+
+	trigger = {
+		tag = AMP 
+		year = 3546
+		always= no
+	}
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 6
+
+	}
+
+	title = "EVTNAME36902"
+	desc = "EVTDESC36902"
+	picture = "Administration"
+	
+	immediate ={
+		add_country_modifier ={name =great_wahonie duration = -1}
+	}
+
+	option = {
+		name = "EVTOPTA36902" 
+		
 	}
 }

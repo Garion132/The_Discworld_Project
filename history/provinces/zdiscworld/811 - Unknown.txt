@@ -3,4 +3,4 @@ controller = KNC
 add_core = KNC
 add_core = UBW
 trade_goods = coal
-life_rating = 50
+life_rating = 52

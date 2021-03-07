@@ -2,4 +2,4 @@ owner = SUM
 controller = SUM
 add_core = SUM
 trade_goods = fish
-life_rating = 50
+life_rating = 52

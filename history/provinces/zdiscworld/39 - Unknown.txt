@@ -4,4 +4,4 @@ add_core = STL
 add_core = STO
 add_core = STS
 trade_goods = brassicas
-life_rating = 50
+life_rating = 52

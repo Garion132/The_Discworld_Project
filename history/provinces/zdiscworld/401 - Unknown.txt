@@ -2,4 +2,4 @@ owner = TET
 controller = TET
 add_core = TET
 trade_goods = fish
-life_rating = 50
+life_rating = 52

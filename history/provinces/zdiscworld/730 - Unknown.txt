@@ -3,4 +3,4 @@ controller = RHE
 add_core = RHE
 add_core = MOU
 trade_goods = grain
-life_rating = 50
+life_rating = 52

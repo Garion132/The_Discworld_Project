@@ -4,4 +4,4 @@ add_core = STH
 add_core = STR
 add_core = STO
 trade_goods = iron
-life_rating = 50
+life_rating = 52

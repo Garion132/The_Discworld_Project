@@ -2,7 +2,7 @@ owner = PSE
 controller = PSE
 add_core = PSE
 trade_goods = tobacco
-life_rating = 50
+life_rating = 52
 
 state_building = {
 	level = 2

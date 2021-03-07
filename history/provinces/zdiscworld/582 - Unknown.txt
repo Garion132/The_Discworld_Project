@@ -4,4 +4,4 @@ add_core = MOU
 add_core = BOR
 add_core = RHE
 trade_goods = cotton
-life_rating = 50
+life_rating = 52

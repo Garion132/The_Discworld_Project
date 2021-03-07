@@ -1,6 +1,5 @@
 owner = VAN
 controller = VAN
 add_core = VAN
-add_core = BOR
 trade_goods = grain
-life_rating = 50
+life_rating = 52

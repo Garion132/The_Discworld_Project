@@ -4,4 +4,4 @@ add_core = RHE
 add_core = MOU
 add_core = BOR
 trade_goods = grain
-life_rating = 50
+life_rating = 52

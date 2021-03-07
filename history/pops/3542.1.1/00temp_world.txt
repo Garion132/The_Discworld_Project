@@ -3509,17 +3509,22 @@
 	farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 4300
+		size = 6300
 	}
 	artisans = {
 		culture = brindisian
 		religion = catholic
-		size = 1600
+		size = 3600
 	}
 	aristocrats = {
 		culture = brindisian
 		religion = catholic
 		size = 60
+	}
+	capitalists = {
+		culture = brindisian
+		religion = catholic
+		size = 15
 	}
 	soldiers = {
 		culture = brindisian
@@ -5190,7 +5195,7 @@
 	farmers = {
 		culture = zlobenian
 		religion = nugganite
-		size = 2400
+		size = 8400
 	}
 	artisans = {
 		culture = zlobenian
@@ -5207,7 +5212,7 @@
 	farmers = {
 		culture = zlobenian
 		religion = nugganite
-		size = 1900
+		size = 6900
 	}
 	soldiers = {
 		culture = zlobenian
@@ -5223,7 +5228,7 @@
 	}
 	farmers = {
 		culture = zlobenian
-		religion = nugganite
+		religion = catholic
 		size = 3500
 	}
 	soldiers = {
@@ -5246,14 +5251,14 @@
 	farmers = {
 		culture = zlobenian
 		religion = nugganite
-		size = 1800
+		size = 5800
 	}
     }
 630={
 	farmers = {
 		culture = zlobenian
 		religion = nugganite
-		size = 3600
+		size = 6600
 	}
 	soldiers = {
 		culture = zlobenian
@@ -5299,7 +5304,7 @@
 	farmers = {
 		culture = zlobenian
 		religion = nugganite
-		size = 2600
+		size = 6600
 	}
 	aristocrats = {
 		culture = zlobenian
@@ -5333,21 +5338,21 @@
 	farmers = {
 		culture = zlobenian
 		religion = nugganite
-		size = 1590
+		size = 3590
 	}
     }
 636={
 	farmers = {
 		culture = zlobenian
 		religion = nugganite
-		size = 2500
+		size = 4500
 	}
     }
 637={
 	farmers = {
 		culture = zlobenian
 		religion = nugganite
-		size = 3100
+		size = 5100
 	}
     }
 638={
@@ -6217,21 +6222,21 @@
     farmers = {
 		culture = rheinthalian
 		religion = catholic
-		size = 500
+		size = 3120
 	}
 }
 716={
     farmers = {
 		culture = rheinthalian
 		religion = catholic
-		size = 500
+		size = 2650
 	}
 }
 717={
     farmers = {
 		culture = rheinthalian
 		religion = catholic
-		size = 500
+		size = 2984
 	}
 }
 718={
@@ -13871,14 +13876,24 @@
 	}
 }
 1936={
-        farmers = {
+    farmers = {
 		culture = mouldavian
 		religion = catholic
 		size = 3200
 	}
+	soldiers = {
+		culture = mouldavian
+		religion = catholic
+		size = 1120
+	}
 }
 1937={
-        farmers = {
+    farmers = {
+		culture = mouldavian
+		religion = catholic
+		size = 2980
+	}
+	soldiers = {
 		culture = mouldavian
 		religion = catholic
 		size = 980
@@ -14203,28 +14218,33 @@
 	}
 }
 1976={
-        farmers = {
+    farmers = {
 		culture = iram
 		religion = catholic
 		size = 3400
 	}
+	soldiers = {
+		culture = iram
+		religion = catholic
+		size = 1050
+	}
 }
 1977={
-        farmers = {
+    farmers = {
 		culture = iram
 		religion = catholic
 		size = 2800
 	}
 }
 1978={
-        farmers = {
+    farmers = {
 		culture = iram
 		religion = catholic
 		size = 2300
 	}
 }
 1979={
-        farmers = {
+    farmers = {
 		culture = iram
 		religion = catholic
 		size = 1500
@@ -14258,14 +14278,19 @@
 	}
 }
 1981={
-        farmers = {
+    farmers = {
 		culture = iram
 		religion = catholic
 		size = 5100
 	}
+	soldiers = {
+		culture = iram
+		religion = catholic
+		size = 980
+	}
 }
 1982={
-        farmers = {
+    farmers = {
 		culture = iram
 		religion = catholic
 		size = 4200
@@ -14277,28 +14302,33 @@
 	}
 }
 1983={
-        farmers = {
+    farmers = {
 		culture = iram
 		religion = catholic
 		size = 1800
 	}
 }
 1984={
-        farmers = {
+    farmers = {
 		culture = iram
 		religion = catholic
 		size = 1450
 	}
 }
 1985={
-        farmers = {
+    farmers = {
 		culture = iram
 		religion = catholic
 		size = 3050
 	}
+	soldiers = {
+		culture = iram
+		religion = catholic
+		size = 800
+	}
 }
 1986={
-        farmers = {
+    farmers = {
 		culture = mouldavian
 		religion = catholic
 		size = 2800

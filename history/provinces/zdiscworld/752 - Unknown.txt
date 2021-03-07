@@ -2,4 +2,4 @@ owner = LOU
 controller = LOU
 add_core = LOU
 trade_goods = iron
-life_rating = 50
+life_rating = 52

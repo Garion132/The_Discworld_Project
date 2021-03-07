@@ -1,2 +1,2 @@
 trade_goods = brassicas
-life_rating = 50
+life_rating = 52

@@ -2,4 +2,4 @@ owner = KRL
 controller = KRL
 add_core = KRL
 trade_goods = coal
-life_rating = 50
+life_rating = 52

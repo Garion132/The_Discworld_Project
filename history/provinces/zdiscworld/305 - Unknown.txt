@@ -2,4 +2,4 @@ owner = DJE
 controller = DJE
 add_core = DJE
 trade_goods = fish
-life_rating = 50
+life_rating = 52

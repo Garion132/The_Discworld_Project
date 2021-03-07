@@ -4,4 +4,4 @@ add_core = QRM
 add_core = STQ
 add_core = STO
 trade_goods = fruit
-life_rating = 50
+life_rating = 52

@@ -4,4 +4,4 @@ add_core = STH
 add_core = STN
 add_core = STO
 trade_goods = cattle
-life_rating = 50
+life_rating = 52

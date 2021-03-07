@@ -2,4 +2,4 @@ owner = BOR
 controller = BOR
 add_core = BOR
 trade_goods = coal
-life_rating = 50
+life_rating = 52

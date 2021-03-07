@@ -3,4 +3,4 @@ controller = LPW
 add_core = LPW
 add_core = UBW
 trade_goods = fats
-life_rating = 50
+life_rating = 52

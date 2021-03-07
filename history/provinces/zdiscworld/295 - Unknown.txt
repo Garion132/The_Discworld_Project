@@ -2,4 +2,4 @@ owner = EPH
 controller = EPH
 add_core = EPH
 trade_goods = fish
-life_rating = 50
+life_rating = 52

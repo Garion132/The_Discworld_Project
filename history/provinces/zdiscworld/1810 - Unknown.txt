@@ -2,4 +2,4 @@ owner = KYT
 controller = KYT
 add_core = KYT
 trade_goods = tropical_wood
-life_rating = 20
+life_rating = 40

@@ -4,4 +4,4 @@ add_core = BOR
 add_core = VAN
 add_core = LOU
 trade_goods = timber
-life_rating = 50
+life_rating = 52

@@ -59,16 +59,18 @@ country_event = {
 	}
 }
 #province abdonment
-country_event = {
+province_event = {
 
 	id = 41002
 
 	trigger={
-		tag = KYT
-		any_owned_province={
-			NOT={total_pops = 2}
-			has_province_modifier = kythian_crisis
-		}
+		owner = {tag = KYT}
+		NOT={total_pops = 2}
+		has_province_modifier = kythian_crisis
+	}
+	
+	mean_time_to_happen =  {
+		days = 3
 	}
 
 	title = "EVTNAME41002"
@@ -77,14 +79,8 @@ country_event = {
 
 	option = {
 		name = "EVTOPTA41002" 
-		any_owned_province={
-			limit={
-				NOT={total_pops = 2}
-				has_province_modifier = kythian_crisis
-			}
-			life_rating = -50
-			remove_province_modifier = kythian_crisis
-			secede_province = FROM
-		}
+		remove_province_modifier = kythian_crisis
+		secede_province = 0
+		life_rating = -50
 	}
 }

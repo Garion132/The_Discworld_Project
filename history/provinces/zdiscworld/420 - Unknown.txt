@@ -2,4 +2,4 @@ owner = LAN
 controller = LAN
 add_core = LAN
 trade_goods = wool
-life_rating = 50
+life_rating = 52
