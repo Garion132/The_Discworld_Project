@@ -558,7 +558,7 @@ metallurgic_principles = {
 }
 metal_seperation_technquines = {
 	area = metallurgy
-	year = 3540
+	year = 3550
 	cost = 7200
 	
 	rgo_goods_output = {
@@ -626,7 +626,7 @@ metal_seperation_technquines = {
 }
 clean_coal = {
 	area = metallurgy
-	year = 3540
+	year = 3560
 	cost = 7200
 	
 	rgo_goods_output = {
@@ -694,7 +694,7 @@ clean_coal = {
 }
 cheap_iron = {
 	area = metallurgy
-	year = 3540
+	year = 3570
 	cost = 10800
 	rgo_goods_output = {
 		precious_metal = 0.1
@@ -758,7 +758,7 @@ cheap_iron = {
 }
 cheap_steel = {
 	area = metallurgy
-	year = 3560
+	year = 3590
 	cost = 14400
 	rgo_goods_output = {
 		precious_metal = 0.1
@@ -819,7 +819,7 @@ cheap_steel = {
 }
 advanced_metallurgy = {
 	area = metallurgy
-	year = 1870
+	year = 3605
 	cost = 18000
 
 	rgo_goods_output = {
@@ -908,7 +908,7 @@ dirt_roads = {
 }
 cobbled_roads = {
 	area = tech_infrastructure
-	year = 3540
+	year = 3545
 	cost = 3600
 	
 	supply_consumption = -0.05
