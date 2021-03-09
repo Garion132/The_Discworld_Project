@@ -4247,7 +4247,7 @@
 	}
     }
 468={
-	artisans = {
+	craftsmen = {
 		culture = krullian
 		religion = fate
 		size = 5000

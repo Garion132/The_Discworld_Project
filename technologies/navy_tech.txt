@@ -617,7 +617,7 @@ clipper_design = {
 }
 steamers = {
 	area = ship_construction
-	year = 3578
+	year = 3600#3578
 	cost = 7200
 	unciv_military = yes
 	activate_building = steamer_shipyard 

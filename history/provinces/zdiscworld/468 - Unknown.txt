@@ -3,3 +3,8 @@ controller = KRL
 add_core = KRL
 trade_goods = precious_metal
 life_rating = 52
+state_building = {
+	level = 3
+	building = clipper_shipyard
+	upgrade = yes
+}

@@ -114,6 +114,74 @@ building_station_shipyards = {
 		}
 	}
 }
+caravels = {
+	limit = { clipper_design = 1 }
+	chance = {
+		base = 5
+		modifier = {
+			factor = 2
+			mechanical_production = 1
+		}
+		modifier = {
+			factor = 1
+			clean_coal = 1
+		}
+	}
+	effect = {
+		activate_unit = caravel 
+	}
+}
+carracks = {
+	limit = { clipper_design = 1 }
+	chance = {
+		base = 5
+		modifier = {
+			factor = 2
+			mechanical_production = 1
+		}
+		modifier = {
+			factor = 1
+			clean_coal = 1
+		}
+	}
+	effect = {
+		activate_unit = carrack 
+	}
+}
+brigantines = {
+	limit = { steamers = 1 }
+	chance = {
+		base = 5
+		modifier = {
+			factor = 2
+			mechanical_production = 1
+		}
+		modifier = {
+			factor = 1
+			clean_coal = 1
+		}
+	}
+	effect = {
+		activate_unit = brigantine 
+	}
+}
+galleons = {
+	limit = { steamers = 1 }
+	chance = {
+		base = 5
+		modifier = {
+			factor = 2
+			mechanical_production = 1
+		}
+		modifier = {
+			factor = 1
+			clean_coal = 1
+		}
+	}
+	effect = {
+		activate_unit = galleon 
+	}
+}
 #corvettes = {
 #	limit = { clipper_design = 1 }
 #	chance = {
@@ -159,6 +227,40 @@ steamer_automatic_construction_plants = {
 		factory_goods_throughput = {
 			steamer_convoy = 0.10
 		}
+	}
+}
+frigates = {
+	limit = { steamers = 1 }
+	chance = {
+		base = 5
+		modifier = {
+			factor = 2
+			mechanical_production = 1
+		}
+		modifier = {
+			factor = 1
+			clean_coal = 1
+		}
+	}
+	effect = {
+		activate_unit = frigate 
+	}
+}
+man_of_wars = {
+	limit = { steamers = 1 }
+	chance = {
+		base = 5
+		modifier = {
+			factor = 2
+			mechanical_production = 1
+		}
+		modifier = {
+			factor = 1
+			clean_coal = 1
+		}
+	}
+	effect = {
+		activate_unit = manowar 
 	}
 }
 steamer_transports = {

@@ -1,0 +1,15 @@
+ships
+transport ship
+galley
+
+caravel
+carrack
+
+Brigantine
+galleon
+
+frigate
+man-of-war
+
+steam frigate
+steam transport
