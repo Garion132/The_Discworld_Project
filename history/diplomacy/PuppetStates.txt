@@ -55,6 +55,12 @@ vassal = {
 	start_date = 1816.1.1
 	end_date = 3568.1.1
 }
+vassal = {
+	first = AMP
+	second = NMP
+	start_date = 3540.1.1
+	end_date = 3600.1.1
+}
 #used for bonk->uberwald
 vassal = {
 	first = UBW

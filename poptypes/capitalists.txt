@@ -48,6 +48,7 @@ luxury_needs = {
 	small_arms = 1 
 	clipper_convoy = 2
 	steamer_convoy = 2
+	vul_wine = 4
 }
 
 

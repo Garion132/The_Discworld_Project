@@ -68,15 +68,25 @@
 	}
     }
 234={
-	artisans = {
+	farmers = {
 		culture = istanzian
 		religion = catholic
-		size = 10000
+		size = 13600
+	}
+	farmers = {
+		culture = istanzian
+		religion = omnianism
+		size = 7910
 	}
 	artisans = {
 		culture = istanzian
 		religion = catholic
 		size = 7000
+	}
+	artisans = {
+		culture = istanzian
+		religion = catholic
+		size = 5000
 	}
 	artisans = {
 		culture = istanzian
@@ -389,12 +399,12 @@
 	craftsmen = {
 		culture = omnian
 		religion = omnianism
-		size = 8500
+		size = 10500
 	}
 	clerks = {
 		culture = omnian
 		religion = omnianism
-		size = 900
+		size = 1300
 	}
 	farmers = {
 		culture = omnian
@@ -470,6 +480,11 @@
 		religion = omnianism
 		size = 300
 	}
+	craftsmen = {
+		culture = omnian
+		religion = omnianism
+		size = 1600
+	}
 	soldiers = {
 		culture = omnian
 		religion = omnianism
@@ -481,6 +496,11 @@
 		culture = omnian
 		religion = omnianism
 		size = 6800
+	}
+	craftsmen = {
+		culture = omnian
+		religion = omnianism
+		size = 700
 	}
 	clergymen = {
 		culture = omnian
@@ -521,7 +541,7 @@
     farmers = {
 		culture = omnian
 		religion = omnianism
-		size = 5400
+		size = 6400
 	}
 	clergymen = {
 		culture = omnian
@@ -700,7 +720,7 @@
     farmers = {
 		culture = omnian
 		religion = omnianism
-		size = 4600
+		size = 6900
 	}
 	clergymen = {
 		culture = omnian

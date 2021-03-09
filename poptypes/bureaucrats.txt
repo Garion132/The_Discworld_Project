@@ -40,6 +40,7 @@ luxury_needs = {
 	wine = 10
 	fuel = 0.2
 	coffee = 2
+	vul_wine = 2
 }
 
 everyday_needs = {

@@ -1,0 +1,67 @@
+capital = 1638
+primary_culture = morporkian
+culture = pearl_islander
+religion = omnianism
+government = theocracy
+plurality = 5
+nationalvalue = nv_order
+literacy = 0.12
+civilized = yes
+
+# Political reforms
+slavery = yes_slavery
+upper_house_composition = appointed
+vote_franschise = none_voting
+public_meetings = yes_meeting
+press_rights = censored_press
+trade_unions = non_socialist
+voting_system = first_past_the_post
+political_parties = non_secret_ballots
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = trinket_safety
+health_care = trinket_health_care
+unemployment_subsidies = trinket_subsidies
+pensions = no_pensions 
+school_reforms = low_schools
+
+#oob = "AMP_oob.txt"
+
+# Technologies
+steel_weaponry = 1
+siege_engines = 1
+metallurgic_principles = 1
+dirt_roads = 1
+theories_of_chemistry = 1
+simple_production_technquines = 1
+hand_cranked_power = 1
+guild_based_production = 1
+freedom_of_trade = 1
+new_quisition_and_vetinarism = 1
+guilds = 1
+
+# Inventions
+#corvettes = yes
+precision_work = yes
+vetinarism = yes
+spear_production = yes
+sword_production = yes
+uu_education = yes
+
+# Starting Consciousness
+consciousness = 0
+
+ruling_party = NMP_conservative
+last_election = 3540.2.6
+upper_house = {
+	fascist = 0
+	liberal = 12
+	conservative = 83
+	reactionary = 5
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+

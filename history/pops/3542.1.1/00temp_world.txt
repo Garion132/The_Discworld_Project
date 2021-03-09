@@ -780,17 +780,17 @@
 	farmers = {
 		culture = sto_lat
 		religion = catholic
-		size = 3800
+		size = 11800
 	}
 	artisans = {
 		culture = sto_lat
 		religion = catholic
-		size = 980
+		size = 1980
 	}
 	soldiers = {
 		culture = sto_lat
 		religion = catholic
-		size = 1400
+		size = 2400
 	}
     }
 55={
@@ -811,50 +811,50 @@
         farmers = {
 		culture = sto_lat
 		religion = catholic
-		size = 1400
+		size = 3400
 	}
     }
 58={
         farmers = {
 		culture = sto_lat
 		religion = catholic
-		size = 1700
+		size = 3700
 	}
     }
 59={
-        farmers = {
+    farmers = {
 		culture = quirmian
 		religion = catholic
-		size = 1900
+		size = 2900
 	}
 	farmers = {
 		culture = sto_plainer
 		religion = catholic
-		size = 400
+		size = 1400
 	}
     }
 60={
     farmers = {
 		culture = quirmian
 		religion = catholic
-		size = 1700
+		size = 2700
 	}
 	farmers = {
 		culture = sto_plainer
 		religion = catholic
-		size = 750
+		size = 1750
 	}
     }
 61={
     farmers = {
 		culture = quirmian
 		religion = catholic
-		size = 1900
+		size = 2900
 	}
 	farmers = {
 		culture = sto_plainer
 		religion = catholic
-		size = 590
+		size = 1590
 	}
     }
 62={
@@ -3651,7 +3651,7 @@
 	capitalists = {
 		culture = genuan
 		religion = catholic
-		size = 3
+		size = 90
 	}
 	clergymen = {
 		culture = genuan
@@ -3677,6 +3677,11 @@
 		culture = morporkian
 		religion = catholic
 		size = 200
+	}
+	craftsmen = {
+		culture = genuan
+		religion = catholic
+		size = 1740
 	}
     }
 419={
@@ -4032,10 +4037,10 @@
 	}
     }
 456={
-        farmers = {
-		culture = agatean
-		religion = catholic
-		size = 500
+    soldiers = {
+		culture = krullian
+		religion = fate
+		size = 3
 	}
     }
 457={
@@ -4046,132 +4051,172 @@
 	}
     }
 458={
-        farmers = {
-		culture = agatean
-		religion = catholic
+    farmers = {
+		culture = krullian
+		religion = fate
 		size = 500
 	}
 
     }
 459={
-        slaves = {
+    slaves = {
 		culture = krullian
 		religion = fate
-		size = 2000
+		size = 2500
 	}
 	slaves = {
 		culture = morporkian
 		religion = catholic
-		size = 1000
+		size = 1500
 	}
 	farmers = {
-		culture = krullian
-		religion = fate
-		size = 1000
-	}
-    }
-460={
-        slaves = {
 		culture = krullian
 		religion = fate
 		size = 3000
 	}
+	aristocrats = {
+		culture = krullian
+		religion = fate
+		size = 20
+	}
+    }
+460={
+    slaves = {
+		culture = krullian
+		religion = fate
+		size = 6000
+	}
 	farmers = {
 		culture = krullian
 		religion = fate
-		size = 1000
+		size = 4000
+	}
+	aristocrats = {
+		culture = krullian
+		religion = fate
+		size = 20
 	}
     }
 461={
-        slaves = {
+	slaves = {
 		culture = krullian
 		religion = fate
-		size = 2000
+		size = 3000
 	}
 	slaves = {
 		culture = klatchian
 		religion = sek
-		size = 1000
+		size = 2000
 	}
 	farmers = {
 		culture = krullian
 		religion = fate
-		size = 1000
+		size = 5000
+	}
+	aristocrats = {
+		culture = krullian
+		religion = fate
+		size = 20
 	}
     }
 462={
-        slaves = {
+    slaves = {
 		culture = chimerian
 		religion = catholic
-		size = 3000
+		size = 4000
 	}
 	farmers = {
 		culture = krullian
 		religion = catholic
-		size = 1000
+		size = 3000
+	}
+	aristocrats = {
+		culture = krullian
+		religion = fate
+		size = 20
 	}
     }
 463={
-        slaves = {
+    slaves = {
 		culture = howondalander
 		religion = catholic
-		size = 3000
+		size = 4000
 	}
 	farmers = {
 		culture = krullian
 		religion = fate
-		size = 1000
+		size = 5000
+	}
+	aristocrats = {
+		culture = krullian
+		religion = fate
+		size = 20
 	}
     }
 464={
-        slaves = {
+    slaves = {
 		culture = howondalander
 		religion = zambinist
-		size = 3000
+		size = 5000
 	}
 	farmers = {
 		culture = krullian
 		religion = fate
-		size = 1000
+		size = 3000
+	}
+	aristocrats = {
+		culture = krullian
+		religion = fate
+		size = 20
 	}
     }
 465={
 	slaves = {
 		culture = pseudopolian
 		religion = catholic
-		size = 1000
+		size = 1300
 	}
 	slaves = {
 		culture = quirmian
 		religion = catholic
-		size = 1000
+		size = 1400
 	}
 	slaves = {
 		culture = pearl_islander
 		religion = catholic
-		size = 1000
+		size = 1300
 	}
 	farmers = {
 		culture = krullian
 		religion = fate
-		size = 1000
+		size = 5000
+	}
+	aristocrats = {
+		culture = krullian
+		religion = fate
+		size = 20
 	}
     }
 466={
 	slaves = {
 		culture = morporkian
 		religion = catholic
-		size = 1000
+		size = 1900
 	}
 	slaves = {
 		culture = agatean
 		religion = catholic
-		size = 1000
+		size = 1200
 	}
 	farmers = {
 		culture = krullian
 		religion = fate
-		size = 1000
+		size = 3000
+	}
+	aristocrats = {
+		culture = krullian
+		religion = fate
+		size = 20
 	}
     }
 467={
@@ -4193,7 +4238,12 @@
 	farmers = {
 		culture = krullian
 		religion = fate
-		size = 1000
+		size = 3000
+	}
+	aristocrats = {
+		culture = krullian
+		religion = fate
+		size = 20
 	}
     }
 468={
@@ -7738,105 +7788,105 @@
     farmers = {
 		culture = outer_uberwaldian
 		religion = catholic
-		size = 500
+		size = 1400
 	}
 }
 874={
     farmers = {
 		culture = outer_uberwaldian
 		religion = catholic
-		size = 500
+		size = 1400
 	}
 }
 875={
     farmers = {
 		culture = outer_uberwaldian
 		religion = catholic
-		size = 500
+		size = 1800
 	}
 }
 876={
     farmers = {
 		culture = outer_uberwaldian
 		religion = catholic
-		size = 500
+		size = 1700
 	}
 }
 877={
     farmers = {
 		culture = outer_uberwaldian
 		religion = catholic
-		size = 500
+		size = 1400
 	}
 }
 878={
     farmers = {
 		culture = outer_uberwaldian
 		religion = catholic
-		size = 500
+		size = 1200
 	}
 }
 879={
     farmers = {
 		culture = outer_uberwaldian
 		religion = catholic
-		size = 500
+		size = 1300
 	}
 }
 880={
     farmers = {
 		culture = outer_uberwaldian
 		religion = catholic
-		size = 500
+		size = 1470
 	}
 }
 881={
     farmers = {
 		culture = outer_uberwaldian
 		religion = catholic
-		size = 500
+		size = 1500
 	}
 }
 882={
     farmers = {
 		culture = outer_uberwaldian
 		religion = catholic
-		size = 500
+		size = 1600
 	}
 }
 883={
     farmers = {
 		culture = outer_uberwaldian
 		religion = catholic
-		size = 500
+		size = 420
 	}
 }
 884={
     farmers = {
 		culture = outer_uberwaldian
 		religion = catholic
-		size = 500
+		size = 1300
 	}
 }
 885={
     farmers = {
 		culture = outer_uberwaldian
 		religion = catholic
-		size = 500
+		size = 1800
 	}
 }
 886={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 1500
+		size = 2500
 	}
 }
 887={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 1700
+		size = 2700
 	}
 }
 888={
@@ -7850,70 +7900,70 @@
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 1950
+		size = 3950
 	}
 }
 890={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 980
+		size = 2980
 	}
 }
 891={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 1300
+		size = 3800
 	}
 }
 892={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 1500
+		size = 3500
 	}
 }
 893={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 2100
+		size = 4100
 	}
 }
 894={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 2900
+		size = 4900
 	}
 }
 895={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 1500
+		size = 3500
 	}
 }
 896={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 3100
+		size = 6100
 	}
 }
 897={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 2400
+		size = 5400
 	}
 }
 898={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 3600
+		size = 5600
 	}
 	soldiers = {
 		culture = genuan
@@ -7925,21 +7975,21 @@
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 2900
+		size = 4900
 	}
 }
 900={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 3600
+		size = 6600
 	}
 }
 901={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 4200
+		size = 5200
 	}
 	artisans = {
 		culture = genuan
@@ -7956,14 +8006,14 @@
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 890
+		size = 3890
 	}
 }
 903={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 2300
+		size = 4300
 	}
 	soldiers = {
 		culture = genuan
@@ -7975,70 +8025,70 @@
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 1130
+		size = 2130
 	}
 }
 905={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 560
+		size = 2560
 	}
 }
 906={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 1520
+		size = 3520
 	}
 }
 907={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 2600
+		size = 3600
 	}
 }
 908={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 870
+		size = 2870
 	}
 }
 909={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 1450
+		size = 3450
 	}
 }
 910={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 1360
+		size = 4360
 	}
 }
 911={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 1840
+		size = 5840
 	}
 }
 912={
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 1360
+		size = 4360
 	}
 }
 913={
     farmers = {
 		culture = neverlander
 		religion = catholic
-		size = 7800
+		size = 9100
 	}
 	artisans = {
 		culture = neverlander
@@ -8050,10 +8100,15 @@
 		religion = catholic
 		size = 2300
 	}
+	clergymen = {
+		culture = neverlander
+		religion = catholic
+		size = 160
+	}
 	capitalists = {
 		culture = neverlander
 		religion = catholic
-		size = 50
+		size = 75
 	}
 }
 914={
@@ -11782,10 +11837,15 @@
 	}
 }
 1638={
+	clergymen = {
+		culture = morporkian
+		religion = omnianism
+		size = 1
+	}
 	farmers = {
 		culture = pearl_islander
-		religion = catholic
-		size = 100
+		religion = omnianism
+		size = 378
 	}
 }
 1639={
@@ -14728,8 +14788,8 @@
 }
 2039={
         farmers = {
-		culture = agatean
-		religion = catholic
+		culture = krullian
+		religion = fate
 		size = 500
 	}
 }
@@ -14770,23 +14830,23 @@
 }
 2045={
         farmers = {
-		culture = agatean
-		religion = catholic
-		size = 500
+		culture = krullian
+		religion = fate
+		size = 240
 	}
 }
 2046={
-        farmers = {
-		culture = agatean
-		religion = catholic
-		size = 500
+    farmers = {
+		culture = krullian
+		religion = fate
+		size = 361
 	}
 }
 2047={
         farmers = {
-		culture = agatean
-		religion = catholic
-		size = 500
+		culture = krullian
+		religion = fate
+		size = 415
 	}
 }
 2048={

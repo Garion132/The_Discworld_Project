@@ -23,8 +23,13 @@ army = {
 	name = "Divine Legion"
 	location = 270
 	regiment = {
-		name= "1.Divine Legion"
+		name= "1.Divine Cavalry"
 		type = cavalry
+		home = 270
+	}
+	regiment = {
+		name= "1.Divine Legion"
+		type = armored_footmen
 		home = 270
 	}
 	regiment = {
@@ -39,12 +44,7 @@ army = {
 	}
 	regiment = {
 		name= "4.Divine Legion"
-		type = armored_footmen
-		home = 270
-	}
-	regiment = {
-		name= "5.Divine Legion"
-		type = armored_footmen
+		type = warriors
 		home = 273
 	}
 }

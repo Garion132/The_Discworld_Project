@@ -4,22 +4,22 @@ add_core = AMP
 trade_goods = sulphur
 life_rating = 70
 state_building = {
-	level = 1
+	level = 6
 	building = steel_factory
 	upgrade = yes
 }
 state_building = {
-	level = 1
+	level = 3
 	building = swords_factory
 	upgrade = yes
 }
 state_building = {
-	level = 1
+	level = 3
 	building = spears_factory
 	upgrade = yes
 }
 state_building = {
-	level = 1
+	level = 6
 	building = cement_factory
 	upgrade = yes
 }

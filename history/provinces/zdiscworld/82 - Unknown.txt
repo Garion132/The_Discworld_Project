@@ -4,7 +4,7 @@ add_core = QRM
 trade_goods = fruit
 life_rating = 52
 state_building = {
-	level = 1
+	level = 5
 	building = winery
 	upgrade = yes
 }

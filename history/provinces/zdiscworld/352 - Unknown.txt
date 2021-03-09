@@ -4,17 +4,17 @@ add_core = KLA
 trade_goods = tobacco
 life_rating = 52
 state_building = {
-	level = 1
+	level = 4
 	building = furniture_factory
 	upgrade = yes
 }
 state_building = {
-	level = 1
+	level = 4
 	building = luxury_furniture_factory
 	upgrade = yes
 }
 state_building = {
-	level = 1
+	level = 4
 	building = glass_factory
 	upgrade = yes
 }

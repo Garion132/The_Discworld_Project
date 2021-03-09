@@ -3,3 +3,8 @@ controller = GEN
 add_core = GEN
 trade_goods = coffee
 life_rating = 45
+state_building = {
+	level = 1
+	building = liquor_distillery
+	upgrade = yes
+}

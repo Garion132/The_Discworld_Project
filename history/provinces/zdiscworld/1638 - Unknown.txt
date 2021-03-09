@@ -1,2 +1,5 @@
-trade_goods = fish
+owner = NMP
+controller = NMP
+add_core = NMP
 life_rating = 20
+trade_goods = precious_metal

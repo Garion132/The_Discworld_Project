@@ -29,7 +29,7 @@ factory_template = {
 	
 	}
 	type = factory
-	workforce = 10000 
+	workforce = 2000
 }
 
 cheap_factory_template = {
@@ -60,7 +60,7 @@ cheap_factory_template = {
 	
 	}
 	type = factory
-	workforce = 10000 
+	workforce = 2000 
 }
 
 machine_part_user_template = {
@@ -90,7 +90,7 @@ machine_part_user_template = {
 	
 	}
 	type = factory
-	workforce = 10000 
+	workforce = 2000 
 }
 
 cement_template = {
@@ -121,7 +121,7 @@ cement_template = {
 	
 	}
 	type = factory
-	workforce = 10000 
+	workforce = 2000 
 }
 
 ############# STRATEGIC FACTORIES
@@ -521,7 +521,7 @@ ceramics_factory = {
 		clay = 3		#3.6
 	}
 	output_goods = ceramics 
-	value = 4			#60
+	value = 8		#60
 	bonus = {
 		trigger = { trade_goods_in_state = clay }
 		value = 0.25
@@ -627,6 +627,24 @@ winery = {
 	}
 	bonus = {
 		trigger = { trade_goods_in_state = fruit }
+		value = 0.1
+	}
+}
+
+vul_winery = {       
+	template = cheap_factory_template
+	input_goods = {   
+		wine = 2		#30
+		re_annuals = 0.5	#14	total input+maint = 54
+	}
+	output_goods = vul_wine 
+	value = 5
+	bonus = {
+		trigger = { has_building = winery }
+		value = 0.15
+	}
+	bonus = {
+		trigger = { trade_goods_in_state = re_annuals }
 		value = 0.1
 	}
 }
@@ -806,7 +824,7 @@ coffee_plantation = {
 cotton_plantation = {
 	template = RGO_template_farmers
 	output_goods = cotton 
-	value = 8.8
+	value = 17.6
 	farm = yes
 }
 
@@ -838,7 +856,7 @@ grain_farm = {
 brassicas_farm = {
 	template = RGO_template_farmers
 	output_goods = brassicas 
-	value = 3.6
+	value = 7.2
 	farm = yes
 }
 
@@ -1336,7 +1354,7 @@ artisan_vul_wine = {
 		re_annuals = 0.5	#14	total input+maint = 54
 	}
 	output_goods = vul_wine 
-	value = 1			#25.6
+	value = 2			#25.6
 	
 	owner = {
 		poptype = artisans
@@ -1353,7 +1371,7 @@ artisan_ceramics = {
 		clay = 3		#3.6
 	}
 	output_goods = ceramics 
-	value = 3			#4.4
+	value = 6			#4.4
 	
 	owner = {
 		poptype = artisans

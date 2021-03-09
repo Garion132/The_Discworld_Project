@@ -5,7 +5,7 @@ add_core = STO
 trade_goods = brassicas
 life_rating = 52
 state_building = {
-	level = 1
+	level = 4
 	building = paper_mill
 	upgrade = yes
 }

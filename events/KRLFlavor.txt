@@ -1,0 +1,50 @@
+#bounty of the cirmfence
+country_event = {
+	id = 42000
+	title = "EVTNAME42000" #Flashpoint event for GPs
+	desc = "EVTDESC42000"
+	picture = "crisis"
+	trigger = {
+		tag = KRL
+	}
+	allow_multiple_instances = yes
+	
+	mean_time_to_happen =  {
+		months = 12
+	}
+
+	option = {
+		name = "EVTOPTA42000" # perfect
+		ai_chance = {
+			factor = 95
+		}
+		random_list = {
+			31 = { add_tax_relative_income = 2.0 }
+			26 = { add_tax_relative_income = 3.0 }
+			22 = { add_tax_relative_income = 4.0 }
+			18 = { add_tax_relative_income = 5.0 }
+			3 = { add_tax_relative_income = 6.0 }
+		}
+		random_list = {
+			15 = { lumber = 150 }
+			12 = { ceramics = 100 }
+			7 = { cotton = 100 }
+			7 = { dye = 100 }
+			7 = { wool = 100 }
+			7 = { silk = 100 }
+			7 = { coal = 100 }
+			7 = { iron = 100 }
+			7 = { clay = 100 }
+			3 = { tropical_wood = 50 }
+			3 = { steel = 50 }
+			3 = { fabric = 50 }
+			3 = { wine = 50 }
+			3 = { furniture = 50 }
+			3 = { regular_clothes = 50 }
+			3 = { liquor = 50 }
+			1 = { vul_wine = 50 }
+			1 = { luxury_furniture = 50 }
+			1 = { luxury_clothes = 50 }
+		}
+	}
+}
