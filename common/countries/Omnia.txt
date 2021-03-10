@@ -19,27 +19,41 @@ party = {
 party = {
 	name = "OMN_liberal"
 	start_date = 3530.1.1
-	end_date = 3559.1.1
+	end_date = 3559.12.1
 
 	ideology = liberal
 
 	economic_policy = interventionism
 	trade_policy = free_trade
-	religious_policy = pluralism
+	religious_policy = moralism
 	citizenship_policy = limited_citizenship
 	war_policy = anti_military
 }
 
 party = {
 	name = "OMN_liberal_2"
-	start_date = 3559.1.1
+	start_date = 3559.12.1
 	end_date = 3700.1.1
 
 	ideology = liberal
 
 	economic_policy = laissez_faire
 	trade_policy = free_trade
-	religious_policy = pluralism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "OMN_liberal_3"
+	start_date = 3530.1.1
+	end_date = 3559.12.1
+
+	ideology = liberal
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = moralism
 	citizenship_policy = limited_citizenship
 	war_policy = anti_military
 }

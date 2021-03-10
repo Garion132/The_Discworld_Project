@@ -40,6 +40,7 @@ country_event = {
 	option = {#a blow
 		name = "EVTOPTA40000" 
 		country_event = {id=40001 days = 50}
+		ruling_party_ideology = conservative
 	}
 }
 
@@ -54,21 +55,6 @@ country_event = {
 	title = "EVTNAME40001"
 	desc = "EVTDESC40001"
 	picture = "Administration"
-	
-	immediate = {
-		any_pop = {
-			limit = {
-				location = {
-					is_colonial = no
-				}
-			}
-			ideology = {
-				value = liberal
-				factor = -0.1
-			}	
-		}
-		set_country_flag = OMN_brutha_death
-	}
 
 	option = {#leave peace behind
 		name = "EVTOPTA40001" 

@@ -180,9 +180,11 @@ political_decisions = {
 			prestige = 80
 			war = no
 			SML ={
-				in_sphere = THIS
-				alliance_with = THIS
-				relation = {who = THIS value = 100}
+				OR={
+					in_sphere = THIS
+					alliance_with = THIS
+					relation = {who = THIS value = 100}
+				}
 			}
 		}
 		effect = {
@@ -203,9 +205,11 @@ political_decisions = {
 			prestige = 80
 			war = no
 			BET ={
-				in_sphere = THIS
-				alliance_with = THIS
-				relation = {who = THIS value = 100}
+				OR={
+					in_sphere = THIS
+					alliance_with = THIS
+					relation = {who = THIS value = 100}
+				}
 			}
 		}
 		effect = {
@@ -226,9 +230,11 @@ political_decisions = {
 			prestige = 80
 			war = no
 			USH ={
-				in_sphere = THIS
-				alliance_with = THIS
-				relation = {who = THIS value = 100}
+				OR={
+					in_sphere = THIS
+					alliance_with = THIS
+					relation = {who = THIS value = 100}
+				}
 			}
 		}
 		effect = {
@@ -249,9 +255,11 @@ political_decisions = {
 			prestige = 80
 			war = no
 			IST ={
-				in_sphere = THIS
-				alliance_with = THIS
-				relation = {who = THIS value = 100}
+				OR={
+					in_sphere = THIS
+					alliance_with = THIS
+					relation = {who = THIS value = 100}
+				}
 			}
 		}
 		effect = {

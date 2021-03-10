@@ -946,10 +946,10 @@ fat_mine = {
 clay_mine = {
 	template = RGO_template_labourers
 	output_goods = clay 
-	value = 13
+	value = 16
 	mine = yes
 	bonus = {
-		trigger = { pop_majority_culture  = urtalie}
+		trigger = { pop_majority_culture  = omnian}
 		value = 0.50
 	}
 }
