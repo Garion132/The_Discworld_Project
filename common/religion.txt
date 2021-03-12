@@ -95,47 +95,47 @@ genuan_gods = {
 	}
 	genuan_gods = {
 		color = { 0.8 0.3 0.2 }
-		icon = 14
+		icon = 15
 	}
 }
 
 pagan = {
 	animist = {
-		icon = 14
+		icon = 16
 		color = { 0.5 0.0 0.0 }
 		pagan = yes
 		
 	}
 	shamanism= {
-		icon = 14
+		icon = 17
 		color = { 0.5 0.0 0.0 }
 		pagan = yes
 		
 	}
 	druidic = {
-		icon = 14
+		icon = 18
 		color = { 0.5 0.0 0.0 }
 		pagan = yes
 		
 	}
 	black_witchcraft={
-		icon = 14
+		icon = 19
 		color = { 0.1 0.1 0.1 }
 		pagan = yes
 		
 	}
 	white_witchcraft={
-		icon = 14
+		icon = 20
 		color = { 0.9 0.9 0.9 }
 		pagan = yes
 		
 	}
 	quezovercoatl = {
-		icon = 14
+		icon = 21
 		color = { 0.6 0.7 0.2 }		
 	}
 	zambinist= {
-		icon = 14
+		icon = 22
 		color = { 0.8 0.3 0.7 }		
 	}
 }
@@ -143,14 +143,14 @@ pagan = {
 muntab_gods= {
 	muntabist = {
 		color = { 0.8 0.3 0.1 }
-		icon = 14
+		icon = 23
 	}
 }
 
 krullian_gods= {
 	fate = {	
 		color = { 0.8 0.3 0.1 }
-		icon = 14
+		icon = 24
 	}
 }
 
@@ -158,10 +158,10 @@ krullian_gods= {
 agatean_gods= {
 	ancestor_worship = {	
 		color = { 0.6 0.1 0.1 }
-		icon = 14
+		icon = 25
 	}
 	in_sewer_ants = {	
 		color = { 0.6 0.2 0.2 }
-		icon = 14
+		icon = 26
 	}
 }

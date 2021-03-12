@@ -2909,41 +2909,41 @@
     }
 364={
 	farmers = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = catholic
 		size = 3600
 	}
 	soldiers = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = catholic
 		size = 1200
 	}
 	artisans = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = catholic
 		size = 320
 	}
     }
 365={
 	farmers = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = catholic
 		size = 7100
 	}
 	soldiers = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = catholic
 		size = 2400
 	}
 	artisans = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = catholic
 		size = 680
 	}
     }
 366={
 	farmers = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = catholic
 		size = 2180
 	}
@@ -2955,7 +2955,7 @@
     }
 367={
     farmers = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = catholic
 		size = 1400
 	}
@@ -2967,7 +2967,7 @@
     }
 368={
 	farmers = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = catholic
 		size = 1840
 	}
@@ -2979,12 +2979,12 @@
     }
 369={
     farmers = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = sek
 		size = 2400
 	}
 	aristocrats = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = sek
 		size = 20
 	}
@@ -3001,7 +3001,7 @@
 }
 370={
 	farmers = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = catholic
 		size = 3300
 	}
@@ -3013,7 +3013,7 @@
     }
 371={
     farmers = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = catholic
 		size = 2800
 	}
@@ -3030,82 +3030,82 @@
     }
 372={
 	farmers = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = catholic
 		size = 2200
 	}
 	artisans = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = catholic
 		size = 600
 	}
 	soldiers = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = catholic
 		size = 1050
 	}
     }
 373={
 	farmers = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = catholic
 		size = 2960
 	}
 	soldiers = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = catholic
 		size = 1100
 	}
 	artisans = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = catholic
 		size = 450
 	}
     }
 374={
 	farmers = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = catholic
 		size = 7900
 	}
 	soldiers = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = catholic
 		size = 2400
 	}
 	artisans = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = catholic
 		size = 1200
 	}
 	aristocrats = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = catholic
 		size = 80
 	}
     }
 375={
 	farmers = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = catholic
 		size = 2980
 	}
 	soldiers = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = catholic
 		size = 780
 	}
     }
 376={
 	farmers = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = catholic
 		size = 2600
 	}
     }
 377={
 	farmers = {
-		culture = klatchian
+		culture = far_klatchian
 		religion = catholic
 		size = 1300
 	}

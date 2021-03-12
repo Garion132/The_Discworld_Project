@@ -98,6 +98,10 @@ country_migration_target =
 		vote_franschise = universal_voting
 	}
 	modifier = {
+		factor = 1.5
+		tag = AMP
+	}
+	modifier = {
 		factor = 0.1
 		NOT = {
 			any_owned_province = {

@@ -1,5 +1,6 @@
-owner = KLA
-controller = KLA
+owner = DRG
+controller = DRG
 add_core = DRG
+add_core = KLA
 trade_goods = tobacco
 life_rating = 52

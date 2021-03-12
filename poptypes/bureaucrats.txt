@@ -111,6 +111,10 @@ country_migration_target =
 		has_pop_culture = THIS
 	}
 	modifier = {
+		factor = 1.5
+		tag = AMP
+	}
+	modifier = {
 		factor = 1.05
 		vote_franschise = wealth_voting
 	}

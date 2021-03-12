@@ -1,5 +1,6 @@
-owner = KLA
-controller = KLA
+owner = KLF
+controller = KLF
+add_core = KLF
 add_core = KLA
 add_core = HOW
 trade_goods = tea

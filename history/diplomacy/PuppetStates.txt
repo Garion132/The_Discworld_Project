@@ -12,6 +12,19 @@ vassal = {
 	start_date = 1816.1.1
 	end_date = 3600.1.1
 }
+#klatch is recovering from the loss of its capital and ruler
+substate = {
+	first = KLA
+	second = DRG
+	start_date = 1816.1.1
+	end_date = 3610.1.1
+}
+substate = {
+	first = KLA
+	second = KLF
+	start_date = 1816.1.1
+	end_date = 3610.1.1
+}
 #bonk has consolidated much of central uberwald
 # vassal = {
 	# first = BYK
