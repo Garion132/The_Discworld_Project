@@ -1,5 +1,5 @@
-owner = HOW
-controller = HOW
-add_core = HOW
-trade_goods = tobacco
+owner = NFR
+controller = NFR
+add_core = NFR
 life_rating = 52
+trade_goods = tobacco

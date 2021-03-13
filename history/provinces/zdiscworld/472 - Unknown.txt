@@ -1,5 +1,6 @@
-owner = HOW
-controller = HOW
+owner = NKO
+controller = NKO
+add_core = NKO
 add_core = HOW
 trade_goods = cotton
 life_rating = 52

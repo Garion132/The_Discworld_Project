@@ -1,4 +1,4 @@
-capital = 491
+capital = 494
 primary_culture = laotani
 religion = protestant
 government = absolute_monarchy

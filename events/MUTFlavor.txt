@@ -29,7 +29,7 @@ country_event = {
 	option = {
 		name = "EVTOPTA37000" 
 		add_accepted_culture = ghatian
-		add_casus_belli = {
+		casus_belli = {
 			target = LMT
 			type = conquest
 			months = 36
@@ -64,7 +64,7 @@ country_event = {
 
 	option = {
 		name = "EVTOPTA37001" 
-		add_casus_belli = {
+		casus_belli = {
 			target = REH
 			type = make_puppet
 			months = 36
@@ -103,7 +103,7 @@ country_event = {
 
 	option = {
 		name = "EVTOPTA37002" 
-		add_casus_belli = {
+		casus_belli = {
 			target = ORO
 			type = make_puppet
 			months = 36

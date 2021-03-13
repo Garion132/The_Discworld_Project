@@ -2061,16 +2061,18 @@ province;red;green;blue;x;x
 2060;159;224;176;Mocambique;x
 2061;17;224;144;Angoche;x##
 2062;201;208;0;Shangzhou;x###extra provence for a northern borgravian state
-2063;32;224;176;Ibo;x
-2064;52;208;48;Nampula;x
-2065;48;208;127;Milange;x
-2066;100;33;176;Zomba;x
-2067;33;96;176;Lilongwe;x
-2068;158;72;163;Harare;x
-2069;207;183;50;Gweru;x
-2070;91;160;17;Mutare;x
-2071;17;91;160;Bulawayo;x
-2072;144;160;17;Hwange;x
+2063;4;78;135;Ibo;x##more Howandaland provinces
+2064;191;151;159;Nampula;x
+2065;122;171;191;Milange;x
+2066;161;216;110;Zomba;x
+2067;181;86;65;Lilongwe;x
+2068;221;169;64;Harare;x
+2069;175;221;199;Gweru;x
+2070;160;196;115;Mutare;x
+2071;129;184;196;Bulawayo;x
+2072;181;206;121;Hwange;x
+
+
 2073;144;33;17;Masvingo;x
 2074;113;192;208;Gaborone;x
 2075;176;65;208;Serowe;x
@@ -2700,7 +2702,6 @@ province;red;green;blue;x;x
 2699;133;33;4;Izma;x
 2700;10;120;195;Usogorsk;x
 2701;94;15;21;Cunyja;x
-2702;4;78;135;Aralsk;x
 
 
 2784;82;200;250;Bal el Mandeb;x

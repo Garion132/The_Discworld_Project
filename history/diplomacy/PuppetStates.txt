@@ -25,6 +25,27 @@ substate = {
 	start_date = 1816.1.1
 	end_date = 3610.1.1
 }
+#howondaland shattered
+substate = {
+	first = HOW
+	second = NFR
+	start_date = 1816.1.1
+	end_date = 3610.1.1
+}
+substate = {
+	first = HOW
+	second = NKO
+	start_date = 1816.1.1
+	end_date = 3610.1.1
+}
+substate = {
+	first = HOW
+	second = NDW
+	start_date = 1816.1.1
+	end_date = 3610.1.1
+}
+
+
 #bonk has consolidated much of central uberwald
 # vassal = {
 	# first = BYK

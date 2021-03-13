@@ -3263,70 +3263,70 @@
     }
 391={
 	farmers = {
-		culture = howondalander
+		culture = how_zambingo
 		religion = catholic
 		size = 12400
 	}
 	soldiers = {
-		culture = howondalander
+		culture = how_zambingo
 		religion = catholic
 		size = 2300
 	}
 	aristocrats = {
-		culture = howondalander
+		culture = how_zambingo
 		religion = catholic
 		size = 560
 	}
 	artisans = {
-		culture = howondalander
+		culture = how_zambingo
 		religion = catholic
 		size = 2700
 	}
     }
 392={
 	farmers = {
-		culture = howondalander
+		culture = how_zambingo
 		religion = catholic
 		size = 3600
 	}
 	soldiers = {
-		culture = howondalander
+		culture = how_zambingo
 		religion = catholic
 		size = 1100
 	}
 	artisans = {
-		culture = howondalander
+		culture = how_zambingo
 		religion = catholic
 		size = 500
 	}
 	aristocrats = {
-		culture = howondalander
+		culture = how_zambingo
 		religion = catholic
 		size = 20
 	}
     }
 393={
 	farmers = {
-		culture = howondalander
+		culture = how_zambingo
 		religion = catholic
 		size = 7600
 	}
 	soldiers = {
-		culture = howondalander
+		culture = how_zambingo
 		religion = catholic
 		size = 1900
 	}
 	aristocrats = {
-		culture = howondalander
+		culture = how_zambingo
 		religion = catholic
 		size = 40
 	}
     }
 394={
-        farmers = {
-		culture = howondalander
+    farmers = {
+		culture = n_tuitif
 		religion = catholic
-		size = 500
+		size = 3650
 	}
     }
 395={
@@ -4326,48 +4326,53 @@
     }
 469={
 	aristocrats = {
-		culture = howondalander
+		culture = n_tuitif
 		religion = zambinist
 		size = 15
 	}
-        farmers = {
-		culture = howondalander
+    farmers = {
+		culture = n_tuitif
 		religion = zambinist
-		size = 16500
+		size = 8500
+	}
+	farmers = {
+		culture = n_kouf
+		religion = catholic
+		size = 4130
 	}
     }
 470={
 	aristocrats = {
-		culture = howondalander
+		culture = n_kouf
 		religion = zambinist
 		size = 15
 	}
         farmers = {
-		culture = howondalander
+		culture = n_kouf
 		religion = zambinist
-		size = 21000
+		size = 22000
 	}
     }
 471={
 	aristocrats = {
-		culture = howondalander
+		culture = n_kouf
 		religion = zambinist
 		size = 15
 	}
         farmers = {
-		culture = howondalander
+		culture = n_kouf
 		religion = zambinist
-		size = 12500
+		size = 13500
 	}
     }
 472={
 	aristocrats = {
-		culture = howondalander
+		culture = n_kouf
 		religion = zambinist
 		size = 30
 	}
         farmers = {
-		culture = howondalander
+		culture = n_kouf
 		religion = zambinist
 		size = 19400
 	}
@@ -4446,17 +4451,17 @@
     }
 479={
 	farmers = {
-		culture = howondalander
+		culture = n_dware
 		religion = zambinist
 		size = 3600
 	}
 	aristocrats = {
-		culture = howondalander
+		culture = n_dware
 		religion = zambinist
 		size = 20
 	}
 	soldiers = {
-		culture = howondalander
+		culture = n_dware
 		religion = zambinist
 		size = 1200
 	}
@@ -4470,7 +4475,7 @@
     }
 481={
         farmers = {
-		culture = howondalander
+		culture = n_dware
 		religion = zambinist
 		size = 9200
 	}
@@ -4539,25 +4544,10 @@
 	}
     }
 491={
-	aristocrats = {
+	farmers = {
 		culture = laotani
 		religion = catholic
-		size = 60
-	}
-    farmers = {
-		culture = laotani
-		religion = catholic
-		size = 6200
-	}
-	soldiers = {
-		culture = laotani
-		religion = catholic
-		size = 2200
-	}
-	artisans = {
-		culture = laotani
-		religion = catholic
-		size = 1780
+		size = 2600
 	}
     }
 492={
@@ -4571,19 +4561,39 @@
 	farmers = {
 		culture = laotani
 		religion = catholic
-		size = 12000
+		size = 3700
+	}
+	aristocrats = {
+		culture = laotani
+		religion = catholic
+		size = 50
+	}
+}
+494={
+	aristocrats = {
+		culture = laotani
+		religion = catholic
+		size = 60
+	}
+    farmers = {
+		culture = laotani
+		religion = catholic
+		size = 9200
 	}
 	soldiers = {
 		culture = laotani
 		religion = catholic
-		size = 2200
+		size = 2900
 	}
-}
-494={
-    farmers = {
+	soldiers = {
+		culture = low_laotani
+		religion = catholic
+		size = 1350
+	}
+	artisans = {
 		culture = laotani
 		religion = catholic
-		size = 4600
+		size = 1780
 	}
     }
 495={
@@ -4602,53 +4612,48 @@
 	farmers = {
 		culture = laotani
 		religion = catholic
-		size = 12600
-	}
-	soldiers = {
-		culture = laotani
-		religion = catholic
-		size = 3500
+		size = 1400
 	}
     }
 497={
 	farmers = {
-		culture = laotani
+		culture = low_laotani
 		religion = catholic
 		size = 9500
 	}
 	soldiers = {
-		culture = laotani
+		culture = low_laotani
 		religion = catholic
 		size = 2200
 	}
     }
 498={
 	farmers = {
-		culture = laotani
+		culture = low_laotani
 		religion = catholic
 		size = 5800
 	}
 	aristocrats = {
-		culture = laotani
+		culture = low_laotani
 		religion = catholic
 		size = 60
 	}
 	soldiers = {
-		culture = laotani
+		culture = low_laotani
 		religion = catholic
 		size = 1200
 	}
     }
 499={
-    farmers = {
-		culture = laotani
+	farmers = {
+		culture = low_laotani
 		religion = catholic
-		size = 3700
+		size = 12000
 	}
-	aristocrats = {
-		culture = laotani
+	soldiers = {
+		culture = low_laotani
 		religion = catholic
-		size = 50
+		size = 2200
 	}
     }
 500={
@@ -4688,15 +4693,20 @@
 	}
     }
 503={
-    farmers = {
-		culture = bewe
+	farmers = {
+		culture = low_laotani
 		religion = catholic
-		size = 100
+		size = 12600
+	}
+	soldiers = {
+		culture = low_laotani
+		religion = catholic
+		size = 3500
 	}
 	farmers = {
-		culture = laotani
+		culture = bewe
 		religion = catholic
-		size = 1400
+		size = 600
 	}
     }
 580={
@@ -14959,3 +14969,83 @@
 		size = 1209
 	}
 }
+2063={
+        farmers = {
+		culture = n_tuitif
+		religion = zambinist
+		size = 1800
+	}
+    }
+2064={
+    farmers = {
+		culture = laotani
+		religion = catholic
+		size = 6456
+	}
+	soldiers = {
+		culture = laotani
+		religion = catholic
+		size = 1300
+	}
+    }
+2065={
+        farmers = {
+		culture = n_tuitif
+		religion = zambinist
+		size = 1800
+	}
+    }
+2066={
+        farmers = {
+		culture = n_tuitif
+		religion = zambinist
+		size = 1800
+	}
+    }
+2067={
+        farmers = {
+		culture = laotani
+		religion = catholic
+		size = 4800
+	}
+		soldiers = {
+		culture = laotani
+		religion = catholic
+		size = 2600
+	}
+    }
+2068={
+        farmers = {
+		culture = howondalander
+		religion = zambinist
+		size = 6700
+	}
+    }
+2069={
+        farmers = {
+		culture = howondalander
+		religion = zambinist
+		size = 7840
+	}
+    }
+2070={
+        farmers = {
+		culture = howondalander
+		religion = zambinist
+		size = 6970
+	}
+    }
+2071={
+        farmers = {
+		culture = n_dware
+		religion = zambinist
+		size = 8750
+	}
+    }
+2072={
+        farmers = {
+		culture = n_dware
+		religion = zambinist
+		size = 9132
+	}
+    }

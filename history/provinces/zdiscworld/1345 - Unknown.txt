@@ -1,2 +1,5 @@
+owner = SOR
+controller = SOR
+add_core = SOR
 trade_goods = grain
 life_rating = 45
