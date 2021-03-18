@@ -31,7 +31,7 @@ country_event = {
 		add_accepted_culture = ghatian
 		casus_belli = {
 			target = LMT
-			type = conquest
+			type = unification_annex_casus_belli
 			months = 36
 		}
 	}
