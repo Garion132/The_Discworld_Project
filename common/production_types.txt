@@ -699,9 +699,13 @@ cement_factory = {
 		clay = 9
 	} 
 	output_goods = cement 
-	value = 3			#48
+	value = 4			#48
 	bonus = {
 		trigger = { trade_goods_in_state = coal }
+		value = 0.25
+	}
+	bonus = {
+		trigger = { trade_goods_in_state = clay }
 		value = 0.25
 	}
 	bonus = {
@@ -851,6 +855,10 @@ grain_farm = {
 	output_goods = grain 
 	value = 3.6
 	farm = yes
+	bonus = {
+		trigger = { pop_majority_culture  = octarine}
+		value = 1.50
+	}
 }
 
 brassicas_farm = {

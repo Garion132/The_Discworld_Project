@@ -8077,7 +8077,12 @@
     farmers = {
 		culture = genuan
 		religion = catholic
-		size = 4360
+		size = 7360
+	}
+	soldiers = {
+		culture = genuan
+		religion = catholic
+		size = 1300
 	}
 }
 911={
