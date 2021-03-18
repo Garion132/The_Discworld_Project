@@ -29,10 +29,10 @@ country_event = {
 	option = {
 		name = "EVTOPTA37000" 
 		add_accepted_culture = ghatian
-		LMT ={
+		MUT ={
 			casus_belli = {
-				target = THIS
-				type = unification_annex_casus_belli
+				target = LMT
+				type = annex
 				months = 36
 			}
 		}
@@ -66,9 +66,9 @@ country_event = {
 
 	option = {
 		name = "EVTOPTA37001" 
-		REH ={
+		MUT ={
 			casus_belli = {
-				target = THIS
+				target = REH
 				type = make_puppet
 				months = 36
 			}
@@ -107,9 +107,9 @@ country_event = {
 
 	option = {
 		name = "EVTOPTA37002" 
-		ORO ={
+		MUT={
 			casus_belli = {
-				target = THIS
+				target = ORO
 				type = make_puppet
 				months = 36
 			}

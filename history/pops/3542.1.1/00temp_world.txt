@@ -3368,10 +3368,10 @@
 	}
     }
 399={
-        farmers = {
-		culture = nefian
+    farmers = {
+		culture = sorcan
 		religion = catholic
-		size = 500
+		size = 1200
 	}
     }
 400={
@@ -10337,23 +10337,48 @@
 }
 1339={
     farmers = {
-		culture = nefian
+		culture = zambingo
 		religion = catholic
-		size = 500
+		size = 1860
+	}
+	soldiers = {
+		culture = zambingo
+		religion = catholic
+		size = 550
 	}
 }
 1340={
     farmers = {
-		culture = nefian
+		culture = zambingo
 		religion = catholic
-		size = 500
+		size = 1360
 	}
 }
 1341={
     farmers = {
 		culture = nefian
-		religion = catholic
-		size = 500
+		religion = othordox_omnianism
+		size = 1300
+	}
+	artisans = {
+		culture = nefian
+		religion = othordox_omnianism
+		size = 300
+	}
+	soldiers = {
+		culture = nefian
+		religion = othordox_omnianism
+		size = 600
+	}
+	aristocrats = {
+		culture = nefian
+		religion = othordox_omnianism
+		size = 20
+	}
+	clergymen = {
+		culture = nefian
+		religion = othordox_omnianism
+		size = 30
 	}
 }
 1342={
@@ -10379,9 +10404,14 @@
 }
 1345={
     farmers = {
-		culture = nefian
+		culture = sorcan
 		religion = catholic
-		size = 500
+		size = 970
+	}
+	soldiers = {
+		culture = sorcan
+		religion = catholic
+		size = 550
 	}
 }
 1346={
