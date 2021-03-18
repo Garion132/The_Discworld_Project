@@ -495,7 +495,7 @@ klatchia = {
 		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
 	}
 	
-	union = KLA
+	#union = KLA
 }
 desert_tribes_group={
 	leader = european
