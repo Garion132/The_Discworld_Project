@@ -94,7 +94,7 @@ dwarfs_group = {
 		radicalism = 5
 	}
 	
-	#union = AGA
+	union = LWD
 }
 greatoutdoors_group = {
 	leader = european
@@ -122,7 +122,7 @@ morporkian = {
 		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
 		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
 		
-		last_names = { "de Worde" Vetanari Nobbes Vimes Rust Selachii Eorle Purdeigh}
+		last_names = { "de Worde" Vetanari Nobbes Vimes Rust Selachii Eorle Purdeigh Venturi}
 	}
 	foureckian = { #austrailians
 		color = { 160 57 62}
