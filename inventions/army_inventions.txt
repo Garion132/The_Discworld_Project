@@ -37,6 +37,56 @@ armored_tatics = {
 		activate_unit = armored_footmen 
 	}
 }
+light_armors = {
+	limit = { 
+		high_grade_steel_weaponry = 1 
+	}
+	chance = {
+		base = 1
+		modifier = {
+			factor = 2
+			technology = metallurgic_principles
+		}
+	}
+	effect = {
+		infantry = {
+			defence = 1
+		}
+		engineer = {
+			defence = 1
+		}
+		artillery = {
+			defence = 1
+		}
+		dragoon = {
+			defence = 1
+		}
+		hussar = {
+			defence = 1
+		}
+		cuirassier = {
+			defence = 0.5
+		}
+		cavalry = {
+			defence = 0.5
+		}
+		aqui = {
+			defence = 0.5
+		}
+		warriors = {
+			defence = 0.5
+		}
+		armored_footmen = {
+			defence = 0.5
+		}
+		irregular = {
+			defence = 0.5
+		}
+		army_base = {
+			supply_consumption = 0.1
+		}
+	}
+}
 spear_production = {
 	limit = { 
 		steel_weaponry = 1 
@@ -91,7 +141,10 @@ micromail = {
 		base = 0
 		modifier = {
 			factor = 2
-			primary_culture = dwarf
+			OR={
+				primary_culture = dwarf
+				accepted_culture = dwarf
+			}
 		}
 		modifier = {
 			factor = 2
@@ -149,6 +202,10 @@ ammunition_production = {
 			factor = 2
 			technology = metallurgic_principles
 		}
+		modifier = {
+			factor = 10
+			tag = AGA
+		}
 	}
 	effect = {
 		activate_building = ammunition_factory 
@@ -164,9 +221,28 @@ small_arms_production = {
 			factor = 2
 			technology = metallurgic_principles
 		}
+		modifier = {
+			factor = 10
+			tag = AGA
+		}
 	}
 	effect = {
 		activate_building = small_arms_factory
+	}
+}
+seige_workshops = {
+	limit = { 
+		siege_engines = 1 
+	}
+	chance = {
+		base = 2
+		modifier = {
+			factor = 2
+			hand_cranked_power = 1
+		}
+	}
+	effect = {
+		activate_building = siege_equipment_factory 
 	}
 }
 explosives_production = {
@@ -182,6 +258,10 @@ explosives_production = {
 		modifier = {
 			factor = 2
 			invention = nitroglycerin
+		}
+		modifier = {
+			factor = 10
+			tag = AGA
 		}
 	}
 	effect = {
@@ -201,6 +281,10 @@ artillery_production = {
 		modifier = {
 			factor = 2
 			metallurgic_principles = 1
+		}
+		modifier = {
+			factor = 10
+			tag = AGA
 		}
 	}
 	effect = {

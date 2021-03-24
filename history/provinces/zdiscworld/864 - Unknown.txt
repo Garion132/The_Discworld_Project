@@ -1,2 +1,2 @@
-trade_goods = grain
-life_rating = 40
+life_rating = 34
+trade_goods = timber
