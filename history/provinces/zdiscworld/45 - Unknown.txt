@@ -2,5 +2,5 @@ owner = STL
 controller = STL
 add_core = STL
 add_core = STO
-trade_goods = brassicas
 life_rating = 52
+trade_goods = brassicas

@@ -2,5 +2,5 @@ owner = ZLO
 controller = ZLO
 add_core = ZLO
 add_core = BOR
-trade_goods = grain
+trade_goods = clay
 life_rating = 52

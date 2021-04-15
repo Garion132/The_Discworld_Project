@@ -1,5 +1,5 @@
 owner = MET
 controller = MET
 add_core = MET
-trade_goods = grain
 life_rating = 45
+trade_goods = grain

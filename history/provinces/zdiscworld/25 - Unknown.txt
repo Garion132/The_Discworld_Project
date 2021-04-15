@@ -1,5 +1,5 @@
 owner = LAN
 controller = LAN
 add_core = LAN
-trade_goods = timber
 life_rating = 52
+trade_goods = timber

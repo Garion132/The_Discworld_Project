@@ -1,7 +1,7 @@
 #bounty of the cirmfence
 country_event = {
 	id = 42000
-	title = "EVTNAME42000" #Flashpoint event for GPs
+	title = "EVTNAME42000"
 	desc = "EVTDESC42000"
 	picture = "crisis"
 	trigger = {

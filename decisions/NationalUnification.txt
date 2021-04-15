@@ -121,6 +121,7 @@ political_decisions = {
 		potential = {
 			tag = OMN
 			has_country_flag = OMN_brutha_death
+			is_greater_power = yes
 		}
 		
 		allow = {
@@ -150,20 +151,25 @@ political_decisions = {
 					exists = no
 				}
 			}
+			NOT={has_country_flag = OMN_united}
 		}
 		effect = {
 			prestige = 20
 			any_country = {
 				limit = {
 					is_culture_group = THIS
-					in_sphere = THIS
-					vassal_of = THIS
+					OR={
+						in_sphere = THIS
+						vassal_of = THIS
+					}
 				}
 				any_state ={
 					add_core = OMN
 				}
+				annex_to = OMN
 			}
 			add_accepted_culture = union
+			set_country_flag = OMN_united
 		}
 		ai_will_do = {
 			factor = 1
@@ -185,6 +191,7 @@ political_decisions = {
 					alliance_with = THIS
 					relation = {who = THIS value = 100}
 				}
+				is_independant = yes
 			}
 		}
 		effect = {
@@ -210,6 +217,7 @@ political_decisions = {
 					alliance_with = THIS
 					relation = {who = THIS value = 100}
 				}
+				is_independant = yes
 			}
 		}
 		effect = {
@@ -235,6 +243,7 @@ political_decisions = {
 					alliance_with = THIS
 					relation = {who = THIS value = 100}
 				}
+				is_independant = yes
 			}
 		}
 		effect = {
@@ -260,6 +269,7 @@ political_decisions = {
 					alliance_with = THIS
 					relation = {who = THIS value = 100}
 				}
+				is_independant = yes
 			}
 		}
 		effect = {

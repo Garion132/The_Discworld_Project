@@ -28,3 +28,11 @@ alliance=
 		end_date="4000.1.1"
 		start_date="2600.1.1"
 	}
+alliance=
+	{
+		first="KLA"
+		second="KLS"
+		end_date="4000.1.1"
+		start_date="2600.1.1"
+	}
+	

@@ -50,7 +50,8 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
-
-add_country_modifier = {
-	name = hotbed_of_war
+2600.1.1={
+	add_country_modifier = {
+		name = hotbed_of_war
+	}
 }

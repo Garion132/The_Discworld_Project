@@ -691,11 +691,11 @@ fabric_factory = {
 cement_factory = {       
 	template = cement_template
 	input_goods = {           
-		coal = 6		#27.6		total input+maint = 37
-		clay = 9
+		coal = 8		#27.6		total input+maint = 37
+		clay = 5
 	} 
 	output_goods = cement 
-	value = 4			#48
+	value = 7			#48
 	bonus = {
 		trigger = { trade_goods_in_state = coal }
 		value = 0.25
@@ -802,11 +802,11 @@ cattle_ranch = {
 coal_mine = {
 	template = RGO_template_labourers
 	output_goods = coal 
-	value = 9.6
+	value = 19.2
 	mine = yes
 	bonus = {
 		trigger = { pop_majority_culture = dwarf}
-		value = 0.50
+		value = 0.66
 	}
 	bonus = {
 		trigger = { pop_majority_culture = laotani}
@@ -853,7 +853,7 @@ grain_farm = {
 	farm = yes
 	bonus = {
 		trigger = { pop_majority_culture = octarine}
-		value = 1.50
+		value = 3.33
 	}
 }
 
@@ -897,6 +897,10 @@ precious_metal_mine = {
 	bonus = {
 		trigger = { pop_majority_culture  = dwarf}
 		value = 0.50
+	}
+	bonus = {
+		trigger = { pop_majority_culture  = agatean}
+		value = 4.50
 	}
 }
 
@@ -987,7 +991,7 @@ timber_lodge = {
 	farm = yes
 	bonus = {
 		trigger = { pop_majority_culture = skundlander}
-		value = 1.50
+		value = 2.75
 	}
 }
 
@@ -1020,7 +1024,7 @@ tropical_wood_lodge = {
 	farm = yes
 	bonus = {
 		trigger = { pop_majority_culture = skundlander}
-		value = 0.50
+		value = 0.75
 	}
 }
 
@@ -1509,8 +1513,8 @@ artisan_fabric = {
 
 artisan_cement = {       
 	input_goods = {           
-		coal = 7		#27.6		total input+maint = 37
-		clay = 6
+		coal = 8		#27.6		total input+maint = 37
+		clay = 5
 	} 
 	output_goods = cement 
 	value = 3			#48
