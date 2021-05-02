@@ -707,7 +707,7 @@
     farmers = {
 		culture = rehigreedian
 		religion = catholic
-		size = 1980
+		size = 2980
 	}
 }
 1005={
@@ -938,7 +938,7 @@
     farmers = {
 		culture = orohaian
 		religion = catholic
-		size = 1145
+		size = 2145
 	}
 }
 1038={
@@ -986,7 +986,7 @@
     farmers = {
 		culture = farferian
 		religion = catholic
-		size = 1700
+		size = 3700
 	}
 }
 1522={
@@ -1021,70 +1021,70 @@
     farmers = {
 		culture = farferian
 		religion = catholic
-		size = 1400
+		size = 3400
 	}
 }
 1527={
     farmers = {
 		culture = farferian
 		religion = catholic
-		size = 1850
+		size = 2850
 	}
 }
 1528={
     farmers = {
 		culture = khanlian
 		religion = catholic
-		size = 2400
+		size = 3400
 	}
 }
 1529={
     farmers = {
 		culture = khanlian
 		religion = catholic
-		size = 1700
+		size = 2700
 	}
 }
 1530={
     farmers = {
 		culture = khanlian
 		religion = catholic
-		size = 2500
+		size = 3500
 	}
 }
 1531={
     farmers = {
 		culture = khanlian
 		religion = catholic
-		size = 3400
+		size = 4400
 	}
 }
 1532={
     farmers = {
 		culture = khanlian
 		religion = catholic
-		size = 890
+		size = 2890
 	}
 }
 1533={
     farmers = {
 		culture = khanlian
 		religion = catholic
-		size = 1200
+		size = 4200
 	}
 }
 1534={
     farmers = {
 		culture = khanlian
 		religion = catholic
-		size = 1300
+		size = 4300
 	}
 }
 1535={
     farmers = {
 		culture = khanlian
 		religion = catholic
-		size = 650
+		size = 5650
 	}
 }
 1536={
@@ -1123,14 +1123,14 @@
     farmers = {
 		culture = khanlian
 		religion = catholic
-		size = 1200
+		size = 5200
 	}
 }
 1538={
     farmers = {
 		culture = khanlian
 		religion = catholic
-		size = 1470
+		size = 4470
 	}
 }
 1539={
@@ -1144,63 +1144,63 @@
     farmers = {
 		culture = khanlian
 		religion = catholic
-		size = 2500
+		size = 6500
 	}
 }
 1541={
     farmers = {
 		culture = khanlian
 		religion = catholic
-		size = 2600
+		size = 7600
 	}
 }
 1542={
     farmers = {
 		culture = khanlian
 		religion = catholic
-		size = 2900
+		size = 5900
 	}
 }
 1543={
     farmers = {
 		culture = khanlian
 		religion = catholic
-		size = 3100
+		size = 6100
 	}
 }
 1544={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 3650
+		size = 4650
 	}
 }
 1545={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 2870
+		size = 6870
 	}
 }
 1546={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 2250
+		size = 3250
 	}
 }
 1547={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 1980
+		size = 4980
 	}
 }
 1548={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 2980
+		size = 5980
 	}
 }
 1549={
@@ -1228,7 +1228,7 @@
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 2350
+		size = 4350
 	}
 }
 1553={
@@ -1270,40 +1270,50 @@
 		religion = catholic
 		size = 3650
 	}
+	soldiers = {
+		culture = hrullian
+		religion = catholic
+		size = 1680
+	}
 }
 1558={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 2580
+		size = 7580
 	}
 }
 1559={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 3695
+		size = 8695
+	}
+	soldiers = {
+		culture = hrullian
+		religion = catholic
+		size = 2410
 	}
 }
 1560={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 4500
+		size = 3500
 	}
 }
 1561={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 8740
+		size = 11740
 	}
 }
 1562={
     farmers = {
 		culture = hrullian
 		religion = catholic
-		size = 3870
+		size = 6870
 	}
 }
 1563={

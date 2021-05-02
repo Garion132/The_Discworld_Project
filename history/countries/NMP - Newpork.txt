@@ -1,6 +1,6 @@
 capital = 1638
-primary_culture = morporkian
-culture = pearl_islander
+primary_culture = pearl_islander
+culture = morporkian
 religion = omnianism
 government = theocracy
 plurality = 5
