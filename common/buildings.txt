@@ -267,7 +267,7 @@ siege_workshop = {
 	visibility = yes
 	onmap = no
 
-	production_type = seige_workshop
+	production_type = siege_equipment_factory
 	pop_build_factory = yes
 }
 

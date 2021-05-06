@@ -4921,6 +4921,21 @@
 		religion = nugganite
 		size = 5400
 	}
+	farmers = {
+		culture = varnith
+		religion = catholic
+		size = 1460
+	}
+	soldiers = {
+		culture = varnith
+		religion = catholic
+		size = 960
+	}
+	soldiers = {
+		culture = borogravian
+		religion = nugganite
+		size = 590
+	}
     }
 589={
 	farmers = {
@@ -4928,12 +4943,32 @@
 		religion = nugganite
 		size = 7200
 	}
+	farmers = {
+		culture = varnith
+		religion = catholic
+		size = 2870
+	}
+	soldiers = {
+		culture = varnith
+		religion = catholic
+		size = 740
+	}
     }
 590={
 	farmers = {
 		culture = borogravian
 		religion = nugganite
 		size = 3600
+	}
+	farmers = {
+		culture = varnith
+		religion = catholic
+		size = 2940
+	}
+	soldiers = {
+		culture = varnith
+		religion = catholic
+		size = 1260
 	}
     }
 591={
@@ -5180,6 +5215,11 @@
 		religion = nugganite
 		size = 3500
 	}
+	farmers = {
+		culture = mouldavian
+		religion = nugganite
+		size = 1780
+	}
     }
 611={
     farmers = {
@@ -5201,12 +5241,22 @@
 		religion = nugganite
 		size = 6200
 	}
+	farmers = {
+		culture = mouldavian
+		religion = nugganite
+		size = 3780
+	}
     }
 614={
 	farmers = {
 		culture = borogravian
 		religion = nugganite
-		size = 1400
+		size = 2400
+	}
+	farmers = {
+		culture = mouldavian
+		religion = nugganite
+		size = 1910
 	}
     }
 615={
@@ -6721,7 +6771,7 @@
     farmers = {
 		culture = dlinzer
 		religion = catholic
-		size = 8000
+		size = 13000
 	}
 	artisans = {
 		culture = dlinzer
@@ -6748,28 +6798,38 @@
     farmers = {
 		culture = dlinzer
 		religion = catholic
-		size = 1670
+		size = 3670
+	}
+	soldiers = {
+		culture = dlinzer
+		religion = catholic
+		size = 970
 	}
 }
 749={
     farmers = {
 		culture = dlinzer
 		religion = catholic
-		size = 3920
+		size = 8920
 	}
 }
 750={
     farmers = {
 		culture = dlinzer
 		religion = catholic
-		size = 1250
+		size = 5250
 	}
 }
 751={
     farmers = {
 		culture = dlinzer
 		religion = catholic
-		size = 860
+		size = 2980
+	}
+	soldiers = {
+		culture = werewolves
+		religion = catholic
+		size = 590
 	}
 }
 752={
@@ -14779,6 +14839,11 @@
 		culture = innish
 		religion = catholic
 		size = 3400
+	}
+	farmers = {
+		culture = mouldavian
+		religion = nugganite
+		size = 2018
 	}
 }
 1993={

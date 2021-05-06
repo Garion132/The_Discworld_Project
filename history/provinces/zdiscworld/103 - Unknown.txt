@@ -1,5 +1,5 @@
 owner = PSE
 controller = PSE
 add_core = PSE
-trade_goods = grain
+trade_goods = clay
 life_rating = 52

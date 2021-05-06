@@ -987,11 +987,11 @@ tea_plantation = {
 timber_lodge = {
 	template = RGO_template_labourers
 	output_goods = timber 
-	value = 16
+	value = 32
 	farm = yes
 	bonus = {
 		trigger = { pop_majority_culture = skundlander}
-		value = 2.75
+		value = 2.50
 	}
 }
 
