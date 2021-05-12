@@ -179,6 +179,10 @@ political_decisions = {
 		potential = {
 			tag = OMN
 			has_country_flag = OMN_brutha_death
+			SML={
+				is_independant = yes
+				exists = yes
+			}
 		}
 		
 		allow = {
@@ -191,7 +195,7 @@ political_decisions = {
 					alliance_with = THIS
 					relation = {who = THIS value = 100}
 				}
-				is_independant = yes
+				
 			}
 		}
 		effect = {
@@ -205,6 +209,10 @@ political_decisions = {
 		potential = {
 			tag = OMN
 			has_country_flag = OMN_brutha_death
+			BET={
+				is_independant = yes
+				exists = yes
+			}
 		}
 		
 		allow = {
@@ -231,6 +239,10 @@ political_decisions = {
 		potential = {
 			tag = OMN
 			has_country_flag = OMN_brutha_death
+			USH={
+				is_independant = yes
+				exists = yes
+			}
 		}
 		
 		allow = {
@@ -243,7 +255,6 @@ political_decisions = {
 					alliance_with = THIS
 					relation = {who = THIS value = 100}
 				}
-				is_independant = yes
 			}
 		}
 		effect = {
@@ -257,6 +268,10 @@ political_decisions = {
 		potential = {
 			tag = OMN
 			has_country_flag = OMN_brutha_death
+			IST={
+				is_independant = yes
+				exists = yes
+			}
 		}
 		
 		allow = {
