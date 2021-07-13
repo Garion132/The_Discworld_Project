@@ -1,2 +1,62 @@
+BEO = {
+	value = 100		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 43
+}
 
-
+navy = {
+	name = "Slave Fleet"
+	location = 468
+	ship = {
+		name= "Cheloniidae"
+		type = galley
+	}
+	ship = {
+		name= "Eochelone"
+		type = galley
+	}
+	ship = {
+		name= "Peritresius"
+		type = galley
+	}
+	ship = {
+		name= "Edigitata"
+		type = galley
+	}
+	ship = {
+		name= "Chlonopteria"
+		type = galley
+	}
+	ship = {
+		name= "Chelonia mydas"
+		type = galley
+	}
+	ship = {
+		name= "Allopleuron"
+		type = galley
+	}
+	ship = {
+		name= "Corsochelys"
+		type = galley
+	}
+	ship = {
+		name= "I. Slave transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "II. Slave transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "III. Slave transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "I. Net Tender"
+		type = clipper_transport
+	}
+	ship = {
+		name= "II. Net Tender"
+		type = clipper_transport
+	}
+}

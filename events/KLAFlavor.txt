@@ -1,0 +1,93 @@
+#brother denouces A-M
+country_event = {
+	id = 42200
+	title = "EVTNAME42200"
+	desc = "EVTDESC42200"
+	picture = "crisis"
+	trigger = {
+		tag = KLA
+	}
+	
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA42200" # 
+		ai_chance = {
+			factor = 95
+		}
+		any_pop = {
+			dominant_issue = {
+				factor = 0.1
+				value = jingoism
+			}
+		}
+		set_global_flag = leshp_conceded_to_jingo
+	}
+	option = {
+		name = "EVTOPTB42200" # 
+		ai_chance = {
+			factor = 5
+		}
+		rich_strata = {
+			militancy = 3
+		}
+	}
+}
+
+#population calls for action
+country_event = {
+	id = 42201
+	title = "EVTNAME42201"
+	desc = "EVTDESC42201"
+	picture = "crisis"
+	trigger = {
+		tag = KLA
+	}
+	
+	is_triggered_only = yes
+	
+	immediate={
+		hidden_effect={
+			set_global_flag = KLA_finished_leshp_chain
+		}
+	}
+
+	option = {
+		name = "EVTOPTA42201" #
+		ai_chance = {
+			factor = 95
+		}
+		any_pop = {
+			dominant_issue = {
+				factor = 0.1
+				value = jingoism
+			}
+		}
+		set_global_flag = leshp_conceded_to_jingo
+	}
+	option = {
+		name = "EVTOPTB42200" # 
+		ai_chance = {
+			factor = 5
+		}
+		poor_strata = {
+			consciousness = 1.5
+			militancy = 1
+		}
+	}
+}
+#disappearance of the patrician (leshp)
+country_event = {
+	id = 42202
+
+	is_triggered_only = yes
+
+	title = "EVTNAME42202"
+	desc = "EVTDESC42202"
+	picture = "Administration"
+
+	option = {
+		name = "EVTOPTA42202" 
+		
+	}
+}

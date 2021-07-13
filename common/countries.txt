@@ -16,6 +16,7 @@ IST 	= "countries/Istanzia.txt"
 UBW 	= "countries/Uberwald.txt"
 
 BEL 	= "countries/Belgia.txt"
+BEO 	= "countries/Beowill.txt"
 BET 	= "countries/Betrek.txt"
 BHA 	= "countries/Bhangbhangduc.txt"
 BOR 	= "countries/Borogravia.txt"

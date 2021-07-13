@@ -29,6 +29,8 @@ unemployment_subsidies = trinket_subsidies
 pensions = no_pensions 
 school_reforms = low_schools
 
+oob = "KRL_oob.txt"
+
 # Technologies
 steel_weaponry = 1
 siege_engines = 1
@@ -39,6 +41,7 @@ simple_production_technquines = 1
 hand_cranked_power = 1
 guild_based_production = 1
 freedom_of_trade = 1
+post_nelsonian_thought= 1
 
 # Inventions
 #corvettes = yes
