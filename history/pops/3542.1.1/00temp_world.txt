@@ -845,10 +845,20 @@
 	}
     }
 58={
-        farmers = {
+    labourers = {
 		culture = sto_lat
 		religion = catholic
-		size = 3700
+		size = 7700
+	}
+	soldiers = {
+		culture = sto_lat
+		religion = catholic
+		size = 1100
+	}
+	aristocrats = {
+		culture = sto_lat
+		religion = catholic
+		size = 20
 	}
     }
 59={

@@ -69,6 +69,7 @@ country_event = {#favour
 		ai_chance = {
 			factor = 20
 		}
+		FROM={country_event = { id=39001 days=0 }}
 	}
 }
 country_event = {#netural
@@ -87,7 +88,7 @@ country_event = {#netural
 	}
 	option = {
 		name = "EVTOPTB39003" 
-		
+		FROM={country_event = { id=39001 days=0 }}
 	}
 }
 
@@ -144,9 +145,68 @@ country_event = {#disagreed
 			defender_goal = { casus_belli = status_quo }
 			call_ally = no
 		}
+		ai_chance = {
+			factor = 80
+		}
 	}
 	option = {
 		name = "EVTOPTB39006" 
+		ai_chance = {
+			factor = 20
+		}
+	}
+}
+country_event = {#disagreed
+
+	id = 39007
+
+	is_triggered_only = yes
+
+	title = "EVTNAME39007"
+	desc = "EVTDESC39007"
+	picture = "Administration"
+
+	option = {#go in
+		name = "EVTOPTA39007" 
+		war = {
+			target = FROM
+			attacker_goal = { casus_belli = make_puppet }
+			defender_goal = { casus_belli = status_quo }
+			call_ally = no
+		}
+		ai_chance = {
+			factor = 80
+		}
+	}
+	option = {
+		name = "EVTOPTB39007" 
+		ai_chance = {
+			factor = 20
+		}
+	}
+}
+country_event = {#death of the sto-heilts
+
+	id = 39008
+
+	#is_triggered_only = yes
+	trigger = {
+		tag = STH
+		ZEM={ai = yes}
+	}
+
+	title = "EVTNAME39007"
+	desc = "EVTDESC39007"
+	picture = "Administration"
+
+	option = {#go in
+		name = "EVTOPTA39008" 
 		
+	}
+	option = {
+		name = "EVTOPTB39008" 
+		ai_chance = {
+			factor = 20
+		}
 	}
 }
