@@ -2,5 +2,5 @@ owner = ZEM
 controller = ZEM
 add_core = ZEM
 add_core = STO
-trade_goods = brassicas
+trade_goods = cotton
 life_rating = 52

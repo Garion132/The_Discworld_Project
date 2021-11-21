@@ -44,30 +44,30 @@ political_decisions = {
 	sto_herrige_delegation = {
 		potential = {
 			tag = STL
-			STM={
+			STG={
 				is_vassal = no
 				exists = yes
 			}
-			NOT={has_country_flag = STL_STH_offer}
+			NOT={has_country_flag = STL_STG_offer}
 		}
 		
 		allow = {
 			year = 3551
 			OR={
-				alliance_with = STH
-				relation = { who = STH value = 100 }
+				alliance_with = STG
+				relation = { who = STG value = 100 }
 			}
 		}
 		
 		effect = {
-			STH={country_event = { id=39004 days=0 }}
-			set_country_flag = STL_STH_offer
+			STG={country_event = { id=39004 days=0 }}
+			set_country_flag = STL_STG_offer
 		}
 	}
 	sheep_ridge_delegation = {
 		potential = {
 			tag = STL
-			STM={
+			SHR={
 				is_vassal = no
 				exists = yes
 			}

@@ -10,7 +10,7 @@ country_event = {
 	allow_multiple_instances = yes
 	
 	mean_time_to_happen =  {
-		months = 12
+		months = 6
 	}
 
 	option = {
@@ -19,11 +19,11 @@ country_event = {
 			factor = 95
 		}
 		random_list = {
-			31 = { add_tax_relative_income = 2.0 }
-			26 = { add_tax_relative_income = 3.0 }
-			22 = { add_tax_relative_income = 4.0 }
-			18 = { add_tax_relative_income = 5.0 }
-			3 = { add_tax_relative_income = 6.0 }
+			31 = { add_tax_relative_income = 1.0 }
+			26 = { add_tax_relative_income = 2.0 }
+			22 = { add_tax_relative_income = 3.0 }
+			18 = { add_tax_relative_income = 4.0 }
+			3  = { add_tax_relative_income = 5.0 }
 		}
 		random_list = {
 			15 = { lumber = 150 }

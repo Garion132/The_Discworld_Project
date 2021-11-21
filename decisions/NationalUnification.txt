@@ -91,6 +91,7 @@ political_decisions = {
 						province_id = 64
 						province_id = 65
 						province_id = 66
+						owned_by = CHR
 					}
 				}
 			}
@@ -101,7 +102,10 @@ political_decisions = {
 			any_country = {
 				limit = {
 					is_culture_group = THIS
-					NOT={tag=AMP}
+					NOT={
+						tag=AMP
+						tag=SKN
+					}
 					OR={
 						in_sphere = THIS
 						vassal_of = THIS
@@ -109,6 +113,17 @@ political_decisions = {
 					}
 				}
 				country_event = { id=11101 days=0 }
+			}
+			any_country = {
+				limit={
+					tag=SKN
+					OR={
+						in_sphere = THIS
+						vassal_of = THIS
+						alliance_with = THIS
+					}
+				}
+				create_vassal = SKN
 			}
 			add_accepted_culture = union
 		}

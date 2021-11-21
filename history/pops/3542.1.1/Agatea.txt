@@ -421,7 +421,7 @@
     farmers = {
 		culture = agatean
 		religion = ancestor_worship
-		size = 120000
+		size = 150000
 	}
 
 	bureaucrats = {
@@ -436,96 +436,6 @@
 		size = 2000 
 	}
 
-	artisans = {
-		culture = agatean
-		religion = ancestor_worship
-		size = 10000
-	}
-	artisans = {
-		culture = agatean
-		religion = ancestor_worship
-		size = 10000
-	}
-	artisans = {
-		culture = agatean
-		religion = ancestor_worship
-		size = 10000
-	}
-	artisans = {
-		culture = agatean
-		religion = ancestor_worship
-		size = 10000
-	}
-	artisans = {
-		culture = agatean
-		religion = ancestor_worship
-		size = 10000
-	}
-	artisans = {
-		culture = agatean
-		religion = ancestor_worship
-		size = 10000
-	}
-	artisans = {
-		culture = agatean
-		religion = ancestor_worship
-		size = 10000
-	}
-	artisans = {
-		culture = agatean
-		religion = ancestor_worship
-		size = 10000
-	}
-	artisans = {
-		culture = agatean
-		religion = ancestor_worship
-		size = 10000
-	}
-	artisans = {
-		culture = agatean
-		religion = ancestor_worship
-		size = 10000
-	}
-	artisans = {
-		culture = agatean
-		religion = ancestor_worship
-		size = 10000
-	}
-	artisans = {
-		culture = agatean
-		religion = ancestor_worship
-		size = 10000
-	}
-	artisans = {
-		culture = agatean
-		religion = ancestor_worship
-		size = 10000
-	}
-	artisans = {
-		culture = agatean
-		religion = ancestor_worship
-		size = 10000
-	}
-	artisans = {
-		culture = agatean
-		religion = ancestor_worship
-		size = 10000
-	}
-	artisans = {
-		culture = agatean
-		religion = ancestor_worship
-		size = 10000
-	}
-	artisans = {
-		culture = agatean
-		religion = ancestor_worship
-		size = 10000
-	}
-	artisans = {
-		culture = agatean
-		religion = ancestor_worship
-		size = 10000
-	}
 	artisans = {
 		culture = agatean
 		religion = ancestor_worship

@@ -5619,6 +5619,11 @@
 		religion = tak
 		size = 1500
 	}
+	soldiers = {
+		culture = vampyre
+		religion = othordox_omnianism
+		size = 1500
+	}
 	aristocrats = {
 		culture = dwarf
 		religion = tak
@@ -5981,7 +5986,7 @@
 		size = 2600
 	}
 	soldiers = {
-		culture = uberwaldian
+		culture = werewolves
 		religion = othordox_omnianism
 		size = 1050
 	}
@@ -6062,6 +6067,11 @@
 		religion = othordox_omnianism
 		size = 3750
 	}
+	soldiers = {
+		culture = werewolves
+		religion = catholic
+		size = 1100
+	}
 }
 695={
     farmers = {
@@ -6083,6 +6093,11 @@
 		religion = othordox_omnianism
 		size = 2800
 	}
+	soldiers = {
+		culture = werewolves
+		religion = catholic
+		size = 1550
+	}
 }
 698={
     labourers = {
@@ -6099,6 +6114,11 @@
 		culture = uberwaldian
 		religion = othordox_omnianism
 		size = 250
+	}
+	soldiers = {
+		culture = werewolves
+		religion = catholic
+		size = 1550
 	}
 	aristocrats = {
 		culture = dwarf
@@ -6132,6 +6152,11 @@
 		religion = tak
 		size = 1100
 	}
+	soldiers = {
+		culture = werewolves
+		religion = catholic
+		size = 1250
+	}
 	officers = {
 		culture = dwarf
 		religion = tak
@@ -6140,7 +6165,7 @@
 	aristocrats = {
 		culture = werewolves
 		religion = catholic
-		size = 50
+		size = 150
 	}
 }
 700={
@@ -6229,6 +6254,16 @@
 		culture = werewolves
 		religion = catholic
 		size = 100
+	}
+	clergymen = {
+		culture = werewolves
+		religion = catholic
+		size = 200
+	}
+	soldiers = {
+		culture = werewolves
+		religion = catholic
+		size = 580
 	}
     farmers = {
 		culture = uberwaldian

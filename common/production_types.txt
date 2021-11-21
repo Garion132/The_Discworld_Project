@@ -1310,10 +1310,10 @@ artisan_furniture = {
 
 artisan_paper = {       
 	input_goods = { 
-		timber = 50		#45	total input+maint = 55
+		timber = 25	#45	total input+maint = 55
 	}
 	output_goods = paper 
-	value = 20			#68
+	value = 10			#68
 	
 	owner = {
 		poptype = artisans 

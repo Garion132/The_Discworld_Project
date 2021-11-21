@@ -62,7 +62,10 @@ country_event = {#favour
 		ai_chance = {
 			factor = 80
 		}
-		FROM={create_vassal = ZEM}
+		FROM={
+			create_vassal = ZEM
+			prestige = 5
+		}
 	}
 	option = {
 		name = "EVTOPTB39002" 
@@ -84,7 +87,10 @@ country_event = {#netural
 
 	option = {
 		name = "EVTOPTA39003" 
-		FROM={create_vassal = ZEM}
+		FROM={
+			create_vassal = ZEM
+			prestige = 5
+		}
 	}
 	option = {
 		name = "EVTOPTB39003" 
@@ -104,8 +110,9 @@ country_event = {#treaty with northern minors
 	option = {#agree
 		name = "EVTOPTA39004" 
 		treasury = 5000
-		FROM={create_vassal = ROOT}
-		STL={country_event = { id=39005 days=0 }}
+		STL={create_vassal = ROOT
+			country_event = { id=39005 days=0 }
+		}
 	}
 	option = {#disagree
 		name = "EVTOPTB39004" 
@@ -124,7 +131,8 @@ country_event = {#agreed
 
 	option = {
 		name = "EVTOPTA39005" 
-		
+		prestige = 5
+		create_vassal = FROM
 	}
 }
 country_event = {#disagreed
@@ -191,9 +199,11 @@ country_event = {#death of the sto-heilts
 
 	#is_triggered_only = yes
 	trigger = {
-		tag = STH
-		ZEM={ai = yes}
+		tag = STL
+		STH={ai = yes}
+		year = 3554
 	}
+	fire_only_once = yes
 
 	title = "EVTNAME39007"
 	desc = "EVTDESC39007"
@@ -201,12 +211,9 @@ country_event = {#death of the sto-heilts
 
 	option = {#go in
 		name = "EVTOPTA39008" 
+		create_vassal = STH
+		prestige = 5
+		STH={prestige = -5}
 		
-	}
-	option = {
-		name = "EVTOPTB39008" 
-		ai_chance = {
-			factor = 20
-		}
 	}
 }

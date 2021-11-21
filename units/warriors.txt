@@ -31,7 +31,7 @@ warriors = {
 	#Land Abilties
 	reconnaissance = 0
 	attack = 2
-	defence = 1
+	defence = 3
 	discipline = 0.8
 	support = 0.0
 	maneuver = 1
