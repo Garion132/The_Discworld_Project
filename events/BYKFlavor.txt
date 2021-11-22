@@ -11,6 +11,7 @@ country_event = {
 	mean_time_to_happen =  {
 		months = 6
 	}
+	fire_only_once = yes
 
 	title = "EVTNAME43000"
 	desc = "EVTDESC43000"
@@ -31,6 +32,10 @@ country_event = {
 			country_event = {id = 43001}
 		}
 		BYK={
+			diplomatic_influence = {
+				who = FWW
+				value = -200
+			}
 			country_event = {id = 43002}
 		}
 	}
@@ -50,6 +55,7 @@ country_event = {
 		name = "EVTOPTA43001" 
 		BLA={
 			annex_to = FWW
+			all_core = { add_core = FWW}
 		}
 		ai_chance = { factor = 100 }
 	}
@@ -78,5 +84,30 @@ country_event = {
 
 	option = {
 		name = "EVTOPTA43002" 
+	}
+}
+#succession crisis in the low dwarfs
+country_event = {
+
+	id = 43003
+
+	trigger = {
+		owns = 701
+		year = 3557
+	}
+ 
+	mean_time_to_happen =  {
+		months = 6
+	}
+	
+	fire_only_once = yes
+
+	title = "EVTNAME43000"
+	desc = "EVTDESC43000"
+	picture = "Administration"
+
+	option = {
+		name = "EVTOPTA43000" 
+		
 	}
 }
