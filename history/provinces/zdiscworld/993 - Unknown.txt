@@ -1,5 +1,6 @@
 owner = LMT
 controller = LMT
 add_core = LMT
+add_core = MUT
 trade_goods = tea
 life_rating = 45

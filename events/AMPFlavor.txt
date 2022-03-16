@@ -150,7 +150,7 @@ country_event = {
 	trigger = {
 		tag = AMP 
 		year = 3546
-		always= no
+		#always= no
 	}
 	
 	fire_only_once = yes

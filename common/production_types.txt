@@ -806,11 +806,15 @@ coal_mine = {
 	mine = yes
 	bonus = {
 		trigger = { pop_majority_culture = dwarf}
-		value = 0.66
+		value = 0.75
 	}
 	bonus = {
 		trigger = { pop_majority_culture = laotani}
-		value = 0.15
+		value = 0.16
+	}
+	bonus = {
+		trigger = { pop_majority_culture = llamedos}
+		value = 0.33
 	}
 }
 
@@ -824,14 +828,14 @@ coffee_plantation = {
 cotton_plantation = {
 	template = RGO_template_farmers
 	output_goods = cotton 
-	value = 17.6
+	value = 21.6
 	farm = yes
 }
 
 dye_plantation = {
 	template = RGO_template_farmers
 	output_goods = dye 
-	value = 3.76
+	value = 5.33
 	farm = yes
 	bonus = {
 		trigger = { pop_majority_culture  = urtalie}
@@ -849,7 +853,7 @@ fishing_wharf = {
 grain_farm = {
 	template = RGO_template_farmers
 	output_goods = grain 
-	value = 3.6
+	value = 7.2
 	farm = yes
 	bonus = {
 		trigger = { pop_majority_culture = octarine}
@@ -872,6 +876,10 @@ iron_mine = {
 	bonus = {
 		trigger = { pop_majority_culture = dwarf}
 		value = 0.50
+	}
+	bonus = {
+		trigger = { pop_majority_culture = llamedos}
+		value = 0.25
 	}
 }
 

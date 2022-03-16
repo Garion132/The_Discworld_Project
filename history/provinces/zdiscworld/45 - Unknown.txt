@@ -3,4 +3,4 @@ controller = STL
 add_core = STL
 add_core = STO
 life_rating = 52
-trade_goods = brassicas
+trade_goods = cotton
