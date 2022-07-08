@@ -888,6 +888,7 @@ dirt_roads = {
 	cost = 3600
 	
 	supply_consumption = -0.05
+	factory_throughput = 0.03
 	
 	ai_chance = {
 		factor = 1.5 #1.1
@@ -912,6 +913,7 @@ cobbled_roads = {
 	cost = 3600
 	
 	supply_consumption = -0.05
+	factory_throughput = 0.04
 	
 	ai_chance = {
 		factor = 1.5 #1.1
@@ -936,7 +938,7 @@ paved_roads = {
 	cost = 3600
 	
 	supply_consumption = -0.1
-
+	factory_throughput = 0.05
 	
 	ai_chance = {
 		factor = 1.5 #1.1
@@ -1032,7 +1034,7 @@ theories_of_chemistry = {
 	year = 3540
 	cost = 3600
 	
-	supply_limit = 0.25
+	activate_building = fertilizer_factory 
 
 	ai_chance = {
 		factor = 1.1
@@ -1051,7 +1053,8 @@ alchemical_practises = {
 	year = 3565
 	cost = 3600
 
-	activate_building = fertilizer_factory 
+	supply_limit = 0.25
+	
 	ai_chance = {
 		factor = 1.1
 		modifier = {

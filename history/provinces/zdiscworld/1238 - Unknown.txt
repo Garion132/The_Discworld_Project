@@ -1,5 +1,5 @@
 owner = TOH
 controller = TOH
 add_core = TOH
-trade_goods = grain
+trade_goods = cotton
 life_rating = 20

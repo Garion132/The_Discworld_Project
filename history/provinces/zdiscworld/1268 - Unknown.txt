@@ -1,5 +1,5 @@
 owner = KPS
 controller = KPS
 add_core = KPS
-trade_goods = grain
+trade_goods = brassicas
 life_rating = 45

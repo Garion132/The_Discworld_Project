@@ -1255,7 +1255,17 @@
     farmers = {
 		culture = pseudopolian
 		religion = catholic
-		size = 2980
+		size = 5980
+	}
+	aristocrats = {
+		culture = pseudopolian
+		religion = catholic
+		size = 20
+	}
+	soldiers = {
+		culture = pseudopolian
+		religion = catholic
+		size = 1350
 	}
     }
 100={
@@ -1353,12 +1363,17 @@
 	farmers = {
 		culture = pseudopolian
 		religion = catholic
-		size = 4650
+		size = 8650
 	}
 	artisans = {
 		culture = pseudopolian
 		religion = catholic
 		size = 120
+	}
+	clergymen = {
+		culture = pseudopolian
+		religion = catholic
+		size = 3
 	}
     }
 104={
@@ -3860,12 +3875,22 @@
 	labourers = {
 		culture = wyrmbergian
 		religion = catholic
-		size = 9000
+		size = 9776
+	}
+	labourers = {
+		culture = octarine
+		religion = catholic
+		size = 9900
+	}
+	slaves = {
+		culture = octarine
+		religion = catholic
+		size = 16500
 	}
 	soldiers = {
 		culture = wyrmbergian
 		religion = catholic
-		size = 1500
+		size = 6500
 	}
 	artisans = {
 		culture = wyrmbergian
@@ -4512,7 +4537,7 @@
 	farmers = {
 		culture = howondalander
 		religion = zambinist
-		size = 4800
+		size = 12800
 	}
     }
 477={
@@ -8288,7 +8313,7 @@
     farmers = {
 		culture = neverlander
 		religion = catholic
-		size = 9100
+		size = 16100
 	}
 	artisans = {
 		culture = neverlander
@@ -8315,84 +8340,84 @@
     farmers = {
 		culture = neverlander
 		religion = catholic
-		size = 2900
+		size = 5900
 	}
 }
 915={
     farmers = {
 		culture = neverlander
 		religion = catholic
-		size = 1890
+		size = 4890
 	}
 }
 916={
     farmers = {
 		culture = neverlander
 		religion = catholic
-		size = 2400
+		size = 7400
 	}
 }
 917={
     farmers = {
 		culture = neverlander
 		religion = catholic
-		size = 3600
+		size = 6600
 	}
 }
 918={
     farmers = {
 		culture = neverlander
 		religion = catholic
-		size = 1780
+		size = 4780
 	}
 }
 919={
     farmers = {
 		culture = neverlander
 		religion = catholic
-		size = 3610
+		size = 6610
 	}
 }
 920={
     farmers = {
 		culture = neverlander
 		religion = catholic
-		size = 5420
+		size = 11420
 	}
 }
 921={
     farmers = {
 		culture = neverlander
 		religion = catholic
-		size = 2500
+		size = 8500
 	}
 }
 922={
     farmers = {
 		culture = neverlander
 		religion = catholic
-		size = 6500
+		size = 11500
 	}
 }
 923={
     farmers = {
 		culture = neverlander
 		religion = catholic
-		size = 1800
+		size = 3800
 	}
 }
 924={
     farmers = {
 		culture = neverlander
 		religion = catholic
-		size = 2500
+		size = 4500
 	}
 }
 925={
     farmers = {
 		culture = neverlander
 		religion = catholic
-		size = 3600
+		size = 5600
 	}
 }
 1039={
@@ -12524,21 +12549,31 @@
 	farmers = {
 		culture = klatchistanian
 		religion = catholic
-		size = 8000
+		size = 12000
 	}
 }
 1697={
 	farmers = {
 		culture = klatchistanian
 		religion = catholic
-		size = 3600
+		size = 8600
 	}
 }
 1698={
 	farmers = {
 		culture = klatchistanian
 		religion = catholic
-		size = 1000
+		size = 34000
+	}
+	aristocrats = {
+		culture = klatchistanian
+		religion = catholic
+		size = 142
+	}
+	soldiers = {
+		culture = klatchistanian
+		religion = catholic
+		size = 3450
 	}
 }
 1699={
@@ -12845,28 +12880,28 @@
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 1130
+		size = 4130
 	}
 }
 1735={
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 1150
+		size = 4150
 	}
 }
 1736={
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 3465
+		size = 9465
 	}
 }
 1737={
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 3960
+		size = 9960
 	}
 	soldiers = {
 		culture = cartthengen
@@ -12878,105 +12913,105 @@
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 2365
+		size = 5365
 	}
 }
 1739={
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 2987
+		size = 6987
 	}
 }
 1740={
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 5250
+		size = 11250
 	}
 }
 1741={
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 1240
+		size = 4240
 	}
 }
 1742={
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 3600
+		size = 8600
 	}
 }
 1743={
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 4780
+		size = 10780
 	}
 }
 1744={
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 2670
+		size = 5670
 	}
 }
 1745={
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 3400
+		size = 6400
 	}
 }
 1746={
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 2600
+		size = 5600
 	}
 }
 1747={
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 1800
+		size = 6800
 	}
 }
 1748={
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 1940
+		size = 4940
 	}
 }
 1749={
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 3100
+		size = 9100
 	}
 }
 1750={
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 1800
+		size = 3800
 	}
 }
 1751={
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 3650
+		size = 5650
 	}
 }
 1752={
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 4650
+		size = 9650
 	}
 	soldiers = {
 		culture = cartthengen
@@ -12998,14 +13033,14 @@
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 3560
+		size = 4560
 	}
 }
 1754={
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 4820
+		size = 8820
 	}
 	soldiers = {
 		culture = cartthengen
@@ -13017,7 +13052,7 @@
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 7860
+		size = 15860
 	}
 	soldiers = {
 		culture = cartthengen
@@ -13029,42 +13064,42 @@
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 9863
+		size = 24863
 	}
 }
 1757={
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 1870
+		size = 6870
 	}
 }
 1758={
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 1230
+		size = 3230
 	}
 }
 1759={
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 500
+		size = 7200
 	}
 }
 1760={
 	farmers = {
 		culture = cartthengen
 		religion = catholic
-		size = 500
+		size = 4600
 	}
 }
 1761={
 	farmers = {
 		culture = vieuxish
 		religion = catholic
-		size = 960
+		size = 27460
 	}
 	farmers = {
 		culture = salentine
@@ -13076,26 +13111,26 @@
 	farmers = {
 		culture = salentine
 		religion = catholic
-		size = 948
+		size = 8948
 	}
 }
 1763={
 	farmers = {
 		culture = salentine
 		religion = catholic
-		size = 1780
+		size = 9780
 	}
 }
 1764={
 	farmers = {
 		culture = salentine
 		religion = catholic
-		size = 5400
+		size = 16400
 	}
 	farmers = {
 		culture = salentine
 		religion = catholic
-		size = 900
+		size = 2400
 	}
 	soldiers = {
 		culture = salentine
@@ -13122,7 +13157,7 @@
 	farmers = {
 		culture = salentine
 		religion = catholic
-		size = 6350
+		size = 21350
 	}
 	aristocrats = {
 		culture = salentine
@@ -13144,42 +13179,42 @@
 	farmers = {
 		culture = salentine
 		religion = catholic
-		size = 1600
+		size = 3600
 	}
 }
 1767={
 	farmers = {
 		culture = vieuxish
 		religion = catholic
-		size = 860
+		size = 4860
 	}
 }
 1768={
 	farmers = {
 		culture = salentine
 		religion = catholic
-		size = 960
+		size = 2960
 	}
 }
 1769={
 	farmers = {
 		culture = salentine
 		religion = catholic
-		size = 1960
+		size = 5960
 	}
 }
 1770={
 	farmers = {
 		culture = salentine
 		religion = catholic
-		size = 1140
+		size = 6140
 	}
 }
 1771={
 	farmers = {
 		culture = salentine
 		religion = catholic
-		size = 3980
+		size = 7980
 	}
 }
 1772={
@@ -13249,84 +13284,99 @@
 	farmers = {
 		culture = salentine
 		religion = catholic
-		size = 1960
+		size = 3960
 	}
 }
 1782={
 	farmers = {
 		culture = salentine
 		religion = catholic
-		size = 1981
+		size = 13981
+	}
+	soldiers = {
+		culture = salentine
+		religion = catholic
+		size = 2360
+	}
+	aristocrats = {
+		culture = salentine
+		religion = catholic
+		size = 152
+	}
+	artisans = {
+		culture = salentine
+		religion = catholic
+		size = 1450
 	}
 }
 1783={
 	farmers = {
 		culture = salentine
 		religion = catholic
-		size = 1360
+		size = 4360
 	}
 }
 1784={
 	farmers = {
 		culture = salentine
 		religion = catholic
-		size = 1780
+		size = 5780
 	}
 }
 1785={
 	farmers = {
 		culture = salentine
 		religion = catholic
-		size = 1480
+		size = 6480
 	}
 }
 1786={
 	farmers = {
 		culture = salentine
 		religion = catholic
-		size = 2962
+		size = 7962
 	}
 }
 1787={
 	farmers = {
 		culture = salentine
 		religion = catholic
-		size = 3652
+		size = 8652
 	}
 }
 1788={
 	farmers = {
 		culture = salentine
 		religion = catholic
-		size = 4954
+		size = 9954
 	}
 }
 1789={
 	farmers = {
 		culture = salentine
 		religion = catholic
-		size = 5621
+		size = 10621
 	}
 }
 1790={
 	farmers = {
 		culture = salentine
 		religion = catholic
-		size = 3360
+		size = 8360
 	}
 }
 1791={
 	farmers = {
 		culture = salentine
 		religion = catholic
-		size = 2890
+		size = 6890
 	}
 }
 1792={
 	farmers = {
 		culture = salentine
 		religion = catholic
-		size = 2940
+		size = 17940
 	}
 }
 1793={

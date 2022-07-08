@@ -828,18 +828,18 @@ coffee_plantation = {
 cotton_plantation = {
 	template = RGO_template_farmers
 	output_goods = cotton 
-	value = 21.6
+	value = 24.6
 	farm = yes
 }
 
 dye_plantation = {
 	template = RGO_template_farmers
 	output_goods = dye 
-	value = 5.33
+	value = 8
 	farm = yes
 	bonus = {
 		trigger = { pop_majority_culture  = urtalie}
-		value = 1.50
+		value = 2.50
 	}
 }
 

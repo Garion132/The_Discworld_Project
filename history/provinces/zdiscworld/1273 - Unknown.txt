@@ -2,4 +2,4 @@ owner = MET
 controller = MET
 add_core = MET
 life_rating = 45
-trade_goods = grain
+trade_goods = brassicas
