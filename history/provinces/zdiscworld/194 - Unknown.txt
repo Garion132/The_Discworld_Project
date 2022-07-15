@@ -2,5 +2,5 @@ owner = STH
 controller = STH
 add_core = STH
 add_core = STO
-trade_goods = brassicas
+trade_goods = silk
 life_rating = 52

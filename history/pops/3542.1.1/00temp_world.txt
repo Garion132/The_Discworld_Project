@@ -5729,61 +5729,61 @@
     farmers = {
 		culture = lipswiger
 		religion = catholic
-		size = 1987
+		size = 3987
 	}
 }
 662={
     farmers = {
 		culture = lipswiger
 		religion = catholic
-		size = 2400
+		size = 5400
 	}
 }
 663={
     farmers = {
 		culture = lipswiger
 		religion = catholic
-		size = 1930
+		size = 3930
 	}
 }
 664={
     farmers = {
 		culture = lipswiger
 		religion = catholic
-		size = 1980
+		size = 4980
 	}
 }
 665={
     farmers = {
 		culture = lipswiger
 		religion = catholic
-		size = 4210
+		size = 6210
 	}
 	soldiers = {
 		culture = lipswiger
 		religion = catholic
-		size = 1380
+		size = 2380
 	}
 }
 666={
     farmers = {
 		culture = lipswiger
 		religion = catholic
-		size = 2980
+		size = 4980
 	}
 }
 667={
     farmers = {
 		culture = lipswiger
 		religion = catholic
-		size = 1600
+		size = 3600
 	}
 }
 668={
     farmers = {
 		culture = lipswiger
 		religion = catholic
-		size = 2800
+		size = 4800
 	}
 }
 669={
@@ -5800,7 +5800,7 @@
 	soldiers = {
 		culture = lipswiger
 		religion = catholic
-		size = 1100
+		size = 2100
 	}
 }
 670={
@@ -6935,75 +6935,75 @@
     farmers = {
 		culture = dlinzer
 		religion = catholic
-		size = 1450
+		size = 4450
 	}
 	farmers = {
 		culture = zlobenian
 		religion = catholic
-		size = 975
+		size = 2975
 	}
 }
 755={
     farmers = {
 		culture = dlinzer
 		religion = catholic
-		size = 2310
+		size = 10310
 	}
 }
 756={
     farmers = {
 		culture = dlinzer
 		religion = catholic
-		size = 500
+		size = 9650
 	}
 }
 757={
     farmers = {
 		culture = dlinzer
 		religion = catholic
-		size = 1830
+		size = 8830
 	}
 }
 758={
     farmers = {
 		culture = dlinzer
 		religion = catholic
-		size = 500
+		size = 8435
 	}
 }
 759={
     farmers = {
 		culture = dlinzer
 		religion = catholic
-		size = 500
+		size = 7487
 	}
 }
 760={
     farmers = {
 		culture = dlinzer
 		religion = catholic
-		size = 500
+		size = 4260
 	}
 }
 761={
     farmers = {
 		culture = dlinzer
 		religion = catholic
-		size = 500
+		size = 8780
 	}
 }
 762={
     farmers = {
 		culture = vieuxish
 		religion = catholic
-		size = 500
+		size = 1820
 	}
 }
 763={
     farmers = {
 		culture = dlinzer
 		religion = catholic
-		size = 500
+		size = 3410
 	}
 }
 764={
@@ -7053,14 +7053,29 @@
     farmers = {
 		culture = vieuxish
 		religion = catholic
-		size = 1700
+		size = 8700
+	}
+	soldiers = {
+		culture = werewolves
+		religion = catholic
+		size = 2700
+	}
+	clergymen = {
+		culture = werewolves
+		religion = catholic
+		size = 15
 	}
 }
 769={
     farmers = {
 		culture = vieuxish
 		religion = catholic
-		size = 2400
+		size = 8400
+	}
+	soldiers = {
+		culture = vieuxish
+		religion = catholic
+		size = 1150
 	}
 }
 770={
@@ -7074,7 +7089,7 @@
     farmers = {
 		culture = vieuxish
 		religion = catholic
-		size = 1915
+		size = 7915
 	}
 }
 772={
@@ -7102,7 +7117,12 @@
     farmers = {
 		culture = vieuxish
 		religion = catholic
-		size = 3400
+		size = 9400
+	}
+	soldiers = {
+		culture = vieuxish
+		religion = catholic
+		size = 1640
 	}
 	aristocrats = {
 		culture = vieuxish
@@ -7114,18 +7134,28 @@
     farmers = {
 		culture = vieuxish
 		religion = catholic
-		size = 500
+		size = 18700
+	}
+	soldiers = {
+		culture = vieuxish
+		religion = catholic
+		size = 1200
 	}
 }
 777={
     farmers = {
 		culture = vieuxish
 		religion = catholic
-		size = 500
+		size = 15600
 	}
 }
 778={
 	farmers = {
+		culture = vieuxish
+		religion = catholic
+		size = 28500
+	}
+	soldiers = {
 		culture = vieuxish
 		religion = catholic
 		size = 8500
@@ -7138,14 +7168,24 @@
 	clergymen = {
 		culture = vieuxish
 		religion = catholic
-		size = 20
+		size = 120
+	}
+	artisans = {
+		culture = vieuxish
+		religion = catholic
+		size = 450
 	}
 }
 779={
     farmers = {
 		culture = vieuxish
 		religion = catholic
-		size = 3400
+		size = 13400
+	}
+	soldiers = {
+		culture = vieuxish
+		religion = catholic
+		size = 1600
 	}
 	aristocrats = {
 		culture = vieuxish
@@ -7159,6 +7199,21 @@
 		religion = catholic
 		size = 4500
 	}
+	labourers = {
+		culture = dwarf
+		religion = tak
+		size = 4500
+	}
+	soldiers = {
+		culture = dwarf
+		religion = tak
+		size = 1130
+	}
+	soldiers = {
+		culture = vieuxish
+		religion = catholic
+		size = 2400
+	}
 	aristocrats = {
 		culture = vieuxish
 		religion = catholic
@@ -7169,7 +7224,7 @@
     farmers = {
 		culture = vieuxish
 		religion = catholic
-		size = 7400
+		size = 11400
 	}
 	aristocrats = {
 		culture = vieuxish
@@ -13514,103 +13569,103 @@
 	farmers = {
 		culture = momerathian
 		religion = catholic
-		size = 2210
+		size = 5210
 	}
 }
 1807={
 	farmers = {
 		culture = momerathian
 		religion = catholic
-		size = 1960
+		size = 4960
 	}
 }
 1808={
 	farmers = {
 		culture = salentine
 		religion = catholic
-		size = 2360
+		size = 6360
 	}
 }
 1809={
 	farmers = {
 		culture = salentine
 		religion = catholic
-		size = 1650
+		size = 4650
 	}
 }
 1810={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 1680
+		size = 3680
 	}
 }
 1811={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 1710
+		size = 4710
 	}
 }
 1812={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 1960
+		size = 2960
 	}
 }
 1813={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 1200
+		size = 3200
 	}
 }
 1814={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 1230
+		size = 4230
 	}
 }
 1815={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 1140
+		size = 3140
 	}
 }
 1816={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 1790
+		size = 4790
 	}
 }
 1817={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 1480
+		size = 2480
 	}
 }
 1818={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 1630
+		size = 2630
 	}
 }
 1819={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 3254
+		size = 12254
 	}
 	soldiers = {
 		culture = kythian
 		religion = catholic
-		size = 1100
+		size = 3100
 	}
 }
 1820={
@@ -13645,168 +13700,168 @@
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 1465
+		size = 5465
 	}
 }
 1825={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 1784
+		size = 3784
 	}
 }
 1826={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 1365
+		size = 2365
 	}
 }
 1827={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 2165
+		size = 4165
 	}
 }
 1828={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 1784
+		size = 3784
 	}
 }
 1829={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 2341
+		size = 5341
 	}
 }
 1830={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 2784
+		size = 4384
 	}
 }
 1831={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 1369
+		size = 3369
 	}
 }
 1832={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 1784
+		size = 4784
 	}
 }
 1833={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 500
+		size = 2400
 	}
 }
 1834={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 500
+		size = 2900
 	}
 }
 1835={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 500
+		size = 2700
 	}
 }
 1836={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 500
+		size = 2500
 	}
 }
 1837={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 500
+		size = 3600
 	}
 }
 1838={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 500
+		size = 7500
 	}
 }
 1839={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 500
+		size = 5400
 	}
 }
 1840={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 500
+		size = 6300
 	}
 }
 1841={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 500
+		size = 4200
 	}
 }
 1842={
 	farmers = {
 		culture = kythian
 		religion = catholic
-		size = 500
+		size = 3600
 	}
 }
 1843={
         farmers = {
 		culture = foureckian
 		religion = catholic
-		size = 500
+		size = 2400
 	}
 }
 1844={
         farmers = {
 		culture = foureckian
 		religion = catholic
-		size = 500
+		size = 1200
 	}
 }
 1845={
         farmers = {
 		culture = foureckian
 		religion = catholic
-		size = 500
+		size = 1700
 	}
 }
 1846={
         farmers = {
 		culture = foureckian
 		religion = catholic
-		size = 500
+		size = 7800
 	}
 }
 1847={
         farmers = {
 		culture = foureckian
 		religion = catholic
-		size = 500
+		size = 4800
 	}
 }
 1848={
