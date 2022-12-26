@@ -1,5 +1,5 @@
-owner = SDW
-controller = SDW
-add_core = SDW
+owner = ZEM
+controller = ZEM
+add_core = ZEM
 life_rating = 52
 trade_goods = grain

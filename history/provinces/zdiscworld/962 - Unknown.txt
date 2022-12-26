@@ -1,6 +1,6 @@
-owner = GHA
-controller = GHA
-add_core = GHA
+owner = FRF
+controller = FRF
+add_core = FRF
 add_core = MUT
 trade_goods = fish
 life_rating = 45

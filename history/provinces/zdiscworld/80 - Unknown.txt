@@ -1,5 +1,5 @@
-owner = QRM
-controller = QRM
-add_core = QRM
+owner = STR
+controller = STR
+add_core = STR
 trade_goods = timber
 life_rating = 52

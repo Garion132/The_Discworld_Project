@@ -1,5 +1,3 @@
-owner = GEN
-controller = GEN
-add_core = GEN
+
 trade_goods = fish
 life_rating = 45

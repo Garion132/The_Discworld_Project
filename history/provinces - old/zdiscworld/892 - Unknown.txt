@@ -1,0 +1,5 @@
+owner = GEN
+controller = GEN
+add_core = GEN
+trade_goods = tobacco
+life_rating = 45

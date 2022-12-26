@@ -1,6 +1,5 @@
-owner = QRM
-controller = QRM
-add_core = QRM
-add_core = STO
+owner = STH
+controller = STH
+add_core = STH
 trade_goods = treacle
 life_rating = 52

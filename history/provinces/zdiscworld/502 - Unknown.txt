@@ -1,5 +1,5 @@
-owner = LAO
-controller = LAO
-add_core = LAO
+owner = URA
+controller = URA
+add_core = URA
 trade_goods = cattle
 life_rating = 52

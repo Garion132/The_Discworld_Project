@@ -1,0 +1,25 @@
+owner = AMP
+controller = AMP
+add_core = AMP
+trade_goods = sulphur
+life_rating = 99
+state_building = {
+	level = 3
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 3
+	building = swords_factory
+	upgrade = yes
+}
+state_building = {
+	level = 3
+	building = spears_factory
+	upgrade = yes
+}
+state_building = {
+	level = 9
+	building = cement_factory
+	upgrade = yes
+}

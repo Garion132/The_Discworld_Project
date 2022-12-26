@@ -1,5 +1,5 @@
-owner = NEV
-controller = NEV
-add_core = NEV
+owner = CTG
+controller = CTG
+add_core = CTG
 trade_goods = cotton
 life_rating = 45

@@ -1,0 +1,6 @@
+owner = RHE
+controller = RHE
+add_core = RHE
+add_core = MOU
+trade_goods = cotton
+life_rating = 52

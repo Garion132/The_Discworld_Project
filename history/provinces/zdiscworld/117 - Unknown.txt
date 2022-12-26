@@ -1,5 +1,5 @@
-owner = PSE
-controller = PSE
-add_core = PSE
+owner = TWS
+controller = TWS
+add_core = TWS
 trade_goods = brassicas
 life_rating = 52

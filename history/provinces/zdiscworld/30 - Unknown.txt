@@ -1,10 +1,10 @@
-owner = COP
-controller = COP
-add_core = COP
+owner = CAR
+controller = CAR
+add_core = CAR
 trade_goods = iron
 life_rating = 52
-state_building = {
-	level = 1
-	building = steel_factory
-	upgrade = yes
-}
+# state_building = {
+	# level = 1
+	# building = steel_factory
+	# upgrade = yes
+# }

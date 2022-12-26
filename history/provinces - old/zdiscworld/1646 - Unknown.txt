@@ -1,0 +1,5 @@
+owner = NAF
+controller = NAF
+add_core = NAF
+trade_goods = iron
+life_rating = 20

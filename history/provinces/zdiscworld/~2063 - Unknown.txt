@@ -1,0 +1,5 @@
+owner = NTU
+controller = NTU
+add_core = NTU
+trade_goods = grain
+life_rating = 52

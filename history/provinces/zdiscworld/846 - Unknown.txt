@@ -1,6 +1,5 @@
-owner = MUN
-controller = MUN
-add_core = MUN
-add_core = UBW
+owner = SLA
+controller = SLA
+add_core = SLA
 trade_goods = iron
 life_rating = 52

@@ -1,6 +1,5 @@
-owner = DLZ
-controller = DLZ
-add_core = DLZ
-add_core = UBW
+owner = BOR
+controller = BOR
+add_core = BOR
 trade_goods = sulphur
 life_rating = 52

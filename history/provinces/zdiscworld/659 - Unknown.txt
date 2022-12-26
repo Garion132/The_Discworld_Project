@@ -1,6 +1,5 @@
-owner = ESC
-controller = ESC
-add_core = ESC
-add_core = UBW
+owner = VAN
+controller = VAN
+add_core = VAN
 trade_goods = precious_metal
 life_rating = 52

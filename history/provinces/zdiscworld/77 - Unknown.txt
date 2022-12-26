@@ -1,5 +1,5 @@
-owner = QRM
-controller = QRM
-add_core = QRM
+owner = EPH
+controller = EPH
+add_core = EPH
 trade_goods = treacle
 life_rating = 52

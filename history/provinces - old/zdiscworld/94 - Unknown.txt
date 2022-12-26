@@ -1,0 +1,5 @@
+owner = PSE
+controller = PSE
+add_core = PSE
+trade_goods = dye
+life_rating = 52

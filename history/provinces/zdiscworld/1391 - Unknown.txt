@@ -1,2 +1,5 @@
+owner = KLS
+controller = KLS
+add_core = KLS
 trade_goods = grain
 life_rating = 30

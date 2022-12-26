@@ -1,0 +1,5 @@
+owner = NTF
+controller = NTF
+add_core = NTF
+trade_goods = cattle
+life_rating = 45

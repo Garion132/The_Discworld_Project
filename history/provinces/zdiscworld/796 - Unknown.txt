@@ -1,6 +1,4 @@
-owner = BLI
-controller = BLI
-add_core = BLI
+
 add_core = UBW
 trade_goods = cattle
 life_rating = 52

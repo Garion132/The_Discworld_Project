@@ -1,0 +1,5 @@
+owner = KYT
+controller = KYT
+add_core = KYT
+trade_goods = tobacco
+life_rating = 20

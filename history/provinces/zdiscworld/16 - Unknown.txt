@@ -1,5 +1,5 @@
-owner = TWS
-controller = TWS
-add_core = TWS
+owner = ZEM
+controller = ZEM
+add_core = ZEM
 life_rating = 52
 trade_goods = timber

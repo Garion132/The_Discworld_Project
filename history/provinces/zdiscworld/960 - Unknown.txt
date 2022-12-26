@@ -1,5 +1,5 @@
-owner = MUT
-controller = MUT
-add_core = MUT
+owner = VGL
+controller = VGL
+add_core = VGL
 trade_goods = iron
 life_rating = 45

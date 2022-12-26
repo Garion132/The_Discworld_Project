@@ -1,0 +1,6 @@
+owner = DRG
+controller = DRG
+add_core = DRG
+add_core = KLA
+trade_goods = cattle
+life_rating = 52

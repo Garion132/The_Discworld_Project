@@ -1,0 +1,5 @@
+owner = HIC
+controller = HIC
+add_core = HIC
+life_rating = 52
+trade_goods = timber

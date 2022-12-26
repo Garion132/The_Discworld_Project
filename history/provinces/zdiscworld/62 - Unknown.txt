@@ -1,6 +1,5 @@
-owner = QRM
-controller = QRM
-add_core = QRM
-add_core = STO
+owner = AMP
+controller = AMP
+add_core = AMP
 trade_goods = fruit
 life_rating = 52

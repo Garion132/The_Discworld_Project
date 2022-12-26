@@ -1,5 +1,5 @@
-owner = PSE
-controller = PSE
-add_core = PSE
+owner = QRM
+controller = QRM
+add_core = QRM
 trade_goods = tobacco
 life_rating = 52

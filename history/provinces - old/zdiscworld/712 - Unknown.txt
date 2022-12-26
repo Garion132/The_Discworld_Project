@@ -1,0 +1,6 @@
+owner = KLO
+controller = KLO
+add_core = KLO
+add_core = UBW
+trade_goods = iron
+life_rating = 52

@@ -1,5 +1,5 @@
-owner = PSE
-controller = PSE
-add_core = PSE
+owner = STN
+controller = STN
+add_core = STN
 trade_goods = cotton
 life_rating = 52

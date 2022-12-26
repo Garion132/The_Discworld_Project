@@ -3661,77 +3661,17 @@
 	}
 }
 417={
-	aristocrats = {
-		culture = vampyre
+	farmers = {
+		culture = upper_uberwaldian
 		religion = catholic
-		size = 300
-	}
-	clergymen = {
-		culture = vampyre
-		religion = catholic
-		size = 1000
-	}
-	clerks = {
-		culture = vampyre
-		religion = catholic
-		size = 100
-	}
-	clerks = {
-		culture = dwarf
-		religion = catholic
-		size = 200
-	}
-	craftsmen = {
-		culture = dwarf
-		religion = catholic
-		size = 3500
-	}
-    labourers = {
-		culture = dwarf
-		religion = catholic
-		size = 2000
+		size = 1630
 	}
 	labourers = {
-		culture = vampyre
-		religion = catholic
-		size = 1000
-	}
-	labourers = {
-		culture = uberwaldian
-		religion = catholic
-		size = 25000
-	}
-	aristocrats = {
 		culture = dwarf
-		religion = catholic
-		size = 100
+		religion = tak
+		size = 870
 	}
-	soldiers = {
-		culture = uberwaldian
-		religion = catholic
-		size = 6000
-	}
-	artisans = {
-		culture = uberwaldian
-		religion = catholic
-		size = 7000
-	}
-	artisans = {
-		culture = uberwaldian
-		religion = catholic
-		size = 1000
-	}
-	artisans = {
-		culture = dwarf
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = dwarf
-		religion = catholic
-		size = 2000
-	}
-    }
+}
 418={
     farmers = {
 		culture = genuan
@@ -5847,15 +5787,75 @@
 	}
 }
 674={
-    farmers = {
-		culture = upper_uberwaldian
+    aristocrats = {
+		culture = vampyre
 		religion = catholic
-		size = 1630
+		size = 300
+	}
+	clergymen = {
+		culture = vampyre
+		religion = catholic
+		size = 1000
+	}
+	clerks = {
+		culture = vampyre
+		religion = catholic
+		size = 100
+	}
+	clerks = {
+		culture = dwarf
+		religion = catholic
+		size = 200
+	}
+	craftsmen = {
+		culture = dwarf
+		religion = catholic
+		size = 3500
+	}
+    labourers = {
+		culture = dwarf
+		religion = catholic
+		size = 2000
 	}
 	labourers = {
+		culture = vampyre
+		religion = catholic
+		size = 1000
+	}
+	labourers = {
+		culture = uberwaldian
+		religion = catholic
+		size = 25000
+	}
+	aristocrats = {
 		culture = dwarf
-		religion = tak
-		size = 870
+		religion = catholic
+		size = 100
+	}
+	soldiers = {
+		culture = uberwaldian
+		religion = catholic
+		size = 6000
+	}
+	artisans = {
+		culture = uberwaldian
+		religion = catholic
+		size = 7000
+	}
+	artisans = {
+		culture = uberwaldian
+		religion = catholic
+		size = 1000
+	}
+	artisans = {
+		culture = dwarf
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = dwarf
+		religion = catholic
+		size = 2000
 	}
 }
 675={
@@ -5886,15 +5886,35 @@
 	}
 }
 676={
-    farmers = {
-		culture = upper_uberwaldian
+	craftsmen = {
+		culture = uberwaldian
+		religion = othordox_omnianism
+		size = 1500
+	}
+	craftsmen = {
+		culture = vampyre
 		religion = catholic
-		size = 890
+		size = 200
+	}
+    labourers = {
+		culture = uberwaldian
+		religion = othordox_omnianism
+		size = 5310
 	}
 	labourers = {
 		culture = dwarf
 		religion = tak
-		size = 2260
+		size = 9000
+	}
+	aristocrats = {
+		culture = dwarf
+		religion = tak
+		size = 50
+	}
+	aristocrats = {
+		culture = vampyre
+		religion = catholic
+		size = 30
 	}
 }
 677={
@@ -6221,35 +6241,15 @@
 	}
 }
 701={
-	craftsmen = {
-		culture = uberwaldian
-		religion = othordox_omnianism
-		size = 1500
-	}
-	craftsmen = {
-		culture = vampyre
+	farmers = {
+		culture = upper_uberwaldian
 		religion = catholic
-		size = 200
-	}
-    labourers = {
-		culture = uberwaldian
-		religion = othordox_omnianism
-		size = 5310
+		size = 890
 	}
 	labourers = {
 		culture = dwarf
 		religion = tak
-		size = 9000
-	}
-	aristocrats = {
-		culture = dwarf
-		religion = tak
-		size = 50
-	}
-	aristocrats = {
-		culture = vampyre
-		religion = catholic
-		size = 30
+		size = 2260
 	}
 }
 702={
@@ -7850,29 +7850,24 @@
 }
 850={
 	artisans = {
-		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		culture = dwarf
+		religion = tak
 		size = 2500
 	}
 	aristocrats = {
-		culture = vampyre
-		religion = catholic
+		culture = dwarf
+		religion = tak
 		size = 200
 	}
 	soldiers = {
-		culture = vampyre
-		religion = catholic
-		size = 1200
+		culture = dwarf
+		religion = tak
+		size = 2500
 	}
 	soldiers = {
 		culture = werewolves
 		religion = catholic
-		size = 2500
-	}
-	soldiers = {
-		culture = upper_uberwaldian
-		religion = othordox_omnianism
-		size = 3450
+		size = 1200
 	}
     labourers = {
 		culture = upper_uberwaldian
@@ -7918,7 +7913,12 @@
 	labourers = {
 		culture = dwarf
 		religion = tak
-		size = 6500
+		size = 7500
+	}
+	soldiers = {
+		culture = dwarf
+		religion = tak
+		size = 1700
 	}
 }
 854={
@@ -7930,7 +7930,12 @@
 	labourers = {
 		culture = dwarf
 		religion = tak
-		size = 6500
+		size = 7300
+	}
+	soldiers = {
+		culture = dwarf
+		religion = tak
+		size = 2300
 	}
 }
 855={

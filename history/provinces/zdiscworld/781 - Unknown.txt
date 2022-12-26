@@ -1,5 +1,5 @@
-owner = VEL
-controller = VEL
-add_core = VEL
+owner = NVX
+controller = NVX
+add_core = NVX
 trade_goods = dye
 life_rating = 52

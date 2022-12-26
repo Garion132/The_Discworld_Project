@@ -1,5 +1,3 @@
-owner = SHR
-controller = SHR
-add_core = SHR
+
 life_rating = 52
 trade_goods = timber

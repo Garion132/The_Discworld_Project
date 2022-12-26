@@ -1,5 +1,5 @@
-owner = LOU
-controller = LOU
-add_core = LOU
+owner = BOR
+controller = BOR
+add_core = BOR
 trade_goods = treacle
 life_rating = 52

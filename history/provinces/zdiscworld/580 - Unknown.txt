@@ -1,7 +1,6 @@
-owner = MOU
-controller = MOU
-add_core = MOU
-add_core = BOR
-add_core = RHE
+owner = KLS
+controller = KLS
+add_core = KLS
+add_core = NKS
 trade_goods = cotton
 life_rating = 52

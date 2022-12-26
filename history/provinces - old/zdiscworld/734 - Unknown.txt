@@ -1,0 +1,6 @@
+owner = VAN
+controller = VAN
+add_core = VAN
+add_core = RHE
+trade_goods = timber
+life_rating = 52

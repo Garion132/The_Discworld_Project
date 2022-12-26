@@ -1,5 +1,5 @@
-owner = DJE
-controller = DJE
-add_core = DJE
+owner = ELH
+controller = ELH
+add_core = ELH
 trade_goods = timber
 life_rating = 52

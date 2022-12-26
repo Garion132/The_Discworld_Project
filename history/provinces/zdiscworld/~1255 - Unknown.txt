@@ -1,0 +1,5 @@
+owner = VUL
+controller = VUL
+add_core = VUL
+trade_goods = coal
+life_rating = 20

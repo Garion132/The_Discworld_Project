@@ -1,0 +1,5 @@
+owner = KYT
+controller = KYT
+add_core = KYT
+trade_goods = timber
+life_rating = 20

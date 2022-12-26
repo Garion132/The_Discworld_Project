@@ -1,0 +1,7 @@
+owner = BYK
+controller = BYK
+add_core = BYK
+add_core = UBW
+add_core = LWD
+trade_goods = coal
+life_rating = 52

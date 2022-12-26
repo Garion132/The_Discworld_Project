@@ -1,0 +1,5 @@
+owner = ORO
+controller = ORO
+add_core = ORO
+trade_goods = tea
+life_rating = 45

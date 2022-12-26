@@ -1,6 +1,5 @@
-owner = ESC
-controller = ESC
-add_core = ESC
-add_core = UBW
+owner = SMA
+controller = SMA
+add_core = SMA
 trade_goods = grain
 life_rating = 52

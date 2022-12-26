@@ -1,0 +1,6 @@
+owner = BUG
+controller = BUG
+add_core = BUG
+add_core = UBW
+trade_goods = fats
+life_rating = 52

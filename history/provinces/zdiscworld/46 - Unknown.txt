@@ -1,7 +1,3 @@
-owner = STL
-controller = STL
-add_core = STL
-add_core = STO
-add_core = STN
+
 life_rating = 52
 trade_goods = cattle

@@ -1,6 +1,5 @@
-owner = GHA
-controller = GHA
-add_core = GHA
+owner = MUT
+controller = MUT
 add_core = MUT
 trade_goods = opium
 life_rating = 45

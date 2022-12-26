@@ -1,0 +1,5 @@
+owner = KLA
+controller = KLA
+add_core = KLA
+trade_goods = tea
+life_rating = 52

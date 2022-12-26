@@ -1,5 +1,5 @@
-owner = VAN
-controller = VAN
-add_core = VAN
+owner = SKN
+controller = SKN
+add_core = SKN
 trade_goods = grain
 life_rating = 52

@@ -1,431 +1,431 @@
-#XXXX storm disapears and XXXX becomes a AMP colony
-country_event = {
+# #XXXX storm disapears and XXXX becomes a AMP colony
+# country_event = {
 
-	id = 36900  
+	# id = 36900  
 
-	trigger = {
-		tag = AMP 
-		year = 3557
-	}
+	# trigger = {
+		# tag = AMP 
+		# year = 3557
+	# }
 	
-	fire_only_once = yes
+	# fire_only_once = yes
  
-	mean_time_to_happen =  {
-		months = 6
+	# mean_time_to_happen =  {
+		# months = 6
 
-	}
+	# }
 
-	title = "EVTNAME36900"
-	desc = "EVTDESC36900"
-	picture = "Administration"
+	# title = "EVTNAME36900"
+	# desc = "EVTDESC36900"
+	# picture = "Administration"
 
-	option = {
-		name = "EVTOPTA36900" 
-		XXXX_25 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		XXXX_24 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		XXXX_23 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		XXXX_22 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		XXXX_21 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		XXXX_20 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		XXXX_19 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		XXXX_18 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		XXXX_17 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		XXXX_16 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		XXXX_15 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		XXXX_14 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		XXXX_13 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		XXXX_12 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		XXXX_11 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		XXXX_10 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		XXXX_9 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		XXXX_8 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		XXXX_7 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		XXXX_6 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		XXXX_5 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		XXXX_4 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		XXXX_3 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		XXXX_2 = { add_core = AMP add_core = XX4 secede_province = THIS }
-	}
-	option = {
-		name = "EVTOPTB36900" 
+	# option = {
+		# name = "EVTOPTA36900" 
+		# XXXX_25 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		# XXXX_24 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		# XXXX_23 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		# XXXX_22 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		# XXXX_21 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		# XXXX_20 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		# XXXX_19 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		# XXXX_18 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		# XXXX_17 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		# XXXX_16 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		# XXXX_15 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		# XXXX_14 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		# XXXX_13 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		# XXXX_12 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		# XXXX_11 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		# XXXX_10 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		# XXXX_9 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		# XXXX_8 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		# XXXX_7 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		# XXXX_6 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		# XXXX_5 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		# XXXX_4 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		# XXXX_3 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		# XXXX_2 = { add_core = AMP add_core = XX4 secede_province = THIS }
+	# }
+	# option = {
+		# name = "EVTOPTB36900" 
 		
-			XXXX_25 = { add_core = XX4 secede_province = THIS }
-			XXXX_24 = { add_core = XX4 secede_province = THIS }
-			XXXX_23 = { add_core = XX4 secede_province = THIS }
-			XXXX_22 = { add_core = XX4 secede_province = THIS }
-			XXXX_21 = { add_core = XX4 secede_province = THIS }
-			XXXX_20 = { add_core = XX4 secede_province = THIS }
-			XXXX_19 = { add_core = XX4 secede_province = THIS }
-			XXXX_18 = { add_core = XX4 secede_province = THIS }
-			XXXX_17 = { add_core = XX4 secede_province = THIS }
-			XXXX_16 = { add_core = XX4 secede_province = THIS }
-			XXXX_15 = { add_core = XX4 secede_province = THIS }
-			XXXX_14 = { add_core = XX4 secede_province = THIS }
-			XXXX_13 = { add_core = XX4 secede_province = THIS }
-			XXXX_12 = { add_core = XX4 secede_province = THIS }
-			XXXX_11 = { add_core = XX4 secede_province = THIS }
-			XXXX_10 = { add_core = XX4 secede_province = THIS }
-			XXXX_9 = { add_core = XX4 secede_province = THIS }
-			XXXX_8 = { add_core = XX4 secede_province = THIS }
-			XXXX_7 = { add_core = XX4 secede_province = THIS }
-			XXXX_6 = { add_core = XX4 secede_province = THIS }
-			XXXX_5 = { add_core = XX4 secede_province = THIS }
-			XXXX_4 = { add_core = XX4 secede_province = THIS }
-			XXXX_3 = { add_core = XX4 secede_province = THIS }
-			XXXX_2 = { add_core = XX4 secede_province = THIS }
+			# XXXX_25 = { add_core = XX4 secede_province = THIS }
+			# XXXX_24 = { add_core = XX4 secede_province = THIS }
+			# XXXX_23 = { add_core = XX4 secede_province = THIS }
+			# XXXX_22 = { add_core = XX4 secede_province = THIS }
+			# XXXX_21 = { add_core = XX4 secede_province = THIS }
+			# XXXX_20 = { add_core = XX4 secede_province = THIS }
+			# XXXX_19 = { add_core = XX4 secede_province = THIS }
+			# XXXX_18 = { add_core = XX4 secede_province = THIS }
+			# XXXX_17 = { add_core = XX4 secede_province = THIS }
+			# XXXX_16 = { add_core = XX4 secede_province = THIS }
+			# XXXX_15 = { add_core = XX4 secede_province = THIS }
+			# XXXX_14 = { add_core = XX4 secede_province = THIS }
+			# XXXX_13 = { add_core = XX4 secede_province = THIS }
+			# XXXX_12 = { add_core = XX4 secede_province = THIS }
+			# XXXX_11 = { add_core = XX4 secede_province = THIS }
+			# XXXX_10 = { add_core = XX4 secede_province = THIS }
+			# XXXX_9 = { add_core = XX4 secede_province = THIS }
+			# XXXX_8 = { add_core = XX4 secede_province = THIS }
+			# XXXX_7 = { add_core = XX4 secede_province = THIS }
+			# XXXX_6 = { add_core = XX4 secede_province = THIS }
+			# XXXX_5 = { add_core = XX4 secede_province = THIS }
+			# XXXX_4 = { add_core = XX4 secede_province = THIS }
+			# XXXX_3 = { add_core = XX4 secede_province = THIS }
+			# XXXX_2 = { add_core = XX4 secede_province = THIS }
 				
-		release = XX4
-		create_vassal = XX4
+		# release = XX4
+		# create_vassal = XX4
 		
-	}
-	option = {
-		name = "EVTOPTC36900" 
-		XX4={
-			XXXX_25 = { add_core = XX4 secede_province = THIS }
-			XXXX_24 = { add_core = XX4 secede_province = THIS }
-			XXXX_23 = { add_core = XX4 secede_province = THIS }
-			XXXX_22 = { add_core = XX4 secede_province = THIS }
-			XXXX_21 = { add_core = XX4 secede_province = THIS }
-			XXXX_20 = { add_core = XX4 secede_province = THIS }
-			XXXX_19 = { add_core = XX4 secede_province = THIS }
-			XXXX_18 = { add_core = XX4 secede_province = THIS }
-			XXXX_17 = { add_core = XX4 secede_province = THIS }
-			XXXX_16 = { add_core = XX4 secede_province = THIS }
-			XXXX_15 = { add_core = XX4 secede_province = THIS }
-			XXXX_14 = { add_core = XX4 secede_province = THIS }
-			XXXX_13 = { add_core = XX4 secede_province = THIS }
-			XXXX_12 = { add_core = XX4 secede_province = THIS }
-			XXXX_11 = { add_core = XX4 secede_province = THIS }
-			XXXX_10 = { add_core = XX4 secede_province = THIS }
-			XXXX_9 = { add_core = XX4 secede_province = THIS }
-			XXXX_8 = { add_core = XX4 secede_province = THIS }
-			XXXX_7 = { add_core = XX4 secede_province = THIS }
-			XXXX_6 = { add_core = XX4 secede_province = THIS }
-			XXXX_5 = { add_core = XX4 secede_province = THIS }
-			XXXX_4 = { add_core = XX4 secede_province = THIS }
-			XXXX_3 = { add_core = XX4 secede_province = THIS }
-			XXXX_2 = { add_core = XX4 secede_province = THIS }
-		}
+	# }
+	# option = {
+		# name = "EVTOPTC36900" 
+		# XX4={
+			# XXXX_25 = { add_core = XX4 secede_province = THIS }
+			# XXXX_24 = { add_core = XX4 secede_province = THIS }
+			# XXXX_23 = { add_core = XX4 secede_province = THIS }
+			# XXXX_22 = { add_core = XX4 secede_province = THIS }
+			# XXXX_21 = { add_core = XX4 secede_province = THIS }
+			# XXXX_20 = { add_core = XX4 secede_province = THIS }
+			# XXXX_19 = { add_core = XX4 secede_province = THIS }
+			# XXXX_18 = { add_core = XX4 secede_province = THIS }
+			# XXXX_17 = { add_core = XX4 secede_province = THIS }
+			# XXXX_16 = { add_core = XX4 secede_province = THIS }
+			# XXXX_15 = { add_core = XX4 secede_province = THIS }
+			# XXXX_14 = { add_core = XX4 secede_province = THIS }
+			# XXXX_13 = { add_core = XX4 secede_province = THIS }
+			# XXXX_12 = { add_core = XX4 secede_province = THIS }
+			# XXXX_11 = { add_core = XX4 secede_province = THIS }
+			# XXXX_10 = { add_core = XX4 secede_province = THIS }
+			# XXXX_9 = { add_core = XX4 secede_province = THIS }
+			# XXXX_8 = { add_core = XX4 secede_province = THIS }
+			# XXXX_7 = { add_core = XX4 secede_province = THIS }
+			# XXXX_6 = { add_core = XX4 secede_province = THIS }
+			# XXXX_5 = { add_core = XX4 secede_province = THIS }
+			# XXXX_4 = { add_core = XX4 secede_province = THIS }
+			# XXXX_3 = { add_core = XX4 secede_province = THIS }
+			# XXXX_2 = { add_core = XX4 secede_province = THIS }
+		# }
 		
-	}
-}
-#Rise of Lesip
-country_event = {
-	id = 36901
+	# }
+# }
+# #Rise of Lesip
+# country_event = {
+	# id = 36901
 
-	trigger = {
-		tag = AMP 
-		year = 3552
-		always= no
-	}
+	# trigger = {
+		# tag = AMP 
+		# year = 3552
+		# always= no
+	# }
 	
-	fire_only_once = yes
-	major = yes
+	# fire_only_once = yes
+	# major = yes
  
-	mean_time_to_happen =  {
-		months = 6
-	}
+	# mean_time_to_happen =  {
+		# months = 6
+	# }
 
-	title = "EVTNAME36901"
-	desc = "EVTDESC36901"
-	picture = "Administration"
+	# title = "EVTNAME36901"
+	# desc = "EVTDESC36901"
+	# picture = "Administration"
 
-	option = {
-		name = "EVTOPTA36901" 
-		KLA = {
-			relation = {
-				who = AMP
-				value = -200
-			}
-		}
-		country_event = {id = 36903 days = 5}
-		KLA={country_event = {id = 36903 days = 5}}
-	}
-}
-#A-M becomes the migratory point
-country_event = {
+	# option = {
+		# name = "EVTOPTA36901" 
+		# KLA = {
+			# relation = {
+				# who = AMP
+				# value = -200
+			# }
+		# }
+		# country_event = {id = 36903 days = 5}
+		# KLA={country_event = {id = 36903 days = 5}}
+	# }
+# }
+# #A-M becomes the migratory point
+# country_event = {
 
-	id = 36902
+	# id = 36902
 
-	trigger = {
-		tag = AMP 
-		year = 3546
-		#always= no
-	}
+	# trigger = {
+		# tag = AMP 
+		# year = 3546
+		# #always= no
+	# }
 	
-	fire_only_once = yes
+	# fire_only_once = yes
  
-	mean_time_to_happen =  {
-		months = 6
+	# mean_time_to_happen =  {
+		# months = 6
 
-	}
+	# }
 
-	title = "EVTNAME36902"
-	desc = "EVTDESC36902"
-	picture = "Administration"
+	# title = "EVTNAME36902"
+	# desc = "EVTDESC36902"
+	# picture = "Administration"
 	
-	immediate ={
-		add_country_modifier ={name =great_wahonie duration = -1}
-	}
+	# immediate ={
+		# add_country_modifier ={name =great_wahonie duration = -1}
+	# }
 
-	option = {
-		name = "EVTOPTA36902" 
+	# option = {
+		# name = "EVTOPTA36902" 
 		
-	}
-}
+	# }
+# }
 
-#tensions mount (leshp)
-country_event = {
-	id = 36903
+# #tensions mount (leshp)
+# country_event = {
+	# id = 36903
 
-	is_triggered_only = yes
+	# is_triggered_only = yes
  
-	mean_time_to_happen =  {
-		months = 6
+	# mean_time_to_happen =  {
+		# months = 6
 
-	}
+	# }
 	
-	immediate={
-		hidden_effect={
-			AMP={country_event = {id = 36904 days = 2}}
-		}
-	}
+	# immediate={
+		# hidden_effect={
+			# AMP={country_event = {id = 36904 days = 2}}
+		# }
+	# }
 
-	title = "EVTNAME36903"
-	desc = "EVTDESC36903"
-	picture = "Administration"
+	# title = "EVTNAME36903"
+	# desc = "EVTDESC36903"
+	# picture = "Administration"
 
-	option = {
-		name = "EVTOPTA36903" 
+	# option = {
+		# name = "EVTOPTA36903" 
 		
-	}
-}
+	# }
+# }
 
-#nobles rabble-rouse (leshp)
-country_event = {
-	id = 36904
+# #nobles rabble-rouse (leshp)
+# country_event = {
+	# id = 36904
 
-	is_triggered_only = yes
+	# is_triggered_only = yes
  
-	immediate={
-		hidden_effect={
-			country_event = {id = 36905 days = 2}
-		}
-	}
+	# immediate={
+		# hidden_effect={
+			# country_event = {id = 36905 days = 2}
+		# }
+	# }
 
-	title = "EVTNAME36904"
-	desc = "EVTDESC36904"
-	picture = "Administration"
+	# title = "EVTNAME36904"
+	# desc = "EVTDESC36904"
+	# picture = "Administration"
 
-	option = {
-		name = "EVTOPTA36904" 
-		any_pop = {
-			dominant_issue = {
-				factor = 0.1
-				value = jingoism
-			}
-		}
-		set_global_flag = leshp_conceded_to_jingo
-	}
-	option = {
-		name = "EVTOPTA36904" 
-		rich_strata = {
-			militancy = 3
-		}
-	}
-}
+	# option = {
+		# name = "EVTOPTA36904" 
+		# any_pop = {
+			# dominant_issue = {
+				# factor = 0.1
+				# value = jingoism
+			# }
+		# }
+		# set_global_flag = leshp_conceded_to_jingo
+	# }
+	# option = {
+		# name = "EVTOPTA36904" 
+		# rich_strata = {
+			# militancy = 3
+		# }
+	# }
+# }
 
-#calls to action (leshp)
-country_event = {
-	id = 36905
+# #calls to action (leshp)
+# country_event = {
+	# id = 36905
 
-	is_triggered_only = yes
+	# is_triggered_only = yes
  
-	immediate={
-		hidden_effect={
-			set_global_flag = AMP_finished_leshp_chain
-		}
-	}
+	# immediate={
+		# hidden_effect={
+			# set_global_flag = AMP_finished_leshp_chain
+		# }
+	# }
 
-	title = "EVTNAME36905"
-	desc = "EVTDESC36905"
-	picture = "Administration"
+	# title = "EVTNAME36905"
+	# desc = "EVTDESC36905"
+	# picture = "Administration"
 
-	option = {
-		name = "EVTOPTA36905" 
-		any_pop = {
-			dominant_issue = {
-				factor = 0.1
-				value = jingoism
-			}
-		}
-		set_global_flag = leshp_conceded_to_jingo
-	}
-	option = {
-		name = "EVTOPTA36905" 
-		poor_strata = {
-			consciousness = 1.5
-			militancy = 1
-		}
-	}
-}
+	# option = {
+		# name = "EVTOPTA36905" 
+		# any_pop = {
+			# dominant_issue = {
+				# factor = 0.1
+				# value = jingoism
+			# }
+		# }
+		# set_global_flag = leshp_conceded_to_jingo
+	# }
+	# option = {
+		# name = "EVTOPTA36905" 
+		# poor_strata = {
+			# consciousness = 1.5
+			# militancy = 1
+		# }
+	# }
+# }
 
-#The Meeting in ankh (leshp)
-country_event = {
-	id = 36906
+# #The Meeting in ankh (leshp)
+# country_event = {
+	# id = 36906
 
-	#is_triggered_only = yes
+	# #is_triggered_only = yes
 	
-	trigger={
-		tag = AMP
-		has_global_flag = AMP_finished_leshp_chain
-		has_global_flag = KLA_finished_leshp_chain
-	}
+	# trigger={
+		# tag = AMP
+		# has_global_flag = AMP_finished_leshp_chain
+		# has_global_flag = KLA_finished_leshp_chain
+	# }
  
-	mean_time_to_happen =  {
-		days = 6
-	}
-	immediate={
-		if={
-			limit={has_global_flag = leshp_conceded_to_jingo}
-			country_event = {id = 36907 days = 2}
-			KLA={country_event = {id = 36907 days = 2}}
-		}
-	}
+	# mean_time_to_happen =  {
+		# days = 6
+	# }
+	# immediate={
+		# if={
+			# limit={has_global_flag = leshp_conceded_to_jingo}
+			# country_event = {id = 36907 days = 2}
+			# KLA={country_event = {id = 36907 days = 2}}
+		# }
+	# }
 
-	title = "EVTNAME36906"
-	desc = "EVTDESC36906"
-	picture = "Administration"
+	# title = "EVTNAME36906"
+	# desc = "EVTDESC36906"
+	# picture = "Administration"
 
-	option = {
-		name = "EVTOPTA36906" 
+	# option = {
+		# name = "EVTOPTA36906" 
 		
-	}
-}
+	# }
+# }
 
-#The outcome of the meeting - historical(leshp)
-country_event = {
-	id = 36907
+# #The outcome of the meeting - historical(leshp)
+# country_event = {
+	# id = 36907
 
-	is_triggered_only = yes
-	allow_multiple_instances = yes
+	# is_triggered_only = yes
+	# allow_multiple_instances = yes
  
-	immediate={
-		hidden_effect = {
-			if={
-				limit = {tag = AMP}
-				country_event = {id = 36908}
-				country_event = {id = 36909 days = 2}
-				country_event = {id = 36910 days = 3}
-				KLA={country_event = {id = 42202 days = 3}}
-			}
-		}
-	}
+	# immediate={
+		# hidden_effect = {
+			# if={
+				# limit = {tag = AMP}
+				# country_event = {id = 36908}
+				# country_event = {id = 36909 days = 2}
+				# country_event = {id = 36910 days = 3}
+				# KLA={country_event = {id = 42202 days = 3}}
+			# }
+		# }
+	# }
 
-	title = "EVTNAME36907"
-	desc = "EVTDESC36907"
-	picture = "Administration"
+	# title = "EVTNAME36907"
+	# desc = "EVTDESC36907"
+	# picture = "Administration"
 
-	option = {
-		name = "EVTOPTA36907" 
-		AMP={
-			war = {
-				target = KLA
-				attacker_goal = { casus_belli = leshp_humiliate }
-				defender_goal = { casus_belli = leshp_humiliate }
-				call_ally = no
-			}
-		}
-	}
-}
+	# option = {
+		# name = "EVTOPTA36907" 
+		# AMP={
+			# war = {
+				# target = KLA
+				# attacker_goal = { casus_belli = leshp_humiliate }
+				# defender_goal = { casus_belli = leshp_humiliate }
+				# call_ally = no
+			# }
+		# }
+	# }
+# }
 
-#war for leshp (leshp)
-country_event = {
-	id = 36908
+# #war for leshp (leshp)
+# country_event = {
+	# id = 36908
 
-	is_triggered_only = yes
+	# is_triggered_only = yes
 
-	title = "EVTNAME36908"
-	desc = "EVTDESC36908"
-	picture = "Administration"
+	# title = "EVTNAME36908"
+	# desc = "EVTDESC36908"
+	# picture = "Administration"
 	
-	major = yes
-	allow_multiple_instances = yes
+	# major = yes
+	# allow_multiple_instances = yes
 
-	option = {
-		name = "EVTOPTA36908" 
+	# option = {
+		# name = "EVTOPTA36908" 
 		
-	}
-}
-#disappearance of the patrician (leshp)
-country_event = {
-	id = 36909
+	# }
+# }
+# #disappearance of the patrician (leshp)
+# country_event = {
+	# id = 36909
 
-	is_triggered_only = yes
+	# is_triggered_only = yes
  
-	mean_time_to_happen =  {
-		months = 6
+	# mean_time_to_happen =  {
+		# months = 6
 
-	}
+	# }
 
-	title = "EVTNAME36909"
-	desc = "EVTDESC36909"
-	picture = "Administration"
+	# title = "EVTNAME36909"
+	# desc = "EVTDESC36909"
+	# picture = "Administration"
 
-	option = {
-		name = "EVTOPTA36909" 
+	# option = {
+		# name = "EVTOPTA36909" 
 		
-	}
-}
-#vimes choice (leshp)
-country_event = {
-	id = 36910
+	# }
+# }
+# #vimes choice (leshp)
+# country_event = {
+	# id = 36910
 
-	is_triggered_only = yes
+	# is_triggered_only = yes
  
-	mean_time_to_happen =  {
-		months = 6
+	# mean_time_to_happen =  {
+		# months = 6
 
-	}
+	# }
 
-	title = "EVTNAME36910"
-	desc = "EVTDESC36910"
-	picture = "Administration"
+	# title = "EVTNAME36910"
+	# desc = "EVTDESC36910"
+	# picture = "Administration"
 
-	option = {#follow our hunch 
-		name = "EVTOPTA36910" 
-		hidden_effect = {country_event = {id = 36911 days = 4}}
-		ai_chance = {
-			factor = 95
-		}
-	}
-	option = {
-		name = "EVTOPTB36910" 
-		ai_chance = {
-			factor = 5
-		}
-	}
-}
-#a football match to remember (leshp)
-country_event = {
-	id = 36911
+	# option = {#follow our hunch 
+		# name = "EVTOPTA36910" 
+		# hidden_effect = {country_event = {id = 36911 days = 4}}
+		# ai_chance = {
+			# factor = 95
+		# }
+	# }
+	# option = {
+		# name = "EVTOPTB36910" 
+		# ai_chance = {
+			# factor = 5
+		# }
+	# }
+# }
+# #a football match to remember (leshp)
+# country_event = {
+	# id = 36911
 
-	is_triggered_only = yes
+	# is_triggered_only = yes
 	
-	major = yes
+	# major = yes
  
-	immediate={
-		AMP={
-			end_war = KLA
-		}
-	}
+	# immediate={
+		# AMP={
+			# end_war = KLA
+		# }
+	# }
 
-	title = "EVTNAME36911"
-	desc = "EVTDESC36911"
-	picture = "Administration"
+	# title = "EVTNAME36911"
+	# desc = "EVTDESC36911"
+	# picture = "Administration"
 
-	option = {
-		name = "EVTOPTA36911" 
+	# option = {
+		# name = "EVTOPTA36911" 
 		
-	}
-}
+	# }
+# }

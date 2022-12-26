@@ -1,5 +1,5 @@
-owner = PSE
-controller = PSE
-add_core = PSE
+owner = STM
+controller = STM
+add_core = STM
 trade_goods = timber
 life_rating = 52

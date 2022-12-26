@@ -1,0 +1,5 @@
+owner = HER
+controller = HER
+add_core = DRG
+trade_goods = tea
+life_rating = 52

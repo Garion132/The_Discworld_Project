@@ -1,5 +1,5 @@
-owner = TOH
-controller = TOH
-add_core = TOH
+owner = TRW
+controller = TRW
+add_core = TRW
 trade_goods = silk
 life_rating = 20

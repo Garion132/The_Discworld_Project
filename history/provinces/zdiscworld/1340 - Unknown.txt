@@ -1,5 +1,5 @@
-owner = ZAG
-controller = ZAG
-add_core = ZAG
+owner = URA
+controller = URA
+add_core = URA
 life_rating = 45
 trade_goods = grain

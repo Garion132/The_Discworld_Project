@@ -1,5 +1,5 @@
-owner = BET
-controller = BET
-add_core = BET
+owner = USH
+controller = USH
+add_core = USH
 trade_goods = clay
 life_rating = 52

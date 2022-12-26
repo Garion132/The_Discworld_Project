@@ -1,0 +1,6 @@
+owner = PSE
+controller = PSE
+add_core = PSE
+trade_goods = fish
+life_rating = 52
+naval_base = 1

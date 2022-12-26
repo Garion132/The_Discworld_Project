@@ -1,5 +1,5 @@
-owner = KHN
-controller = KHN
-add_core = KHN
+owner = TEZ
+controller = TEZ
+add_core = TEZ
 trade_goods = coal
 life_rating = 20

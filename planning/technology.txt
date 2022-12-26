@@ -79,9 +79,9 @@ Printing press:✔
 	
 
 Steam engines:
-	Iron girder
+	Iron girder✔
 	Railways
-	Ankh-Morpork and Sto Plains Hygienic Railway
+	Ankh-Morpork and Sto Plains Hygienic Railway✔
 
 Combination Harvester
 

@@ -1,0 +1,15 @@
+owner = OMN
+controller = OMN
+add_core = OMN
+trade_goods = fruit
+life_rating = 52
+state_building = {
+	level = 3
+	building = paper_mill
+	upgrade = yes
+}
+state_building = {
+	level = 6
+	building = ceramics_factory
+	upgrade = yes
+}

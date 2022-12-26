@@ -1,5 +1,4 @@
-owner = NTF
-controller = NTF
-add_core = NTF
+
+add_core = UBW
 trade_goods = wool
 life_rating = 45

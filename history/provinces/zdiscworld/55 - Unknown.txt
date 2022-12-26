@@ -1,6 +1,5 @@
-owner = STL
-controller = STL
-add_core = STL
-add_core = STO
+owner = IST
+controller = IST
+add_core = IST
 trade_goods = iron
 life_rating = 52

@@ -1,5 +1,5 @@
-owner = CAN
-controller = CAN
-add_core = CAN
+owner = GEN
+controller = GEN
+add_core = GEN
 trade_goods = cotton
 life_rating = 20

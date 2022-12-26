@@ -1,0 +1,5 @@
+owner = BRI
+controller = BRI
+add_core = BRI
+trade_goods = timber
+life_rating = 20

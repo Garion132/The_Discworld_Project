@@ -1,5 +1,3 @@
-owner = LAO
-controller = LAO
-add_core = LAO
+
 trade_goods = cattle
 life_rating = 52

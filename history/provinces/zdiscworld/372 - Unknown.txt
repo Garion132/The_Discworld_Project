@@ -1,5 +1,6 @@
-owner = YMI
-controller = YMI
-add_core = YMI
+owner = ANG
+controller = ANG
+add_core = ANG
+add_core = HOW
 trade_goods = fruit
 life_rating = 52

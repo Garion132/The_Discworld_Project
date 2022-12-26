@@ -1,6 +1,6 @@
-owner = MUN
-controller = MUN
-add_core = MUN
+owner = ESC
+controller = ESC
+add_core = ESC
 add_core = UBW
 trade_goods = grain
 life_rating = 52

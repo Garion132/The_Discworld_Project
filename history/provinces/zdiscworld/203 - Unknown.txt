@@ -1,6 +1,5 @@
-owner = STH
-controller = STH
-add_core = STH
-add_core = STO
+owner = CAR
+controller = CAR
+add_core = CAR
 trade_goods = brassicas
 life_rating = 52

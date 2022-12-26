@@ -1,5 +1,5 @@
-owner = KLS
-controller = KLS
-add_core = KLS
+owner = VGL
+controller = VGL
+add_core = VGL
 trade_goods = treacle
 life_rating = 20

@@ -1,6 +1,5 @@
-owner = KNC
-controller = KNC
-add_core = KNC
-add_core = UBW
+owner = NVX
+controller = NVX
+add_core = NVX
 trade_goods = grain
 life_rating = 52

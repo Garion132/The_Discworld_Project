@@ -1,0 +1,6 @@
+owner = ZLO
+controller = ZLO
+add_core = ZLO
+add_core = BOR
+trade_goods = cattle
+life_rating = 52

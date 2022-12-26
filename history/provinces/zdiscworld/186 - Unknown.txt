@@ -1,6 +1,3 @@
-owner = CHR
-controller = CHR
-add_core = CHR
-add_core = STO
+
 trade_goods = fish
 life_rating = 52

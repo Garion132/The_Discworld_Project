@@ -1,0 +1,7 @@
+owner = QRM
+controller = QRM
+add_core = QRM
+add_core = STQ
+add_core = STO
+trade_goods = fruit
+life_rating = 52

@@ -1,5 +1,5 @@
-owner = DJE
-controller = DJE
-add_core = DJE
+owner = TSO
+controller = TSO
+add_core = TSO
 trade_goods = fish
 life_rating = 52

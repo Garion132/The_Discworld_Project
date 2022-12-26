@@ -1,0 +1,5 @@
+owner = TRW
+controller = TRW
+add_core = TRW
+trade_goods = dye
+life_rating = 45

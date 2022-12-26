@@ -1,5 +1,5 @@
-owner = UR0
-controller = UR0
-add_core = UR0
+owner = SML
+controller = SML
+add_core = SML
 trade_goods = iron
 life_rating = 52

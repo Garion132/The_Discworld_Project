@@ -1,5 +1,5 @@
-owner = BOR
-controller = BOR
-add_core = BOR
+owner = MOU
+controller = MOU
+add_core = MOU
 trade_goods = cotton
 life_rating = 52

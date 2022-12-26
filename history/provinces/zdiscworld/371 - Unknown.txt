@@ -1,7 +1,6 @@
-owner = KLF
-controller = KLF
-add_core = KLF
-add_core = KLA
+owner = NFR
+controller = NFR
+add_core = NFR
 add_core = HOW
 trade_goods = tea
 life_rating = 52

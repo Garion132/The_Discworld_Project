@@ -1,0 +1,5 @@
+owner = SBE
+controller = SBE
+add_core = SBE
+trade_goods = tropical_wood
+life_rating = 20

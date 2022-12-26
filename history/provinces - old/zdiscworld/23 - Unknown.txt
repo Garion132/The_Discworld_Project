@@ -1,0 +1,5 @@
+owner = SLC
+controller = SLC
+add_core = SLC
+trade_goods = cattle
+life_rating = 52

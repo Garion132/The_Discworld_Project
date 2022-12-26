@@ -1,0 +1,6 @@
+owner = BYK
+controller = BYK
+add_core = BYK
+add_core = UBW
+trade_goods = precious_metal
+life_rating = 52

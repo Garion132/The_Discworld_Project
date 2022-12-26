@@ -1,6 +1,3 @@
-owner = ELH
-controller = ELH
-add_core = ELH
-add_core = SIR
+
 trade_goods = cattle
 life_rating = 52

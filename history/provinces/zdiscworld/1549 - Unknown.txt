@@ -1,5 +1,5 @@
-owner = HRL
-controller = HRL
-add_core = HRL
+owner = VGL
+controller = VGL
+add_core = VGL
 trade_goods = wool
 life_rating = 20

@@ -1,7 +1,5 @@
-owner = STM
-controller = STM
-add_core = STM
-add_core = STK
-add_core = STO
+owner = BCG
+controller = BCG
+add_core = BCG
 trade_goods = wool
 life_rating = 52

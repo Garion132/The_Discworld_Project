@@ -1,5 +1,5 @@
-owner = SAL
-controller = SAL
-add_core = SAL
+owner = MOU
+controller = MOU
+add_core = MOU
 trade_goods = dye
 life_rating = 20

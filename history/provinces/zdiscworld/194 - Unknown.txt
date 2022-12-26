@@ -1,6 +1,5 @@
-owner = STH
-controller = STH
-add_core = STH
-add_core = STO
+owner = MET
+controller = MET
+add_core = MET
 trade_goods = silk
 life_rating = 52

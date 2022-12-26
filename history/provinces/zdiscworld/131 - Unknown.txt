@@ -1,6 +1,5 @@
-owner = STK
-controller = STK
-add_core = STK
-add_core = STO
+owner = SHI
+controller = SHI
+add_core = SHI
 trade_goods = brassicas
 life_rating = 52

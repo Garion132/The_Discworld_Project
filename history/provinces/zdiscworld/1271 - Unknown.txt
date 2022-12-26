@@ -1,5 +1,5 @@
-owner = LOG
-controller = LOG
-add_core = LOG
+owner = VUL
+controller = VUL
+add_core = VUL
 trade_goods = grain
 life_rating = 20

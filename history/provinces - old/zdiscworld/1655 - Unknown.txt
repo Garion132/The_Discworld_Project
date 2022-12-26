@@ -1,0 +1,5 @@
+owner = AGA
+controller = AGA
+add_core = AGA
+trade_goods = fish
+life_rating = 20

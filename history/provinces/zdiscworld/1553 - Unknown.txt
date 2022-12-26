@@ -1,5 +1,5 @@
-owner = HRL
-controller = HRL
-add_core = HRL
+owner = USH
+controller = USH
+add_core = USH
 trade_goods = wool
 life_rating = 20

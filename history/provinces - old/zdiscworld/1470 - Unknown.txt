@@ -1,0 +1,10 @@
+owner = KLA
+controller = KLA
+add_core = KLA
+trade_goods = coffee
+life_rating = 20
+state_building = {
+	level = 3
+	building = fabric_factory
+	upgrade = yes
+}

@@ -1,7 +1,5 @@
-owner = STG
-controller = STG
-add_core = STK
-add_core = STG
-add_core = STO
+owner = STP
+controller = STP
+add_core = STP
 trade_goods = timber
 life_rating = 52

@@ -1,5 +1,5 @@
-owner = QRM
-controller = QRM
-add_core = QRM
+owner = SHI
+controller = SHI
+add_core = SHI
 trade_goods = grain
 life_rating = 52

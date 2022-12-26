@@ -1,6 +1,3 @@
-owner = STL
-controller = STL
-add_core = STL
-add_core = STO
+add_core = UBW
 trade_goods = coal
 life_rating = 52

@@ -1,6 +1,5 @@
-owner = NVX
-controller = NVX
-add_core = NVX
-add_core = UBW
+owner = BOR
+controller = BOR
+add_core = BOR
 trade_goods = timber
 life_rating = 52

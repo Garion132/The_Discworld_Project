@@ -1,6 +1,5 @@
-owner = KLS
-controller = KLS
-add_core = KLS
-add_core = NKS
+owner = IRM
+controller = IRM
+add_core = IRM
 trade_goods = cattle
 life_rating = 20

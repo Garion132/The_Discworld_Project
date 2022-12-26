@@ -1,5 +1,5 @@
-owner = OMN
-controller = OMN
-add_core = OMN
+owner = UR0
+controller = UR0
+add_core = UR0
 trade_goods = treacle
 life_rating = 52

@@ -1,0 +1,6 @@
+owner = BET
+controller = BET
+add_core = BET
+add_core = IST
+trade_goods = clay
+life_rating = 52

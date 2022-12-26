@@ -1,0 +1,6 @@
+owner = SHR
+controller = SHR
+add_core = SHR
+add_core = STO
+trade_goods = wool
+life_rating = 52

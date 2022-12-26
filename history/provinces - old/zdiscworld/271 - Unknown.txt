@@ -1,0 +1,5 @@
+owner = OMN
+controller = OMN
+add_core = OMN
+life_rating = 52
+trade_goods = fish

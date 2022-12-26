@@ -1,0 +1,6 @@
+owner = BLA
+controller = BLA
+add_core = BLA
+add_core = UBW
+trade_goods = timber
+life_rating = 52

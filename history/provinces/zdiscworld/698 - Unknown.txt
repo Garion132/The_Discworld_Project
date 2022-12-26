@@ -1,6 +1,5 @@
-owner = BYK
-controller = BYK
-add_core = BYK
-add_core = UBW
+owner = SMA
+controller = SMA
+add_core = SMA
 trade_goods = fats
 life_rating = 52

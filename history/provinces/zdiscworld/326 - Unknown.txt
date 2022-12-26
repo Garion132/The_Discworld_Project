@@ -1,5 +1,5 @@
-owner = BET
-controller = BET
-add_core = BET
+owner = SML
+controller = SML
+add_core = SML
 trade_goods = cotton
 life_rating = 52

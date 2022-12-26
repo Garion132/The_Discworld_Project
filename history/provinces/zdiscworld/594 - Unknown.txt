@@ -1,6 +1,5 @@
-owner = MOU
-controller = MOU
-add_core = BOR
-add_core = MOU
+owner = ZLO
+controller = ZLO
+add_core = ZLO
 trade_goods = grain
 life_rating = 52

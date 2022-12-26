@@ -1,5 +1,6 @@
-owner = RHE
-controller = RHE
-add_core = RHE
+owner = KLS
+controller = KLS
+add_core = KLS
+add_core = NKS
 trade_goods = treacle
 life_rating = 52

@@ -1,0 +1,6 @@
+owner = NDW
+controller = NDW
+add_core = NDW
+add_core = HOW
+trade_goods = fish
+life_rating = 52

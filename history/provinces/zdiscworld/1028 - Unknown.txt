@@ -1,5 +1,5 @@
-owner = ORO
-controller = ORO
-add_core = ORO
+owner = BRI
+controller = BRI
+add_core = BRI
 trade_goods = fish
 life_rating = 45

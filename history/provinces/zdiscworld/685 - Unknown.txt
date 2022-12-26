@@ -1,6 +1,5 @@
-owner = BLA
-controller = BLA
-add_core = BLA
-add_core = UBW
+owner = SKN
+controller = SKN
+add_core = SKN
 trade_goods = fats
 life_rating = 52

@@ -1,5 +1,5 @@
-owner = OMN
-controller = OMN
-add_core = OMN
+owner = EPH
+controller = EPH
+add_core = EPH
 life_rating = 52
 trade_goods = fish

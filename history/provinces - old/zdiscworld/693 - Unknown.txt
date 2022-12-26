@@ -1,0 +1,6 @@
+owner = BUG
+controller = BUG
+add_core = BUG
+add_core = UBW
+trade_goods = timber
+life_rating = 52

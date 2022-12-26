@@ -1,5 +1,5 @@
-owner = KPS
-controller = KPS
-add_core = KPS
+owner = TOH
+controller = TOH
+add_core = TOH
 trade_goods = re_annuals
 life_rating = 45

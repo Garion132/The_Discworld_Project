@@ -1,5 +1,5 @@
-owner = INN
-controller = INN
-add_core = INN
+owner = MOU
+controller = MOU
+add_core = MOU
 trade_goods = dye
 life_rating = 20

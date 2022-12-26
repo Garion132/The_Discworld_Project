@@ -1,6 +1,5 @@
-owner = BYK
-controller = BYK
-add_core = BYK
-add_core = UBW
+owner = RHE
+controller = RHE
+add_core = RHE
 trade_goods = coal
 life_rating = 52

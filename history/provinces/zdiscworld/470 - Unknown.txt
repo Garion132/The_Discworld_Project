@@ -1,6 +1,6 @@
-owner = NKO
-controller = NKO
-add_core = NKO
+owner = NTU
+controller = NTU
+add_core = NTU
 add_core = HOW
 trade_goods = tea
 life_rating = 52

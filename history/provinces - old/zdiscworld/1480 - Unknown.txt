@@ -1,0 +1,5 @@
+owner = URA
+controller = URA
+add_core = URA
+life_rating = 20
+trade_goods = silk

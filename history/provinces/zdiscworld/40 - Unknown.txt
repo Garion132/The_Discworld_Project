@@ -1,11 +1,10 @@
-owner = STL
-controller = STL
-add_core = STL
-add_core = STO
+owner = KLA
+controller = KLA
+add_core = KLA
 trade_goods = brassicas
 life_rating = 61
-state_building = {
-	level = 4
-	building = paper_mill
-	upgrade = yes
-}
+# state_building = {
+	# level = 4
+	# building = paper_mill
+	# upgrade = yes
+# }

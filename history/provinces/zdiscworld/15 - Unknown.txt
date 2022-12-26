@@ -1,5 +1,5 @@
-owner = CHL
-controller = CHL
-add_core = CHL
+owner = SHI
+controller = SHI
+add_core = SHI
 life_rating = 52
 trade_goods = wool

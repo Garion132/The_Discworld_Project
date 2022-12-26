@@ -1,0 +1,6 @@
+owner = TSO
+controller = TSO
+add_core = TSO
+add_core = SIR
+trade_goods = tobacco
+life_rating = 52

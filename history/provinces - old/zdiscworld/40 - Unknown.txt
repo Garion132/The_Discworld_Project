@@ -1,0 +1,11 @@
+owner = STL
+controller = STL
+add_core = STL
+add_core = STO
+trade_goods = brassicas
+life_rating = 61
+state_building = {
+	level = 4
+	building = paper_mill
+	upgrade = yes
+}

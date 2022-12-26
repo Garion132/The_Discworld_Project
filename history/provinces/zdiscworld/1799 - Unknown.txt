@@ -1,5 +1,5 @@
-owner = BEL
-controller = BEL
-add_core = BEL
+owner = MOU
+controller = MOU
+add_core = MOU
 trade_goods = fish
 life_rating = 20

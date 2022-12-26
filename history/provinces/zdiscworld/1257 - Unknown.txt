@@ -1,5 +1,3 @@
-owner = BRL
-controller = BRL
-add_core = BRL
+
 trade_goods = coal
 life_rating = 20

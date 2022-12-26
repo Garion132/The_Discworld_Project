@@ -1,0 +1,5 @@
+owner = GEN
+controller = GEN
+add_core = GEN
+life_rating = 45
+trade_goods = grain

@@ -1,0 +1,7 @@
+owner = KLF
+controller = KLF
+add_core = KLF
+add_core = KLA
+add_core = HOW
+trade_goods = silk
+life_rating = 52

@@ -1,5 +1,5 @@
-owner = COP
-controller = COP
-add_core = COP
+owner = TWS
+controller = TWS
+add_core = TWS
 trade_goods = coal
 life_rating = 52

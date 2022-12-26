@@ -1,5 +1,5 @@
-owner = BRI
-controller = BRI
-add_core = BRI
+owner = MUT
+controller = MUT
+add_core = MUT
 trade_goods = clay
 life_rating = 20

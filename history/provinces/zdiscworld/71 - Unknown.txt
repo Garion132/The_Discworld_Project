@@ -1,5 +1,5 @@
-owner = QRM
-controller = QRM
-add_core = QRM
+owner = STH
+controller = STH
+add_core = STH
 trade_goods = brassicas
 life_rating = 52

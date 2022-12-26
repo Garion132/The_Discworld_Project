@@ -1,5 +1,5 @@
-owner = MUT
-controller = MUT
-add_core = MUT
+owner = HRL
+controller = HRL
+add_core = HRL
 trade_goods = coal
 life_rating = 45

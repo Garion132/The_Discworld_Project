@@ -1,6 +1,5 @@
-owner = ZLO
-controller = ZLO
-add_core = ZLO
+owner = BOR
+controller = BOR
 add_core = BOR
 trade_goods = clay
 life_rating = 52

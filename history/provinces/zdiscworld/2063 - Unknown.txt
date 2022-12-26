@@ -1,5 +1,5 @@
-owner = NTU
-controller = NTU
-add_core = NTU
+owner = SUN
+controller = SUN
+add_core = SUN
 trade_goods = grain
 life_rating = 52

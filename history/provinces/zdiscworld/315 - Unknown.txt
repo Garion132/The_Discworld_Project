@@ -1,5 +1,5 @@
-owner = USH
-controller = USH
-add_core = USH
+owner = SML
+controller = SML
+add_core = SML
 trade_goods = grain
 life_rating = 52

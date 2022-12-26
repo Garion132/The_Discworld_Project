@@ -1,7 +1,5 @@
-owner = STL
-controller = STL
-add_core = STL
-add_core = STO
-add_core = STS
+owner = STM
+controller = STM
+add_core = STM
 life_rating = 52
 trade_goods = brassicas

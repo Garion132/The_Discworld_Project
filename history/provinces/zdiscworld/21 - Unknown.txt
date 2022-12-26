@@ -1,5 +1,5 @@
-owner = TLE
-controller = TLE
-add_core = TLE
+owner = SKN
+controller = SKN
+add_core = SKN
 life_rating = 52
 trade_goods = iron

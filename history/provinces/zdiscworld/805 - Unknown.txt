@@ -1,6 +1,4 @@
-owner = GRJ
-controller = GRJ
-add_core = GRJ
+
 add_core = UBW
 trade_goods = cattle
 life_rating = 52

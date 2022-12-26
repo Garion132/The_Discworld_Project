@@ -1,5 +1,3 @@
-owner = VAN
-controller = VAN
-add_core = VAN
+
 trade_goods = coal
 life_rating = 52

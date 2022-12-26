@@ -1,0 +1,21 @@
+owner = PSE
+controller = PSE
+add_core = PSE
+trade_goods = tobacco
+life_rating = 52
+
+state_building = {
+	level = 4
+	building = regular_clothes_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = luxury_clothes_factory
+	upgrade = yes
+}
+state_building = {
+	level = 3
+	building = fabric_factory
+	upgrade = yes
+}

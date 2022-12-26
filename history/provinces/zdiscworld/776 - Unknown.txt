@@ -1,5 +1,6 @@
-owner = VEL
-controller = VEL
-add_core = VEL
+owner = GLZ
+controller = GLZ
+add_core = GLZ
+add_core = UBW
 trade_goods = clay
 life_rating = 52

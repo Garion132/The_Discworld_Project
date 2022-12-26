@@ -1,5 +1,5 @@
-owner = BRI
-controller = BRI
-add_core = BRI
+owner = NEV
+controller = NEV
+add_core = NEV
 trade_goods = iron
 life_rating = 20

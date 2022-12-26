@@ -1,5 +1,5 @@
-owner = CTG
-controller = CTG
-add_core = CTG
+owner = GEN
+controller = GEN
+add_core = GEN
 trade_goods = tobacco
 life_rating = 20

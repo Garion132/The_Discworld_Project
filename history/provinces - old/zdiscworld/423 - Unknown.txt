@@ -1,0 +1,5 @@
+owner = LOG
+controller = LOG
+add_core = LOG
+trade_goods = silk
+life_rating = 20

@@ -1,5 +1,5 @@
-owner = MOM
-controller = MOM
-add_core = MOM
+owner = MOU
+controller = MOU
+add_core = MOU
 trade_goods = silk
 life_rating = 20

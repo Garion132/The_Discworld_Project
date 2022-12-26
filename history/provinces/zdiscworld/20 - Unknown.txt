@@ -1,5 +1,5 @@
-owner = OHU
-controller = OHU
-add_core = OHU
+owner = ZEM
+controller = ZEM
+add_core = ZEM
 life_rating = 52
 trade_goods = coal

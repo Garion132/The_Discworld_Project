@@ -1,5 +1,5 @@
-owner = BLG
-controller = BLG
-add_core = BLG
+owner = TOH
+controller = TOH
+add_core = TOH
 trade_goods = re_annuals
 life_rating = 45

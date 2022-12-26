@@ -1,5 +1,3 @@
-owner = NTF
-controller = NTF
-add_core = NTF
+
 trade_goods = coal
 life_rating = 45

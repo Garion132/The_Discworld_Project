@@ -1,0 +1,7 @@
+owner = KLF
+controller = KLF
+add_core = KLF
+add_core = KLA
+add_core = YMI
+trade_goods = fruit
+life_rating = 52

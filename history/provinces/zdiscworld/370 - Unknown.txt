@@ -1,7 +1,6 @@
-owner = KLF
-controller = KLF
-add_core = KLF
-add_core = KLA
+owner = NKO
+controller = NKO
+add_core = NKO
 add_core = HOW
 trade_goods = fruit
 life_rating = 52

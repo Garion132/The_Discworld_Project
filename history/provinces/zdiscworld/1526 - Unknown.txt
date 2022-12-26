@@ -1,5 +1,5 @@
-owner = FRF
-controller = FRF
-add_core = FRF
+owner = KHN
+controller = KHN
+add_core = KHN
 trade_goods = fish
 life_rating = 20

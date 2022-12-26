@@ -1,6 +1,5 @@
-owner = ZEM
-controller = ZEM
-add_core = ZEM
-add_core = STO
+owner = STL
+controller = STL
+add_core = STL
 trade_goods = brassicas
 life_rating = 52

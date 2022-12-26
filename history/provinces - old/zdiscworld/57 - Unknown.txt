@@ -1,0 +1,7 @@
+owner = STL
+controller = STL
+add_core = STL
+add_core = STO
+add_core = STS
+trade_goods = timber
+life_rating = 52

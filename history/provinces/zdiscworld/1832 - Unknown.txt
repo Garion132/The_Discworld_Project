@@ -1,5 +1,3 @@
-owner = KYT
-controller = KYT
-add_core = KYT
+
 trade_goods = coal
 life_rating = 20

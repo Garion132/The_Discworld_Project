@@ -1,6 +1,5 @@
-owner = LMT
-controller = LMT
-add_core = LMT
+owner = MUT
+controller = MUT
 add_core = MUT
 trade_goods = re_annuals
 life_rating = 45

@@ -1,5 +1,3 @@
-owner = RHE
-controller = RHE
-add_core = RHE
+
 trade_goods = iron
 life_rating = 52

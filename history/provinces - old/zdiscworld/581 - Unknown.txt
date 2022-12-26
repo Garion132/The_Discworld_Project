@@ -1,0 +1,7 @@
+owner = MOU
+controller = MOU
+add_core = MOU
+add_core = BOR
+add_core = RHE
+trade_goods = grain
+life_rating = 52

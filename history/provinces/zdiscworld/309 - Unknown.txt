@@ -1,5 +1,5 @@
-owner = SML
-controller = SML
-add_core = SML
+owner = ELH
+controller = ELH
+add_core = ELH
 trade_goods = wool
 life_rating = 52

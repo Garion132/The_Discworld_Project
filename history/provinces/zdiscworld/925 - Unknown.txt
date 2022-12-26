@@ -1,5 +1,5 @@
-owner = NEV
-controller = NEV
-add_core = NEV
+owner = CAN
+controller = CAN
+add_core = CAN
 trade_goods = fish
 life_rating = 45

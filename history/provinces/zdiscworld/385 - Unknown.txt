@@ -1,5 +1,5 @@
-owner = HER
-controller = HER
-add_core = DRG
+owner = YMI
+controller = YMI
+add_core = YMI
 trade_goods = fruit
 life_rating = 52

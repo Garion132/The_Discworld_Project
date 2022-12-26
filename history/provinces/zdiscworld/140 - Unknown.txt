@@ -1,6 +1,5 @@
-owner = ZEM
-controller = ZEM
-add_core = ZEM
-add_core = STO
+owner = SPA
+controller = SPA
+add_core = SPA
 trade_goods = cotton
 life_rating = 52

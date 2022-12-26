@@ -1,6 +1,5 @@
-owner = LPW
-controller = LPW
-add_core = LPW
-add_core = UBW
+owner = HIC
+controller = HIC
+add_core = HIC
 trade_goods = coal
 life_rating = 52

@@ -1,5 +1,5 @@
-owner = MOM
-controller = MOM
-add_core = MOM
+owner = IRM
+controller = IRM
+add_core = IRM
 trade_goods = silk
 life_rating = 20

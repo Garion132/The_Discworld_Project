@@ -1,6 +1,6 @@
-owner = BLI
-controller = BLI
-add_core = BLI
+owner = TRL
+controller = TRL
+add_core = TRL
 add_core = UBW
 trade_goods = coal
 life_rating = 52

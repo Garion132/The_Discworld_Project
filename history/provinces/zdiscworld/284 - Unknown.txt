@@ -1,5 +1,5 @@
-owner = OMN
-controller = OMN
-add_core = OMN
+owner = ELH
+controller = ELH
+add_core = ELH
 trade_goods = grain
 life_rating = 52

@@ -1,5 +1,5 @@
-owner = LAO
-controller = LAO
-add_core = LAO
+owner = SOR
+controller = SOR
+add_core = SOR
 trade_goods = iron
 life_rating = 52

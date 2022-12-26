@@ -1,16 +1,5 @@
-owner = BYK
-controller = BYK
-add_core = BYK
-add_core = UBW
+owner = RHE
+controller = RHE
+add_core = RHE
 trade_goods = fats
 life_rating = 52
-state_building = {
-	level = 2
-	building = steel_factory
-	upgrade = yes
-}
-state_building = {
-	level = 2
-	building = glass_factory
-	upgrade = yes
-}

@@ -1,5 +1,3 @@
-owner = SKN
-controller = SKN
-add_core = SKN
+
 trade_goods = timber
 life_rating = 52

@@ -1,5 +1,5 @@
-owner = QRM
-controller = QRM
-add_core = QRM
+owner = LAN
+controller = LAN
+add_core = LAN
 trade_goods = treacle
 life_rating = 52

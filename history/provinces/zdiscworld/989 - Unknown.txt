@@ -1,6 +1,5 @@
-owner = LMT
-controller = LMT
-add_core = LMT
-add_core = MUT
+owner = BRI
+controller = BRI
+add_core = BRI
 trade_goods = fish
 life_rating = 45

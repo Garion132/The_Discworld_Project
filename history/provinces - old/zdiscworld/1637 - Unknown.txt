@@ -1,0 +1,2 @@
+life_rating = 20
+trade_goods = fish

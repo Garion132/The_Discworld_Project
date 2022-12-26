@@ -1,0 +1,5 @@
+owner = MID
+controller = MID
+add_core = MID
+trade_goods = fruit
+life_rating = 45

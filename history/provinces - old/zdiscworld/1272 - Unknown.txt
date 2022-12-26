@@ -1,0 +1,5 @@
+owner = LOG
+controller = LOG
+add_core = LOG
+life_rating = 20
+trade_goods = grain

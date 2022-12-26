@@ -1,0 +1,5 @@
+owner = NFR
+controller = NFR
+add_core = NFR
+life_rating = 52
+trade_goods = tobacco

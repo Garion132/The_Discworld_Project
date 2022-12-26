@@ -1,5 +1,5 @@
-owner = URA
-controller = URA
-add_core = URA
+owner = LAO
+controller = LAO
+add_core = LAO
 life_rating = 20
 trade_goods = fish

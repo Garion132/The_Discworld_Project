@@ -1,0 +1,5 @@
+owner = SOR
+controller = SOR
+add_core = SOR
+life_rating = 45
+trade_goods = timber

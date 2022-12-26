@@ -1,6 +1,5 @@
-owner = TSO
-controller = TSO
-add_core = TSO
-add_core = SIR
+owner = ANG
+controller = ANG
+add_core = ANG
 trade_goods = cattle
 life_rating = 52

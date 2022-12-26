@@ -1,5 +1,3 @@
-owner = VGL
-controller = VGL
-add_core = VGL
+
 trade_goods = timber
 life_rating = 20

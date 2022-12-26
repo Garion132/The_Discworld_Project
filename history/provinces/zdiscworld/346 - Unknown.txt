@@ -1,5 +1,5 @@
-owner = TSO
-controller = TSO
-add_core = TSO
+owner = SIR
+controller = SIR
+add_core = SIR
 trade_goods = grain
 life_rating = 52

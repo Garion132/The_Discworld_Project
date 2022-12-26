@@ -1,5 +1,3 @@
-owner = TET
-controller = TET
-add_core = TET
+
 trade_goods = fruit
 life_rating = 20

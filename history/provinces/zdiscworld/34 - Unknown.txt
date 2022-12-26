@@ -1,5 +1,5 @@
-owner = STL
-controller = STL
-add_core = STL
+owner = MET
+controller = MET
+add_core = MET
 trade_goods = timber
 life_rating = 52

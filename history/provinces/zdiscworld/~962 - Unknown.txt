@@ -1,0 +1,6 @@
+owner = GHA
+controller = GHA
+add_core = GHA
+add_core = MUT
+trade_goods = fish
+life_rating = 45

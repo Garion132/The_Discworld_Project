@@ -1,0 +1,5 @@
+owner = RHE
+controller = RHE
+add_core = RHE
+trade_goods = clay
+life_rating = 52

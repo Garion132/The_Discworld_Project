@@ -1,6 +1,6 @@
-owner = NVX
-controller = NVX
-add_core = NVX
+owner = VEL
+controller = VEL
+add_core = VEL
 add_core = UBW
 trade_goods = iron
 life_rating = 52

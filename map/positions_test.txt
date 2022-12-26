@@ -1,0 +1,64 @@
+# Sitka
+1 = {
+    text_position = {
+        x = 2756.150000
+        y = 689.000000
+    }
+
+    text_scale = 3.299999
+    unit = {
+        x = 2756.300000
+        y = 689.700000
+    }
+
+    city = {
+        x = 2755.600000
+        y = 691.450000
+    }
+
+    factory = {
+        x = 2756.450000
+        y = 690.300000
+    }
+
+    building_construction = {
+        x = 2756.150000
+        y = 686.950000
+    }
+
+    military_construction = {
+        x = 2757.400000
+        y = 689.100000
+    }
+
+    building_position = {
+        fort = {
+            x = 2755.450000
+            y = 687.900000
+        }
+
+        railroad = {
+            x = 2756.450000
+            y = 691.500000
+        }
+
+        naval_base = {
+            x = 2755.100000
+            y = 688.800000
+        }
+
+    }
+
+    building_rotation = {
+        naval_base = 5.672319
+    }
+
+    spawn_railway_track = {
+        empty = {
+            x = 2758.900000
+            y = 701.650000
+        }
+
+    }
+
+}

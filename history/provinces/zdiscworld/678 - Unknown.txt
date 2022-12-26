@@ -1,6 +1,6 @@
-owner = LOK
-controller = LOK
-add_core = LOK
+owner = LPW
+controller = LPW
+add_core = LPW
 add_core = UBW
 trade_goods = coal
 life_rating = 52

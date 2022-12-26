@@ -1,5 +1,5 @@
-owner = VGL
-controller = VGL
-add_core = VGL
+owner = TEZ
+controller = TEZ
+add_core = TEZ
 trade_goods = cattle
 life_rating = 20

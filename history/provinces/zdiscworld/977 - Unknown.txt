@@ -1,6 +1,6 @@
-owner = LMT
-controller = LMT
-add_core = LMT
+owner = FRF
+controller = FRF
+add_core = FRF
 add_core = MUT
 trade_goods = fish
 life_rating = 45

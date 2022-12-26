@@ -1,5 +1,6 @@
-owner = MOU
-controller = MOU
-add_core = MOU
+owner = KLS
+controller = KLS
+add_core = KLS
+add_core = NKS
 trade_goods = grain
 life_rating = 52

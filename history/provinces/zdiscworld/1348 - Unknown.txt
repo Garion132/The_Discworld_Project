@@ -1,5 +1,5 @@
-owner = TEZ
-controller = TEZ
-add_core = TEZ
+owner = TET
+controller = TET
+add_core = TET
 trade_goods = rubber
 life_rating = 30

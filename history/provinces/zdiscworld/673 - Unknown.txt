@@ -1,6 +1,6 @@
-owner = LOK
-controller = LOK
-add_core = LOK
+owner = BYK
+controller = BYK
+add_core = BYK
 add_core = UBW
 trade_goods = grain
 life_rating = 52

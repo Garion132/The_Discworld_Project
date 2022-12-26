@@ -1,6 +1,6 @@
-owner = BLI
-controller = BLI
-add_core = BLI
+owner = BBL
+controller = BBL
+add_core = BBL
 add_core = UBW
 trade_goods = fats
 life_rating = 52

@@ -1,2 +1,5 @@
+owner = IST
+controller = IST
+add_core = IST
 trade_goods = timber
 life_rating = 52

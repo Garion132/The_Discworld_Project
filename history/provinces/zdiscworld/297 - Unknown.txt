@@ -1,5 +1,5 @@
-owner = EPH
-controller = EPH
-add_core = EPH
+owner = DJE
+controller = DJE
+add_core = DJE
 trade_goods = fruit
 life_rating = 52

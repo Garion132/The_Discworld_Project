@@ -1,0 +1,5 @@
+owner = OHU
+controller = OHU
+add_core = OHU
+life_rating = 52
+trade_goods = coal

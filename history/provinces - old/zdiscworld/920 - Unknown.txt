@@ -1,0 +1,5 @@
+owner = NEV
+controller = NEV
+add_core = NEV
+trade_goods = cotton
+life_rating = 45

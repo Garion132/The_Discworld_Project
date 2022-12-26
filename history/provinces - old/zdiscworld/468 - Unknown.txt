@@ -1,0 +1,16 @@
+owner = KRL
+controller = KRL
+add_core = KRL
+trade_goods = precious_metal
+life_rating = 52
+naval_base = 3
+state_building = {
+	level = 3
+	building = clipper_shipyard
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}

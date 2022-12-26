@@ -1,5 +1,5 @@
-owner = TEZ
-controller = TEZ
-add_core = TEZ
+owner = HRL
+controller = HRL
+add_core = HRL
 trade_goods = fish
 life_rating = 30

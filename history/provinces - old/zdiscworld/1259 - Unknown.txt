@@ -1,0 +1,5 @@
+owner = BRL
+controller = BRL
+add_core = BRL
+trade_goods = timber
+life_rating = 20
