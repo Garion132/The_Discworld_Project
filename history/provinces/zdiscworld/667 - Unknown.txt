@@ -1,5 +1,5 @@
 owner = HIC
 controller = HIC
 add_core = HIC
-trade_goods = coal
+trade_goods = timber
 life_rating = 52

@@ -1,3 +1,0 @@
-
-trade_goods = fats
-life_rating = 52

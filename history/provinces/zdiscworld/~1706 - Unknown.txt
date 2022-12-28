@@ -1,5 +1,0 @@
-owner = KLS
-controller = KLS
-add_core = KLS
-trade_goods = sulphur
-life_rating = 20

@@ -1,5 +1,0 @@
-owner = EEE
-controller = EEE
-add_core = EEE
-life_rating = 45
-trade_goods = iron

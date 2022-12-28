@@ -1,3 +1,6 @@
-
+owner = STA
+controller = STA
+add_core = STA
+add_core = STO
 trade_goods = wool
 life_rating = 52

@@ -1,5 +1,5 @@
 owner = RHE
 controller = RHE
 add_core = RHE
-trade_goods = grain
+trade_goods = timber
 life_rating = 52

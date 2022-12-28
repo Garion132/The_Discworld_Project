@@ -1,3 +1,0 @@
-
-trade_goods = clay
-life_rating = 52

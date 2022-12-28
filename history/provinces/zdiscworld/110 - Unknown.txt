@@ -1,5 +1,6 @@
 owner = BCG
 controller = BCG
 add_core = BCG
+add_core = STO
 trade_goods = brassicas
 life_rating = 52

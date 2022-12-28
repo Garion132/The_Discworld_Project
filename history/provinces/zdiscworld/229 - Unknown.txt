@@ -1,5 +1,5 @@
 owner = OMN
 controller = OMN
 add_core = OMN
-trade_goods = fish
+trade_goods = brassicas
 life_rating = 52

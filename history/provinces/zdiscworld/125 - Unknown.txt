@@ -1,5 +1,6 @@
 owner = STR
 controller = STR
 add_core = STR
+add_core = STO
 trade_goods = fruit
 life_rating = 52

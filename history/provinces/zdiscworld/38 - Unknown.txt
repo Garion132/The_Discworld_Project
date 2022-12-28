@@ -1,5 +1,6 @@
 owner = STM
 controller = STM
 add_core = STM
+add_core = STO
 life_rating = 52
 trade_goods = brassicas

@@ -1,5 +1,0 @@
-owner = TEZ
-controller = TEZ
-add_core = TEZ
-trade_goods = fish
-life_rating = 30

@@ -2,4 +2,4 @@ owner = SKN
 controller = SKN
 add_core = SKN
 life_rating = 52
-trade_goods = brassicas
+trade_goods = timber

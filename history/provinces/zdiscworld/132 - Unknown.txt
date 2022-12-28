@@ -1,6 +1,7 @@
 owner = STK
 controller = STK
 add_core = STK
+add_core = STO
 trade_goods = timber
 life_rating = 52
 # state_building = {

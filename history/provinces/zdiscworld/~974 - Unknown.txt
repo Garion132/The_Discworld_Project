@@ -1,6 +1,0 @@
-owner = GHA
-controller = GHA
-add_core = GHA
-add_core = MUT
-trade_goods = tea
-life_rating = 45

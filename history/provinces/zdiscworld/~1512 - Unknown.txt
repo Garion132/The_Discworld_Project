@@ -1,5 +1,0 @@
-owner = TET
-controller = TET
-add_core = TET
-trade_goods = tropical_wood
-life_rating = 20

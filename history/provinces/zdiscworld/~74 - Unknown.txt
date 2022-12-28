@@ -1,3 +1,0 @@
-add_core = UBW
-trade_goods = brassicas
-life_rating = 52

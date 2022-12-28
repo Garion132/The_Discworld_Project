@@ -639,6 +639,63 @@
 	}
     }
 40={
+	aristocrats = {
+		culture = klatchian
+		religion = catholic
+		size = 500
+	}
+	officers = {
+		culture = klatchian
+		religion = catholic
+		size = 90
+	}
+	bureaucrats = {
+		culture = klatchian
+		religion = catholic
+		size = 800
+	}
+	clergymen = {
+		culture = klatchian
+		religion = catholic
+		size = 1100
+	}
+	soldiers = {
+		culture = klatchian
+		religion = catholic
+		size = 9000
+	}
+	artisans = {
+		culture = klatchian
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = klatchian
+		religion = catholic
+		size = 10000
+	}
+	craftsmen = {
+		culture = klatchian
+		religion = catholic
+		size = 10000
+	}
+	craftsmen = {
+		culture = klatchian
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = klatchian
+		religion = othordox_omnianism
+		size = 7000
+	}
+    farmers = {
+		culture = klatchian
+		religion = catholic
+		size = 78000
+	}
+}
+41={
 	farmers = {
 		culture = sto_lat
 		religion = catholic
@@ -684,14 +741,7 @@
 		religion = catholic
 		size = 2
 	}
-    }
-41={
-	farmers = {
-		culture = sto_lat
-		religion = catholic
-		size = 3900
-	}
-    }
+}
 42={
 	farmers = {
 		culture = sto_helit
@@ -861,18 +911,6 @@
 		size = 20
 	}
     }
-59={
-    farmers = {
-		culture = quirmian
-		religion = catholic
-		size = 2900
-	}
-	farmers = {
-		culture = sto_plainer
-		religion = catholic
-		size = 1400
-	}
-    }
 60={
     farmers = {
 		culture = quirmian
@@ -972,10 +1010,50 @@
 	}
     }
 69={
-        farmers = {
-		culture = quirmian
-		religion = catholic
-		size = 1360
+    farmers = {
+		culture = ephebian
+		religion = ephebic
+		size = 9700
+	}
+	soldiers = {
+		culture = ephebian
+		religion = ephebic
+		size = 5500
+	}
+	artisans = {
+		culture = ephebian
+		religion = ephebic
+		size = 7000
+	}
+	artisans = {
+		culture = ephebian
+		religion = ephebic
+		size = 6000
+	}
+	slaves = {
+		culture = ephebian
+		religion = ephebic
+		size = 19000
+	}
+	aristocrats = {
+		culture = ephebian
+		religion = ephebic
+		size = 50
+	}
+	officers = {
+		culture = ephebian
+		religion = ephebic
+		size = 10
+	}
+	bureaucrats = {
+		culture = ephebian
+		religion = ephebic
+		size = 300
+	}
+	clergymen = {
+		culture = ephebian
+		religion = ephebic
+		size = 1000
 	}
     }
 70={
@@ -2387,53 +2465,41 @@
 		size = 4100
 	}
     }
-294={
-    farmers = {
-		culture = ephebian
-		religion = ephebic
-		size = 9700
-	}
+270={
 	soldiers = {
 		culture = ephebian
 		religion = ephebic
-		size = 5500
+		size = 3100
 	}
-	artisans = {
+	farmers = {
 		culture = ephebian
 		religion = ephebic
-		size = 7000
-	}
-	artisans = {
-		culture = ephebian
-		religion = ephebic
-		size = 6000
+		size = 7400
 	}
 	slaves = {
 		culture = ephebian
 		religion = ephebic
-		size = 19000
+		size = 2800
 	}
-	aristocrats = {
+}
+294={
+    soldiers = {
 		culture = ephebian
 		religion = ephebic
-		size = 50
+		size = 3100
 	}
-	officers = {
+	farmers = {
 		culture = ephebian
 		religion = ephebic
-		size = 10
+		size = 7400
 	}
-	bureaucrats = {
+	slaves = {
 		culture = ephebian
 		religion = ephebic
-		size = 300
+		size = 2800
 	}
-	clergymen = {
-		culture = ephebian
-		religion = ephebic
-		size = 1000
-	}
-    }
+}
+	
 295={
 	soldiers = {
 		culture = ephebian
@@ -2813,62 +2879,16 @@
 	}
     }
 352={
-	aristocrats = {
-		culture = klatchian
-		religion = catholic
-		size = 500
-	}
-	officers = {
-		culture = klatchian
-		religion = catholic
-		size = 90
-	}
-	bureaucrats = {
-		culture = klatchian
-		religion = catholic
-		size = 800
-	}
-	clergymen = {
-		culture = klatchian
-		religion = catholic
-		size = 1100
-	}
 	soldiers = {
 		culture = klatchian
 		religion = catholic
-		size = 9000
-	}
-	artisans = {
-		culture = klatchian
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = klatchian
-		religion = catholic
-		size = 10000
-	}
-	craftsmen = {
-		culture = klatchian
-		religion = catholic
-		size = 10000
-	}
-	craftsmen = {
-		culture = klatchian
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = klatchian
-		religion = othordox_omnianism
-		size = 7000
+		size = 1500
 	}
     farmers = {
 		culture = klatchian
 		religion = catholic
-		size = 78000
+		size = 5400
 	}
-	
     }
 353={
 	soldiers = {
@@ -2881,7 +2901,7 @@
 		religion = catholic
 		size = 5400
 	}
-    }
+}
 354={
 	aristocrats= {
 		culture = klatchian

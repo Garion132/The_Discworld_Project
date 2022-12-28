@@ -1,5 +1,6 @@
 owner = STN
 controller = STN
 add_core = STN
+add_core = STO
 trade_goods = wool
 life_rating = 52

@@ -1,5 +1,0 @@
-owner = SBE
-controller = SBE
-add_core = SBE
-trade_goods = timber
-life_rating = 20

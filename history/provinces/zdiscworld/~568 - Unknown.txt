@@ -1,5 +1,0 @@
-owner = AGA
-controller = AGA
-add_core = AGA
-trade_goods = iron
-life_rating = 52

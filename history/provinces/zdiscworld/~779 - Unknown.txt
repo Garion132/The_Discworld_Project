@@ -1,4 +1,0 @@
-
-add_core = UBW
-trade_goods = silk
-life_rating = 52

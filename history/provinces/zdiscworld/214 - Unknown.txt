@@ -1,5 +1,5 @@
 owner = IST
 controller = IST
 add_core = IST
-trade_goods = brassicas
+trade_goods = clay
 life_rating = 52

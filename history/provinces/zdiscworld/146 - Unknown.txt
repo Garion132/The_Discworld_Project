@@ -1,3 +1,6 @@
-
+owner = FHW
+controller = FHW
+add_core = FHW
+add_core = STO
 trade_goods = timber
 life_rating = 52

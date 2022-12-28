@@ -1,5 +1,0 @@
-owner = USH
-controller = USH
-add_core = USH
-trade_goods = cotton
-life_rating = 52

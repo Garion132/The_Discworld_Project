@@ -385,8 +385,8 @@
 		size = 9500
 	}
     }
-270={
-	clergymen = {
+59={
+    clergymen = {
 		culture = omnian
 		religion = omnianism
 		size = 19000
@@ -416,8 +416,7 @@
 		religion = omnianism
 		size = 13200
 	}
-	
-    }
+}
 271={
 	farmers = {
 		culture = omnian

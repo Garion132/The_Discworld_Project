@@ -1,5 +1,0 @@
-owner = VGL
-controller = VGL
-add_core = VGL
-trade_goods = cattle
-life_rating = 20

@@ -2,5 +2,5 @@ owner = BUG
 controller = BUG
 add_core = BUG
 add_core = UBW
-trade_goods = grain
+trade_goods = clay
 life_rating = 52

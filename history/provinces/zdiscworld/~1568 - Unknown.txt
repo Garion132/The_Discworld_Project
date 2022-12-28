@@ -1,5 +1,0 @@
-owner = BRI
-controller = BRI
-add_core = BRI
-trade_goods = clay
-life_rating = 20

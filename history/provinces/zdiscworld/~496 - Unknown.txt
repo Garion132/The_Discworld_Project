@@ -1,5 +1,0 @@
-owner = LAO
-controller = LAO
-add_core = LAO
-trade_goods = tea
-life_rating = 52

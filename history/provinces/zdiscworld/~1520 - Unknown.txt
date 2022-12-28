@@ -1,5 +1,0 @@
-owner = FRF
-controller = FRF
-add_core = FRF
-trade_goods = coal
-life_rating = 20
