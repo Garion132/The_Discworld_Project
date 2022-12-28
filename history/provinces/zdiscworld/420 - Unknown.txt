@@ -1,3 +1,6 @@
+owner = RHM
+controller = RHM
+add_core = RHM
 add_core = STO
 trade_goods = wool
 life_rating = 52

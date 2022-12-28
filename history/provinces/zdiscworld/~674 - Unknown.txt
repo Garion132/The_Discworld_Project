@@ -1,6 +1,0 @@
-owner = BYK
-controller = BYK
-add_core = BYK
-add_core = UBW
-trade_goods = fats
-life_rating = 52

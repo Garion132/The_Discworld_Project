@@ -1,9 +1,9 @@
 #name = "War of Northern Aggression"
-name = "Restoration of order to Ghat"
+name = "Restoration of order to Farfree"
 
 3540.1.1 = {
 	add_attacker = MUT
-	add_defender = GHA
+	add_defender = FRF
 	
 	# actor
 	# receiver
@@ -13,11 +13,11 @@ name = "Restoration of order to Ghat"
 	war_goal = {
 		casus_belli = conquest
 		actor = MUT
-		receiver = GHA
+		receiver = FRF
 	}
 	war_goal = {
 		casus_belli = status_quo
-		actor = GHA
+		actor = FRF
 		receiver = MUT
 	}
 
@@ -25,5 +25,5 @@ name = "Restoration of order to Ghat"
 
 3542.4.21 = {
 	rem_attacker = MUT
-	rem_defender = GHA
+	rem_defender = FRF
 }

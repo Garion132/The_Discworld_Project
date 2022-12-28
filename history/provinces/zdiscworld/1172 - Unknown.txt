@@ -1,4 +1,6 @@
-
+owner = BAS
+controller = BAS
+add_core = BAS
 add_core = UBW
 trade_goods = cattle
 life_rating = 45
