@@ -1,3 +1,5 @@
-
+owner = CLU
+controller = CLU
+add_core = CLU
 life_rating = 52
 trade_goods = tobacco

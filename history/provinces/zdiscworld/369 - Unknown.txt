@@ -1,3 +1,5 @@
-
+owner = CLU
+controller = CLU
+add_core = CLU
 trade_goods = silk
 life_rating = 52
