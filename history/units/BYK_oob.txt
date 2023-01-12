@@ -41,11 +41,11 @@ NTF = {
 }
 army = {
 	name = "Army of Bonk"
-	location = 417
+	location = 674
 	regiment = {
 		name= "Bonk Guards"
 		type = warriors
-		home = 417
+		home = 674
 	}
 }
 

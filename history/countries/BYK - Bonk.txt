@@ -1,4 +1,4 @@
-capital = 417
+capital = 674
 primary_culture = vampyre
 culture = dwarf
 culture = werewolves

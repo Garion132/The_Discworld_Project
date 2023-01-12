@@ -400,75 +400,90 @@
 	}
     }
 13={
-        farmers = {
-		culture = ramtop
-		religion = white_witchcraft
-		size = 250
+    farmers = {
+		culture = sto_plainer
+		religion = catholic
+		size = 3150
 	}
-    }
+	}
 14={
-        farmers = {
-		culture = ramtop
-		religion = white_witchcraft
-		size = 250
+    farmers = {
+		culture = sto_plainer
+		religion = catholic
+		size = 2400
 	}
-    }
+	}
 15={
-        farmers = {
-		culture = ramtop
-		religion = white_witchcraft
-		size = 250
+    farmers = {
+		culture = sto_plainer
+		religion = catholic
+		size = 7150
 	}
-    }
+	aristocrats = {
+		culture = morporkian
+		religion = catholic
+		size = 640
+	}
+	}
 16={
-        farmers = {
-		culture = ramtop
-		religion = white_witchcraft
-		size = 250
+    farmers = {
+		culture = sto_plainer
+		religion = catholic
+		size = 3457
 	}
-    }
+	soldiers = {
+		culture = sto_plainer
+		religion = catholic
+		size = 1710
+	}
+	artisans = {
+		culture = sto_plainer
+		religion = catholic
+		size = 240
+	}
+	}
 17={
-        farmers = {
-		culture = ramtop
-		religion = white_witchcraft
+    farmers = {
+		culture = sto_plainer
+		religion = catholic
 		size = 250
 	}
     }
 18={
-        farmers = {
-		culture = ramtop
-		religion = white_witchcraft
+    farmers = {
+		culture = sto_plainer
+		religion = catholic
 		size = 250
 	}
     }
 19={
-	farmers = {
-		culture = ramtop
-		religion = white_witchcraft
-		size = 250
+	labourers = {
+		culture = skundlander
+		religion = catholic
+		size = 2050
 	}
-    }
+	}
 20={
     farmers = {
-		culture = ramtop
-		religion = white_witchcraft
-		size = 280
+		culture = sto_plainer
+		religion = catholic
+		size = 3280
 	}
     }
 21={
-        farmers = {
-		culture = ramtop
-		religion = white_witchcraft
-		size = 250
+    labourers = {
+		culture = skundlander
+		religion = catholic
+		size = 2050
 	}
-    }
+	}
 22={
-        farmers = {
-		culture = ramtop
-		religion = white_witchcraft
-		size = 250
+    labourers = {
+		culture = skundlander
+		religion = catholic
+		size = 2050
 	}
-    }
+	}
 23={
         farmers = {
 		culture = ramtop
@@ -477,47 +492,47 @@
 	}
     }
 24={
-        farmers = {
-		culture = ramtop
-		religion = white_witchcraft
-		size = 250
+    farmers = {
+		culture = octarine
+		religion = catholic
+		size = 4250
 	}
-    }
+	}
 25={
 	farmers = {
-		culture = lancrian
+		culture = ramtop
 		religion = white_witchcraft
 		size = 120
 	}
     }
 26={
-        farmers = {
+    farmers = {
 		culture = ramtop
 		religion = white_witchcraft
 		size = 250
 	}
-    }
+	}
 27={
-        farmers = {
+    farmers = {
 		culture = ramtop
 		religion = white_witchcraft
 		size = 250
 	}
-    }
+	}
 28={
-        farmers = {
+    farmers = {
 		culture = ramtop
 		religion = white_witchcraft
 		size = 250
 	}
-    }
+	}
 29={
 	farmers = {
-		culture = hublander
-		religion = catholic
+		culture = ramtop
+		religion = white_witchcraft
 		size = 500
 	}
-    }
+}
 30={
     farmers = {
 		culture = ramtop
@@ -548,12 +563,12 @@
     }
 34={
     farmers = {
-		culture = sto_lat
+		culture = octarine
 		religion = catholic
 		size = 2800
 	}
 	farmers = {
-		culture = quirmian_marquis
+		culture = ramtop
 		religion = catholic
 		size = 1600
 	}
@@ -566,27 +581,27 @@
 	}
     }
 36={
-        farmers = {
-		culture = sto_lat
+    farmers = {
+		culture = skundlander
 		religion = catholic
 		size = 3600
 	}
-    }
+	}
 37={
-        farmers = {
-		culture = sto_lat
+    farmers = {
+		culture = octarine
 		religion = catholic
 		size = 4100
 	}
-    }
+	}
 38={
     farmers = {
-		culture = sto_kerrig
+		culture = sto_plainer
 		religion = catholic
 		size = 3500
 	}
 	farmers = {
-		culture = sto_plainer
+		culture = sto_lat
 		religion = catholic
 		size = 1000
 	}
@@ -613,7 +628,7 @@
 		size = 1800
 	}
 	soldiers = {
-		culture = sto_kerrig
+		culture = sto_plainer
 		religion = catholic
 		size = 980
 	}
@@ -674,7 +689,7 @@
 		religion = catholic
 		size = 78000
 	}
-}
+	}
 41={
 	farmers = {
 		culture = sto_lat
@@ -721,10 +736,10 @@
 		religion = catholic
 		size = 2
 	}
-}
+	}
 42={
 	farmers = {
-		culture = sto_plainer
+		culture = sto_lat
 		religion = catholic
 		size = 4200
 	}
@@ -738,7 +753,7 @@
     }
 44={
 	farmers = {
-		culture = sto_plainer
+		culture = sto_lat
 		religion = catholic
 		size = 1360
 	}
@@ -795,36 +810,36 @@
     }
 50={
 	farmers = {
-		culture = sto_lat
+		culture = sto_plainer
 		religion = catholic
 		size = 1400
 	}
 	farmers = {
-		culture = sto_plainer
+		culture = sto_lat
 		religion = catholic
 		size = 2900
 	}
     }
 51={
 	farmers = {
-		culture = sto_plainer
+		culture = sto_lat
 		religion = catholic
 		size = 4800
 	}
     }
 52={
     farmers = {
-		culture = sto_plainer
+		culture = ramtop
 		religion = catholic
 		size = 14000
 	}
 	soldiers = {
-		culture = sto_plainer
+		culture = ramtop
 		religion = catholic
 		size = 2300
 	}
 	aristocrats = {
-		culture = sto_plainer
+		culture = ramtop
 		religion = catholic
 		size = 250
 	}
@@ -850,7 +865,7 @@
 		religion = tak
 		size = 240
 	}
-}
+	}
 54={
 	farmers = {
 		culture = sto_lat
@@ -870,14 +885,14 @@
     }
 55={
         farmers = {
-		culture = sto_lat
+		culture = istanzian
 		religion = catholic
 		size = 4000
 	}
     }
 56={
         farmers = {
-		culture = sto_lat
+		culture = istanzian
 		religion = catholic
 		size = 3400
 	}
@@ -908,19 +923,19 @@
     }
 60={
     farmers = {
-		culture = quirmian
+		culture = octarine
 		religion = catholic
 		size = 2700
 	}
 	farmers = {
-		culture = sto_plainer
+		culture = ramtop
 		religion = catholic
 		size = 1750
 	}
     }
 61={
     farmers = {
-		culture = quirmian
+		culture = skundlander
 		religion = catholic
 		size = 2900
 	}
@@ -946,29 +961,14 @@
     }
 64={
     farmers = {
-		culture = quirmian
-		religion= catholic
+		culture = ephebian
+		religion= ephebic
 		size = 2461
-	}
-	farmers = {
-		culture = sto_plainer
-		religion= catholic
-		size = 890
-	}
-	artisans = {
-		culture = sto_plainer
-		religion= catholic
-		size = 570
-	}
-	soldiers = {
-		culture = sto_plainer
-		religion= catholic
-		size = 1100
 	}
     }
 65={
     farmers = {
-		culture = quirmian
+		culture = octarine
 		religion = catholic
 		size = 2930
 	}
@@ -980,13 +980,13 @@
     }
 66={
     farmers = {
-		culture = quirmian
-		religion = catholic
+		culture = ephebian
+		religion = ephebic
 		size = 1870
 	}
 	farmers = {
-		culture = sto_plainer
-		religion= catholic
+		culture = omnian
+		religion= omnianism
 		size = 2050
 	}
     }
@@ -1077,8 +1077,8 @@
 	}
     }
 70={
-        farmers = {
-		culture = quirmian
+    farmers = {
+		culture = sto_plainer
 		religion = catholic
 		size = 1260
 	}
@@ -1091,10 +1091,30 @@
 	}
     }
 72={
-        farmers = {
-		culture = quirmian
+	farmers = {
+		culture = tsortian
 		religion = catholic
-		size = 3650
+		size = 45000
+	}
+	artisans = {
+		culture = tsortian
+		religion = catholic
+		size = 4000
+	}
+	aristocrats = {
+		culture = tsortian
+		religion = catholic
+		size = 200
+	}
+	officers = {
+		culture = tsortian
+		religion = catholic
+		size = 10
+	}
+	soldiers = {
+		culture = tsortian
+		religion = catholic
+		size = 4500
 	}
     }
 73={
@@ -1113,7 +1133,7 @@
 		religion = catholic
 		size = 4500
 	}
-}
+	}
 74={
     aristocrats = {
 		culture = werewolves
@@ -1155,20 +1175,20 @@
     }
 76={
         farmers = {
-		culture = quirmian
-		religion = catholic
+		culture = ephebian
+		religion = ephebic
 		size = 500
 	}
     }
 77={
-        farmers = {
-		culture = quirmian
-		religion = catholic
+    farmers = {
+		culture = ephebian
+		religion = ephebic
 		size = 3600
 	}
 	farmers = {
-		culture = quirmian_marquis
-		religion = catholic
+		culture = djelibeybian
+		religion = djelibeybism
 		size = 980
 	}
     }
@@ -1200,14 +1220,14 @@
 	}
     }
 79={
-        farmers = {
-		culture = quirmian_marquis
-		religion = catholic
+    farmers = {
+		culture = djelibeybian
+		religion = djelibeybism
 		size = 500
 	}
     }
 80={
-        farmers = {
+    farmers = {
 		culture = sto_plainer
 		religion = catholic
 		size = 500
@@ -1622,34 +1642,34 @@
 	}
     }
 115={
-        farmers = {
-		culture = pseudopolian
+    farmers = {
+		culture = sto_plainer
 		religion = catholic
 		size = 3780
 	}
-    }
+}
 116={
     farmers = {
-		culture = pseudopolian
+		culture = sto_plainer
 		religion = catholic
 		size = 3840
 	}
 	artisans = {
-		culture = pseudopolian
+		culture = sto_plainer
 		religion = catholic
 		size = 380
 	}
     }
 117={
-        farmers = {
-		culture = pseudopolian
+    farmers = {
+		culture = ramtop
 		religion = catholic
 		size = 2996
 	}
     }
 118={
         farmers = {
-		culture = pseudopolian
+		culture = varnith
 		religion = catholic
 		size = 3025
 	}
@@ -1663,7 +1683,7 @@
     }
 120={
         farmers = {
-		culture = sto_plainer
+		culture = ramtop
 		religion = catholic
 		size = 2900
 	}
@@ -1698,15 +1718,15 @@
 	}
     }
 123={
-        farmers = {
-		culture = sto_plainer
+    farmers = {
+		culture = octarine
 		religion = catholic
 		size = 3650
 	}
-    }
+}
 124={
     farmers = {
-		culture = octrine
+		culture = octarine
 		religion = catholic
 		size = 4420
 	}
@@ -1719,10 +1739,15 @@
 	}
     }
 126={
-        farmers = {
+    farmers = {
 		culture = sto_plainer
 		religion = catholic
 		size = 2980
+	}
+	farmers = {
+		culture = ramtop
+		religion = white_witchcraft
+		size = 3418
 	}
     }
 127={
@@ -1748,29 +1773,29 @@
     }
 130={
 	farmers = {
-		culture = sto_plainer
+		culture = uberwaldian
 		religion = catholic
 		size = 2900
 	}
 	soldiers = {
-		culture = sto_plainer
+		culture = uberwaldian
 		religion = catholic
 		size = 1150
 	}
 	artisans = {
-		culture = sto_plainer
+		culture = uberwaldian
 		religion = catholic
 		size = 100
 	}
 	aristocrats = {
-		culture = sto_plainer
+		culture = uberwaldian
 		religion = catholic
 		size = 40
 	}
     }
 131={
         farmers = {
-		culture = sto_kerrig
+		culture = sto_plainer
 		religion = catholic
 		size = 3400
 	}
@@ -1809,24 +1834,24 @@
     }
 133={
     farmers = {
-		culture = sto_kerrig
+		culture = hublander
 		religion = catholic
 		size = 3965
 	}
 	soldiers = {
-		culture = sto_kerrig
+		culture = octarine
 		religion = catholic
 		size = 896
 	}
     }
 134={
     farmers = {
-		culture = sto_kerrig
+		culture = sto_plainer
 		religion = catholic
 		size = 2500
 	}
 	soldiers = {
-		culture = sto_kerrig
+		culture = sto_plainer
 		religion = catholic
 		size = 1140
 	}
@@ -1839,12 +1864,12 @@
 	}
     }
 136={
-        farmers = {
-		culture = sto_plainer
+    farmers = {
+		culture = uberwaldian
 		religion = catholic
 		size = 2700
 	}
-    }
+}
 137={
     farmers = {
 		culture = sto_kerrig
@@ -1861,38 +1886,38 @@
     }
 139={
         farmers = {
-		culture = sto_plainer
+		culture = sto_kerrig
 		religion = catholic
 		size = 4500
 	}
     }
 140={
-        farmers = {
-		culture = sto_plainer
+    farmers = {
+		culture = uberwaldian
 		religion = catholic
 		size = 3400
 	}
     }
 141={
 	farmers = {
-		culture = sto_kerrig
+		culture = sto_plainer
 		religion = catholic
 		size = 15500
 	}
 	artisans = {
-		culture = sto_kerrig
+		culture = sto_plainer
 		religion = catholic
 		size = 2000
 	}
 	soldiers = {
-		culture = sto_kerrig
+		culture = sto_plainer
 		religion = catholic
 		size = 1900
 	}
     }
 142={
         farmers = {
-		culture = sto_plainer
+		culture = sto_lat
 		religion = catholic
 		size = 3800
 	}
@@ -1906,28 +1931,28 @@
     }
 144={
         farmers = {
-		culture = skundlander
+		culture = sto_plainer
 		religion = catholic
 		size = 4300
 	}
     }
 145={
         farmers = {
-		culture = skundlander
+		culture = sto_plainer
 		religion = catholic
 		size = 3800
 	}
     }
 146={
-        farmers = {
-		culture = skundlander
+    farmers = {
+		culture = sto_plainer
 		religion = catholic
 		size = 7400
 	}
     }
 147={
         farmers = {
-		culture = skundlander
+		culture = sto_plainer
 		religion = catholic
 		size = 2685
 	}
@@ -1947,10 +1972,15 @@
 	}
     }
 150={
-        farmers = {
+    farmers = {
 		culture = sto_plainer
 		religion = catholic
 		size = 2900
+	}
+	farmers = {
+		culture = sto_lat
+		religion = catholic
+		size = 1300
 	}
     }
 151={
@@ -1982,86 +2012,76 @@
 	}
     }
 155={
-        farmers = {
-		culture = skundlander
+    farmers = {
+		culture = sto_plainer
 		religion = catholic
 		size = 4200
 	}
     }
 156={
-        farmers = {
-		culture = skundlander
+    farmers = {
+		culture = sto_plainer
 		religion = catholic
 		size = 3400
 	}
     }
 157={
-        farmers = {
-		culture = skundlander
+    farmers = {
+		culture = sto_plainer
 		religion = catholic
 		size = 3400
 	}
     }
 158={
         farmers = {
-		culture = skundlander
+		culture = sto_plainer
 		religion = catholic
 		size = 5300
 	}
     }
 159={
     labourers = {
-		culture = skundlander
+		culture = sto_plainer
 		religion = catholic
-		size = 14500
-	}
-	artisans = {
-		culture = skundlander
-		religion = catholic
-		size = 3000
+		size = 4500
 	}
 	soldiers = {
-		culture = skundlander
+		culture = sto_plainer
 		religion = catholic
 		size = 2000
 	}
     }
 160={
     farmers = {
-		culture = skundlander
+		culture = sto_plainer
 		religion = catholic
 		size = 2000
 	}
     }
 161={
 	farmers = {
-		culture = skundlander
+		culture = sto_plainer
 		religion = catholic
 		size = 2000
 	}
     }
 162={
     labourers = {
-		culture = skundlander
+		culture = sto_plainer
 		religion = catholic
 		size = 2500
-	}
-	artisans = {
-		culture = skundlander
-		religion = catholic
-		size = 2000
 	}
     }
 163={
     labourers = {
-		culture = skundlander
+		culture = sto_plainer
 		religion = catholic
 		size = 2200
 	}
     }
 164={
-        farmers = {
-		culture = skundlander
+    farmers = {
+		culture = sto_plainer
 		religion = catholic
 		size = 2300
 	}
@@ -2080,14 +2100,14 @@
     }
 166={
         farmers = {
-		culture = skundlander
+		culture = sto_plainer
 		religion = catholic
 		size = 2860
 	}
     }
 167={
         farmers = {
-		culture = skundlander
+		culture = sto_plainer
 		religion = catholic
 		size = 2400
 	}
@@ -2143,77 +2163,77 @@
     }
 175={
         farmers = {
-		culture = sto_plainer
+		culture = istanzian
 		religion = catholic
 		size = 3400
 	}
     }
 176={
         farmers = {
-		culture = sto_plainer
+		culture = istanzian
 		religion = catholic
 		size = 1400
 	}
     }
 177={
         farmers = {
-		culture = sto_plainer
+		culture = istanzian
 		religion = catholic
 		size = 3500
 	}
     }
 178={
         farmers = {
-		culture = sto_plainer
+		culture = istanzian
 		religion = catholic
 		size = 4100
 	}
     }
 179={
         farmers = {
-		culture = sto_plainer
+		culture = istanzian
 		religion = catholic
 		size = 4050
 	}
     }
 180={
         farmers = {
-		culture = sto_plainer
+		culture = istanzian
 		religion = catholic
 		size = 3900
 	}
     }
 181={
         farmers = {
-		culture = sto_plainer
+		culture = istanzian
 		religion = catholic
 		size = 4100
 	}
     }
 182={
         farmers = {
-		culture = sto_plainer
+		culture = istanzian
 		religion = catholic
 		size = 3400
 	}
     }
 183={
         farmers = {
-		culture = sto_plainer
+		culture = istanzian
 		religion = catholic
 		size = 9700
 	}
     }
 184={
     farmers = {
-		culture = sto_plainer
+		culture = istanzian
 		religion = catholic
 		size = 6800
 	}
     }
 185={
     farmers = {
-		culture = sto_plainer
+		culture = istanzian
 		religion = catholic
 		size = 8700
 	}
@@ -2288,39 +2308,24 @@
 	}
     }
 193={
-        farmers = {
-		culture = sto_helit
+    farmers = {
+		culture = ramtop
 		religion = catholic
 		size = 4900
 	}
     }
 194={
 	farmers = {
-		culture = sto_helit
+		culture = octarine
 		religion = catholic
-		size = 25000
-	}
-	aristocrats = {
-		culture = sto_helit
-		religion = catholic
-		size = 200
-	}
-	clergymen = {
-		culture = sto_helit
-		religion = catholic
-		size = 300
-	}
-	artisans = {
-		culture = sto_helit
-		religion = catholic
-		size = 2400
+		size = 2500
 	}
 	soldiers = {
-		culture = sto_helit
+		culture = octarine
 		religion = catholic
 		size = 2000
 	}
-    }
+}
 195={
         farmers = {
 		culture = sto_plainer
@@ -2330,21 +2335,21 @@
     }
 196={
         farmers = {
-		culture = sto_plainer
+		culture = istanzian
 		religion = catholic
 		size = 3500
 	}
     }
 197={
         farmers = {
-		culture = sto_plainer
+		culture = istanzian
 		religion = catholic
 		size = 4100
 	}
     }
 198={
         farmers = {
-		culture = sto_plainer
+		culture = istanzian
 		religion = catholic
 		size = 4500
 	}
@@ -2378,10 +2383,15 @@
 	}
     }
 203={
-        farmers = {
-		culture = sto_helit
+    farmers = {
+		culture = ramtop
 		religion = catholic
 		size = 3400
+	}
+	farmers = {
+		culture = uberwaldian
+		religion = catholic
+		size = 4100
 	}
     }
 204={
@@ -2417,7 +2427,7 @@
     }
 207={
         farmers = {
-		culture = sto_plainer
+		culture = istanzian
 		religion = catholic
 		size = 3900
 	}
@@ -2431,7 +2441,7 @@
     }
 209={
         farmers = {
-		culture = sto_plainer
+		culture = istanzian
 		religion = catholic
 		size = 3600
 	}
@@ -2459,14 +2469,14 @@
     }
 213={
         farmers = {
-		culture = sto_plainer
+		culture = istanzian
 		religion = catholic
 		size = 3700
 	}
     }
 214={
         farmers = {
-		culture = sto_plainer
+		culture = istanzian
 		religion = catholic
 		size = 3400
 	}
@@ -2548,14 +2558,14 @@
     }
 225={
         farmers = {
-		culture = sto_plainer
+		culture = istanzian
 		religion = catholic
 		size = 3900
 	}
     }
 226={
         farmers = {
-		culture = sto_plainer
+		culture = istanzian
 		religion = catholic
 		size = 4100
 	}
@@ -2596,158 +2606,6 @@
 }
 	
 295={
-	soldiers = {
-		culture = ephebian
-		religion = ephebic
-		size = 3100
-	}
-	farmers = {
-		culture = ephebian
-		religion = ephebic
-		size = 7400
-	}
-	slaves = {
-		culture = ephebian
-		religion = ephebic
-		size = 2800
-	}
-    }
-296={
-	soldiers = {
-		culture = ephebian
-		religion = ephebic
-		size = 1200
-	}
-    farmers = {
-		culture = ephebian
-		religion = ephebic
-		size = 6300
-	}
-	slaves = {
-		culture = ephebian
-		religion = ephebic
-		size = 2700
-	}
-    }
-297={
-	farmers = {
-		culture = ephebian
-		religion = ephebic
-		size = 7900
-	}
-	slaves = {
-		culture = ephebian
-		religion = ephebic
-		size = 2250
-	}
-	soldiers = {
-		culture = ephebian
-		religion = ephebic
-		size = 1950
-	}
-    }
-298={
-	farmers = {
-		culture = ephebian
-		religion = ephebic
-		size = 10980
-	}
-	soldiers = {
-		culture = ephebian
-		religion = ephebic
-		size = 1800
-	}
-	slaves = {
-		culture = ephebian
-		religion = ephebic
-		size = 6350
-	}
-    }
-299={
-	farmers = {
-		culture = ephebian
-		religion = ephebic
-		size = 3400
-	}
-	slaves = {
-		culture = ephebian
-		religion = ephebic
-		size = 2800
-	}
-    }
-300={
-	farmers = {
-		culture = ephebian
-		religion = ephebic
-		size = 6100
-	}
-	slaves = {
-		culture = ephebian
-		religion = ephebic
-		size = 2050
-	}
-    }
-301={
-	farmers = {
-		culture = ephebian
-		religion = ephebic
-		size = 3700
-	}
-	slaves = {
-		culture = ephebian
-		religion = ephebic
-		size = 900
-	}
-    }
-302={
-	farmers = {
-		culture = ephebian
-		religion = ephebic
-		size = 2800
-	}
-	slaves = {
-		culture = ephebian
-		religion = ephebic
-		size = 780
-	}
-    }
-303={
-	farmers = {
-		culture = ephebian
-		religion = ephebic
-		size = 3450
-	}
-	slaves = {
-		culture = ephebian
-		religion = ephebic
-		size = 600
-	}
-    }
-304={
-	farmers = {
-		culture = ephebian
-		religion = ephebic
-		size = 4980
-	}
-	slaves = {
-		culture = ephebian
-		religion = ephebic
-		size = 460
-	}
-    }
-305={
-	farmers = {
-		culture = djelibeybian
-		religion = djelibeybism
-		size = 8500
-	}
-	soldiers = {
-		culture = djelibeybian
-		religion = djelibeybism
-		size = 2400
-	}
-    }
-306={
 	farmers = {
 		culture = djelibeybian
 		religion = djelibeybism
@@ -2784,50 +2642,132 @@
 		size = 400
 	}
     }
-307={
+296={
+	farmers = {
+		culture = ur_culture
+		religion = catholic
+		size = 1900
+	}
+    }
+297={
 	farmers = {
 		culture = djelibeybian
 		religion = djelibeybism
-		size = 3800
+		size = 7900
 	}
 	soldiers = {
 		culture = djelibeybian
 		religion = djelibeybism
+		size = 1950
+	}
+    }
+298={
+	farmers = {
+		culture = ur_culture
+		religion = catholic
+		size = 1900
+	}
+    }
+299={
+	farmers = {
+		culture = djelibeybian
+		religion = djelibeybism
+		size = 3400
+	}
+    }
+300={
+	farmers = {
+		culture = ur_culture
+		religion = catholic
+		size = 1900
+	}
+    }
+301={
+	farmers = {
+		culture = ur_culture
+		religion = catholic
+		size = 1900
+	}
+    }
+302={
+	farmers = {
+		culture = elharibian
+		religion = catholic
+		size = 2800
+	}
+	slaves = {
+		culture = elharibian
+		religion = catholic
+		size = 780
+	}
+    }
+303={
+	farmers = {
+		culture = ur_culture
+		religion = catholic
+		size = 1900
+	}
+    }
+304={
+	farmers = {
+		culture = elharibian
+		religion = catholic
+		size = 4980
+	}
+	slaves = {
+		culture = elharibian
+		religion = catholic
+		size = 460
+	}
+    }
+305={
+	farmers = {
+		culture = tsortian
+		religion = djelibeybism
+		size = 8500
+	}
+	soldiers = {
+		culture = tsortian
+		religion = djelibeybism
+		size = 2400
+	}
+    }
+306={
+	farmers = {
+		culture = tsortian
+		religion = catholic
+		size = 16700
+	}
+	soldiers = {
+		culture = tsortian
+		religion = catholic
+		size = 1200
+	}
+    }
+307={
+	farmers = {
+		culture = sirritian
+		religion = catholic
+		size = 3800
+	}
+	soldiers = {
+		culture = sirritian
+		religion = catholic
 		size = 1250
 	}
     }
 308={
 	farmers = {
-		culture = djelibeybian
-		religion = djelibeybism
+		culture = elharibian
+		religion = catholic
 		size = 780
 	}
     }
 337={
 	farmers = {
-		culture = tsortian
+		culture = klatchian
 		religion = catholic
-		size = 45000
-	}
-	artisans = {
-		culture = tsortian
-		religion = catholic
-		size = 4000
-	}
-	aristocrats = {
-		culture = tsortian
-		religion = catholic
-		size = 200
-	}
-	officers = {
-		culture = tsortian
-		religion = catholic
-		size = 10
-	}
-	soldiers = {
-		culture = tsortian
-		religion = catholic
-		size = 4500
+		size = 1580
 	}
     }
 338={
@@ -2856,95 +2796,95 @@
     }
 340={
 	farmers = {
-		culture = tsortian
+		culture = sirritian
 		religion = catholic
 		size = 4400
 	}
 	soldiers = {
-		culture = tsortian
+		culture = sirritian
 		religion = catholic
 		size = 1100
 	}
     }
 341={
 	farmers = {
-		culture = tsortian
+		culture = sirritian
 		religion = catholic
 		size = 5200
 	}
     }
 342={
 	farmers = {
-		culture = tsortian
+		culture = sirritian
 		religion = catholic
 		size = 4900
 	}
 	soldiers = {
-		culture = tsortian
+		culture = sirritian
 		religion = catholic
 		size = 1200
 	}
     }
 343={
 	farmers = {
-		culture = tsortian
+		culture = sirritian
 		religion = catholic
 		size = 4780
 	}
     }
 344={
 	farmers = {
-		culture = tsortian
+		culture = sirritian
 		religion = catholic
 		size = 3600
 	}
 	soldiers = {
-		culture = tsortian
+		culture = sirritian
 		religion = catholic
 		size = 1200
 	}
     }
 345={
 	farmers = {
-		culture = tsortian
+		culture = sirritian
 		religion = catholic
 		size = 2400
 	}
     }
 346={
 	farmers = {
-		culture = tsortian
+		culture = sirritian
 		religion = catholic
 		size = 1900
 	}
     }
 347={
 	farmers = {
-		culture = tsortian
+		culture = sirritian
 		religion = catholic
 		size = 3200
 	}
     }
 348={
 	farmers = {
-		culture = sirritian
+		culture = dregs
 		religion = catholic
 		size = 7800
 	}
 	soldiers = {
-		culture = sirritian
+		culture = dregs
 		religion = catholic
 		size = 1100
 	}
     }
 349={
 	farmers = {
-		culture = tsortian
+		culture = sirritian
 		religion = catholic
 		size = 4600
 	}
 	soldiers = {
-		culture = tsortian
+		culture = sirritian
 		religion = catholic
 		size = 1680
 	}
@@ -2963,7 +2903,7 @@
     }
 351={
 	farmers = {
-		culture = sirritian
+		culture = dregs
 		religion = catholic
 		size = 2600
 	}
@@ -3071,7 +3011,7 @@
     }
 360={
         farmers = {
-		culture = klatchian
+		culture = laotani
 		religion = catholic
 		size = 7900
 	}
@@ -3434,34 +3374,34 @@
 	}
     }
 387={
-        farmers = {
-		culture = ur_culture
+    farmers = {
+		culture = smalian
 		religion = catholic
 		size = 2400
 	}
     }
 388={
     farmers = {
-		culture = ur_culture
+		culture = nefian
 		religion = catholic
 		size = 3100
 	}
 	soldiers = {
-		culture = ur_culture
+		culture = nefian
 		religion = catholic
 		size = 1250
 	}
     }
 389={
-        farmers = {
-		culture = ur_culture
+    farmers = {
+		culture = nefian
 		religion = catholic
 		size = 1900
 	}
     }
 390={
         farmers = {
-		culture = ur_culture
+		culture = nefian
 		religion = catholic
 		size = 2500
 	}
@@ -3529,31 +3469,26 @@
     }
 394={
     farmers = {
-		culture = n_tuitif
+		culture = laotani
 		religion = catholic
 		size = 3650
 	}
     }
 395={
      farmers = {
-		culture = sirritian
+		culture = nefian
 		religion = catholic
 		size = 3890
-	}
-	soldiers = {
-		culture = sirritian
-		religion = catholic
-		size = 1190
 	}
     }
 396={
 	farmers = {
-		culture = sirritian
+		culture = dregs
 		religion = catholic
 		size = 5900
 	}
 	soldiers = {
-		culture = sirritian
+		culture = dregs
 		religion = catholic
 		size = 2160
 	}
@@ -3674,7 +3609,7 @@
     }
 406={
         farmers = {
-		culture = farferian
+		culture = khanlian
 		religion = catholic
 		size = 2650
 	}
@@ -3744,12 +3679,12 @@
     }
 413={
     farmers = {
-		culture = innish
+		culture = mouldavian
 		religion = catholic
 		size = 3640
 	}
 	soldiers = {
-		culture = innish
+		culture = mouldavian
 		religion = catholic
 		size = 2100
 	}
@@ -3770,14 +3705,14 @@
     }
 416={
 	farmers = {
-		culture = salentine
-		religion = catholic
+		culture = borogravian
+		religion = nugganite
 		size = 1450
 	}
 }
 417={
 	farmers = {
-		culture = upper_uberwaldian
+		culture = rheinthalian
 		religion = catholic
 		size = 1630
 	}
@@ -3918,12 +3853,12 @@
 		size = 9776
 	}
 	labourers = {
-		culture = octarine
+		culture = hergen
 		religion = catholic
 		size = 9900
 	}
 	slaves = {
-		culture = octarine
+		culture = hergen
 		religion = catholic
 		size = 16500
 	}
@@ -3995,7 +3930,7 @@
     }
 431={
 	farmers = {
-		culture = hublander
+		culture = troll
 		religion = catholic
 		size = 136
 	}
@@ -4653,19 +4588,14 @@
     }
 485={
     farmers = {
-		culture = sirritian
+		culture = nefian
 		religion = catholic
 		size = 3740
-	}
-	soldiers = {
-		culture = sirritian
-		religion = catholic
-		size = 1240
 	}
     }
 486={
         farmers = {
-		culture = elharibian
+		culture = nefian
 		religion = catholic
 		size = 2400
 	}
@@ -4679,21 +4609,21 @@
     }
 488={
         farmers = {
-		culture = elharibian
+		culture = nefian
 		religion = catholic
 		size = 1320
 	}
     }
 489={
         farmers = {
-		culture = elharibian
+		culture = nefian
 		religion = catholic
 		size = 1400
 	}
     }
 490={
         farmers = {
-		culture = elharibian
+		culture = nefian
 		religion = catholic
 		size = 780
 	}
@@ -4726,27 +4656,27 @@
 }
 494={
 	aristocrats = {
-		culture = laotani
+		culture = low_laotani
 		religion = catholic
 		size = 60
 	}
     farmers = {
-		culture = laotani
+		culture = low_laotani
 		religion = catholic
 		size = 9200
 	}
 	soldiers = {
-		culture = laotani
+		culture = low_laotani
 		religion = catholic
 		size = 2900
 	}
 	soldiers = {
-		culture = low_laotani
+		culture = laotani
 		religion = catholic
 		size = 1350
 	}
 	artisans = {
-		culture = laotani
+		culture = low_laotani
 		religion = catholic
 		size = 1780
 	}
@@ -4813,12 +4743,12 @@
     }
 500={
     farmers = {
-		culture = laotani
+		culture = low_laotani
 		religion = catholic
 		size = 5400
 	}
 	soldiers = {
-		culture = laotani
+		culture = low_laotani
 		religion = catholic
 		size = 1800
 	}
@@ -4842,7 +4772,7 @@
 		size = 1100
 	}
 	farmers = {
-		culture = laotani
+		culture = low_laotani
 		religion = catholic
 		size = 2900
 	}
@@ -4866,110 +4796,110 @@
     }
 580={
 	farmers = {
-		culture = mouldavian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 3540
 	}
 	soldiers = {
-		culture = mouldavian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 1100
 	}
     }
 581={
 	farmers = {
-		culture = mouldavian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 5800
 	}
 	soldiers = {
-		culture = mouldavian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 2100
 	}
 	soldiers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 1800
 	}
 	farmers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 2500
 	}
     }
 582={
 	farmers = {
-		culture = mouldavian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 7500
 	}
 	soldiers = {
-		culture = mouldavian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 2000
 	}
     }
 583={
 	farmers = {
-		culture = mouldavian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 3650
 	}
 	soldiers = {
-		culture = mouldavian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 1100
 	}
     }
 584={
 	farmers = {
-		culture = mouldavian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 5400
 	}
 	soldiers = {
-		culture = mouldavian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 1100
 	}
     }
 585={
 	farmers = {
-		culture = mouldavian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 11800
 	}
 	soldiers = {
-		culture = mouldavian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 2400
 	}
     }
 586={
 	farmers = {
-		culture = mouldavian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 7500
 	}
 	soldiers = {
-		culture = mouldavian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 4400
 	}
 	aristocrats = {
-		culture = mouldavian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 50
 	}
 	artisans = {
-		culture = mouldavian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 5600
 	}
 	artisans = {
-		culture = borogravian
-		religion = nugganite
+		culture = klatchistanian
+		religion = catholic
 		size = 500
 	}
 	artisans = {
@@ -4980,51 +4910,51 @@
     }
 587={
 	farmers = {
-		culture = mouldavian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 6190
 	}
 	soldiers = {
-		culture = mouldavian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 1200
 	}
     }
 588={
 	farmers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 5400
 	}
 	farmers = {
-		culture = varnith
+		culture = north_klatchistanian
 		religion = catholic
 		size = 1460
 	}
 	soldiers = {
-		culture = varnith
+		culture = north_klatchistanian
 		religion = catholic
 		size = 960
 	}
 	soldiers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 590
 	}
     }
 589={
 	farmers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 7200
 	}
 	farmers = {
-		culture = varnith
+		culture = borogravian
 		religion = catholic
 		size = 2870
 	}
 	soldiers = {
-		culture = varnith
+		culture = zlobenian
 		religion = catholic
 		size = 740
 	}
@@ -5036,74 +4966,74 @@
 		size = 3600
 	}
 	farmers = {
-		culture = varnith
+		culture = zlobenian
 		religion = catholic
 		size = 2940
 	}
 	soldiers = {
-		culture = varnith
+		culture = zlobenian
 		religion = catholic
 		size = 1260
 	}
     }
 591={
 	farmers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 4500
 	}
     }
 592={
 	farmers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 3600
 	}
 	soldiers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 1500
 	}
     }
 593={
 	farmers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 1350
 	}
     }
 594={
 	farmers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
-		size = 1400
+		size = 6400
 	}
 	farmers = {
-		culture = mouldavian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 2900
 	}
     }
 595={
 	farmers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 680
 	}
 	farmers = {
-		culture = mouldavian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 3650
 	}
     }
 596={
 	farmers = {
-		culture = borogravian
+		culture = north_klatchistanian
 		religion = nugganite
 		size = 4600
 	}
 	soldiers = {
-		culture = borogravian
+		culture = north_klatchistanian
 		religion = nugganite
 		size = 1600
 	}
@@ -5127,108 +5057,108 @@
     }
 598={
 	farmers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 3900
 	}
     }
 599={
 	farmers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 5400
 	}
     }
 600={
     farmers = {
-		culture = borogravian
+		culture = mouldavian
 		religion = nugganite
 		size = 1400
 	}
 	farmers = {
-		culture = mouldavian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 1980
 	}
 	soldiers = {
-		culture = mouldavian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 1310
 	}
     }
 601={
 	farmers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 5400
 	}
 	farmers = {
-		culture = mouldavian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 4600
 	}
 	soldiers = {
-		culture = mouldavian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 2240
 	}
     }
 602={
 	farmers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 2960
 	}
     }
 603={
 	farmers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 45000
 	}
 	artisans = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 3500
 	}
 	soldiers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 6200
 	}
 	aristocrats = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 320
 	}
 	officers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 10
 	}
     }
 604={
     farmers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 12580
 	}
 	soldiers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 1700
 	}
     }
 605={
 	farmers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 8500
 	}
     }
 606={
 	farmers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 2100
 	}
@@ -5250,7 +5180,7 @@
     }
 607={
     farmers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 2500
 	}
@@ -5260,7 +5190,7 @@
 		size = 1500
 	}
 	soldiers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 1100
 	}
@@ -5272,49 +5202,28 @@
     }
 608={
     farmers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 8500
 	}
     }
 609={
     farmers = {
-		culture = borogravian
+		culture = mouldavian
 		religion = nugganite
 		size = 3500
+	}
+	farmers = {
+		culture = zlobenian
+		religion = nugganite
+		size = 1900
 	}
     }
 610={
     farmers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
-		size = 3500
-	}
-	farmers = {
-		culture = mouldavian
-		religion = nugganite
-		size = 1780
-	}
-    }
-611={
-    farmers = {
-		culture = borogravian
-		religion = nugganite
-		size = 7800
-	}
-    }
-612={
-	farmers = {
-		culture = borogravian
-		religion = nugganite
-		size = 3500
-	}
-    }
-613={
-	farmers = {
-		culture = borogravian
-		religion = nugganite
-		size = 6200
+		size = 1500
 	}
 	farmers = {
 		culture = mouldavian
@@ -5322,7 +5231,85 @@
 		size = 3780
 	}
     }
+611={
+    farmers = {
+		culture = zlobenian
+		religion = nugganite
+		size = 7800
+	}
+    }
+612={
+	farmers = {
+		culture = mouldavian
+		religion = nugganite
+		size = 3500
+	}
+    }
+613={
+	farmers = {
+		culture = mouldavian
+		religion = nugganite
+		size = 6780
+	}
+    }
 614={
+	farmers = {
+		culture = mouldavian
+		religion = nugganite
+		size = 3400
+	}
+	soldiers = {
+		culture = mouldavian
+		religion = nugganite
+		size = 1700
+	}
+    }
+615={
+    farmers = {
+		culture = mouldavian
+		religion = nugganite
+		size = 4100
+	}
+	soldiers = {
+		culture = mouldavian
+		religion = nugganite
+		size = 1700
+	}
+    }
+616={
+    farmers = {
+		culture = mouldavian
+		religion = nugganite
+		size = 2400
+	}
+	soldiers = {
+		culture = mouldavian
+		religion = nugganite
+		size = 1800
+	}
+    }
+617={
+    farmers = {
+		culture = mouldavian
+		religion = nugganite
+		size = 3500
+	}
+    }
+618={
+	farmers = {
+		culture = mouldavian
+		religion = nugganite
+		size = 5600
+	}
+    }
+619={
+	farmers = {
+		culture = mouldavian
+		religion = nugganite
+		size = 4700
+	}
+    }
+620={
 	farmers = {
 		culture = borogravian
 		religion = nugganite
@@ -5334,63 +5321,6 @@
 		size = 1910
 	}
     }
-615={
-    farmers = {
-		culture = borogravian
-		religion = nugganite
-		size = 4100
-	}
-	soldiers = {
-		culture = borogravian
-		religion = nugganite
-		size = 1700
-	}
-    }
-616={
-    farmers = {
-		culture = borogravian
-		religion = nugganite
-		size = 2400
-	}
-	soldiers = {
-		culture = borogravian
-		religion = nugganite
-		size = 1800
-	}
-    }
-617={
-    farmers = {
-		culture = borogravian
-		religion = nugganite
-		size = 3500
-	}
-    }
-618={
-	farmers = {
-		culture = borogravian
-		religion = nugganite
-		size = 5600
-	}
-    }
-619={
-	farmers = {
-		culture = borogravian
-		religion = nugganite
-		size = 4700
-	}
-    }
-620={
-	farmers = {
-		culture = borogravian
-		religion = nugganite
-		size = 3400
-	}
-	soldiers = {
-		culture = borogravian
-		religion = nugganite
-		size = 1700
-	}
-    }
 621={
 	farmers = {
 		culture = borogravian
@@ -5400,6 +5330,11 @@
     }
 622={
 	farmers = {
+		culture = zlobenian
+		religion = nugganite
+		size = 2450
+	}
+	farmers = {
 		culture = borogravian
 		religion = nugganite
 		size = 2450
@@ -5407,227 +5342,227 @@
     }
 623={
 	farmers = {
-		culture = borogravian
+		culture = mouldavian
 		religion = nugganite
 		size = 4500
 	}
 	soldiers = {
-		culture = borogravian
+		culture = mouldavian
 		religion = nugganite
 		size = 1300
 	}
 	officers = {
 		culture = borogravian
-		religion = nugganite
+		religion = mouldavian
 		size = 10
 	}
 	aristocrats = {
-		culture = borogravian
+		culture = mouldavian
 		religion = nugganite
 		size = 50
 	}
     }
 624={
 	farmers = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 5500
 	}
 	soldiers = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 2200
 	}
 	aristocrats = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 75
 	}
     }
 625={
 	farmers = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 6500
 	}
 	soldiers = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 2200
 	}
     }
 626={
 	farmers = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 8400
 	}
 	artisans = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 1000
 	}
 	aristocrats = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 45
 	}
     }
 627={
 	farmers = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 6900
 	}
 	soldiers = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 1100
 	}
     }
 628={
     farmers = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 34000
 	}
 	farmers = {
-		culture = zlobenian
+		culture = borogravian
 		religion = catholic
 		size = 3500
 	}
 	soldiers = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 6500
 	}
 	aristocrats = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 150
 	}
 	artisans = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 2900
 	}
     }	
 629={
 	farmers = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 5800
 	}
     }
 630={
 	farmers = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 6600
 	}
 	soldiers = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 1200
 	}
     }
 631={
 	farmers = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 5600
 	}
 	soldiers = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 2300
 	}
 	artisans = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 3100
 	}
 	aristocrats = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 80
 	}
     }
 632={
 	farmers = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 9600
 	}
 	artisans = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 550
 	}
     }
 633={
 	farmers = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 6600
 	}
 	aristocrats = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 50
 	}
     }
 634={
 	farmers = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 9250
 	}
 	soldiers = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 2400
 	}
 	artisans = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 1200
 	}
 	aristocrats = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 50
 	}
     }
 635={
 	farmers = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 3590
 	}
     }
 636={
 	farmers = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 4500
 	}
     }
 637={
 	farmers = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 5100
 	}
     }
 638={
 	farmers = {
-		culture = zlobenian
+		culture = mouldavian
 		religion = nugganite
 		size = 2800
 	}
 	artisans = {
-		culture = zlobenian
+		culture = mouldavian
 		religion = nugganite
 		size = 50
 	}
@@ -5663,19 +5598,19 @@
     }
 641={
 	farmers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = nugganite
 		size = 650
 	}
     farmers = {
-		culture = zlobenian
+		culture = borogravian
 		religion = nugganite
 		size = 1400
 	}
 }
 655={
     labourers = {
-		culture = upper_uberwaldian
+		culture = varnith
 		religion = othordox_omnianism
 		size = 3600
 	}
@@ -5707,33 +5642,33 @@
 }
 656={
     farmers = {
-		culture = upper_uberwaldian
+		culture = uberwaldian
 		religion = catholic
 		size = 1350
 	}
 }
 657={
     farmers = {
-		culture = upper_uberwaldian
+		culture = uberwaldian
 		religion = catholic
 		size = 3690
 	}
 }
 658={
     farmers = {
-		culture = upper_uberwaldian
+		culture = uberwaldian
 		religion = catholic
 		size = 1710
 	}
 }
 659={
     labourers = {
-		culture = upper_uberwaldian
+		culture = varnith
 		religion = catholic
 		size = 9420
 	}
 	soldiers = {
-		culture = upper_uberwaldian
+		culture = varnith
 		religion = catholic
 		size = 3470
 	}
@@ -5745,12 +5680,12 @@
 }
 660={
     farmers = {
-		culture = lipswiger
+		culture = varnith
 		religion = catholic
 		size = 3860
 	}
 	soldiers = {
-		culture = lipswiger
+		culture = varnith
 		religion = catholic
 		size = 1120
 	}
@@ -5767,78 +5702,78 @@
 }
 661={
     farmers = {
-		culture = lipswiger
+		culture = skundlander
 		religion = catholic
 		size = 3987
 	}
 }
 662={
     farmers = {
-		culture = lipswiger
+		culture = skundlander
 		religion = catholic
 		size = 5400
 	}
 }
 663={
     farmers = {
-		culture = lipswiger
+		culture = skundlander
 		religion = catholic
 		size = 3930
 	}
 }
 664={
     farmers = {
-		culture = lipswiger
+		culture = skundlander
 		religion = catholic
 		size = 4980
 	}
 }
 665={
     farmers = {
-		culture = lipswiger
+		culture = skundlander
 		religion = catholic
 		size = 6210
 	}
 	soldiers = {
-		culture = lipswiger
+		culture = skundlander
 		religion = catholic
 		size = 2380
 	}
 }
 666={
     farmers = {
-		culture = lipswiger
+		culture = skundlander
 		religion = catholic
 		size = 4980
 	}
 }
 667={
     farmers = {
-		culture = lipswiger
+		culture = ramtop
 		religion = catholic
 		size = 3600
 	}
 }
 668={
     farmers = {
-		culture = lipswiger
+		culture = ramtop
 		religion = catholic
 		size = 4800
 	}
 }
 669={
     farmers = {
-		culture = lipswiger
+		culture = rheinthalian
 		religion = catholic
 		size = 4600
 	}
 	artisans = {
-		culture = lipswiger
+		culture = rheinthalian
 		religion = catholic
 		size = 650
 	}
 	soldiers = {
-		culture = lipswiger
+		culture = rheinthalian
 		religion = catholic
 		size = 2100
 	}
@@ -5847,14 +5782,39 @@
     farmers = {
 		culture = upper_uberwaldian
 		religion = catholic
-		size = 500
+		size = 1400
+	}
+	 farmers = {
+		culture = uberwaldian
+		religion = catholic
+		size = 3700
 	}
 }
 671={
-    farmers = {
+    aristocrats = {
+		culture = vampyre
+		religion = catholic
+		size = 150
+	}
+    soldiers = {
 		culture = upper_uberwaldian
 		religion = catholic
-		size = 500
+		size = 2800
+	}
+	labourers = {
+		culture = upper_uberwaldian
+		religion = catholic
+		size = 6400
+	}
+	labourers = {
+		culture = dwarf
+		religion = catholic
+		size = 3300
+	}
+	aristocrats = {
+		culture = dwarf
+		religion = catholic
+		size = 50
 	}
 }
 672={
@@ -5862,6 +5822,11 @@
 		culture = upper_uberwaldian
 		religion = catholic
 		size = 2600
+	}
+	 farmers = {
+		culture = uberwaldian
+		religion = catholic
+		size = 3500
 	}
 }
 673={
@@ -5922,8 +5887,13 @@
 		religion = catholic
 		size = 1000
 	}
+	officers = {
+		culture = vampyre
+		religion = catholic
+		size = 20
+	}
 	labourers = {
-		culture = uberwaldian
+		culture = upper_uberwaldian
 		religion = catholic
 		size = 25000
 	}
@@ -5933,17 +5903,17 @@
 		size = 100
 	}
 	soldiers = {
-		culture = uberwaldian
+		culture = upper_uberwaldian
 		religion = catholic
 		size = 6000
 	}
 	artisans = {
-		culture = uberwaldian
+		culture = upper_uberwaldian
 		religion = catholic
 		size = 7000
 	}
 	artisans = {
-		culture = uberwaldian
+		culture = upper_uberwaldian
 		religion = catholic
 		size = 1000
 	}
@@ -5987,7 +5957,7 @@
 }
 676={
 	craftsmen = {
-		culture = uberwaldian
+		culture = upper_uberwaldian
 		religion = othordox_omnianism
 		size = 1500
 	}
@@ -5997,7 +5967,7 @@
 		size = 200
 	}
     labourers = {
-		culture = uberwaldian
+		culture = upper_uberwaldian
 		religion = othordox_omnianism
 		size = 5310
 	}
@@ -6019,7 +5989,7 @@
 }
 677={
     labourers = {
-		culture = uberwaldian
+		culture = lipswiger
 		religion = othordox_omnianism
 		size = 2460
 	}
@@ -6083,8 +6053,8 @@
 }
 684={
     labourers = {
-		culture = varnith
-		religion = othordox_omnianism
+		culture = skundlander
+		religion = catholic
 		size = 2300
 	}
 	labourers = {
@@ -6095,8 +6065,8 @@
 }
 685={
     labourers = {
-		culture = varnith
-		religion = othordox_omnianism
+		culture = skundlander
+		religion = catholic
 		size = 1820
 	}
 	labourers = {
@@ -6107,14 +6077,14 @@
 }
 686={
     labourers = {
-		culture = varnith
-		religion = othordox_omnianism
+		culture = skundlander
+		religion = catholic
 		size = 3240
 	}
 }
 687={
     labourers = {
-		culture = uberwaldian
+		culture = rheinthalian
 		religion = othordox_omnianism
 		size = 1890
 	}
@@ -6126,9 +6096,9 @@
 }
 688={
     farmers = {
-		culture = uberwaldian
-		religion = othordox_omnianism
-		size = 2600
+		culture = skundlander
+		religion = catholic
+		size = 6600
 	}
 	soldiers = {
 		culture = werewolves
@@ -6138,19 +6108,19 @@
 }
 689={
     farmers = {
-		culture = uberwaldian
+		culture = rheinthalian
 		religion = othordox_omnianism
 		size = 1994
 	}
 	artisans = {
-		culture = uberwaldian
+		culture = rheinthalian
 		religion = othordox_omnianism
 		size = 107
 	}
 }
 690={
     farmers = {
-		culture = uberwaldian
+		culture = rheinthalian
 		religion = othordox_omnianism
 		size = 2130
 	}
@@ -6172,14 +6142,14 @@
 }
 691={
     farmers = {
-		culture = uberwaldian
+		culture = rheinthalian
 		religion = othordox_omnianism
 		size = 1875
 	}
 }
 692={
     farmers = {
-		culture = uberwaldian
+		culture = rheinthalian
 		religion = othordox_omnianism
 		size = 2000
 	}
@@ -6201,14 +6171,14 @@
 		size = 3500
 	}
     farmers = {
-		culture = uberwaldian
+		culture = rheinthalian
 		religion = othordox_omnianism
 		size = 21000
 	}
 }
 694={
     farmers = {
-		culture = uberwaldian
+		culture = rheinthalian
 		religion = othordox_omnianism
 		size = 3750
 	}
@@ -6220,21 +6190,21 @@
 }
 695={
     farmers = {
-		culture = uberwaldian
+		culture = rheinthalian
 		religion = othordox_omnianism
 		size = 3600
 	}
 }
 696={
     farmers = {
-		culture = uberwaldian
+		culture = varnith
 		religion = othordox_omnianism
 		size = 3840
 	}
 }
 697={
     farmers = {
-		culture = uberwaldian
+		culture = varnith
 		religion = othordox_omnianism
 		size = 2800
 	}
@@ -6283,7 +6253,7 @@
 }
 699={
     farmers = {
-		culture = uberwaldian
+		culture = lipswiger
 		religion = othordox_omnianism
 		size = 1230
 	}
@@ -6315,12 +6285,12 @@
 }
 700={
     labourers = {
-		culture = uberwaldian
+		culture = lipswiger
 		religion = othordox_omnianism
 		size = 4800
 	}
 	craftsmen = {
-		culture = uberwaldian
+		culture = lipswiger
 		religion = othordox_omnianism
 		size = 700
 	}
@@ -6342,7 +6312,7 @@
 }
 701={
 	farmers = {
-		culture = upper_uberwaldian
+		culture = rheinthalian
 		religion = catholic
 		size = 890
 	}
@@ -6353,25 +6323,10 @@
 	}
 }
 702={
-	aristocrats = {
-		culture = vampyre
+	farmers = {
+		culture = rheinthalian
 		religion = catholic
-		size = 150
-	}
-    farmers = {
-		culture = uberwaldian
-		religion = catholic
-		size = 2800
-	}
-	labourers = {
-		culture = dwarf
-		religion = catholic
-		size = 8300
-	}
-	aristocrats = {
-		culture = dwarf
-		religion = catholic
-		size = 50
+		size = 500
 	}
 }
 703={
@@ -6391,7 +6346,7 @@
 		size = 580
 	}
     farmers = {
-		culture = uberwaldian
+		culture = rheinthalian
 		religion = catholic
 		size = 2500
 	}
@@ -6408,14 +6363,14 @@
 		size = 3000
 	}
     farmers = {
-		culture = uberwaldian
+		culture = rheinthalian
 		religion = catholic
 		size = 4500
 	}
 }
 705={
     labourers = {
-		culture = uberwaldian
+		culture = rheinthalian
 		religion = catholic
 		size = 3000
 	}
@@ -6427,7 +6382,7 @@
 }
 706={
     labourers = {
-		culture = uberwaldian
+		culture = rheinthalian
 		religion = catholic
 		size = 3000
 	}
@@ -6439,7 +6394,7 @@
 }
 707={
     farmers = {
-		culture = uberwaldian
+		culture = lipswiger
 		religion = catholic
 		size = 7900
 	}
@@ -6451,7 +6406,7 @@
 }
 708={
     farmers = {
-		culture = uberwaldian
+		culture = lipswiger
 		religion = catholic
 		size = 12000
 	}
@@ -6466,7 +6421,7 @@
 		size = 2300
 	}
 	soldiers = {
-		culture = uberwaldian
+		culture = lipswiger
 		religion = catholic
 		size = 1200
 	}
@@ -6483,7 +6438,7 @@
 		size = 1100
 	}
     farmers = {
-		culture = uberwaldian
+		culture = lipswiger
 		religion = catholic
 		size = 2700
 	}
@@ -6517,13 +6472,13 @@
 		size = 4000
 	}
 	labourers = {
-		culture = uberwaldian
-		religion = catholic
+		culture = borogravian
+		religion = nugganite
 		size = 5000
 	}
 	aristocrats = {
-		culture = vampyre
-		religion = catholic
+		culture = borogravian
+		religion = nugganite
 		size = 100
 	}
 	aristocrats = {
@@ -6534,20 +6489,20 @@
 }
 712={
     labourers = {
-		culture = dwarf
+		culture = borogravian
 		religion = catholic
 		size = 2400
 	}
 	aristocrats = {
-		culture = dwarf
+		culture = borogravian
 		religion = catholic
 		size = 100
 	}
 }
 713={
     farmers = {
-		culture = uberwaldian
-		religion = catholic
+		culture = borogravian
+		religion = nugganite
 		size = 4000
 	}
 	aristocrats = {
@@ -6580,322 +6535,267 @@
 }
 715={
     farmers = {
-		culture = rheinthalian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 3120
 	}
 }
 716={
     farmers = {
-		culture = rheinthalian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 2650
 	}
 }
 717={
     farmers = {
-		culture = rheinthalian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 2984
 	}
 }
 718={
     farmers = {
-		culture = rheinthalian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 1130
 	}
 }
 719={
     farmers = {
-		culture = rheinthalian
+		culture = sto_plainer
 		religion = catholic
 		size = 2300
 	}
 	soldiers = {
-		culture = rheinthalian
+		culture = sto_plainer
 		religion = catholic
 		size = 1100
 	}
 }
 720={
     farmers = {
-		culture = rheinthalian
+		culture = sto_plainer
 		religion = catholic
 		size = 2600
 	}
 }
 721={
     farmers = {
-		culture = rheinthalian
+		culture = sto_plainer
 		religion = catholic
 		size = 3600
 	}
 }
 722={
     farmers = {
-		culture = rheinthalian
+		culture = sto_plainer
 		religion = catholic
 		size = 9700
-	}
-	artisans = {
-		culture = rheinthalian
-		religion = catholic
-		size = 1500
-	}
-	soldiers = {
-		culture = rheinthalian
-		religion = catholic
-		size = 3500
-	}
-	aristocrats = {
-		culture = rheinthalian
-		religion = catholic
-		size = 120
-	}
-	clergymen = {
-		culture = rheinthalian
-		religion = catholic
-		size = 1600
 	}
 }
 723={
     farmers = {
-		culture = rheinthalian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 4150
 	}
 }
 724={
     farmers = {
-		culture = rheinthalian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 1450
 	}
 }
 725={
     farmers = {
-		culture = rheinthalian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 3800
 	}
 	soldiers = {
-		culture = rheinthalian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 3800
 	}
 }
 726={
     farmers = {
-		culture = rheinthalian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 2150
 	}
 }
 727={
     farmers = {
-		culture = rheinthalian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 3790
 	}
 }
 728={
     farmers = {
-		culture = rheinthalian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 1360
 	}
 }
 729={
     farmers = {
-		culture = rheinthalian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 1700
 	}
 }
 730={
     farmers = {
-		culture = rheinthalian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 950
 	}
 	artisans = {
-		culture = rheinthalian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 140
 	}
 }
 731={
     farmers = {
-		culture = rheinthalian
+		culture = sto_plainer
 		religion = catholic
 		size = 2810
 	}
-	artisans = {
-		culture = rheinthalian
-		religion = catholic
-		size = 600
-	}
 	soldiers = {
-		culture = rheinthalian
+		culture = sto_plainer
 		religion = catholic
 		size = 1100
 	}
 }
 732={
     farmers = {
-		culture = rheinthalian
+		culture = sto_plainer
 		religion = catholic
 		size = 6300
 	}
-	artisans = {
-		culture = rheinthalian
-		religion = catholic
-		size = 2500
-	}
 	soldiers = {
-		culture = rheinthalian
+		culture = sto_plainer
 		religion = catholic
 		size = 3100
 	}
 }
 733={
     farmers = {
-		culture = rheinthalian
+		culture = sto_plainer
 		religion = catholic
 		size = 1990
 	}
 }
 734={
     farmers = {
-		culture = varnith
+		culture = sto_plainer
 		religion = catholic
 		size = 3180
 	}
 }
 735={
     farmers = {
-		culture = varnith
+		culture = sto_plainer
 		religion = catholic
 		size = 1680
 	}
 	soldiers = {
-		culture = varnith
+		culture = sto_plainer
 		religion = catholic
 		size = 1970
 	}
 }
 736={
     farmers = {
-		culture = varnith
+		culture = sto_plainer
 		religion = catholic
 		size = 2670
 	}
 }
 737={
     farmers = {
-		culture = varnith
+		culture = skundlander
 		religion = catholic
 		size = 1500
 	}
 }
 738={
     farmers = {
-		culture = varnith
+		culture = sto_plainer
 		religion = catholic
 		size = 4000
 	}
 	soldiers = {
-		culture = varnith
+		culture = sto_plainer
 		religion = catholic
 		size = 1200
-	}
-	soldiers = {
-		culture = vampyre
-		religion = catholic
-		size = 700
-	}
-	artisans = {
-		culture = varnith
-		religion = catholic
-		size = 340
-	}
-	aristocrats = {
-		culture = vampyre
-		religion = catholic
-		size = 60
 	}
 }
 739={
     farmers = {
-		culture = varnith
+		culture = skundlander
 		religion = catholic
 		size = 1360
 	}
 }
 740={
     farmers = {
-		culture = varnith
+		culture = sto_plainer
 		religion = catholic
 		size = 3400
 	}
 }
 741={
     farmers = {
-		culture = varnith
+		culture = sto_plainer
 		religion = catholic
 		size = 1600
 	}
 	soldiers = {
-		culture = varnith
+		culture = sto_plainer
 		religion = catholic
 		size = 800
-	}
-	soldiers = {
-		culture = vampyre
-		religion = catholic
-		size = 300
-	}
-	aristocrats = {
-		culture = vampyre
-		religion = catholic
-		size = 160
 	}
 }
 742={
     farmers = {
-		culture = varnith
+		culture = sto_plainer
 		religion = catholic
 		size = 2400
 	}
 	farmers = {
-		culture = borogravian
+		culture = north_klatchistanian
 		religion = catholic
 		size = 640
 	}
 }
 743={
     farmers = {
-		culture = varnith
+		culture = north_klatchistanian
 		religion = catholic
 		size = 2450
 	}
 	farmers = {
-		culture = borogravian
+		culture = zlobenian
 		religion = catholic
 		size = 980
 	}
 }
 744={
     farmers = {
-		culture = varnith
+		culture = skundlander
 		religion = catholic
 		size = 2400
 	}
 }
 745={
     farmers = {
-		culture = varnith
+		culture = zlobenian
 		religion = catholic
 		size = 1350
 	}
@@ -6907,24 +6807,24 @@
 }
 746={
     farmers = {
-		culture = dlinzer
-		religion = catholic
+		culture = zlobenian
+		religion = nugganite
 		size = 2500
 	}
 	artisans = {
-		culture = dlinzer
-		religion = catholic
+		culture = zlobenian
+		religion = nugganite
 		size = 600
 	}
 	soldiers = {
-		culture = dlinzer
-		religion = catholic
-		size = 1200
+		culture = zlobenian
+		religion = nugganite
+		size = 2100
 	}
 	soldiers = {
 		culture = werewolves
 		religion = catholic
-		size = 2100
+		size = 1200
 	}
 	aristocrats = {
 		culture = werewolves
@@ -6932,79 +6832,79 @@
 		size = 50
 	}
 	clergymen = {
-		culture = werewolves
-		religion = catholic
+		culture = zlobenian
+		religion = nugganite
 		size = 150
 	}
 }
 747={
     farmers = {
-		culture = dlinzer
+		culture = borogravian
 		religion = catholic
 		size = 13000
 	}
 	artisans = {
-		culture = dlinzer
+		culture = borogravian
 		religion = catholic
 		size = 4000
 	}
 	soldiers = {
-		culture = dlinzer
+		culture = borogravian
 		religion = catholic
 		size = 4600
 	}
 	aristocrats = {
-		culture = dlinzer
+		culture = borogravian
 		religion = catholic
 		size = 120
 	}
 	officers = {
-		culture = dlinzer
+		culture = borogravian
 		religion = catholic
 		size = 30
 	}
 }
 748={
     farmers = {
-		culture = dlinzer
+		culture = borogravian
 		religion = catholic
 		size = 3670
 	}
 	soldiers = {
-		culture = dlinzer
+		culture = borogravian
 		religion = catholic
 		size = 970
 	}
 }
 749={
     farmers = {
-		culture = dlinzer
+		culture = borogravian
 		religion = catholic
 		size = 8920
 	}
 }
 750={
     farmers = {
-		culture = dlinzer
+		culture = borogravian
 		religion = catholic
 		size = 5250
 	}
 }
 751={
     farmers = {
-		culture = dlinzer
+		culture = borogravian
 		religion = catholic
 		size = 2980
 	}
 	soldiers = {
-		culture = werewolves
+		culture = borogravian
 		religion = catholic
-		size = 590
+		size = 1590
 	}
 }
 752={
     farmers = {
-		culture = dlinzer
+		culture = borogravian
 		religion = catholic
 		size = 900
 	}
@@ -7014,14 +6914,14 @@
 		size = 400
 	}
 	soldiers = {
-		culture = werewolves
+		culture = borogravian
 		religion = catholic
 		size = 1100
 	}
 }
 753={
     farmers = {
-		culture = dlinzer
+		culture = borogravian
 		religion = catholic
 		size = 1700
 	}
@@ -7033,7 +6933,7 @@
 }
 754={
     farmers = {
-		culture = dlinzer
+		culture = borogravian
 		religion = catholic
 		size = 4450
 	}
@@ -7045,49 +6945,49 @@
 }
 755={
     farmers = {
-		culture = dlinzer
+		culture = borogravian
 		religion = catholic
 		size = 10310
 	}
 }
 756={
     farmers = {
-		culture = dlinzer
+		culture = borogravian
 		religion = catholic
 		size = 9650
 	}
 }
 757={
     farmers = {
-		culture = dlinzer
+		culture = borogravian
 		religion = catholic
 		size = 8830
 	}
 }
 758={
     farmers = {
-		culture = dlinzer
+		culture = borogravian
 		religion = catholic
 		size = 8435
 	}
 }
 759={
     farmers = {
-		culture = dlinzer
+		culture = uberwaldian
 		religion = catholic
 		size = 7487
 	}
 }
 760={
     farmers = {
-		culture = dlinzer
+		culture = vieuxish
 		religion = catholic
 		size = 4260
 	}
 }
 761={
     farmers = {
-		culture = dlinzer
+		culture = vieuxish
 		religion = catholic
 		size = 8780
 	}
@@ -7101,24 +7001,24 @@
 }
 763={
     farmers = {
-		culture = dlinzer
+		culture = borogravian
 		religion = catholic
 		size = 3410
 	}
 }
 764={
     farmers = {
-		culture = dlinzer
+		culture = vieuxish
 		religion = catholic
 		size = 5800
 	}
 	soldiers = {
-		culture = dlinzer
+		culture = vieuxish
 		religion = catholic
 		size = 1800
 	}
 	clergymen = {
-		culture = dlinzer
+		culture = vieuxish
 		religion = catholic
 		size = 200
 	}
@@ -7130,21 +7030,21 @@
 }
 765={
     farmers = {
-		culture = dlinzer
+		culture = vieuxish
 		religion = catholic
 		size = 3100
 	}
 }
 766={
     farmers = {
-		culture = dlinzer
+		culture = vieuxish
 		religion = catholic
 		size = 1900
 	}
 }
 767={
     farmers = {
-		culture = dlinzer
+		culture = vieuxish
 		religion = catholic
 		size = 2500
 	}
@@ -7194,21 +7094,21 @@
 }
 772={
     farmers = {
-		culture = vieuxish
+		culture = borogravian
 		religion = catholic
 		size = 2150
 	}
 }
 773={
     farmers = {
-		culture = vieuxish
+		culture = borogravian
 		religion = catholic
 		size = 2410
 	}
 }
 774={
     farmers = {
-		culture = vieuxish
+		culture = borogravian
 		religion = catholic
 		size = 2360
 	}
@@ -7232,12 +7132,12 @@
 }
 776={
     farmers = {
-		culture = vieuxish
+		culture = upper_uberwaldian
 		religion = catholic
 		size = 18700
 	}
 	soldiers = {
-		culture = vieuxish
+		culture = upper_uberwaldian
 		religion = catholic
 		size = 1200
 	}
@@ -7251,27 +7151,37 @@
 }
 778={
 	farmers = {
+		culture = outer_uberwaldian
+		religion = catholic
+		size = 18500
+	}
+	farmers = {
 		culture = vieuxish
 		religion = catholic
-		size = 28500
+		size = 7500
 	}
 	soldiers = {
 		culture = vieuxish
 		religion = catholic
-		size = 8500
+		size = 3500
+	}
+	soldiers = {
+		culture = outer_uberwaldian
+		religion = catholic
+		size = 4700
 	}
 	aristocrats = {
-		culture = vieuxish
+		culture = outer_uberwaldian
 		religion = catholic
 		size = 40
 	}
 	clergymen = {
-		culture = vieuxish
+		culture = outer_uberwaldian
 		religion = catholic
 		size = 120
 	}
 	artisans = {
-		culture = vieuxish
+		culture = outer_uberwaldian
 		religion = catholic
 		size = 450
 	}
@@ -7334,8 +7244,8 @@
 }
 782={
     farmers = {
-		culture = uberwaldian
-		religion = othordox_omnianism
+		culture = borogravian
+		religion = nugganite
 		size = 13000
 	}
 	artisans = {
@@ -7349,8 +7259,8 @@
 		size = 480
 	}
 	clergymen = {
-		culture = uberwaldian
-		religion = othordox_omnianism
+		culture = borogravian
+		religion = nugganite
 		size = 150
 	}
 	clergymen = {
@@ -7359,13 +7269,13 @@
 		size = 70
 	}
 	aristocrats = {
-		culture = vampyre
-		religion = othordox_omnianism
+		culture = borogravian
+		religion = nugganite
 		size = 100
 	}
 	soldiers = {
-		culture = vampyre
-		religion = othordox_omnianism
+		culture = borogravian
+		religion = nugganite
 		size = 3000
 	}
 }
@@ -7441,19 +7351,34 @@
     farmers = {
 		culture = upper_uberwaldian
 		religion = catholic
-		size = 500
+		size = 6400
+	}
+	soldiers = {
+		culture = vampyre
+		religion = catholic
+		size = 1100
 	}
 }
 788={
     farmers = {
 		culture = upper_uberwaldian
 		religion = catholic
-		size = 500
+		size = 8600
+	}
+	artisans = {
+		culture = upper_uberwaldian
+		religion = catholic
+		size = 64
+	}
+	clergymen = {
+		culture = upper_uberwaldian
+		religion = catholic
+		size = 9
 	}
 }
 789={
     farmers = {
-		culture = upper_uberwaldian
+		culture = troll
 		religion = catholic
 		size = 500
 	}
@@ -7502,7 +7427,7 @@
 }
 796={
     farmers = {
-		culture = outer_uberwaldian
+		culture = troll
 		religion = catholic
 		size = 460
 	}
@@ -7538,7 +7463,7 @@
 }
 799={
     farmers = {
-		culture = upper_uberwaldian
+		culture = troll
 		religion = catholic
 		size = 500
 	}
@@ -7580,7 +7505,7 @@
 }
 805={
     farmers = {
-		culture = upper_uberwaldian
+		culture = troll
 		religion = catholic
 		size = 1750
 	}
@@ -7629,21 +7554,21 @@
 }
 812={
     farmers = {
-		culture = outer_uberwaldian
+		culture = vieuxish
 		religion = catholic
 		size = 1350
 	}
 }
 813={
     farmers = {
-		culture = outer_uberwaldian
+		culture = vieuxish
 		religion = catholic
 		size = 500
 	}
 }
 814={
     farmers = {
-		culture = outer_uberwaldian
+		culture = vieuxish
 		religion = catholic
 		size = 500
 	}
@@ -7762,7 +7687,7 @@
 }
 831={
     farmers = {
-		culture = outer_uberwaldian
+		culture = troll
 		religion = catholic
 		size = 500
 	}
@@ -9534,70 +9459,70 @@
 }
 1170={
     farmers = {
-		culture = nothingfjorder
+		culture = troll
 		religion = catholic
 		size = 6500
 	}
 }
 1171={
     farmers = {
-		culture = nothingfjorder
+		culture = troll
 		religion = catholic
 		size = 1800
 	}
 }
 1172={
     farmers = {
-		culture = nothingfjorder
+		culture = troll
 		religion = catholic
 		size = 1700
 	}
 }
 1173={
     farmers = {
-		culture = nothingfjorder
+		culture = troll
 		religion = catholic
 		size = 1800
 	}
 }
 1174={
     farmers = {
-		culture = nothingfjorder
+		culture = troll
 		religion = catholic
 		size = 6300
 	}
 }
 1175={
     farmers = {
-		culture = nothingfjorder
+		culture = troll
 		religion = catholic
 		size = 900
 	}
 }
 1176={
     farmers = {
-		culture = nothingfjorder
+		culture = troll
 		religion = catholic
 		size = 1400
 	}
 }
 1177={
     farmers = {
-		culture = nothingfjorder
+		culture = troll
 		religion = catholic
 		size = 3600
 	}
 }
 1178={
     farmers = {
-		culture = nothingfjorder
+		culture = troll
 		religion = catholic
 		size = 3940
 	}
 }
 1179={
     farmers = {
-		culture = nothingfjorder
+		culture = troll
 		religion = catholic
 		size = 5170
 	}
@@ -9892,46 +9817,46 @@
 }
 1219={
     farmers = {
-		culture = octarine
+		culture = llamedos
 		religion = catholic
-		size = 1200
+		size = 4200
 	}
 }
 1220={
     farmers = {
-		culture = octarine
+		culture = llamedos
 		religion = catholic
 		size = 1500
 	}
 }
 1221={
     farmers = {
-		culture = octarine
+		culture = llamedos
 		religion = catholic
 		size = 2600
 	}
 }
 1222={
     farmers = {
-		culture = octarine
+		culture = llamedos
 		religion = catholic
 		size = 1300
 	}
 }
 1223={
     farmers = {
-		culture = octarine
+		culture = llamedos
 		religion = catholic
 		size = 1870
 	}
 }
 1224={
     farmers = {
-		culture = octarine
+		culture = llamedos
 		religion = catholic
 		size = 1350
 	}
-	farmers = {
+	artisans = {
 		culture = llamedos
 		religion = catholic
 		size = 186
@@ -9939,18 +9864,18 @@
 }
 1225={
     farmers = {
-		culture = octarine
+		culture = llamedos
 		religion = catholic
 		size = 1960
 	}
 }
 1226={
     farmers = {
-		culture = octarine
+		culture = llamedos
 		religion = catholic
 		size = 2860
 	}
-	farmers = {
+	artisans = {
 		culture = llamedos
 		religion = catholic
 		size = 169
@@ -9958,7 +9883,7 @@
 }
 1227={
     farmers = {
-		culture = octarine
+		culture = llamedos
 		religion = catholic
 		size = 1200
 	}
@@ -10036,49 +9961,49 @@
 }
 1236={
     farmers = {
-		culture = octarine
+		culture = llamedos
 		religion = catholic
 		size = 2100
 	}
 }
 1237={
     farmers = {
-		culture = octarine
+		culture = llamedos
 		religion = catholic
 		size = 1800
 	}
 }
 1238={
     farmers = {
-		culture = octarine
+		culture = llamedos
 		religion = catholic
 		size = 1670
 	}
 }
 1239={
     farmers = {
-		culture = octarine
+		culture = llamedos
 		religion = catholic
 		size = 1500
 	}
 }
 1240={
     farmers = {
-		culture = octarine
+		culture = llamedos
 		religion = catholic
 		size = 2000
 	}
 }
 1241={
     farmers = {
-		culture = octarine
+		culture = llamedos
 		religion = catholic
 		size = 1900
 	}
 }
 1242={
     farmers = {
-		culture = octarine
+		culture = llamedos
 		religion = catholic
 		size = 2200
 	}
@@ -10130,7 +10055,7 @@
 }
 1248={
     farmers = {
-		culture = octarine
+		culture = pseudopolian
 		religion = catholic
 		size = 2770
 	}
@@ -10144,14 +10069,14 @@
 }
 1250={
     farmers = {
-		culture = octarine
+		culture = pseudopolian
 		religion = catholic
 		size = 1640
 	}
 }
 1251={
     farmers = {
-		culture = octarine
+		culture = pseudopolian
 		religion = catholic
 		size = 2050
 	}
@@ -10180,7 +10105,7 @@
 }
 1253={
     farmers = {
-		culture = octarine
+		culture = llamedos
 		religion = catholic
 		size = 1600
 	}
@@ -10664,7 +10589,7 @@
 }
 1320={
     farmers = {
-		culture = nefian
+		culture = sbelinian
 		religion = catholic
 		size = 500
 	}
@@ -10919,14 +10844,9 @@
 }
 1350={
     farmers = {
-		culture = tezuman
-		religion = quezovercoatl
+		culture = nefian
+		religion = catholic
 		size = 1500
-	}
-	slaves = {
-		culture = tezuman
-		religion = quezovercoatl
-		size = 3000
 	}
 }
 1351={
@@ -11165,13 +11085,13 @@
 }
 1370={
     farmers = {
-		culture = tezuman
-		religion = quezovercoatl
+		culture = hrullian
+		religion = catholic
 		size = 1500
 	}
 	slaves = {
-		culture = tezuman
-		religion = quezovercoatl
+		culture = hrullian
+		religion = catholic
 		size = 3000
 	}
 }
@@ -11502,7 +11422,7 @@
 }
 1391={
     farmers = {
-		culture = klatchian
+		culture = klatchistanian
 		religion = catholic
 		size = 500
 	}
@@ -11866,14 +11786,14 @@
 }
 1500={
     farmers = {
-		culture = tetsean
+		culture = sbelinian
 		religion = ephebic
 		size = 3420
 	}
 }
 1501={
     farmers = {
-		culture = tetsean
+		culture = sbelinian
 		religion = ephebic
 		size = 4060
 	}
@@ -11940,40 +11860,40 @@
 }
 1507={
     farmers = {
-		culture = tetsean
+		culture = nefian
 		religion = ephebic
 		size = 1980
 	}
 	soldiers = {
-		culture = tetsean
+		culture = nefian
 		religion = ephebic
 		size = 894
 	}
 }
 1508={
     farmers = {
-		culture = tetsean
+		culture = nefian
 		religion = ephebic
 		size = 2700
 	}
 }
 1509={
     farmers = {
-		culture = tetsean
+		culture = nefian
 		religion = ephebic
 		size = 3640
 	}
 }
 1510={
     farmers = {
-		culture = tetsean
+		culture = nefian
 		religion = ephebic
 		size = 4700
 	}
 }
 1511={
     farmers = {
-		culture = tetsean
+		culture = nefian
 		religion = ephebic
 		size = 3600
 	}
@@ -12442,190 +12362,190 @@
 }
 1656={
 	farmers = {
-		culture = vanglemeshian
+		culture = smalian
 		religion = catholic
 		size = 5300
 	}
 }
 1657={
 	farmers = {
-		culture = vanglemeshian
+		culture = smalian
 		religion = catholic
 		size = 4800
 	}
 }
 1658={
 	farmers = {
-		culture = vanglemeshian
+		culture = smalian
 		religion = catholic
 		size = 4700
 	}
 }
 1659={
 	farmers = {
-		culture = vanglemeshian
-		religion = catholic
+		culture = tezuman
+		religion = quezovercoatl
 		size = 6900
 	}
 }
 1660={
 	farmers = {
-		culture = vanglemeshian
-		religion = catholic
+		culture = tezuman
+		religion = quezovercoatl
 		size = 7600
 	}
 	soldiers = {
-		culture = vanglemeshian
-		religion = catholic
+		culture = tezuman
+		religion = quezovercoatl
 		size = 1800
 	}
 }
 1661={
 	farmers = {
-		culture = vanglemeshian
-		religion = catholic
+		culture = tezuman
+		religion = quezovercoatl
 		size = 10400
 	}
 	soldiers = {
-		culture = vanglemeshian
-		religion = catholic
+		culture = tezuman
+		religion = quezovercoatl
 		size = 3200
 	}
 }
 1662={
 	farmers = {
-		culture = vanglemeshian
-		religion = catholic
+		culture = tezuman
+		religion = quezovercoatl
 		size = 8700
 	}
 	soldiers = {
-		culture = vanglemeshian
-		religion = catholic
+		culture = tezuman
+		religion = quezovercoatl
 		size = 1800
 	}
 }
 1663={
 	farmers = {
-		culture = vanglemeshian
-		religion = catholic
+		culture = tezuman
+		religion = quezovercoatl
 		size = 4200
 	}
 }
 1664={
 	farmers = {
-		culture = vanglemeshian
-		religion = catholic
+		culture = tezuman
+		religion = quezovercoatl
 		size = 3900
 	}
 }
 1665={
 	farmers = {
-		culture = vanglemeshian
-		religion = catholic
+		culture = tezuman
+		religion = quezovercoatl
 		size = 6100
 	}
 }
 1666={
 	farmers = {
-		culture = vanglemeshian
-		religion = catholic
+		culture = tezuman
+		religion = quezovercoatl
 		size = 5700
 	}
 }
 1667={
 	farmers = {
-		culture = vanglemeshian
+		culture = smalian
 		religion = catholic
 		size = 4600
 	}
 }	
 1668={
 	farmers = {
-		culture = vanglemeshian
+		culture = smalian
 		religion = catholic
 		size = 4200
 	}
 }
 1669={
 	farmers = {
-		culture = vanglemeshian
+		culture = smalian
 		religion = catholic
 		size = 3600
 	}
 }
 1670={
 	farmers = {
-		culture = vanglemeshian
+		culture = smalian
 		religion = catholic
 		size = 7100
 	}
 }
 1671={
 	farmers = {
-		culture = vanglemeshian
+		culture = smalian
 		religion = catholic
 		size = 4600
 	}
 }
 1672={
 	farmers = {
-		culture = vanglemeshian
+		culture = smalian
 		religion = catholic
 		size = 4500
 	}
 }
 1673={
 	farmers = {
-		culture = vanglemeshian
+		culture = smalian
 		religion = catholic
 		size = 7400
 	}
 }
 1674={
 	farmers = {
-		culture = vanglemeshian
+		culture = nefian
 		religion = catholic
 		size = 6500
 	}
 }
 1675={
 	farmers = {
-		culture = vanglemeshian
+		culture = nefian
 		religion = catholic
 		size = 13600
 	}
 }
 1676={
 	farmers = {
-		culture = vanglemeshian
+		culture = nefian
 		religion = catholic
 		size = 8900
 	}
 }
 1677={
 	farmers = {
-		culture = vanglemeshian
+		culture = smalian
 		religion = catholic
 		size = 24100
 	}
 }
 1678={
 	farmers = {
-		culture = vanglemeshian
+		culture = nefian
 		religion = catholic
 		size = 9800
 	}
 }
 1679={
 	farmers = {
-		culture = vanglemeshian
+		culture = nefian
 		religion = catholic
 		size = 12500
 	}
 }
 1680={
 	farmers = {
-		culture = vanglemeshian
+		culture = nefian
 		religion = catholic
 		size = 6900
 	}
@@ -12850,61 +12770,61 @@
 }
 1710={
 	farmers = {
-		culture = north_klatchistanian
+		culture = klatchistanian
 		religion = catholic
 		size = 3700
 	}
 }
 1711={
 	farmers = {
-		culture = north_klatchistanian
+		culture = klatchistanian
 		religion = catholic
 		size = 4200
 	}
 }
 1712={
 	farmers = {
-		culture = north_klatchistanian
+		culture = iram
 		religion = catholic
 		size = 1800
 	}
 }
 1713={
 	farmers = {
-		culture = north_klatchistanian
+		culture = iram
 		religion = catholic
 		size = 4200
 	}
 }
 1714={
 	farmers = {
-		culture = north_klatchistanian
+		culture = klatchistanian
 		religion = catholic
 		size = 3600
 	}
 }
 1715={
 	farmers = {
-		culture = north_klatchistanian
+		culture = klatchistanian
 		religion = catholic
 		size = 2900
 	}
 }
 1716={
 	farmers = {
-		culture = north_klatchistanian
+		culture = klatchistanian
 		religion = catholic
 		size = 1000
 	}
 }
 1717={
 	farmers = {
-		culture = north_klatchistanian
+		culture = klatchistanian
 		religion = catholic
 		size = 3000
 	}
 	soldiers = {
-		culture = north_klatchistanian
+		culture = klatchistanian
 		religion = catholic
 		size = 1300
 	}
@@ -12966,75 +12886,80 @@
 }
 1723={
 	farmers = {
-		culture = north_klatchistanian
+		culture = iram
 		religion = catholic
 		size = 4600
 	}
 }
 1724={
 	farmers = {
-		culture = north_klatchistanian
+		culture = iram
 		religion = catholic
 		size = 7500
 	}
 	soldiers = {
+		culture = iram
+		religion = catholic
+		size = 2410
+	}
+	soldiers = {
 		culture = north_klatchistanian
 		religion = catholic
-		size = 3150
+		size = 1150
 	}
 }
 1725={
 	farmers = {
-		culture = north_klatchistanian
+		culture = iram
 		religion = catholic
 		size = 6500
 	}
 }
 1726={
 	farmers = {
-		culture = north_klatchistanian
+		culture = iram
 		religion = catholic
 		size = 5000
 	}
 }
 1727={
 	farmers = {
-		culture = north_klatchistanian
+		culture = iram
 		religion = catholic
 		size = 4800
 	}
 }
 1728={
 	farmers = {
-		culture = north_klatchistanian
+		culture = iram
 		religion = catholic
 		size = 3600
 	}
 }
 1729={
 	farmers = {
-		culture = north_klatchistanian
+		culture = iram
 		religion = catholic
 		size = 4100
 	}
 }
 1730={
 	farmers = {
-		culture = north_klatchistanian
+		culture = iram
 		religion = catholic
 		size = 8500
 	}
 }
 1731={
 	farmers = {
-		culture = north_klatchistanian
+		culture = iram
 		religion = catholic
 		size = 3600
 	}
 }
 1732={
 	farmers = {
-		culture = north_klatchistanian
+		culture = iram
 		religion = catholic
 		size = 2700
 	}
@@ -13287,7 +13212,7 @@
 }
 1761={
 	farmers = {
-		culture = vieuxish
+		culture = borogravian
 		religion = catholic
 		size = 27460
 	}
@@ -13367,56 +13292,56 @@
 }
 1766={
 	farmers = {
-		culture = salentine
+		culture = borogravian
 		religion = catholic
 		size = 3600
 	}
 }
 1767={
 	farmers = {
-		culture = vieuxish
+		culture = borogravian
 		religion = catholic
 		size = 4860
 	}
 }
 1768={
 	farmers = {
-		culture = salentine
+		culture = borogravian
 		religion = catholic
 		size = 2960
 	}
 }
 1769={
 	farmers = {
-		culture = salentine
+		culture = borogravian
 		religion = catholic
 		size = 5960
 	}
 }
 1770={
 	farmers = {
-		culture = salentine
+		culture = borogravian
 		religion = catholic
 		size = 6140
 	}
 }
 1771={
 	farmers = {
-		culture = salentine
+		culture = mouldavian
 		religion = catholic
 		size = 7980
 	}
 }
 1772={
 	farmers = {
-		culture = salentine
+		culture = mouldavian
 		religion = catholic
 		size = 4100
 	}
 }
 1773={
 	farmers = {
-		culture = salentine
+		culture = mouldavian
 		religion = catholic
 		size = 2890
 	}
@@ -13437,7 +13362,7 @@
 }
 1776={
 	farmers = {
-		culture = salentine
+		culture = mouldavian
 		religion = catholic
 		size = 2100
 	}
@@ -13458,64 +13383,64 @@
 }
 1779={
 	farmers = {
-		culture = salentine
+		culture = mouldavian
 		religion = catholic
 		size = 4820
 	}
 }
 1780={
 	farmers = {
-		culture = salentine
+		culture = mouldavian
 		religion = catholic
 		size = 1894
 	}
 }
 1781={
 	farmers = {
-		culture = salentine
+		culture = mouldavian
 		religion = catholic
 		size = 3960
 	}
 }
 1782={
 	farmers = {
-		culture = salentine
+		culture = mouldavian
 		religion = catholic
 		size = 13981
 	}
 	soldiers = {
-		culture = salentine
+		culture = mouldavian
 		religion = catholic
 		size = 2360
 	}
 	aristocrats = {
-		culture = salentine
+		culture = mouldavian
 		religion = catholic
 		size = 152
 	}
 	artisans = {
-		culture = salentine
+		culture = mouldavian
 		religion = catholic
 		size = 1450
 	}
 }
 1783={
 	farmers = {
-		culture = salentine
+		culture = mouldavian
 		religion = catholic
 		size = 4360
 	}
 }
 1784={
 	farmers = {
-		culture = salentine
+		culture = mouldavian
 		religion = catholic
 		size = 5780
 	}
 }
 1785={
 	farmers = {
-		culture = salentine
+		culture = mouldavian
 		religion = catholic
 		size = 6480
 	}
@@ -14603,6 +14528,11 @@
 }
 1934={
 	farmers = {
+		culture = north_klatchistanian
+		religion = catholic
+		size = 3975
+	}
+	farmers = {
 		culture = mouldavian
 		religion = catholic
 		size = 4850
@@ -14874,7 +14804,7 @@
 }
 1966={
         farmers = {
-		culture = iram
+		culture = mouldavian
 		religion = catholic
 		size = 2500
 	}
@@ -14902,122 +14832,107 @@
 }
 1970={
         farmers = {
-		culture = iram
+		culture = mouldavian
 		religion = catholic
 		size = 2600
 	}
 }
 1971={
     farmers = {
-		culture = iram
+		culture = mouldavian
 		religion = catholic
 		size = 4100
 	}
 	soldiers = {
-		culture = iram
+		culture = mouldavian
 		religion = catholic
 		size = 1235
 	}
 }
 1972={
     farmers = {
-		culture = iram
+		culture = mouldavian
 		religion = catholic
 		size = 2600
 	}
 }
 1973={
     farmers = {
-		culture = iram
+		culture = mouldavian
 		religion = catholic
 		size = 1900
-	}
-	farmers = {
-		culture = innish
-		religion = catholic
-		size = 1400
 	}
 }
 1974={
     farmers = {
-		culture = iram
+		culture = mouldavian
 		religion = catholic
 		size = 2200
-	}
-	farmers = {
-		culture = innish
-		religion = catholic
-		size = 1700
 	}
 }
 1975={
 	farmers = {
-		culture = iram
+		culture = mouldavian
 		religion = catholic
-		size = 1950
-	}
-	farmers = {
-		culture = innish
-		religion = catholic
-		size = 880
+		size = 2670
 	}
 }
 1976={
     farmers = {
-		culture = iram
+		culture = mouldavian
 		religion = catholic
 		size = 3400
 	}
 	soldiers = {
-		culture = iram
+		culture = mouldavian
 		religion = catholic
 		size = 1050
 	}
 }
 1977={
     farmers = {
-		culture = iram
+		culture = mouldavian
 		religion = catholic
 		size = 3800
 	}
 }
 1978={
     farmers = {
-		culture = iram
+		culture = mouldavian
 		religion = catholic
 		size = 5300
 	}
 }
 1979={
     farmers = {
-		culture = iram
+		culture = mouldavian
 		religion = catholic
 		size = 2500
 	}
 }
 1980={
     farmers = {
-		culture = iram
+		culture = mouldavian
 		religion = catholic
 		size = 8400
 	}
 	soldiers = {
-		culture = iram
+		culture = mouldavian
 		religion = catholic
 		size = 2900
 	}
 	artisans = {
-		culture = iram
+		culture = mouldavian
 		religion = catholic
 		size = 1100
 	}
 	aristocrats = {
-		culture = iram
+		culture = mouldavian
 		religion = catholic
 		size = 40
 	}
 	capitalists = {
-		culture = iram
+		culture = mouldavian
 		religion = catholic
 		size = 5
 	}
@@ -15036,19 +14951,19 @@
 }
 1982={
     farmers = {
-		culture = iram
+		culture = mouldavian
 		religion = catholic
 		size = 4200
 	}
 	soldiers = {
-		culture = iram
+		culture = mouldavian
 		religion = catholic
 		size = 1350
 	}
 }
 1983={
     farmers = {
-		culture = iram
+		culture = mouldavian
 		religion = catholic
 		size = 2800
 	}
@@ -15081,7 +14996,7 @@
 }
 1987={
     farmers = {
-		culture = innish
+		culture = mouldavian
 		religion = catholic
 		size = 2920
 	}
@@ -15093,14 +15008,14 @@
 		size = 5750
 	}
 	soldiers = {
-		culture = innish
+		culture = mouldavian
 		religion = catholic
 		size = 1250
 	}
 }
 1989={
     farmers = {
-		culture = innish
+		culture = mouldavian
 		religion = catholic
 		size = 3100
 	}
@@ -15120,41 +15035,36 @@
 	}
 }
 1992={
-        farmers = {
-		culture = innish
-		religion = catholic
-		size = 3400
-	}
 	farmers = {
 		culture = mouldavian
 		religion = nugganite
-		size = 2018
+		size = 5418
 	}
 }
 1993={
         farmers = {
-		culture = innish
+		culture = mouldavian
 		religion = catholic
 		size = 4200
 	}
 }
 1994={
         farmers = {
-		culture = innish
+		culture = mouldavian
 		religion = catholic
 		size = 2300
 	}
 }
 1995={
         farmers = {
-		culture = innish
+		culture = mouldavian
 		religion = catholic
 		size = 2400
 	}
 }
 1996={
         farmers = {
-		culture = innish
+		culture = mouldavian
 		religion = catholic
 		size = 3120
 	}
@@ -15651,7 +15561,7 @@
 }
 2063={
         farmers = {
-		culture = n_tuitif
+		culture = laotani
 		religion = zambinist
 		size = 1800
 	}
@@ -15670,7 +15580,7 @@
     }
 2065={
         farmers = {
-		culture = n_tuitif
+		culture = laotani
 		religion = zambinist
 		size = 1800
 	}
@@ -15726,6 +15636,20 @@
         farmers = {
 		culture = n_dware
 		religion = zambinist
+		size = 9132
+	}
+    }
+2073={
+        farmers = {
+		culture = borogravian
+		religion = catholic
+		size = 9132
+	}
+    }
+2074={
+        farmers = {
+		culture = zlobenian
+		religion = catholic
 		size = 9132
 	}
     }

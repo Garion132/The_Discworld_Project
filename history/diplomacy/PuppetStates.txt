@@ -31,6 +31,30 @@ substate = {
 	start_date = 1816.1.1
 	end_date = 3610.1.1
 }
+substate = {
+	first = HOW
+	second = NDW
+	start_date = 1816.1.1
+	end_date = 3610.1.1
+}
+substate = {
+	first = HOW
+	second = BAH
+	start_date = 1816.1.1
+	end_date = 3610.1.1
+}
+substate = {
+	first = HOW
+	second = OCT
+	start_date = 1816.1.1
+	end_date = 3610.1.1
+}
+substate = {
+	first = HOW
+	second = NTU
+	start_date = 1816.1.1
+	end_date = 3610.1.1
+}
 
 
 #bonk has consolidated much of central uberwald
@@ -40,42 +64,42 @@ substate = {
 	# start_date = 1816.1.1
 	# end_date = 3568.1.1
 # }
-vassal = {
-	first = BYK
-	second = BUG
-	start_date = 1816.1.1
-	end_date = 3568.1.1
-}
-vassal = {
-	first = BYK
-	second = BLA
-	start_date = 1816.1.1
-	end_date = 3568.1.1
-}
-vassal = {
-	first = BYK
-	second = BLI
-	start_date = 1816.1.1
-	end_date = 3568.1.1
-}
-vassal = {
-	first = BYK
-	second = GLZ
-	start_date = 1816.1.1
-	end_date = 3568.1.1
-}
-vassal = {
-	first = BYK
-	second = PLU
-	start_date = 1816.1.1
-	end_date = 3568.1.1
-}
-vassal = {
-	first = BYK
-	second = KLO
-	start_date = 1816.1.1
-	end_date = 3568.1.1
-}
+# vassal = {
+	# first = BYK
+	# second = BUG
+	# start_date = 1816.1.1
+	# end_date = 3568.1.1
+# }
+# vassal = {
+	# first = BYK
+	# second = BLA
+	# start_date = 1816.1.1
+	# end_date = 3568.1.1
+# }
+# vassal = {
+	# first = BYK
+	# second = BLI
+	# start_date = 1816.1.1
+	# end_date = 3568.1.1
+# }
+# vassal = {
+	# first = BYK
+	# second = GLZ
+	# start_date = 1816.1.1
+	# end_date = 3568.1.1
+# }
+# vassal = {
+	# first = BYK
+	# second = PLU
+	# start_date = 1816.1.1
+	# end_date = 3568.1.1
+# }
+# vassal = {
+	# first = BYK
+	# second = KLO
+	# start_date = 1816.1.1
+	# end_date = 3568.1.1
+# }
 vassal = {
 	first = AMP
 	second = NMP
