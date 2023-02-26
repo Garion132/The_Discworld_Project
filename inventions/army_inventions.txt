@@ -856,7 +856,6 @@ unneeded_army_tech = {
 	effect = {
 		activate_unit = tank 
 		activate_unit = plane 
-		activate_unit = guard 
 	}
 }
 

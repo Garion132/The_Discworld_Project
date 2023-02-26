@@ -1,9 +1,9 @@
 army = {
 	name = "Army of lancre"
-	location = 420
+	location = 78
 	regiment = {
 		name= "Lancrian Milita"
 		type = irregular
-		home = 420
+		home = 78
 	}
 }

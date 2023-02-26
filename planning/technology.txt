@@ -34,19 +34,21 @@ Device Integration (needs to be locked to have the device flag)✔
 Deep mining:
 	Safety Lamps
 	Deep-Shaft Fat Mining
-	
-No.8 powder:
-	Barking Dogs(bombards)
-	
-dynamite:
-	Artillery
-	
-Gonnes
 
+	
 Mechanical theory:
 	Burliegh & Stronginthearm Crossbows
 	Burliegh & Stronginthearm Piecemaker
 	Watchmaking
+	
+No.8 powder:
+	Barking Dogs(bombards)
+	
+Gonnes
+
+dynamite:
+	Artillery
+	
 
 
 Quisition✔
@@ -87,6 +89,29 @@ Combination Harvester
 
 *economics
 
-Inn-sewer-ants
+medieval theory
 
 reflected-sound-as-of-underground-spirits(economics)
+	Inn-sewer-ants
+
+Ankh-morpork theory
+	Harry King
+
+
+simple ship designs
+
+clipper design
+	Caravelling
+	carrack
+	
+--
+	brigadine
+	galleon
+ships of the line
+	frigate
+	man o' war
+steamers
+	
+Iron Steamers
+	ironclads
+	monitors

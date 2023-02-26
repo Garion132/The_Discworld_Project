@@ -1,30 +1,20 @@
 army = {
 	name = "Royal Army of Sto Lat"
-	location = 40
+	location = 41
 	regiment = {
 		name= "1. Heavy Infantry"
 		type = warriors
-		home = 40
+		home = 41
 	}
 	regiment = {
 		name= "1. Spears"
 		type = armored_footmen
-		home = 40
+		home = 41
 	}
 	regiment = {
 		name= "2. Heavy Infantry"
 		type = warriors
-		home = 47
-	}
-	regiment = {
-		name= "3. Heavy Infantry"
-		type = warriors
 		home = 54
-	}
-	regiment = {
-		name= "1. Cavalry"
-		type = cavalry
-		home = 52
 	}
 }
 

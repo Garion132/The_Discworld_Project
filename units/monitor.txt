@@ -1,5 +1,5 @@
 monitor = {
-	icon = 8
+	icon = 24
 	naval_icon = 7
 	
 	type = naval

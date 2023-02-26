@@ -266,7 +266,7 @@ high_n_low_pressure_steam_engines = {
 }
 
 #mechanization
-simple_production_technquines = {
+simple_production_techniques = {
 	area = mechanization
 	year = 3540
 	cost = 3600

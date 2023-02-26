@@ -1,3 +1,20 @@
+device_powered_axle = {
+	limit = { clockwork_system_power = 1 }
+	chance = {
+		base = -8
+		modifier = {
+			factor = 10
+			device_integration = 1
+		}
+		modifier = {
+			factor = 2
+			has_country_flag = has_device
+		}
+	}
+	effect = {
+		RGO_output = 0.1
+	}
+}
 precision_work = {
 	limit = { simple_mechanization = 1 }
 	chance = {
