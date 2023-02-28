@@ -1,0 +1,6 @@
+owner = GRA
+controller = GRA
+add_core = GRA
+add_core = UBW
+trade_goods = timber
+life_rating = 25

@@ -1,0 +1,7 @@
+owner = FWW
+controller = FWW
+add_core = FWW
+add_core = UBW
+add_core = IAX
+trade_goods = timber
+life_rating = 20

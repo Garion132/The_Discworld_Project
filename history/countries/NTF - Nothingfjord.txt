@@ -1,4 +1,4 @@
-capital = 430
+capital = 1163
 primary_culture = nothingfjorder
 religion = protestant
 government = absolute_monarchy

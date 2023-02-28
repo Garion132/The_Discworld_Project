@@ -279,6 +279,34 @@ ramtops = {
 		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
 		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
 	}
+	rheinthalian = { #
+		color = { 114 116 115}
+		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
+		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
+		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
+		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
+		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
+		
+		last_names = { Allenby Battemberg Beatty Beresford Brown Buller Butler Campbell Cardigan Churchill
+		Cochrane Cockburn "de Robeck" Dundas Fisher French Gough Grant Grenfell Haig
+		Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery
+		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
+		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
+	}
+	varnith = { #
+		color = { 94 136 95}
+		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
+		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
+		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
+		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
+		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
+		
+		last_names = { Allenby Battemberg Beatty Beresford Brown Buller Butler Campbell Cardigan Churchill
+		Cochrane Cockburn "de Robeck" Dundas Fisher French Gough Grant Grenfell Haig
+		Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery
+		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
+		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
+	}
 	
 	union = LAN
 }
@@ -840,34 +868,6 @@ uberwalder = {
 		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
 		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
 	}
-	rheinthalian = { #
-		color = { 114 116 115}
-		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
-		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
-		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
-		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
-		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
-		
-		last_names = { Allenby Battemberg Beatty Beresford Brown Buller Butler Campbell Cardigan Churchill
-		Cochrane Cockburn "de Robeck" Dundas Fisher French Gough Grant Grenfell Haig
-		Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery
-		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
-		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
-	}
-	varnith = { #
-		color = { 94 136 95}
-		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
-		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
-		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
-		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
-		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
-		
-		last_names = { Allenby Battemberg Beatty Beresford Brown Buller Butler Campbell Cardigan Churchill
-		Cochrane Cockburn "de Robeck" Dundas Fisher French Gough Grant Grenfell Haig
-		Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery
-		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
-		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
-	}
 	dlinzer = { #
 		color = { 114 76 75}
 		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
@@ -910,34 +910,12 @@ uberwalder = {
 		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
 		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
 	}
-	vampyre = { #vampires
-		color = { 145 34 42}
-		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
-		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
-		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
-		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
-		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
-		
-		last_names = { Allenby Battemberg Beatty Beresford Brown Buller Butler Campbell Cardigan Churchill
-		Cochrane Cockburn "de Robeck" Dundas Fisher French Gough Grant Grenfell Haig
-		Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery
-		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
-		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
-	}
-	werewolves = { #werewolfs
-		color = { 96 37 21}
-		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
-		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
-		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
-		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
-		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
-		
-		last_names = { Allenby Battemberg Beatty Beresford Brown Buller Butler Campbell Cardigan Churchill
-		Cochrane Cockburn "de Robeck" Dundas Fisher French Gough Grant Grenfell Haig
-		Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery
-		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
-		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
-	}
+	
+	union = UBW
+}
+troll_group = {
+	leader = european
+	unit = EuropeanGC
 	troll = { #
 		color = { 204 150 132}
 		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
@@ -952,7 +930,45 @@ uberwalder = {
 		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
 		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
 	}
+	union = DIA
+}
+vampyre_group = {
+	leader = european
+	unit = EuropeanGC
+	vampyre = { #vampires
+		color = { 145 34 42}
+		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
+		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
+		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
+		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
+		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
+		
+		last_names = { Allenby Battemberg Beatty Beresford Brown Buller Butler Campbell Cardigan Churchill
+		Cochrane Cockburn "de Robeck" Dundas Fisher French Gough Grant Grenfell Haig
+		Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery
+		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
+		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
+	}
 	union = UBW
+}
+werewolves_group = {
+	leader = european
+	unit = EuropeanGC
+	werewolves = { #werewolfs
+		color = { 96 37 21}
+		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
+		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
+		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
+		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
+		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
+		
+		last_names = { Allenby Battemberg Beatty Beresford Brown Buller Butler Campbell Cardigan Churchill
+		Cochrane Cockburn "de Robeck" Dundas Fisher French Gough Grant Grenfell Haig
+		Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery
+		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
+		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
+	}
+	union = FWW
 }
 mouldavian_group = {
 	leader = european

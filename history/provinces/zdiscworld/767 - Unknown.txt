@@ -2,5 +2,5 @@ owner = VEL
 controller = VEL
 add_core = VEL
 add_core = UBW
-trade_goods = grain
+trade_goods = dyes
 life_rating = 52

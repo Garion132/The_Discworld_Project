@@ -1,4 +1,17 @@
 #From;To;Type;Through;Data;Comment
 12;1468;sea;642;0;Vancouver Crossing
 1066;1070;sea;652;0;Vancouver Crossing
-913;915;sea;1426;0;neverlands crossing
+913;1813;sea;1426;0;neverlands crossing
+#cori Celste
+428;1153;impassable;0;0;scary mountain
+428;1154;impassable;0;0;scary mountain
+428;1152;impassable;0;0;scary mountain
+428;1142;impassable;0;0;scary mountain
+428;1141;impassable;0;0;scary mountain
+428;1129;impassable;0;0;scary mountain
+428;1128;impassable;0;0;scary mountain
+428;1120;impassable;0;0;scary mountain
+428;1117;impassable;0;0;scary mountain
+
+34;117;impassable;0;0;scary mountain
+34;28;impassable;0;0;scary mountain

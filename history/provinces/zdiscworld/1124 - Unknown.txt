@@ -3,4 +3,4 @@ controller = SHA
 add_core = SHA
 add_core = UBW
 trade_goods = grain
-life_rating = 10
+life_rating = 20

@@ -1,19 +1,15 @@
-
-
 #========================= H E A D E R =========================
-
 capital = 431
 primary_culture = troll
 religion = catholic
 government = absolute_monarchy
 plurality = 10
 nationalvalue = nv_order
-literacy = 0.5
+literacy = 0.2
 civilized = yes 
 prestige = 1
 schools = traditional_academic
-oob = "SLT.txt"
-
+#oob = "SLT.txt"
 
 #========================= H O U S E - O F - L O R D S =========================
 

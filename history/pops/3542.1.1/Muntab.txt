@@ -752,28 +752,28 @@
 }
 1015={
     farmers = {
-		culture = rehigreedian
+		culture = orohaian
 		religion = catholic
 		size = 2645
 	}
 }
 1016={
     farmers = {
-		culture = rehigreedian
+		culture = orohaian
 		religion = catholic
 		size = 2347
 	}
 }
 1017={
     farmers = {
-		culture = rehigreedian
+		culture = orohaian
 		religion = catholic
 		size = 2370
 	}
 }
 1018={
     farmers = {
-		culture = rehigreedian
+		culture = orohaian
 		religion = catholic
 		size = 2657
 	}
@@ -822,7 +822,7 @@
 }
 1025={
     farmers = {
-		culture = orohaian
+		culture = brindisian
 		religion = catholic
 		size = 1365
 	}
@@ -843,7 +843,7 @@
 }
 1028={
     farmers = {
-		culture = orohaian
+		culture = brindisian
 		religion = catholic
 		size = 1145
 	}
@@ -1555,14 +1555,14 @@
 }
 1594={
     farmers = {
-		culture = brindisian
+		culture = neverlander
 		religion = catholic
 		size = 4100
 	}
 }
 1595={
     farmers = {
-		culture = brindisian
+		culture = neverlander
 		religion = catholic
 		size = 3900
 	}
@@ -1576,29 +1576,78 @@
 }
 1597={
     farmers = {
-		culture = brindisian
+		culture = neverlander
 		religion = catholic
 		size = 3700
 	}
 }
 1598={
     farmers = {
-		culture = brindisian
+		culture = neverlander
 		religion = catholic
 		size = 2970
 	}
 }
 1599={
     farmers = {
-		culture = brindisian
+		culture = neverlander
 		religion = catholic
 		size = 3280
 	}
 }
 1600={
     farmers = {
-		culture = brindisian
+		culture = neverlander
 		religion = catholic
 		size = 4280
+	}
+}
+2077={
+    farmers = {
+		culture = klatchistanian
+		religion = catholic
+		size = 1000
+	}
+}
+2078={
+    farmers = {
+		culture = klatchistanian
+		religion = catholic
+		size = 1000
+	}
+}
+2079={
+    farmers = {
+		culture = klatchistanian
+		religion = catholic
+		size = 1000
+	}
+}
+2080={
+    farmers = {
+		culture = klatchistanian
+		religion = catholic
+		size = 1000
+	}
+}
+2081={
+    farmers = {
+		culture = klatchistanian
+		religion = catholic
+		size = 1000
+	}
+}
+2082={
+    farmers = {
+		culture = klatchistanian
+		religion = catholic
+		size = 1000
+	}
+}
+2083={
+    farmers = {
+		culture = klatchistanian
+		religion = catholic
+		size = 1000
 	}
 }

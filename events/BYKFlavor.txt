@@ -1,91 +1,93 @@
-# #werewolf nazis form and take over plun..
-# country_event = {
+# #werewolf nazis form
+country_event = {
 
-	# id = 43000  
+	id = 43000  
 
-	# trigger = {
-		# owns = 703
-		# year = 3556#3557 is fifth elephant
-	# }
+	trigger = {
+		tag = FWW
+		year = 3552#3557 is fifth elephant
+	}
  
-	# mean_time_to_happen =  {
-		# months = 6
-	# }
-	# fire_only_once = yes
+	mean_time_to_happen =  {
+		months = 6
+	}
+	fire_only_once = yes
 
-	# title = "EVTNAME43000"
-	# desc = "EVTDESC43000"
-	# picture = "Administration"
+	title = "EVTNAME43000"
+	desc = "EVTDESC43000"
+	picture = "Administration"
 
-	# option = {
-		# name = "EVTOPTA43000" 
-		# PLU={
-			# change_tag = FWW
-		# }
-		# release_vassal = FWW
-		# FWW={
-			# capital = 703
-			# neutrality = yes
-		# }
-		# UBW_16 = { add_core = FWW add_core = FWW secede_province = FWW }
-		# BLA={
-			# country_event = {id = 43001}
-		# }
-		# BYK={
-			# diplomatic_influence = {
-				# who = FWW
-				# value = -200
-			# }
-			# country_event = {id = 43002}
-		# }
-	# }
-# }
-# #..and blackgrass
-# country_event = {
+	option = {
+		name = "EVTOPTA43000" 
+		UBW={
+			any_pop={
+				limit={
+					is_culture_group = FWW
+				}
+				ideology = {
+					factor = 15
+					value = fascist
+				}
+			}
+		}
+		SPL={
+			country_event = {id = 43001}
+		}
+		BYK={
+			diplomatic_influence = {
+				who = FWW
+				value = -200
+			}
+			country_event = {id = 43002}
+		}
+	}
+}
+# #..and attack Splintz
+country_event = {
 
-	# id = 43001  
+	id = 43001  
 
-	# is_triggered_only = yes
+	is_triggered_only = yes
 
-	# title = "EVTNAME43001"
-	# desc = "EVTDESC43001"
-	# picture = "Administration"
+	title = "EVTNAME43001"
+	desc = "EVTDESC43001"
+	picture = "Administration"
 
-	# option = {
-		# name = "EVTOPTA43001" 
-		# BLA={
-			# annex_to = FWW
-			# all_core = { add_core = FWW}
-		# }
-		# ai_chance = { factor = 100 }
-	# }
-	# option = {
-		# name = "EVTOPTB43001" 
-		# FWW={
-			# casus_belli = {
-				# target = BLA
-				# type = conquest_any
-				# months = 60
-			# }
-		# }
-		# ai_chance = { factor = 0 }
-	# }
-# }
+	option = {
+		name = "EVTOPTA43001" 
+		SPL={
+			annex_to = FWW
+			all_core = { add_core = FWW}
+		}
+		ai_chance = { factor = 100 }
+	}
+	option = {
+		name = "EVTOPTB43001" 
+		FWW={
+			casus_belli = {
+				target = SPL
+				type = conquest_any
+				months = 60
+			}
+		}
+		ai_chance = { factor = 0 }
+	}
+}
 # #margolotta informed
-# country_event = {
+country_event = {
 
-	# id = 43002 
+	id = 43002 
 
-	# is_triggered_only = yes
+	is_triggered_only = yes
 
-	# title = "EVTNAME43002"
-	# desc = "EVTDESC43002"
-	# picture = "Administration"
+	title = "EVTNAME43002"
+	desc = "EVTDESC43002"
+	picture = "Administration"
 
-	# option = {
-		# name = "EVTOPTA43002" 
-	# }
-# }
+	option = {
+		name = "EVTOPTA43002" 
+	}
+}
 # #succession crisis in the low dwarfs
 # country_event = {
 

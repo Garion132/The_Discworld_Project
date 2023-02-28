@@ -2073,8 +2073,6 @@ province;red;green;blue;x;x
 2072;181;206;121;Hwange;x
 2073;144;33;17;Masvingo;x
 2074;113;192;208;Gaborone;x
-
-
 2075;176;65;208;Serowe;x
 2076;240;192;208;Nokaneng;x
 2077;146;80;102;Tsabong;x
@@ -2092,6 +2090,7 @@ province;red;green;blue;x;x
 2089;176;96;80;Worcester;x
 2090;48;96;80;Swettenham;x
 2091;49;224;80;Mossel Bay;x
+
 2092;176;224;80;Beaufort;x
 2093;112;192;80;Calvinia;x
 2094;239;64;207;Kimberley;x

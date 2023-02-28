@@ -1,7 +1,7 @@
 capital = 674
 primary_culture = vampyre
-culture = dwarf
-culture = werewolves
+#culture = dwarf
+#culture = werewolves
 culture = uberwaldian
 religion = protestant
 government = absolute_monarchy

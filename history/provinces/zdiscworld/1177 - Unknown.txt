@@ -1,3 +1,5 @@
-
-trade_goods = fish
+owner = SCH
+controller = SCH
+add_core = SCH
+trade_goods = coal
 life_rating = 45

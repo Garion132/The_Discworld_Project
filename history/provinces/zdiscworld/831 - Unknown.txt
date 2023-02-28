@@ -2,5 +2,5 @@ owner = GRA
 controller = GRA
 add_core = GRA
 add_core = UBW
-trade_goods = cattle
+trade_goods = iron
 life_rating = 52

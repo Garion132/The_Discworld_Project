@@ -1,0 +1,6 @@
+owner = KNC
+controller = KNC
+add_core = KNC
+add_core = UBW
+trade_goods = timber
+life_rating = 52

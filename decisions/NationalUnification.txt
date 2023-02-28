@@ -140,6 +140,140 @@ political_decisions = {
 			factor = 1
 		}
 	}
+	diamond_king_of_trolls = { #Mr Shine, Him Diamond
+		potential = {
+			#is_greater_power = yes
+			primary_culture = troll
+			NOT = {
+				exists = DIA
+			}
+		}	
+		allow = {
+			war = no
+			NTF_7={
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			NTF_5={
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			NTF_4={
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+					empty = yes
+				}
+			}
+			805={
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			1124={
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			1173={
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			1172={
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 15
+			change_tag = DIA
+			any_country = {
+				limit = {
+					OR = {
+						primary_culture = troll 
+					}
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			NTF_7={
+				add_core = DIA
+			}
+			NTF_5={
+				add_core = DIA
+			}
+			NTF_4={
+				add_core = DIA
+			}
+			805={
+				add_core = DIA
+			}
+			1124={
+				add_core = DIA
+			}
+			1173={
+				add_core = DIA
+			}
+			1172={
+				add_core = DIA
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 	
 	reunite_omnia = {
 		potential = {

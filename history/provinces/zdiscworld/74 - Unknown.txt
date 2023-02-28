@@ -2,5 +2,5 @@ owner = FWW
 controller = FWW
 add_core = FWW
 add_core = UBW
-trade_goods = brassicas
+trade_goods = iron
 life_rating = 52

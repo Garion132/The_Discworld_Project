@@ -1,5 +1,5 @@
 owner = NTF
 controller = NTF
 add_core = NTF
-trade_goods = fish
+trade_goods = timber
 life_rating = 45

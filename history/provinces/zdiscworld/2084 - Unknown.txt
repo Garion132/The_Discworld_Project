@@ -1,0 +1,6 @@
+owner = SLT
+controller = SLT
+add_core = SLT
+add_core = UBW
+trade_goods = cattle
+life_rating = 20

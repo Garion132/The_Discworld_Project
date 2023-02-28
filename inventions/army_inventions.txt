@@ -242,7 +242,7 @@ seige_workshops = {
 		}
 	}
 	effect = {
-		activate_building = siege_equipment_factory 
+		activate_building = siege_workshop 
 	}
 }
 explosives_production = {

@@ -1,5 +1,5 @@
 capital = 831
-primary_culture = upper_uberwaldian
+primary_culture = troll
 religion = protestant
 government = absolute_monarchy
 plurality = -15

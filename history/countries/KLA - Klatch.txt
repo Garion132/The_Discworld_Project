@@ -1,4 +1,4 @@
-capital = 352
+capital = 40
 primary_culture = klatchian
 religion = protestant
 government = absolute_monarchy

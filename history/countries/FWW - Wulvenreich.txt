@@ -2,11 +2,12 @@ capital = 675
 primary_culture = werewolves
 religion = protestant
 government = absolute_monarchy
-plurality = 30
+plurality = -25
 nationalvalue = nv_order
-literacy = 0.55
+literacy = 0.67
 civilized = yes
 
+prestige = 14
 
 # Political reforms
 slavery = yes_slavery
@@ -42,15 +43,14 @@ freedom_of_trade = 1
 #corvettes = yes
 
 # Starting Consciousness
-consciousness = 3
-nonstate_consciousness = 1
+consciousness = 0
 
-ruling_party = FWW_fascist
+ruling_party = FWW_reactionary
 upper_house = {
-	fascist = 78
+	fascist = 0
 	liberal = 0
 	conservative = 12
-	reactionary = 10
+	reactionary = 88
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0

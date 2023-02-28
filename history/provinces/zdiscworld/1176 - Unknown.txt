@@ -1,3 +1,5 @@
-
-trade_goods = fish
+owner = OYX
+controller = OYX
+add_core = OYX
+trade_goods = timber
 life_rating = 45
