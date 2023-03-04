@@ -1,4 +1,4 @@
-capital = 408
+capital = 251
 primary_culture = klatchistanian
 religion = catholic
 government = absolute_monarchy
