@@ -5725,6 +5725,21 @@
 		religion = catholic
 		size = 17100
 	}
+	soldiers = {
+		culture = varnith
+		religion = catholic
+		size = 2100
+	}
+	artisans = {
+		culture = varnith
+		religion = catholic
+		size = 1860
+	}
+	aristocrats = {
+		culture = varnith
+		religion = catholic
+		size = 24
+	}
 }
 659={
     labourers = {
@@ -5830,12 +5845,12 @@
     farmers = {
 		culture = rheinthalian
 		religion = catholic
-		size = 4600
+		size = 14600
 	}
 	artisans = {
 		culture = rheinthalian
 		religion = catholic
-		size = 650
+		size = 1650
 	}
 	soldiers = {
 		culture = rheinthalian
@@ -5890,12 +5905,12 @@
 672={
     farmers = {
 		culture = upper_uberwaldian
-		religion = catholic
+		religion = othordox_omnianism
 		size = 12600
 	}
 	 farmers = {
 		culture = uberwaldian
-		religion = catholic
+		religion = othordox_omnianism
 		size = 13500
 	}
 }
@@ -6066,43 +6081,43 @@
     labourers = {
 		culture = lipswiger
 		religion = othordox_omnianism
-		size = 7460
+		size = 37460
 	}
 	soldiers = {
 		culture = lipswiger
 		religion = othordox_omnianism
-		size = 2410
+		size = 6410
 	}
 	artisans = {
 		culture = lipswiger
 		religion = othordox_omnianism
-		size = 1870
+		size = 4870
 	}
 	aristocrats = {
 		culture = lipswiger
 		religion = othordox_omnianism
-		size = 25
+		size = 125
 	}
 	officers = {
 		culture = lipswiger
 		religion = othordox_omnianism
-		size = 6
+		size = 16
 	}
 	labourers = {
 		culture = dwarf
 		religion = tak
-		size = 1160
+		size = 11160
 	}
 	artisans = {
 		culture = dwarf
 		religion = tak
-		size = 730
+		size = 3730
 	}
 }
 678={
     farmers = {
 		culture = uberwaldian
-		religion = catholic
+		religion = othordox_omnianism
 		size = 1850
 	}
 	labourers = {
@@ -6115,12 +6130,17 @@
     farmers = {
 		culture = uberwaldian
 		religion = othordox_omnianism
-		size = 1200
+		size = 12000
 	}
 	farmers = {
 		culture = lipswiger
 		religion = othordox_omnianism
-		size = 790
+		size = 7900
+	}
+	soldiers = {
+		culture = lipswiger
+		religion = othordox_omnianism
+		size = 1050
 	}
 }
 680={
@@ -6201,12 +6221,12 @@
     labourers = {
 		culture = rheinthalian
 		religion = othordox_omnianism
-		size = 1890
+		size = 11890
 	}
 	labourers = {
 		culture = dwarf
 		religion = othordox_omnianism
-		size = 750
+		size = 6750
 	}
 }
 688={
@@ -6225,12 +6245,12 @@
     farmers = {
 		culture = rheinthalian
 		religion = othordox_omnianism
-		size = 1994
+		size = 10994
 	}
 	artisans = {
 		culture = rheinthalian
 		religion = othordox_omnianism
-		size = 107
+		size = 1070
 	}
 }
 690={
@@ -6266,7 +6286,7 @@
     farmers = {
 		culture = rheinthalian
 		religion = othordox_omnianism
-		size = 2000
+		size = 12000
 	}
 	aristocrats = {
 		culture = werewolves
@@ -6295,7 +6315,7 @@
     farmers = {
 		culture = rheinthalian
 		religion = othordox_omnianism
-		size = 3750
+		size = 13750
 	}
 	soldiers = {
 		culture = werewolves
@@ -6307,7 +6327,12 @@
     farmers = {
 		culture = rheinthalian
 		religion = othordox_omnianism
-		size = 3600
+		size = 19600
+	}
+	soldiers = {
+		culture = rheinthalian
+		religion = othordox_omnianism
+		size = 2270
 	}
 }
 696={
@@ -6333,22 +6358,22 @@
     labourers = {
 		culture = varnith
 		religion = othordox_omnianism
-		size = 4300
+		size = 14300
 	}
 	labourers = {
 		culture = dwarf
 		religion = tak
-		size = 1200
+		size = 9200
 	}
 	soldiers = {
 		culture = varnith
 		religion = othordox_omnianism
-		size = 250
+		size = 1250
 	}
 	soldiers = {
 		culture = werewolves
 		religion = catholic
-		size = 1550
+		size = 2550
 	}
 	aristocrats = {
 		culture = dwarf
@@ -6358,7 +6383,7 @@
 	soldiers = {
 		culture = dwarf
 		religion = tak
-		size = 360
+		size = 1360
 	}
 	aristocrats = {
 		culture = werewolves
@@ -6367,7 +6392,7 @@
 	}
 }
 699={
-    farmers = {
+    labourers = {
 		culture = lipswiger
 		religion = othordox_omnianism
 		size = 1230
@@ -6441,7 +6466,12 @@
 	farmers = {
 		culture = rheinthalian
 		religion = catholic
-		size = 500
+		size = 19500
+	}
+	soldiers = {
+		culture = rheinthalian
+		religion = catholic
+		size = 2100
 	}
 }
 703={
@@ -6522,7 +6552,7 @@
 708={
     farmers = {
 		culture = lipswiger
-		religion = catholic
+		religion = othordox_omnianism
 		size = 12000
 	}
 	aristocrats = {
@@ -6537,7 +6567,7 @@
 	}
 	soldiers = {
 		culture = lipswiger
-		religion = catholic
+		religion = othordox_omnianism
 		size = 1200
 	}
 }
@@ -6550,12 +6580,17 @@
 	soldiers = {
 		culture = vampyre
 		religion = catholic
+		size = 2100
+	}
+	soldiers = {
+		culture = lipswiger
+		religion = othordox_omnianism
 		size = 1100
 	}
     farmers = {
 		culture = lipswiger
-		religion = catholic
-		size = 2700
+		religion = othordox_omnianism
+		size = 27000
 	}
 }
 710={

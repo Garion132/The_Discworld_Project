@@ -65,6 +65,9 @@ political_decisions = {
 				annex_to = THIS
 			}
 			set_country_flag = UBW_shattered
+			add_accepted_culture = upper_uberwaldian
+			add_accepted_culture = uberwaldian
+			add_accepted_culture = outer_uberwaldian
 		}
 		ai_will_do = {
 			factor = 1

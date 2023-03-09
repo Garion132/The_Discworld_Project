@@ -1,5 +1,5 @@
 owner = GEN
 controller = GEN
 add_core = GEN
-trade_goods = fish
+trade_goods = cotton
 life_rating = 20
