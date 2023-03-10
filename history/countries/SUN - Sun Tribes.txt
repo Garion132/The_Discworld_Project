@@ -1,5 +1,5 @@
 capital = 2065
-primary_culture = howondalander
+primary_culture = laotani
 religion = protestant
 government = absolute_monarchy
 plurality = -15

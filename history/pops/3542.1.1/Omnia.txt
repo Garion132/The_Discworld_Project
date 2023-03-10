@@ -515,7 +515,7 @@
     farmers = {
 		culture = omnian
 		religion = omnianism
-		size = 64000
+		size = 16400
 	}
 	clergymen = {
 		culture = omnian
@@ -527,7 +527,7 @@
     farmers = {
 		culture = betrek
 		religion = omnianism
-		size = 61000
+		size = 26100
 	}
 	clergymen = {
 		culture = betrek
@@ -544,7 +544,7 @@
     farmers = {
 		culture = betrek
 		religion = omnianism
-		size = 62000
+		size = 16200
 	}
 	clergymen = {
 		culture = betrek
@@ -676,7 +676,7 @@
     farmers = {
 		culture = betrek
 		religion = omnianism
-		size = 48000
+		size = 28000
 	}
 	clergymen = {
 		culture = betrek
@@ -700,7 +700,7 @@
 	farmers = {
 		culture = betrek
 		religion = omnianism
-		size = 68000
+		size = 48000
 	}
 	clergymen = {
 		culture = omnian
@@ -710,7 +710,7 @@
 	soldiers = {
 		culture = betrek
 		religion = omnianism
-		size = 11000
+		size = 4000
 	}
     }
 309={
@@ -777,7 +777,7 @@
 	farmers = {
 		culture = betrek
 		religion = omnianism
-		size = 35800
+		size = 15800
 	}
     }
 315={
@@ -865,7 +865,7 @@
 	farmers = {
 		culture = betrek
 		religion = omnianism
-		size = 80000
+		size = 28000
 	}
 	soldiers = {
 		culture = betrek

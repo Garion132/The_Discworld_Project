@@ -1,2 +1,15 @@
-trade_goods = grain
+owner = LWD
+controller = LWD
+add_core = LWD
+trade_goods = coal
 life_rating = 10
+state_building = {
+	level = 3
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = furniture_factory
+	upgrade = yes
+}

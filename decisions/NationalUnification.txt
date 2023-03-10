@@ -456,7 +456,63 @@ political_decisions = {
 		}
 	}
 	
-	
+	consolidate_muntab = { #Muntab is now one state
+		potential = {
+			is_greater_power = yes
+			OR={
+				primary_culture = muntab
+			}
+			NOT = {
+				exists = MUT
+			}
+		}	
+		allow = {
+			war = no
+			MUT={
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+						# NOT = {
+							# OR={
+								# primary_culture = uberwaldian
+								# primary_culture = vampyre 
+								# primary_culture = werewolves 
+							# }
+						# }
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 15
+			change_tag = MUT
+			any_country = {
+				limit = {
+					OR = {
+						primary_culture = muntab
+					}
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 	
 	# form_union_nation = {
 		# potential = {

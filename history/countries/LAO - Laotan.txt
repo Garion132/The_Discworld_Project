@@ -1,5 +1,5 @@
 capital = 494
-primary_culture = laotani
+primary_culture = low_laotani
 religion = protestant
 government = absolute_monarchy
 plurality = 30

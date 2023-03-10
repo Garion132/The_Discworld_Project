@@ -1,2 +1,5 @@
+owner = CUT
+controller = CUT
+add_core = CUT
 trade_goods = grain
 life_rating = 10

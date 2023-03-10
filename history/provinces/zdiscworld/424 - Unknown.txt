@@ -1,3 +1,5 @@
-
+owner = LWD
+controller = LWD
+add_core = LWD
 trade_goods = coal
 life_rating = 20

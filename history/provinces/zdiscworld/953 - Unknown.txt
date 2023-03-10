@@ -1,5 +1,6 @@
-owner = HRL
-controller = HRL
+owner = GRS
+controller = GRS
+add_core = GRS
 add_core = HRL
 trade_goods = grain
 life_rating = 45

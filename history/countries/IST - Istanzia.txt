@@ -2,9 +2,9 @@ capital = 234
 primary_culture = istanzian
 religion = plain_omnianism
 government = fascist_dictatorship
-plurality = 30
+plurality = 15
 nationalvalue = nv_order
-literacy = 0.55
+literacy = 0.35
 civilized = yes
 
 prestige = 25

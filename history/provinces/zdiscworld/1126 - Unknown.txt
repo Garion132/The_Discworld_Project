@@ -1,2 +1,5 @@
+owner = GAB
+controller = GAB
+add_core = GAB
 trade_goods = grain
 life_rating = 10

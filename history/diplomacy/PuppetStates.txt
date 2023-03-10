@@ -12,6 +12,12 @@ vassal = {
 	start_date = 1816.1.1
 	end_date = 3600.1.1
 }
+vassal = {
+	first = MAI
+	second = PAL
+	start_date = 1816.1.1
+	end_date = 3600.1.1
+}
 #howondaland shattered
 substate = {
 	first = HOW

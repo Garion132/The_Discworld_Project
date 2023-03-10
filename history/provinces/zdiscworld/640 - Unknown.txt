@@ -1,5 +1,6 @@
 owner = BOR
 controller = BOR
 add_core = BOR
+add_core = ZLO
 trade_goods = clay
 life_rating = 52

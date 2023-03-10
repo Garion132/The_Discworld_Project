@@ -1,9 +1,10 @@
 #name = "War of Northern Aggression"
-name = "Restoration of order to Farfree"
+name = "War of Pales Succession"
 
 3540.1.1 = {
-	add_attacker = MUT
-	add_defender = FRF
+	add_attacker = MAI
+	add_attacker = PAL
+	add_defender = VUM
 	
 	# actor
 	# receiver
@@ -11,19 +12,24 @@ name = "Restoration of order to Farfree"
 	# country - 3rd party
 	# state_province_id - target state capital
 	war_goal = {
-		casus_belli = conquest
-		actor = MUT
-		receiver = FRF
+		casus_belli = annex
+		actor = MAI
+		receiver = VUM
 	}
 	war_goal = {
-		casus_belli = status_quo
-		actor = FRF
-		receiver = MUT
+		casus_belli = annex
+		actor = VUM
+		receiver = MAI
+	}
+	war_goal = {
+		casus_belli = make_puppet
+		actor = VUM
+		receiver = PAL
 	}
 
 }
 
 3542.4.21 = {
-	rem_attacker = MUT
-	rem_defender = FRF
+	rem_attacker = MAI
+	rem_defender = VUM
 }

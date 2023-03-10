@@ -1,5 +1,5 @@
 capital = 1213
-primary_culture = octrine
+primary_culture = hergen
 religion = protestant
 government = absolute_monarchy
 plurality = -15

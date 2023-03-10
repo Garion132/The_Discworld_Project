@@ -1,5 +1,6 @@
 capital = 660
-primary_culture = outer_uberwaldian
+primary_culture = upper_uberwaldian
+accepted_culture = uberwaldian
 religion = protestant
 government = absolute_monarchy
 plurality = 30

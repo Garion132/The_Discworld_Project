@@ -1,5 +1,6 @@
-owner = VGL
-controller = VGL
+owner = GRS
+controller = GRS
+add_core = GRS
 add_core = VGL
 trade_goods = grain
 life_rating = 45

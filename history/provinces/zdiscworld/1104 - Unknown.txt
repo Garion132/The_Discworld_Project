@@ -1,2 +1,5 @@
+owner = LWD
+controller = LWD
+add_core = LWD
 trade_goods = grain
 life_rating = 10

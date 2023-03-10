@@ -1,5 +1,6 @@
-owner = MUT
-controller = MUT
+owner = GRS
+controller = GRS
+add_core = GRS
 add_core = MUT
 trade_goods = iron
 life_rating = 45

@@ -52,7 +52,7 @@
     }
 410={
     farmers = {
-		culture = ghatian
+		culture = muntabian
 		religion = catholic
 		size = 3900
 	}
@@ -68,7 +68,22 @@
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 3300
+		size = 43300
+	}
+	soldiers = {
+		culture = muntabian
+		religion = catholic
+		size = 5400
+	}
+	aristocrats = {
+		culture = muntabian
+		religion = catholic
+		size = 150
+	}
+	artisans = {
+		culture = muntabian
+		religion = catholic
+		size = 2540
 	}
 }
 928={
@@ -365,57 +380,72 @@
 }
 964={
     farmers = {
-		culture = ghatian
+		culture = muntabian
 		religion = catholic
 		size = 4700
 	}
 }
 965={
     farmers = {
-		culture = ghatian
+		culture = muntabian
 		religion = catholic
 		size = 1740
 	}
 }
 966={
     farmers = {
-		culture = ghatian
+		culture = muntabian
 		religion = catholic
 		size = 3900
 	}
 }
 967={
     farmers = {
-		culture = farferian
+		culture = muntabian
 		religion = catholic
-		size = 6300
+		size = 26300
+	}
+	artisans = {
+		culture = muntabian
+		religion = catholic
+		size = 4500
+	}
+	soldiers = {
+		culture = muntabian
+		religion = catholic
+		size = 4100
+	}
+	aristocrats = {
+		culture = muntabian
+		religion = catholic
+		size = 132
 	}
 }
 968={
     farmers = {
-		culture = ghatian
+		culture = muntabian
 		religion = catholic
 		size = 2900
 	}
 	soldiers = {
-		culture = ghatian
+		culture = muntabian
 		religion = catholic
 		size = 1100
 	}
 }
 969={
     farmers = {
-		culture = ghatian
+		culture = muntabian
 		religion = catholic
 		size = 3500
 	}
 	artisans = {
-		culture = ghatian
+		culture = muntabian
 		religion = catholic
 		size = 300
 	}
 	soldiers = {
-		culture = ghatian
+		culture = muntabian
 		religion = catholic
 		size = 800
 	}
@@ -429,7 +459,7 @@
 }
 971={
     farmers = {
-		culture = ghatian
+		culture = muntabian
 		religion = catholic
 		size = 5980
 	}
@@ -443,28 +473,28 @@
 }
 973={
     farmers = {
-		culture = ghatian
+		culture = muntabian
 		religion = catholic
 		size = 3950
 	}
 }
 974={
     farmers = {
-		culture = ghatian
+		culture = muntabian
 		religion = catholic
 		size = 4780
 	}
 }
 975={
     farmers = {
-		culture = ghatian
+		culture = muntabian
 		religion = catholic
 		size = 6950
 	}
 }
 976={
     farmers = {
-		culture = ghatian
+		culture = muntabian
 		religion = catholic
 		size = 7420
 	}
@@ -514,7 +544,7 @@
 }
 981={
     farmers = {
-		culture = ghatian
+		culture = muntabian
 		religion = catholic
 		size = 3958
 	}
@@ -528,7 +558,7 @@
 }
 983={
     farmers = {
-		culture = ghatian
+		culture = muntabian
 		religion = catholic
 		size = 3870
 	}
@@ -563,7 +593,7 @@
 }
 988={
     farmers = {
-		culture = brindisian
+		culture = muntabian
 		religion = catholic
 		size = 7840
 	}

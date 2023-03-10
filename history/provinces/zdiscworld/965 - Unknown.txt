@@ -1,5 +1,6 @@
-owner = MUT
-controller = MUT
+owner = VUM
+controller = VUM
+add_core = VUM
 add_core = MUT
 trade_goods = re_annuals
 life_rating = 45

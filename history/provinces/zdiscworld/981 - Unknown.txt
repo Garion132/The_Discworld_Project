@@ -1,5 +1,6 @@
-owner = MUT
-controller = MUT
+owner = ARI
+controller = ARI
+add_core = ARI
 add_core = MUT
 trade_goods = re_annuals
 life_rating = 45

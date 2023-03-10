@@ -347,6 +347,10 @@ country_event = {
 			is_culture_group = THIS
 			is_cultural_union = yes
 			war = no
+			OR={
+				NOT={tag = LWD}
+				has_country_flag = LWD_united_crown
+			}
 		}
 	}
 	

@@ -7,7 +7,7 @@ country_event = {
 
 	trigger = {
 		civilized = yes
-		literacy = 0.3
+		literacy = 0.5
 		NOT = {
 			OR = {
 				has_country_flag = liberal_revolution_in_progress

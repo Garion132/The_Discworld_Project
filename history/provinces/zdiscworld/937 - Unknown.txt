@@ -1,5 +1,6 @@
-owner = MUT
-controller = MUT
+owner = NUR
+controller = NUR
+add_core = NUR
 add_core = MUT
 trade_goods = grain
 life_rating = 45

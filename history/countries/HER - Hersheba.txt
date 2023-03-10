@@ -1,5 +1,5 @@
 capital = 382
-primary_culture = klatchian
+primary_culture = herseban
 religion = protestant
 government = absolute_monarchy
 plurality = 30

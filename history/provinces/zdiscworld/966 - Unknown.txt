@@ -1,5 +1,6 @@
-owner = MUT
-controller = MUT
+owner = VUM
+controller = VUM
+add_core = VUM
 add_core = MUT
 trade_goods = tea
 life_rating = 45

@@ -1,5 +1,6 @@
-owner = MUT
-controller = MUT
+owner = HID
+controller = HID
+add_core = HID
 add_core = MUT
 trade_goods = tea
 life_rating = 45

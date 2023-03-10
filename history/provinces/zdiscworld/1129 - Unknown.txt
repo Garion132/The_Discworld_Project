@@ -1,2 +1,5 @@
-trade_goods = grain
+owner = MAR
+controller = MAR
+add_core = MAR
+trade_goods = cattle
 life_rating = 10

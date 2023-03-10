@@ -1,2 +1,5 @@
+owner = HUB
+controller = HUB
+add_core = HUB
 trade_goods = grain
 life_rating = 10

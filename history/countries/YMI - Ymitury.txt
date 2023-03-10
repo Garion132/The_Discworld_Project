@@ -1,5 +1,5 @@
 capital = 374
-primary_culture = klatchian
+primary_culture = far_klatchian
 religion = protestant
 government = absolute_monarchy
 plurality = 30
