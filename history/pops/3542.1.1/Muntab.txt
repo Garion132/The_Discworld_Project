@@ -61,7 +61,12 @@
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 2200
+		size = 8200
+	}
+	soldiers = {
+		culture = muntabian
+		religion = catholic
+		size = 1640
 	}
 }
 927={
@@ -90,7 +95,22 @@
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 4900
+		size = 15900
+	}
+	soldiers = {
+		culture = muntabian
+		religion = catholic
+		size = 3100
+	}
+	artisans = {
+		culture = muntabian
+		religion = catholic
+		size = 2080
+	}
+	aristocrats = {
+		culture = muntabian
+		religion = catholic
+		size = 19
 	}
 }
 929={
@@ -375,28 +395,33 @@
     farmers = {
 		culture = farferian
 		religion = catholic
-		size = 4600
+		size = 9600
 	}
 }
 964={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 4700
+		size = 8700
 	}
 }
 965={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 1740
+		size = 7740
 	}
 }
 966={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 3900
+		size = 12890
+	}
+	soldiers = {
+		culture = muntabian
+		religion = catholic
+		size = 1900
 	}
 }
 967={
@@ -452,9 +477,9 @@
 }
 970={
     farmers = {
-		culture = ghatian
+		culture = muntabian
 		religion = catholic
-		size = 2630
+		size = 8630
 	}
 }
 971={
@@ -466,9 +491,14 @@
 }
 972={
     farmers = {
-		culture = ghatian
+		culture = muntabian
 		religion = catholic
-		size = 4650
+		size = 14650
+	}
+	soldiers = {
+		culture = muntabian
+		religion = catholic
+		size = 1210
 	}
 }
 973={
@@ -560,7 +590,7 @@
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 3870
+		size = 13870
 	}
 }
 984={
@@ -595,7 +625,17 @@
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 7840
+		size = 27840
+	}
+	soldiers = {
+		culture = muntabian
+		religion = catholic
+		size = 4821
+	}
+	aristocrats = {
+		culture = muntabian
+		religion = catholic
+		size = 12
 	}
 }
 989={
@@ -609,7 +649,22 @@
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 2480
+		size = 21480
+	}
+	soldiers = {
+		culture = muntabian
+		religion = catholic
+		size = 3340
+	}
+	artisans = {
+		culture = muntabian
+		religion = catholic
+		size = 6340
+	}
+	aristocrats = {
+		culture = muntabian
+		religion = catholic
+		size = 24
 	}
 }
 991={

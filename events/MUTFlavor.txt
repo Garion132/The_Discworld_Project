@@ -4,15 +4,22 @@ country_event = {
 	id = 37000  
 
 	trigger = {
-		tag = MUT
+		OR={
+			tag = MAI
+			tag = VUM
+		}
 		#year = 3552
 		#NOT = {
 		#	year = 3553
 		#}
-		owns=967
-		owns=962
-		GHA = {exists = no}
-		NOT={accepted_culture = ghatian}
+		928={
+			OR = {
+				owned_by = THIS
+				owner = {
+					vassal_of = THIS
+				}
+			}
+		}
 	}
 	
 	fire_only_once = yes
@@ -27,14 +34,11 @@ country_event = {
 	picture = "Administration"
 
 	option = {
-		name = "EVTOPTA37000" 
-		add_accepted_culture = ghatian
-		MUT ={
-			casus_belli = {
-				target = LMT
-				type = annex
-				months = 36
-			}
+		name = "EVTOPTA37000"
+		casus_belli = {
+			target = ARI
+			type = annex
+			months = 36
 		}
 	}
 }

@@ -783,20 +783,25 @@
 	}
     }
 47={
-	farmers = {
+	clergymen = {
 		culture = sto_plainer
 		religion = catholic
-		size = 18500
-	}
-	artisans = {
-		culture = sto_plainer
-		religion = catholic
-		size = 11500
+		size = 1200
 	}
 	soldiers = {
 		culture = sto_plainer
 		religion = catholic
-		size = 10500
+		size = 5600
+	}
+	artisans = {
+		culture = sto_plainer
+		religion = catholic
+		size = 3500
+	}
+    farmers = {
+		culture = sto_plainer
+		religion = catholic
+		size = 80000
 	}
     }
 48={
@@ -2259,55 +2264,40 @@
     farmers = {
 		culture = istanzian
 		religion = catholic
-		size = 44000
+		size = 22000
 	}
 	soldiers = {
 		culture = istanzian
 		religion = catholic
-		size = 11000
+		size = 5500
 	}
     }
 183={
-        farmers = {
+    farmers = {
 		culture = istanzian
 		religion = catholic
-		size = 97000
+		size = 51000
 	}
     }
 184={
     farmers = {
 		culture = istanzian
 		religion = catholic
-		size = 68000
+		size = 38000
 	}
     }
 185={
     farmers = {
 		culture = istanzian
 		religion = catholic
-		size = 87000
+		size = 47000
 	}
     }
 186={
-	clergymen = {
-		culture = sto_plainer
+	farmers = {
+		culture = istanzian
 		religion = catholic
-		size = 1200
-	}
-	soldiers = {
-		culture = sto_plainer
-		religion = catholic
-		size = 4600
-	}
-	artisans = {
-		culture = sto_plainer
-		religion = catholic
-		size = 3500
-	}
-    farmers = {
-		culture = sto_plainer
-		religion = catholic
-		size = 180000
+		size = 27000
 	}
     }
 187={
@@ -2593,10 +2583,10 @@
 	}
     }
 223={
-        farmers = {
+    farmers = {
 		culture = sto_plainer
 		religion = catholic
-		size = 74000
+		size = 14000
 	}
     }
 224={
@@ -9761,12 +9751,12 @@
     farmers = {
 		culture = troll
 		religion = catholic
-		size = 5700
+		size = 15700
 	}
 	soldiers = {
 		culture = troll
 		religion = catholic
-		size = 1200
+		size = 4200
 	}
 }
 1131={

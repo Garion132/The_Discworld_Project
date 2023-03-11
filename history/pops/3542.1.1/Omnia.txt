@@ -2,28 +2,28 @@
 	farmers = {
 		culture = istanzian
 		religion = catholic
-		size = 98000
+		size = 19800
 	}
     }
 228={
-        farmers = {
+    farmers = {
 		culture = istanzian
 		religion = catholic
-		size = 70000
+		size = 40000
 	}
     }
 229={
     farmers = {
 		culture = omnian
 		religion = omnianism
-		size = 135000
+		size = 90000
 	}
     }
 230={
 	farmers = {
 		culture = omnian
 		religion = omnianism
-		size = 158000
+		size = 118000
 	}
 	soldiers = {
 		culture = omnian
@@ -71,22 +71,12 @@
 	farmers = {
 		culture = istanzian
 		religion = catholic
-		size = 136000
+		size = 56000
 	}
 	farmers = {
 		culture = istanzian
 		religion = omnianism
 		size = 7910
-	}
-	artisans = {
-		culture = istanzian
-		religion = catholic
-		size = 7000
-	}
-	artisans = {
-		culture = istanzian
-		religion = catholic
-		size = 5000
 	}
 	artisans = {
 		culture = istanzian
@@ -150,7 +140,7 @@
         farmers = {
 		culture = istanzian
 		religion = catholic
-		size = 74000
+		size = 27400
 	}
     }
 239={

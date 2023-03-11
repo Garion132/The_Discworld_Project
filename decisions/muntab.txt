@@ -1,0 +1,28 @@
+political_decisions = {
+	eject_timidrids = {
+		potential = {
+			primary_culture = muntab
+			TIM={
+				is_vassal = no
+				exists = yes
+			}
+			neighbour = TIM
+			1554={
+				owned_by = TIM
+			}
+		}
+		
+		allow = {
+			year = 3544
+		}
+		
+		effect = {
+			casus_belli = {
+				target = TIM
+				state_province_id = 1565
+				type = annex
+				months = 36
+			}
+		}
+	}
+}

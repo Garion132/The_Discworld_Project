@@ -458,16 +458,19 @@ political_decisions = {
 	
 	consolidate_muntab = { #Muntab is now one state
 		potential = {
-			is_greater_power = yes
-			OR={
-				primary_culture = muntab
-			}
+			#OR={
+			primary_culture = muntabian
+			#}
 			NOT = {
 				exists = MUT
 			}
 		}	
 		allow = {
 			war = no
+			OR={
+				is_greater_power = yes
+				is_secondary_power = yes
+			}
 			MUT={
 				all_core = {
 					OR = {
@@ -496,7 +499,7 @@ political_decisions = {
 			any_country = {
 				limit = {
 					OR = {
-						primary_culture = muntab
+						primary_culture = muntabian
 					}
 					OR = {
 						in_sphere = THIS

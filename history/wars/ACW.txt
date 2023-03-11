@@ -1,10 +1,11 @@
 #name = "War of Northern Aggression"
 name = "War of Pales Succession"
 
-3540.1.1 = {
+3541.12.12 = {
 	add_attacker = MAI
-	add_attacker = PAL
 	add_defender = VUM
+	add_defender = PAL
+	
 	
 	# actor
 	# receiver
@@ -12,24 +13,20 @@ name = "War of Pales Succession"
 	# country - 3rd party
 	# state_province_id - target state capital
 	war_goal = {
-		casus_belli = annex
-		actor = MAI
-		receiver = VUM
-	}
-	war_goal = {
-		casus_belli = annex
+		casus_belli = status_quo
 		actor = VUM
 		receiver = MAI
 	}
 	war_goal = {
 		casus_belli = make_puppet
-		actor = VUM
+		actor = MAI
 		receiver = PAL
 	}
 
 }
 
-3542.4.21 = {
+3544.4.21 = {
 	rem_attacker = MAI
 	rem_defender = VUM
+	rem_defender = PAL
 }

@@ -2,6 +2,5 @@ owner = LMT
 controller = LMT
 add_core = LMT
 add_core = REH
-add_core = MUT
 trade_goods = grain
 life_rating = 45

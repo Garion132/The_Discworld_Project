@@ -744,7 +744,7 @@ muntab = {
 		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
 		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
 	}
-	union = MUN
+	union = MUT
 }
 lower_muntab = {
 	leader = european
