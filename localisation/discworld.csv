@@ -1919,6 +1919,9 @@ EVTDESC39008;Late yesterday the duke and dutchess of Sto Helit, trapped in their
 EVTNAME40000;Death of the Prophet Brutha;;;;x;;;;;;;
 EVTNAME36900;Dispursal of the XXXX Storm;;;;x;;;;;;;
 EVTDESC36900;WIP;;;;x;;;;;;;
+EVTOPTA36900;Take direct control;;;;x;;;;;;;
+EVTOPTA36900;Establish a colonial governer;;;;x;;;;;;;
+EVTOPTA36900;Let them have freedom;;;;x;;;;;;;
 zemphis_delegation_title;Zephis Delegation;;;;x;;;;;;;
 zemphis_delegation_desc;Contining the Unifaction of the Sto Plains, we should send a delegation to Zemphis;;;;x;;;;;;;
 ad_hoc_minting;Ad Hoc Minting;;;;x;;;;;;;
