@@ -575,10 +575,9 @@ fort = {
 	goods_cost =
 	{
 		lumber = 100
-		cement = 100
-		explosives = 50
-		small_arms = 50
-		artillery = 40
+		cement = 200
+		steel = 100
+		seige_equipment = 40
 	}
 	time = 1080 
 	visibility = yes

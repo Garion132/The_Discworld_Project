@@ -1,239 +1,242 @@
 # #XXXX storm disapears and XXXX becomes a AMP colony
-# country_event = {
+country_event = {
 
-	# id = 36900  
+	id = 36900  
 
-	# trigger = {
-		# tag = AMP 
-		# year = 3557
-	# }
+	trigger = {
+		tag = AMP 
+		year = 3557
+	}
 	
-	# fire_only_once = yes
+	fire_only_once = yes
  
-	# mean_time_to_happen =  {
-		# months = 6
+	mean_time_to_happen =  {
+		months = 6
 
-	# }
+	}
 
-	# title = "EVTNAME36900"
-	# desc = "EVTDESC36900"
-	# picture = "Administration"
+	title = "EVTNAME36900"
+	desc = "EVTDESC36900"
+	picture = "Administration"
 
-	# option = {
-		# name = "EVTOPTA36900" 
-		# XXXX_25 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		# XXXX_24 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		# XXXX_23 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		# XXXX_22 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		# XXXX_21 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		# XXXX_20 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		# XXXX_19 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		# XXXX_18 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		# XXXX_17 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		# XXXX_16 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		# XXXX_15 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		# XXXX_14 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		# XXXX_13 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		# XXXX_12 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		# XXXX_11 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		# XXXX_10 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		# XXXX_9 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		# XXXX_8 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		# XXXX_7 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		# XXXX_6 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		# XXXX_5 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		# XXXX_4 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		# XXXX_3 = { add_core = AMP add_core = XX4 secede_province = THIS }
-		# XXXX_2 = { add_core = AMP add_core = XX4 secede_province = THIS }
-	# }
-	# option = {
-		# name = "EVTOPTB36900" 
+	option = {
+		name = "EVTOPTA36900" 
+		XXXX_25 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		XXXX_24 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		XXXX_23 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		XXXX_22 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		XXXX_21 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		XXXX_20 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		XXXX_19 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		XXXX_18 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		XXXX_17 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		XXXX_16 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		XXXX_15 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		XXXX_14 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		XXXX_13 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		XXXX_12 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		XXXX_11 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		XXXX_10 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		XXXX_9 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		XXXX_8 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		XXXX_7 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		XXXX_6 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		XXXX_5 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		XXXX_4 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		XXXX_3 = { add_core = AMP add_core = XX4 secede_province = THIS }
+		XXXX_2 = { add_core = AMP add_core = XX4 secede_province = THIS }
+	}
+	option = {
+		name = "EVTOPTB36900" 
 		
-			# XXXX_25 = { add_core = XX4 secede_province = THIS }
-			# XXXX_24 = { add_core = XX4 secede_province = THIS }
-			# XXXX_23 = { add_core = XX4 secede_province = THIS }
-			# XXXX_22 = { add_core = XX4 secede_province = THIS }
-			# XXXX_21 = { add_core = XX4 secede_province = THIS }
-			# XXXX_20 = { add_core = XX4 secede_province = THIS }
-			# XXXX_19 = { add_core = XX4 secede_province = THIS }
-			# XXXX_18 = { add_core = XX4 secede_province = THIS }
-			# XXXX_17 = { add_core = XX4 secede_province = THIS }
-			# XXXX_16 = { add_core = XX4 secede_province = THIS }
-			# XXXX_15 = { add_core = XX4 secede_province = THIS }
-			# XXXX_14 = { add_core = XX4 secede_province = THIS }
-			# XXXX_13 = { add_core = XX4 secede_province = THIS }
-			# XXXX_12 = { add_core = XX4 secede_province = THIS }
-			# XXXX_11 = { add_core = XX4 secede_province = THIS }
-			# XXXX_10 = { add_core = XX4 secede_province = THIS }
-			# XXXX_9 = { add_core = XX4 secede_province = THIS }
-			# XXXX_8 = { add_core = XX4 secede_province = THIS }
-			# XXXX_7 = { add_core = XX4 secede_province = THIS }
-			# XXXX_6 = { add_core = XX4 secede_province = THIS }
-			# XXXX_5 = { add_core = XX4 secede_province = THIS }
-			# XXXX_4 = { add_core = XX4 secede_province = THIS }
-			# XXXX_3 = { add_core = XX4 secede_province = THIS }
-			# XXXX_2 = { add_core = XX4 secede_province = THIS }
+			XXXX_25 = { add_core = XX4 secede_province = THIS }
+			XXXX_24 = { add_core = XX4 secede_province = THIS }
+			XXXX_23 = { add_core = XX4 secede_province = THIS }
+			XXXX_22 = { add_core = XX4 secede_province = THIS }
+			XXXX_21 = { add_core = XX4 secede_province = THIS }
+			XXXX_20 = { add_core = XX4 secede_province = THIS }
+			XXXX_19 = { add_core = XX4 secede_province = THIS }
+			XXXX_18 = { add_core = XX4 secede_province = THIS }
+			XXXX_17 = { add_core = XX4 secede_province = THIS }
+			XXXX_16 = { add_core = XX4 secede_province = THIS }
+			XXXX_15 = { add_core = XX4 secede_province = THIS }
+			XXXX_14 = { add_core = XX4 secede_province = THIS }
+			XXXX_13 = { add_core = XX4 secede_province = THIS }
+			XXXX_12 = { add_core = XX4 secede_province = THIS }
+			XXXX_11 = { add_core = XX4 secede_province = THIS }
+			XXXX_10 = { add_core = XX4 secede_province = THIS }
+			XXXX_9 = { add_core = XX4 secede_province = THIS }
+			XXXX_8 = { add_core = XX4 secede_province = THIS }
+			XXXX_7 = { add_core = XX4 secede_province = THIS }
+			XXXX_6 = { add_core = XX4 secede_province = THIS }
+			XXXX_5 = { add_core = XX4 secede_province = THIS }
+			XXXX_4 = { add_core = XX4 secede_province = THIS }
+			XXXX_3 = { add_core = XX4 secede_province = THIS }
+			XXXX_2 = { add_core = XX4 secede_province = THIS }
 				
-		# release = XX4
-		# create_vassal = XX4
+		release = XX4
+		create_vassal = XX4
 		
-	# }
-	# option = {
-		# name = "EVTOPTC36900" 
-		# XX4={
-			# XXXX_25 = { add_core = XX4 secede_province = THIS }
-			# XXXX_24 = { add_core = XX4 secede_province = THIS }
-			# XXXX_23 = { add_core = XX4 secede_province = THIS }
-			# XXXX_22 = { add_core = XX4 secede_province = THIS }
-			# XXXX_21 = { add_core = XX4 secede_province = THIS }
-			# XXXX_20 = { add_core = XX4 secede_province = THIS }
-			# XXXX_19 = { add_core = XX4 secede_province = THIS }
-			# XXXX_18 = { add_core = XX4 secede_province = THIS }
-			# XXXX_17 = { add_core = XX4 secede_province = THIS }
-			# XXXX_16 = { add_core = XX4 secede_province = THIS }
-			# XXXX_15 = { add_core = XX4 secede_province = THIS }
-			# XXXX_14 = { add_core = XX4 secede_province = THIS }
-			# XXXX_13 = { add_core = XX4 secede_province = THIS }
-			# XXXX_12 = { add_core = XX4 secede_province = THIS }
-			# XXXX_11 = { add_core = XX4 secede_province = THIS }
-			# XXXX_10 = { add_core = XX4 secede_province = THIS }
-			# XXXX_9 = { add_core = XX4 secede_province = THIS }
-			# XXXX_8 = { add_core = XX4 secede_province = THIS }
-			# XXXX_7 = { add_core = XX4 secede_province = THIS }
-			# XXXX_6 = { add_core = XX4 secede_province = THIS }
-			# XXXX_5 = { add_core = XX4 secede_province = THIS }
-			# XXXX_4 = { add_core = XX4 secede_province = THIS }
-			# XXXX_3 = { add_core = XX4 secede_province = THIS }
-			# XXXX_2 = { add_core = XX4 secede_province = THIS }
-		# }
+	}
+	option = {
+		name = "EVTOPTC36900" 
+		XX4={
+			XXXX_25 = { add_core = XX4 secede_province = THIS }
+			XXXX_24 = { add_core = XX4 secede_province = THIS }
+			XXXX_23 = { add_core = XX4 secede_province = THIS }
+			XXXX_22 = { add_core = XX4 secede_province = THIS }
+			XXXX_21 = { add_core = XX4 secede_province = THIS }
+			XXXX_20 = { add_core = XX4 secede_province = THIS }
+			XXXX_19 = { add_core = XX4 secede_province = THIS }
+			XXXX_18 = { add_core = XX4 secede_province = THIS }
+			XXXX_17 = { add_core = XX4 secede_province = THIS }
+			XXXX_16 = { add_core = XX4 secede_province = THIS }
+			XXXX_15 = { add_core = XX4 secede_province = THIS }
+			XXXX_14 = { add_core = XX4 secede_province = THIS }
+			XXXX_13 = { add_core = XX4 secede_province = THIS }
+			XXXX_12 = { add_core = XX4 secede_province = THIS }
+			XXXX_11 = { add_core = XX4 secede_province = THIS }
+			XXXX_10 = { add_core = XX4 secede_province = THIS }
+			XXXX_9 = { add_core = XX4 secede_province = THIS }
+			XXXX_8 = { add_core = XX4 secede_province = THIS }
+			XXXX_7 = { add_core = XX4 secede_province = THIS }
+			XXXX_6 = { add_core = XX4 secede_province = THIS }
+			XXXX_5 = { add_core = XX4 secede_province = THIS }
+			XXXX_4 = { add_core = XX4 secede_province = THIS }
+			XXXX_3 = { add_core = XX4 secede_province = THIS }
+			XXXX_2 = { add_core = XX4 secede_province = THIS }
+		}
 		
-	# }
-# }
+	}
+}
 # #Rise of Lesip
-# country_event = {
-	# id = 36901
+country_event = {
+	id = 36901
 
-	# trigger = {
-		# tag = AMP 
-		# year = 3552
-		# always= no
-	# }
+	trigger = {
+		tag = AMP 
+		year = 3552
+		always= no
+	}
 	
-	# fire_only_once = yes
-	# major = yes
+	fire_only_once = yes
+	major = yes
  
-	# mean_time_to_happen =  {
-		# months = 6
-	# }
+	mean_time_to_happen =  {
+		months = 6
+	}
 
-	# title = "EVTNAME36901"
-	# desc = "EVTDESC36901"
-	# picture = "Administration"
+	title = "EVTNAME36901"
+	desc = "EVTDESC36901"
+	picture = "Administration"
 
-	# option = {
-		# name = "EVTOPTA36901" 
-		# KLA = {
-			# relation = {
-				# who = AMP
-				# value = -200
-			# }
-		# }
-		# country_event = {id = 36903 days = 5}
-		# KLA={country_event = {id = 36903 days = 5}}
-	# }
-# }
+	option = {
+		name = "EVTOPTA36901" 
+		KLA = {
+			relation = {
+				who = AMP
+				value = -200
+			}
+		}
+		country_event = {id = 36903 days = 5}
+		KLA={country_event = {id = 36903 days = 5}}
+	}
+}
 # #A-M becomes the migratory point
-# country_event = {
+country_event = {
 
-	# id = 36902
+	id = 36902
 
-	# trigger = {
-		# tag = AMP 
-		# year = 3546
-		# #always= no
-	# }
+	trigger = {
+		tag = AMP 
+		year = 3546
+		#always= no
+	}
 	
-	# fire_only_once = yes
+	fire_only_once = yes
  
-	# mean_time_to_happen =  {
-		# months = 6
+	mean_time_to_happen =  {
+		months = 6
 
-	# }
+	}
 
-	# title = "EVTNAME36902"
-	# desc = "EVTDESC36902"
-	# picture = "Administration"
+	title = "EVTNAME36902"
+	desc = "EVTDESC36902"
+	picture = "Administration"
 	
-	# immediate ={
-		# add_country_modifier ={name =great_wahonie duration = -1}
-	# }
+	immediate ={
+		add_country_modifier ={name =great_wahonie duration = -1}
+	}
 
-	# option = {
-		# name = "EVTOPTA36902" 
+	option = {
+		name = "EVTOPTA36902" 
 		
-	# }
-# }
+	}
+}
 
 # #tensions mount (leshp)
-# country_event = {
-	# id = 36903
+country_event = {
+	id = 36903
 
-	# is_triggered_only = yes
+	is_triggered_only = yes
  
-	# mean_time_to_happen =  {
-		# months = 6
+	mean_time_to_happen =  {
+		months = 6
 
-	# }
+	}
 	
-	# immediate={
-		# hidden_effect={
-			# AMP={country_event = {id = 36904 days = 2}}
-		# }
-	# }
+	immediate={
+		hidden_effect={
+			if={
+				limit={tag = AMP}
+				AMP={country_event = {id = 36904 days = 2}}
+			}
+		}
+	}
 
-	# title = "EVTNAME36903"
-	# desc = "EVTDESC36903"
-	# picture = "Administration"
+	title = "EVTNAME36903"
+	desc = "EVTDESC36903"
+	picture = "Administration"
 
-	# option = {
-		# name = "EVTOPTA36903" 
+	option = {
+		name = "EVTOPTA36903" 
 		
-	# }
-# }
+	}
+}
 
 # #nobles rabble-rouse (leshp)
-# country_event = {
-	# id = 36904
+country_event = {
+	id = 36904
 
-	# is_triggered_only = yes
+	is_triggered_only = yes
  
-	# immediate={
-		# hidden_effect={
+	immediate={
+		hidden_effect={
 			# country_event = {id = 36905 days = 2}
-		# }
-	# }
+		}
+	}
 
-	# title = "EVTNAME36904"
-	# desc = "EVTDESC36904"
-	# picture = "Administration"
+	title = "EVTNAME36904"
+	desc = "EVTDESC36904"
+	picture = "Administration"
 
-	# option = {
-		# name = "EVTOPTA36904" 
-		# any_pop = {
-			# dominant_issue = {
-				# factor = 0.1
-				# value = jingoism
-			# }
-		# }
-		# set_global_flag = leshp_conceded_to_jingo
-	# }
-	# option = {
-		# name = "EVTOPTA36904" 
-		# rich_strata = {
-			# militancy = 3
-		# }
-	# }
-# }
+	option = {
+		name = "EVTOPTA36904" 
+		any_pop = {
+			dominant_issue = {
+				factor = 0.1
+				value = jingoism
+			}
+		}
+		set_global_flag = leshp_conceded_to_jingo
+	}
+	option = {
+		name = "EVTOPTA36904" 
+		rich_strata = {
+			militancy = 3
+		}
+	}
+}
 
 # #calls to action (leshp)
 # country_event = {

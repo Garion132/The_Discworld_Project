@@ -1,4 +1,4 @@
-#Ghat taken, move onto lesser muntab
+#
 country_event = {
 
 	id = 37000  
@@ -12,11 +12,21 @@ country_event = {
 		#NOT = {
 		#	year = 3553
 		#}
-		928={
-			OR = {
-				owned_by = THIS
-				owner = {
-					vassal_of = THIS
+		war = no
+		OR={
+			928={
+				owned_by = THIS	
+			}
+			AND={
+				tag = MAI
+				PAL = {
+					vassal_of = MAI
+				}
+			}
+			AND={
+				tag = VUM
+				PAL = {
+					vassal_of = VUM
 				}
 			}
 		}
@@ -37,7 +47,7 @@ country_event = {
 		name = "EVTOPTA37000"
 		casus_belli = {
 			target = ARI
-			type = annex
+			type = conquest
 			months = 36
 		}
 	}

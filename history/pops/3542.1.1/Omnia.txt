@@ -919,14 +919,14 @@
 	farmers = {
 		culture = ushistanian
 		religion = omnianism
-		size = 91000
+		size = 9100
 	}
     }
 331={
 	farmers = {
 		culture = ushistanian
 		religion = omnianism
-		size = 74000
+		size = 17400
 	}
 	soldiers = {
 		culture = ushistanian
@@ -950,21 +950,21 @@
 	farmers = {
 		culture = ushistanian
 		religion = omnianism
-		size = 41000
+		size = 21000
 	}
     }
 334={
 	farmers = {
 		culture = ushistanian
 		religion = omnianism
-		size = 53000
+		size = 33000
 	}
     }
 335={
 	farmers = {
 		culture = ushistanian
 		religion = omnianism
-		size = 71000
+		size = 17100
 	}
     }
 336={
