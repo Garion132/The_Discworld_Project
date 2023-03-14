@@ -2090,7 +2090,6 @@ province;red;green;blue;x;x
 2089;176;96;80;Worcester;x
 2090;48;96;80;Swettenham;x
 2091;49;224;80;Mossel Bay;x
-
 2092;176;224;80;Beaufort;x
 2093;112;192;80;Calvinia;x
 2094;239;64;207;Kimberley;x
@@ -2109,7 +2108,7 @@ province;red;green;blue;x;x
 2107;208;160;16;Klerksdorp;x
 2108;127;101;8;Mosega;x
 2109;208;32;17;Lydenburg;x
-2110;80;160;17;Thohoyandu;x
+2110;80;161;17;Thohoyandu;x
 2111;17;160;144;Durban;x
 2112;133;105;95;Ladysmith;x
 2113;65;192;112;Ulundi;x
@@ -2120,6 +2119,7 @@ province;red;green;blue;x;x
 2118;176;182;74;Tolanaro;x
 2119;16;50;223;Toamasina;x
 2120;224;197;48;Antsiranana;x
+
 2121;223;96;176;Mahajanga;x
 2122;6;156;13;Toliara;x
 2123;96;108;224;Comoros;x

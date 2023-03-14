@@ -80,6 +80,56 @@ substate = {
 	start_date = 1816.1.1
 	end_date = 3610.1.1
 }
+#agatean warlords
+substate = {
+	first = AGA
+	second = HNG
+	start_date = 1816.1.1
+	end_date = 3610.1.1
+}
+substate = {
+	first = AGA
+	second = SNG
+	start_date = 1816.1.1
+	end_date = 3610.1.1
+}
+substate = {
+	first = AGA
+	second = FNG
+	start_date = 1816.1.1
+	end_date = 3610.1.1
+}
+substate = {
+	first = AGA
+	second = TNG
+	start_date = 1816.1.1
+	end_date = 3610.1.1
+}
+substate = {
+	first = AGA
+	second = WNG
+	start_date = 1816.1.1
+	end_date = 3610.1.1
+}
+substate = {
+	first = AGA
+	second = MCS
+	start_date = 1816.1.1
+	end_date = 3610.1.1
+}
+substate = {
+	first = AGA
+	second = BES
+	start_date = 1816.1.1
+	end_date = 3610.1.1
+}
+substate = {
+	first = AGA
+	second = BNG
+	start_date = 1816.1.1
+	end_date = 3610.1.1
+}
+
 
 
 #bonk has consolidated much of central uberwald

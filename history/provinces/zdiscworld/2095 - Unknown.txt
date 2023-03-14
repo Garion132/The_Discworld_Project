@@ -1,0 +1,6 @@
+owner = FNG
+controller = FNG
+add_core = FNG
+add_core = AGA
+trade_goods = timber
+life_rating = 52

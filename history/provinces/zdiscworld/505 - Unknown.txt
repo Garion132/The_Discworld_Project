@@ -1,5 +1,6 @@
-owner = AGA
-controller = AGA
+owner = BES
+controller = BES
+add_core = BES
 add_core = AGA
 trade_goods = silk
 life_rating = 52

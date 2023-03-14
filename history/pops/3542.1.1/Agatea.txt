@@ -29,10 +29,30 @@
 	
     }
 505={
-        farmers = {
+    farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 79000
+	}
+	artisans = {
 		culture = agatean
 		religion = ancestor_worship
 		size = 10000
+	}
+	artisans = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 10000
+	}
+	soldiers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 7000
+	}
+	capitalists = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 9
 	}
     }
 506={
@@ -100,24 +120,34 @@
 	}
     }
 513={
-        farmers = {
+    farmers = {
 		culture = agatean
 		religion = ancestor_worship
-		size = 10000
+		size = 29000
+	}
+	aristocrats = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 57
+	}
+	soldiers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 8110
 	}
     }
 514={
-        farmers = {
+    farmers = {
 		culture = agatean
 		religion = ancestor_worship
-		size = 10000
+		size = 38000
 	}
     }
 515={
         farmers = {
 		culture = agatean
 		religion = ancestor_worship
-		size = 10000
+		size = 42000
 	}
     }
 516={
@@ -149,10 +179,15 @@
 	}
     }
 520={
-        farmers = {
+    farmers = {
 		culture = agatean
 		religion = ancestor_worship
-		size = 10000
+		size = 97000
+	}
+	soldiers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 11300
 	}
     }
 521={
@@ -226,17 +261,42 @@
 	}
     }
 531={
-        farmers = {
+    farmers = {
 		culture = agatean
 		religion = ancestor_worship
-		size = 8700
+		size = 18700
+	}
+	soldiers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 1300
 	}
     }
 532={
-        farmers = {
+    farmers = {
 		culture = agatean
 		religion = ancestor_worship
-		size = 6000
+		size = 86290
+	}
+	soldiers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 8000
+	}
+	aristocrats = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 13
+	}
+	artisans = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 10000
+	}
+	artisans = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 3400
 	}
     }
 533={
@@ -254,10 +314,15 @@
 	}
     }
 535={
-        farmers = {
+    farmers = {
 		culture = agatean
 		religion = ancestor_worship
-		size = 5000
+		size = 35000
+	}
+	soldiers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 3900
 	}
     }
 536={
@@ -280,10 +345,15 @@
 		religion = ancestor_worship
 		size = 100
 	}
-        labourers = {
+    labourers = {
 		culture = agatean
 		religion = ancestor_worship
-		size = 10000
+		size = 84000
+	}
+	soldiers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 8920
 	}
     }
 539={
@@ -446,6 +516,11 @@
 		religion = ancestor_worship
 		size = 10000
 	}
+	clergymen = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 7800
+	}
 
 	artisans = {
 		culture = agatean
@@ -483,15 +558,15 @@
 	}
 }
 559={
-        farmers = {
+    farmers = {
 		culture = agatean
 		religion = ancestor_worship
-		size = 18000
+		size = 78000
 	}
 	soldiers = {
 		culture = agatean
 		religion = ancestor_worship
-		size = 1600
+		size = 4600
 	}
     }
 560={
@@ -519,10 +594,10 @@
 	}
     }
 562={
-        farmers = {
+    farmers = {
 		culture = agatean
 		religion = ancestor_worship
-		size = 10000
+		size = 38000
 	}
 	soldiers = {
 		culture = agatean
@@ -531,17 +606,27 @@
 	}
     }
 563={
-        farmers = {
+    farmers = {
 		culture = agatean
 		religion = ancestor_worship
-		size = 10000
+		size = 34600
+	}
+	soldiers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 3600
 	}
     }
 564={
-        farmers = {
+    farmers = {
 		culture = agatean
 		religion = ancestor_worship
-		size = 10000
+		size = 26000
+	}
+	soldiers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 2700
 	}
     }
 565={
@@ -622,17 +707,32 @@
 	}
     }
 576={
-        farmers = {
+    farmers = {
 		culture = agatean
 		religion = ancestor_worship
-		size = 10000
+		size = 38000
+	}
+	artisans = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 9000
+	}
+	soldiers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 5000
 	}
     }
 577={
-        farmers = {
+    farmers = {
 		culture = agatean
 		religion = ancestor_worship
-		size = 10000
+		size = 46000
+	}
+	soldiers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 9000
 	}
     }
 578={
@@ -771,3 +871,256 @@
 		size = 2500
 	}
 }	
+2092={
+        farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 10000
+	}
+}
+2093={
+        farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 10000
+	}
+}
+2094={
+        farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 10000
+	}
+}
+2095={
+        farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 10000
+	}
+}
+2096={
+    farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 64000
+	}
+	soldiers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 9000
+	}
+}
+2097={
+        farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 10000
+	}
+}
+2098={
+        farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 10000
+	}
+}
+2099={
+        farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 10000
+	}
+}
+2100={
+        farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 10000
+	}
+}
+2101={
+        farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 10000
+	}
+}
+2102={
+        farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 10000
+	}
+}
+2103={
+        farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 10000
+	}
+}
+2104={
+        farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 35570
+	}
+}
+2105={
+        farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 10000
+	}
+}
+2106={
+        farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 10000
+	}
+}
+2107={
+        farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 10000
+	}
+}
+2108={
+        farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 10000
+	}
+}
+2109={
+        farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 10000
+	}
+}
+2110={
+    farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 10000
+	}
+}
+2111={
+    farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 36600
+	}
+	soldiers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 8700
+	}
+}
+2112={
+    farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 78033
+	}
+	soldiers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 5400
+	}
+	artisans = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 6800
+	}
+	artisans = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 10000
+	}
+}
+2113={
+    farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 28800
+	}
+	soldiers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 3160
+	}
+}
+2114={
+    farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 34090
+	}
+	soldiers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 3800
+	}
+}
+2115={
+    farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 63000
+	}
+	soldiers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 9000
+	}
+	artisans = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 7000
+	}
+}
+2116={
+    farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 10000
+	}
+}
+2117={
+    farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 64000
+	}
+	soldiers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 7800
+	}
+}
+2118={
+    farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 10000
+	}
+}
+2119={
+    farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 10000
+	}
+}
+2120={
+    farmers = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 10000
+	}
+}

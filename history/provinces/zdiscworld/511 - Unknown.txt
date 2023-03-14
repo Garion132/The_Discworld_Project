@@ -1,5 +1,6 @@
-owner = AGA
-controller = AGA
+owner = WNG
+controller = WNG
+add_core = WNG
 add_core = AGA
 trade_goods = precious_metal
 life_rating = 52
