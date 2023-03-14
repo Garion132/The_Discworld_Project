@@ -1,6 +1,6 @@
-owner = TIM
-controller = TIM
-add_core = TIM
+owner = KAY
+controller = KAY
+add_core = KAY
 add_core = MUT
 trade_goods = cotton
 life_rating = 20

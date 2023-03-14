@@ -754,7 +754,7 @@ economic_reforms = {
 					can_build_factory_in_capital_state = fabric_factory # example, no trigger needed here
 				}
 				effect = {
-					activate_technology = water_wheel_power
+					activate_technology = hand_cranked_power
 					build_factory_in_capital_state = fabric_factory
 					any_pop = {
 						scaled_militancy = {
@@ -851,7 +851,7 @@ military_reforms = {
 						
 			on_execute = {
 				effect = {
-					activate_technology = flintlock_rifles
+					activate_technology = high_grade_steel_weaponry
 					any_pop = {
 						scaled_militancy = {
 							ideology = liberal

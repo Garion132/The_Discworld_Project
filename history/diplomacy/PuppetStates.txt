@@ -18,6 +18,25 @@ vassal = {
 	start_date = 1816.1.1
 	end_date = 3600.1.1
 }
+
+vassal = {
+	first = TIM
+	second = OML
+	start_date = 1816.1.1
+	end_date = 3600.1.1
+}
+vassal = {
+	first = TIM
+	second = MOM
+	start_date = 1816.1.1
+	end_date = 3600.1.1
+}
+vassal = {
+	first = TIM
+	second = KAY
+	start_date = 1816.1.1
+	end_date = 3600.1.1
+}
 #howondaland shattered
 substate = {
 	first = HOW

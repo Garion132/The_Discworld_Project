@@ -1,3 +1,12 @@
+hospitals = {
+	limit = { alchemical_practises = 1 }
+	chance = {
+		base = 2
+	}
+	effect = {
+		pop_growth = 0.0002
+	}
+}
 alchemical_guilds = {
 	limit = { metallurgic_principles = 1 }
 	chance = {

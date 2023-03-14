@@ -1,5 +1,5 @@
-owner = SAL
-controller = SAL
-add_core = SAL
+owner = BEL
+controller = BEL
+add_core = BEL
 trade_goods = coal
 life_rating = 20

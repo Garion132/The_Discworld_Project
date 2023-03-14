@@ -28,9 +28,17 @@ luxury_needs = {
 ideologies = {
 	liberal = {
 		factor = 4
+		modifier = {
+			factor = 0.8
+			NOT = {year = 3575}
+		}
 	}
 	conservative = {
 		factor = 1
+		modifier = {
+			factor = 10
+			culture = ephebian
+		}
 	}
 }
 issues = {

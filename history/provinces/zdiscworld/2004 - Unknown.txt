@@ -1,6 +1,6 @@
-owner = TIM
-controller = TIM
-add_core = TIM
+owner = MOM
+controller = MOM
+add_core = MOM
 add_core = IRM
 trade_goods = fruit
 life_rating = 20

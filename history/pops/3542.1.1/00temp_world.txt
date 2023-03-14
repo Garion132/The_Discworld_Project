@@ -3682,29 +3682,9 @@
     }
 412={
 	farmers = {
-		culture = brindisian
+		culture = salentine
 		religion = catholic
-		size = 63000
-	}
-	artisans = {
-		culture = brindisian
-		religion = catholic
-		size = 3600
-	}
-	aristocrats = {
-		culture = brindisian
-		religion = catholic
-		size = 60
-	}
-	capitalists = {
-		culture = brindisian
-		religion = catholic
-		size = 15
-	}
-	soldiers = {
-		culture = brindisian
-		religion = catholic
-		size = 7200
+		size = 3650
 	}
     }
 413={
@@ -3728,9 +3708,14 @@
     }
 415={
 	farmers = {
-		culture = salentine
+		culture = momerathian
 		religion = catholic
-		size = 18600
+		size = 28600
+	}
+	soldiers = {
+		culture = momerathian
+		religion = catholic
+		size = 5840
 	}
     }
 416={
@@ -8863,14 +8848,14 @@
 }
 924={
     farmers = {
-		culture = cartthengen
+		culture = salentine
 		religion = catholic
 		size = 4500
 	}
 }
 925={
     farmers = {
-		culture = cartthengen
+		culture = salentine
 		religion = catholic
 		size = 5600
 	}
@@ -9724,15 +9709,20 @@
 	}
 }
 1128={
+	aristocrats = {
+		culture = troll
+		religion = catholic
+		size = 26
+	}
     farmers = {
 		culture = troll
 		religion = catholic
-		size = 11400
+		size = 19400
 	}
 	soldiers = {
 		culture = troll
 		religion = catholic
-		size = 2400
+		size = 6200
 	}
 }
 1129={
@@ -13820,26 +13810,26 @@
 }
 1755={
 	farmers = {
-		culture = cartthengen
+		culture = salentine
 		religion = catholic
 		size = 15860
 	}
 	soldiers = {
-		culture = cartthengen
+		culture = salentine
 		religion = catholic
 		size = 1340
 	}
 }
 1756={
 	farmers = {
-		culture = cartthengen
+		culture = salentine
 		religion = catholic
 		size = 24863
 	}
 }
 1757={
 	farmers = {
-		culture = cartthengen
+		culture = salentine
 		religion = catholic
 		size = 6870
 	}
@@ -13879,7 +13869,7 @@
 }
 1762={
 	farmers = {
-		culture = salentine
+		culture = genuan
 		religion = catholic
 		size = 8948
 	}
@@ -13988,14 +13978,14 @@
 }
 1774={
 	farmers = {
-		culture = salentine
+		culture = cartthengen
 		religion = catholic
 		size = 1630
 	}
 }
 1775={
 	farmers = {
-		culture = salentine
+		culture = cartthengen
 		religion = catholic
 		size = 1980
 	}
@@ -14009,7 +13999,7 @@
 }
 1777={
 	farmers = {
-		culture = salentine
+		culture = cartthengen
 		religion = catholic
 		size = 1780
 	}
@@ -14133,6 +14123,11 @@
 		religion = catholic
 		size = 17940
 	}
+	soldiers = {
+		culture = salentine
+		religion = catholic
+		size = 4138
+	}
 }
 1793={
 	farmers = {
@@ -14201,14 +14196,14 @@
 }
 1798={
 	farmers = {
-		culture = salentine
+		culture = mouldavian
 		religion = catholic
 		size = 1680
 	}
 }
 1799={
 	farmers = {
-		culture = salentine
+		culture = mouldavian
 		religion = catholic
 		size = 1750
 	}
@@ -14222,38 +14217,38 @@
 }	
 1801={
 	farmers = {
-		culture = salentine
+		culture = mouldavian
 		religion = catholic
 		size = 1960
 	}
 	soldiers = {
-		culture = salentine
+		culture = mouldavian
 		religion = catholic
 		size = 964
 	}
 }
 1802={
 	farmers = {
-		culture = salentine
+		culture = momerathian
 		religion = catholic
 		size = 1860
 	}
 }
 1803={
 	farmers = {
-		culture = salentine
+		culture = momerathian
 		religion = catholic
 		size = 1780
 	}
 	soldiers = {
-		culture = salentine
+		culture = momerathian
 		religion = catholic
 		size = 1645
 	}
 }
 1804={
 	farmers = {
-		culture = salentine
+		culture = momerathian
 		religion = catholic
 		size = 1630
 	}
@@ -14281,14 +14276,14 @@
 }
 1808={
 	farmers = {
-		culture = salentine
+		culture = momerathian
 		religion = catholic
 		size = 6360
 	}
 }
 1809={
 	farmers = {
-		culture = salentine
+		culture = momerathian
 		religion = catholic
 		size = 4650
 	}
@@ -15610,6 +15605,11 @@
     farmers = {
 		culture = mouldavian
 		religion = catholic
+		size = 7800
+	}
+	farmers = {
+		culture = momerathian
+		religion = catholic
 		size = 2800
 	}
 }
@@ -15730,19 +15730,19 @@
 }
 1999={
     farmers = {
-		culture = momerathian
+		culture = iram
 		religion = catholic
 		size = 3400
 	}
 	soldiers = {
-		culture = momerathian
+		culture = iram
 		religion = catholic
 		size = 2100
 	}
 }
 2000={
-        farmers = {
-		culture = momerathian
+    farmers = {
+		culture = iram
 		religion = catholic
 		size = 2900
 	}

@@ -1,6 +1,5 @@
-owner = BEL
-controller = BEL
-add_core = BEL
-add_core = MOM
+owner = TIM
+controller = TIM
+add_core = TIM
 trade_goods = grain
 life_rating = 20

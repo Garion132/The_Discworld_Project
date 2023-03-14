@@ -1,5 +1,5 @@
-owner = MOU
-controller = MOU
-add_core = MOU
+owner = OML
+controller = OML
+add_core = OML
 trade_goods = coal
 life_rating = 20

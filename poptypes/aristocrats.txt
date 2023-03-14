@@ -1278,6 +1278,10 @@ ideologies = {
 			middle_strata_militancy = 8
 			}
 		}
+		modifier = {
+			factor = 0.8
+			NOT = {year = 3575}
+		}
 	}
 	anarcho_liberal = {
 		factor = 1

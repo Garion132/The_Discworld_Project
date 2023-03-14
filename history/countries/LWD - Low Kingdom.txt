@@ -32,7 +32,11 @@ school_reforms = low_schools
 oob = "LWD_oob.txt"
 
 # Technologies
-
+metallurgic_principles = 1
+hand_cranked_power = 1
+steel_weaponry = 1
+high_grade_steel_weaponry = 1
+dwarf_forged_weaponry = 1
 
 # Inventions
 #corvettes = yes

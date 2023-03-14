@@ -1,11 +1,11 @@
-capital = 1565
-primary_culture = muntabian
+capital = 415
+primary_culture = momerathian
 religion = catholic
 government = absolute_monarchy
 plurality = -15
 nationalvalue = nv_order
 literacy = 0.14
-civilized = yes
+civilized = no
 
 # Political reforms
 slavery = yes_slavery

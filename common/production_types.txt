@@ -464,6 +464,22 @@ paper_mill = {
 		value = 0.25
 	}
 	bonus = {
+		trigger = { state_id = 40 }
+		value = 0.25
+	}
+	bonus = {
+		trigger = { state_id = 1 }
+		value = 0.25
+	}
+}
+paper_mill_brasscias = {       
+	template = factory_template
+	input_goods = { 
+		brassicas = 100		#45	total input+maint = 55
+	}
+	output_goods = paper 
+	value = 30			#68
+	bonus = {
 		trigger = { trade_goods_in_state = brassicas }
 		value = 0.5
 	}

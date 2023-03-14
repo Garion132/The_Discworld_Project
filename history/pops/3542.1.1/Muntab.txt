@@ -639,10 +639,30 @@
 	}
 }
 989={
-    farmers = {
+	farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 3650
+		size = 63000
+	}
+	artisans = {
+		culture = brindisian
+		religion = catholic
+		size = 3600
+	}
+	aristocrats = {
+		culture = brindisian
+		religion = catholic
+		size = 60
+	}
+	capitalists = {
+		culture = brindisian
+		religion = catholic
+		size = 15
+	}
+	soldiers = {
+		culture = brindisian
+		religion = catholic
+		size = 7200
 	}
 }
 990={
@@ -781,35 +801,35 @@
 }
 1007={
     farmers = {
-		culture = rehigreedian
+		culture = brindisian
 		religion = catholic
 		size = 2195
 	}
 }
 1008={
     farmers = {
-		culture = rehigreedian
+		culture = brindisian
 		religion = catholic
 		size = 2420
 	}
 }
 1009={
     farmers = {
-		culture = rehigreedian
+		culture = brindisian
 		religion = catholic
 		size = 2360
 	}
 }
 1010={
     farmers = {
-		culture = rehigreedian
+		culture = brindisian
 		religion = catholic
 		size = 3105
 	}
 }
 1011={
     farmers = {
-		culture = rehigreedian
+		culture = brindisian
 		religion = catholic
 		size = 2870
 	}
@@ -830,7 +850,7 @@
 }
 1014={
     farmers = {
-		culture = rehigreedian
+		culture = brindisian
 		religion = catholic
 		size = 2364
 	}
@@ -1325,7 +1345,7 @@
 }
 1554={
     farmers = {
-		culture = brindisian
+		culture = momerathian
 		religion = catholic
 		size = 4200
 	}
@@ -1410,7 +1430,7 @@
 }
 1564={
     farmers = {
-		culture = brindisian
+		culture = momerathian
 		religion = catholic
 		size = 3800
 	}
@@ -1422,21 +1442,21 @@
 }
 1565={
     farmers = {
-		culture = brindisian
+		culture = momerathian
 		religion = catholic
 		size = 6950
 	}
 }
 1566={
     farmers = {
-		culture = brindisian
+		culture = momerathian
 		religion = catholic
 		size = 11205
 	}
 }
 1567={
     farmers = {
-		culture = brindisian
+		culture = muntabian
 		religion = catholic
 		size = 7820
 	}
@@ -1485,35 +1505,35 @@
 }
 1574={
     farmers = {
-		culture = brindisian
+		culture = momerathian
 		religion = catholic
 		size = 6350
 	}
 }
 1575={
     farmers = {
-		culture = brindisian
+		culture = momerathian
 		religion = catholic
 		size = 4500
 	}
 }
 1576={
     farmers = {
-		culture = brindisian
+		culture = momerathian
 		religion = catholic
 		size = 3600
 	}
 }
 1577={
     farmers = {
-		culture = brindisian
+		culture = momerathian
 		religion = catholic
 		size = 7850
 	}
 }
 1578={
     farmers = {
-		culture = brindisian
+		culture = momerathian
 		religion = catholic
 		size = 6920
 	}
@@ -1539,7 +1559,7 @@
 }
 1581={
     farmers = {
-		culture = brindisian
+		culture = salentine
 		religion = catholic
 		size = 3250
 	}
@@ -1591,35 +1611,35 @@
 }
 1587={
     farmers = {
-		culture = brindisian
+		culture = salentine
 		religion = catholic
 		size = 2850
 	}
 }
 1588={
     farmers = {
-		culture = brindisian
+		culture = salentine
 		religion = catholic
 		size = 3580
 	}
 }
 1589={
     farmers = {
-		culture = brindisian
+		culture = salentine
 		religion = catholic
 		size = 3800
 	}
 }
 1590={
     farmers = {
-		culture = brindisian
+		culture = salentine
 		religion = catholic
 		size = 3400
 	}
 }
 1591={
     farmers = {
-		culture = brindisian
+		culture = salentine
 		religion = catholic
 		size = 7100
 	}

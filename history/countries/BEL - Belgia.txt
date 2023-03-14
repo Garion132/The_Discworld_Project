@@ -1,4 +1,4 @@
-capital = 1795
+capital = 1792
 primary_culture = salentine
 religion = protestant
 government = absolute_monarchy

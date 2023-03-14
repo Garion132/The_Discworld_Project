@@ -95,14 +95,6 @@ political_decisions = {
 								alliance_with = THIS
 							}
 						}
-						province_id = 59
-						province_id = 61
-						province_id = 62
-						province_id = 63
-						province_id = 60
-						province_id = 64
-						province_id = 65
-						province_id = 66
 						owned_by = CHR
 					}
 				}
@@ -340,9 +332,11 @@ political_decisions = {
 		potential = {
 			tag = OMN
 			has_country_flag = OMN_brutha_death
+			is_greater_power = yes
 			SML={
 				is_independant = yes
 				exists = yes
+				is_greater_power = no
 			}
 		}
 		
@@ -370,9 +364,11 @@ political_decisions = {
 		potential = {
 			tag = OMN
 			has_country_flag = OMN_brutha_death
+			is_greater_power = yes
 			BET={
 				is_independant = yes
 				exists = yes
+				is_greater_power = no
 			}
 		}
 		
@@ -399,10 +395,12 @@ political_decisions = {
 	vassalise_ushistan = {
 		potential = {
 			tag = OMN
+			is_greater_power = yes
 			has_country_flag = OMN_brutha_death
 			USH={
 				is_independant = yes
 				exists = yes
+				is_greater_power = no
 			}
 		}
 		
@@ -428,10 +426,12 @@ political_decisions = {
 	vassalise_istanzia = {
 		potential = {
 			tag = OMN
+			is_greater_power = yes
 			has_country_flag = OMN_brutha_death
 			IST={
 				is_independant = yes
 				exists = yes
+				is_greater_power = no
 			}
 		}
 		
@@ -498,9 +498,7 @@ political_decisions = {
 			change_tag = MUT
 			any_country = {
 				limit = {
-					OR = {
-						primary_culture = muntabian
-					}
+					primary_culture = muntabian
 					OR = {
 						in_sphere = THIS
 						vassal_of = THIS

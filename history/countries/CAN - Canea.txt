@@ -1,5 +1,5 @@
 capital = 1752
-primary_culture = cartthengen
+primary_culture = salentine
 religion = protestant
 government = absolute_monarchy
 plurality = 30
