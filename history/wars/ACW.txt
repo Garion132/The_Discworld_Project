@@ -18,7 +18,7 @@ name = "War of Pales Succession"
 		receiver = MAI
 	}
 	war_goal = {
-		casus_belli = make_puppet
+		casus_belli = conquest # make_puppet
 		actor = MAI
 		receiver = PAL
 	}

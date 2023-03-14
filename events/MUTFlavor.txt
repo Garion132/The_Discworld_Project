@@ -1,4 +1,4 @@
-#
+# Annex/Puppet Arikhotia
 country_event = {
 
 	id = 37000  
@@ -12,6 +12,7 @@ country_event = {
 		#NOT = {
 		#	year = 3553
 		#}
+		ARI = { exists = yes }
 		war = no
 		OR={
 			928={
@@ -45,24 +46,27 @@ country_event = {
 
 	option = {
 		name = "EVTOPTA37000"
-		casus_belli = {
-			target = ARI
-			type = conquest
-			months = 36
-		}
+        casus_belli = {
+            target = ARI
+            type = make_puppet #conquest
+            months = 60
+        }
 	}
 }
+
+# Puppet Rehigreed
 country_event = {
 
 	id = 37001  
 
 	trigger = {
 		tag = MUT
+		REH = { exists = yes }
 		#year = 3552
 		#NOT = {
 		#	year = 3553
 		#}
-		owns=980
+		owns=997
 		owns=978
 		LMT = {exists = no}
 	}
@@ -80,21 +84,22 @@ country_event = {
 
 	option = {
 		name = "EVTOPTA37001" 
-		MUT ={
-			casus_belli = {
-				target = REH
-				type = make_puppet
-				months = 36
-			}
+		casus_belli = {
+			target = REH
+			type = make_puppet
+			months = 60
 		}
 	}
 }
+
+# Puppet Orohai
 country_event = {
 
 	id = 37002
 
 	trigger = {
 		tag = MUT
+		ORO = { exists = yes }
 		#year = 3552
 		#NOT = {
 		#	year = 3553
@@ -121,12 +126,137 @@ country_event = {
 
 	option = {
 		name = "EVTOPTA37002" 
-		MUT={
-			casus_belli = {
-				target = ORO
-				type = make_puppet
-				months = 36
+		casus_belli = {
+			target = ORO
+			type = make_puppet
+			months = 60
+		}
+	}
+}
+
+# Puppet Vumuilon
+country_event = {
+
+	id = 37003
+
+	trigger = {
+		tag = MUT
+		VUM = { exists = yes }
+		#year = 3552
+		#NOT = {
+		#	year = 3553
+		#}
+		NOT = { truce_with = VUM }
+		OR={
+			AND={
+				owns=990
+				ARI = {exists = no}
 			}
+			is_our_vassal = ARI
+		}
+	}
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 1
+
+	}
+
+	title = "EVTNAME37003"
+	desc = "EVTDESC37003"
+	picture = "Administration"
+
+	option = {
+		name = "EVTOPTA37003" 
+		casus_belli = {
+			target = VUM
+			type = make_puppet
+			months = 60
+		}
+	}
+}
+
+# Puppet Farfaree
+country_event = {
+
+	id = 37004
+
+	trigger = {
+		tag = VUM
+		FRF = { exists = yes }
+		#year = 3552
+		#NOT = {
+		#	year = 3553
+		#}
+		OR={
+			AND={
+				owns=990
+				ARI = {exists = no}
+			}
+			is_our_vassal = ARI
+		}
+	}
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 1
+
+	}
+
+	title = "EVTNAME37004"
+	desc = "EVTDESC37004"
+	picture = "Administration"
+
+	option = {
+		name = "EVTOPTA37004" 
+		casus_belli = {
+			target = FRF
+			type = make_puppet
+			months = 60
+		}
+	}
+}
+
+# Puppet Mairal
+country_event = {
+
+	id = 37005
+
+	trigger = {
+		tag = VUM
+		MAI = { exists = yes }
+		#year = 3552
+		#NOT = {
+		#	year = 3553
+		#}
+		OR={
+			AND={
+				owns=962
+				FRF = {exists = no}
+			}
+			is_our_vassal = FRF
+		}
+	}
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 1
+
+	}
+
+	title = "EVTNAME37005"
+	desc = "EVTDESC37005"
+	picture = "Administration"
+
+	option = {
+		name = "EVTOPTA37005" 
+		casus_belli = {
+			target = MAI
+			type = make_puppet
+			months = 60
 		}
 	}
 }
