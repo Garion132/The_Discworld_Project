@@ -3653,23 +3653,23 @@
     }
 408={
 	farmers = {
-		culture = klatchistanian
-		religion = sek
-		size = 72000
+		culture = vanglemeshian
+		religion = catholic
+		size = 32000
 	}
 	clergymen = {
-		culture = klatchistanian
-		religion = sek
+		culture = vanglemeshian
+		religion = catholic
 		size = 420
 	}
 	artisans = {
-		culture = klatchistanian
-		religion = sek
+		culture = vanglemeshian
+		religion = catholic
 		size = 650
 	}
 	soldiers = {
-		culture = klatchistanian
-		religion = sek
+		culture = vanglemeshian
+		religion = catholic
 		size = 1300
 	}
     }
@@ -13218,56 +13218,56 @@
 }
 1684={
 	farmers = {
-		culture = klatchistanian
+		culture = vanglemeshian
 		religion = catholic
 		size = 5300
 	}
 }
 1685={
 	farmers = {
-		culture = klatchistanian
+		culture = vanglemeshian
 		religion = catholic
 		size = 2400
 	}
 }
 1686={
 	farmers = {
-		culture = klatchistanian
+		culture = vanglemeshian
 		religion = catholic
 		size = 3600
 	}
 }
 1687={
 	farmers = {
-		culture = klatchistanian
+		culture = vanglemeshian
 		religion = catholic
 		size = 4300
 	}
 }
 1688={
 	farmers = {
-		culture = klatchistanian
+		culture = vanglemeshian
 		religion = catholic
 		size = 1700
 	}
 }
 1689={
 	farmers = {
-		culture = klatchistanian
+		culture = vanglemeshian
 		religion = catholic
 		size = 2900
 	}
 }
 1690={
 	farmers = {
-		culture = klatchistanian
+		culture = vanglemeshian
 		religion = catholic
 		size = 1700
 	}
 }
 1691={
 	farmers = {
-		culture = klatchistanian
+		culture = vanglemeshian
 		religion = catholic
 		size = 3600
 	}
@@ -13302,14 +13302,14 @@
 }
 1696={
 	farmers = {
-		culture = klatchistanian
+		culture = vanglemeshian
 		religion = catholic
 		size = 12000
 	}
 }
 1697={
 	farmers = {
-		culture = klatchistanian
+		culture = vanglemeshian
 		religion = catholic
 		size = 8600
 	}
@@ -13387,7 +13387,7 @@
 }
 1706={
 	farmers = {
-		culture = klatchistanian
+		culture = vanglemeshian
 		religion = catholic
 		size = 1600
 	}
@@ -13401,14 +13401,14 @@
 }
 1708={
 	farmers = {
-		culture = klatchistanian
+		culture = vanglemeshian
 		religion = catholic
 		size = 3100
 	}
 }
 1709={
 	farmers = {
-		culture = klatchistanian
+		culture = vanglemeshian
 		religion = catholic
 		size = 2600
 	}

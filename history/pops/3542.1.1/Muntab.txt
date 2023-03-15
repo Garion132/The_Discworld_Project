@@ -281,7 +281,7 @@
 }
 947={
     farmers = {
-		culture = muntabian
+		culture = vanglemeshian
 		religion = catholic
 		size = 7000
 	}
@@ -327,59 +327,69 @@
 		religion = catholic
 		size = 5400
 	}
+	farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 6880
+	}
 }
 954={
     farmers = {
-		culture = muntabian
+		culture = vanglemeshian
 		religion = catholic
 		size = 4300
 	}
 }
 955={
     farmers = {
-		culture = muntabian
+		culture = vanglemeshian
 		religion = catholic
 		size = 3500
+	}
+	farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 1780
 	}
 }
 956={
     farmers = {
-		culture = muntabian
+		culture = vanglemeshian
 		religion = catholic
 		size = 5200
 	}
 }
 957={
     farmers = {
-		culture = muntabian
+		culture = vanglemeshian
 		religion = catholic
 		size = 3400
 	}
 }
 958={
     farmers = {
-		culture = muntabian
+		culture = vanglemeshian
 		religion = catholic
 		size = 4900
 	}
 }
 959={
     farmers = {
-		culture = muntabian
+		culture = vanglemeshian
 		religion = catholic
 		size = 7100
 	}
 }
 960={
     farmers = {
-		culture = muntabian
+		culture = vanglemeshian
 		religion = catholic
 		size = 3500
 	}
 }
 961={
     farmers = {
-		culture = muntabian
+		culture = vanglemeshian
 		religion = catholic
 		size = 2600
 	}
@@ -1159,7 +1169,7 @@
 }
 1531={
     farmers = {
-		culture = khanlian
+		culture = vanglemeshian
 		religion = catholic
 		size = 4400
 	}
@@ -1180,53 +1190,53 @@
 }
 1534={
     farmers = {
-		culture = khanlian
+		culture = vanglemeshian
 		religion = catholic
 		size = 4300
 	}
 }
 1535={
     farmers = {
-		culture = khanlian
+		culture = vanglemeshian
 		religion = catholic
 		size = 5650
 	}
 }
 1536={
     labourers = {
-		culture = khanlian
+		culture = vanglemeshian
 		religion = catholic
 		size = 6700
 	}
 	soldiers = {
-		culture = khanlian
+		culture = vanglemeshian
 		religion = catholic
 		size = 4600
 	}
 	aristocrats = {
-		culture = khanlian
+		culture = vanglemeshian
 		religion = catholic
 		size = 2000
 	}
 	artisans = {
-		culture = khanlian
+		culture = vanglemeshian
 		religion = catholic
 		size = 1000
 	}
 	artisans = {
-		culture = khanlian
+		culture = vanglemeshian
 		religion = catholic
 		size = 1000
 	}
 	artisans = {
-		culture = khanlian
+		culture = vanglemeshian
 		religion = catholic
 		size = 1000
 	}
 }
 1537={
     farmers = {
-		culture = khanlian
+		culture = vanglemeshian
 		religion = catholic
 		size = 5200
 	}
@@ -1261,7 +1271,7 @@
 }
 1542={
     farmers = {
-		culture = khanlian
+		culture = vanglemeshian
 		religion = catholic
 		size = 5900
 	}
@@ -1317,14 +1327,14 @@
 }
 1550={
     farmers = {
-		culture = hrullian
+		culture = vanglemeshian
 		religion = catholic
 		size = 4036
 	}
 }
 1551={
     farmers = {
-		culture = hrullian
+		culture = vanglemeshian
 		religion = catholic
 		size = 3105
 	}
@@ -1357,7 +1367,7 @@
 }
 1555={
     farmers = {
-		culture = hrullian
+		culture = vanglemeshian
 		religion = catholic
 		size = 4020
 	}
@@ -1371,45 +1381,45 @@
 }
 1557={
     farmers = {
-		culture = hrullian
+		culture = vanglemeshian
 		religion = catholic
 		size = 3650
 	}
 	soldiers = {
-		culture = hrullian
+		culture = vanglemeshian
 		religion = catholic
 		size = 1680
 	}
 }
 1558={
     farmers = {
-		culture = hrullian
+		culture = vanglemeshian
 		religion = catholic
 		size = 7580
 	}
 }
 1559={
     farmers = {
-		culture = hrullian
+		culture = vanglemeshian
 		religion = catholic
 		size = 8695
 	}
 	soldiers = {
-		culture = hrullian
+		culture = vanglemeshian
 		religion = catholic
 		size = 2410
 	}
 }
 1560={
     farmers = {
-		culture = hrullian
+		culture = vanglemeshian
 		religion = catholic
 		size = 3500
 	}
 }
 1561={
     farmers = {
-		culture = hrullian
+		culture = vanglemeshian
 		religion = catholic
 		size = 11740
 	}

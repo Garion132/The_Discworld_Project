@@ -302,7 +302,7 @@
         farmers = {
 		culture = ushistanian
 		religion = catholic
-		size = 52000
+		size = 15200
 	}
     }
 260={
@@ -316,14 +316,14 @@
         farmers = {
 		culture = ushistanian
 		religion = catholic
-		size = 84000
+		size = 34000
 	}
     }
 262={
         farmers = {
 		culture = ushistanian
 		religion = catholic
-		size = 60000
+		size = 28000
 	}
     }
 263={
@@ -736,7 +736,7 @@
 	farmers = {
 		culture = smalian
 		religion = omnianism
-		size = 66000
+		size = 36000
 	}
 	clergymen = {
 		culture = omnian
@@ -748,7 +748,7 @@
 	farmers = {
 		culture = smalian
 		religion = omnianism
-		size = 44700
+		size = 14700
 	}
 	clergymen = {
 		culture = omnian
@@ -879,7 +879,7 @@
 	farmers = {
 		culture = ushistanian
 		religion = omnianism
-		size = 37000
+		size = 27440
 	}
     }
 326={
@@ -912,7 +912,7 @@
 	farmers = {
 		culture = ushistanian
 		religion = omnianism
-		size = 77000
+		size = 37700
 	}
     }
 330={
@@ -938,12 +938,12 @@
 	farmers = {
 		culture = ushistanian
 		religion = omnianism
-		size = 39000
+		size = 29000
 	}
 	soldiers = {
 		culture = ushistanian
 		religion = omnianism
-		size = 1120
+		size = 1820
 	}
     }
 333={

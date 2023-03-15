@@ -1,6 +1,5 @@
 capital = 557
 primary_culture = agatean
-culture = counterweight_group
 religion = catholic
 government = absolute_monarchy
 plurality = 0.0
