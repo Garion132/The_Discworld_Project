@@ -108,7 +108,7 @@ patricianship = {
 	
 	
 	election = no
-	appoint_ruling_party = yes
+	appoint_ruling_party = no
 	flagType = republic
 }
 
