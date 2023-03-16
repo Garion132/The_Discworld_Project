@@ -18,6 +18,7 @@ press_rights = censored_press
 trade_unions = non_socialist
 voting_system = first_past_the_post
 political_parties = non_secret_ballots
+border_policy = quota_immigration
 
 # Social Reforms
 wage_reform = no_minimum_wage

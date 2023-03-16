@@ -1,5 +1,6 @@
-owner = MOU
-controller = MOU
+owner = OML
+controller = OML
+add_core = OML
 add_core = MOU
 trade_goods = iron
 life_rating = 20

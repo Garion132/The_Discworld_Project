@@ -16,6 +16,7 @@ press_rights = censored_press
 trade_unions = non_socialist
 voting_system = first_past_the_post
 political_parties = non_secret_ballots
+border_policy = quota_immigration
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -25,6 +26,10 @@ health_care = trinket_health_care
 unemployment_subsidies = trinket_subsidies
 pensions = no_pensions 
 school_reforms = low_schools
+
+
+western_shipyards = yes_western_shipyards
+monetary_reform = yes_monetary_reform
 
 # Technologies
 

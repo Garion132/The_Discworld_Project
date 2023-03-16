@@ -4,3 +4,8 @@ add_core = STH
 add_core = STO
 trade_goods = treacle
 life_rating = 52
+state_building = {
+	level = 1
+	building = luxury_clothes_factory
+	upgrade = yes
+}

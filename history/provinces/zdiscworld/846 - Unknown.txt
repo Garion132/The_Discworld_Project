@@ -2,4 +2,4 @@ owner = SLA
 controller = SLA
 add_core = SLA
 trade_goods = iron
-life_rating = 52
+life_rating = 22

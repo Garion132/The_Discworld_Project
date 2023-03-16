@@ -1,0 +1,47 @@
+capital = 270
+primary_culture = omnian
+religion = omnianism
+government = theocracy
+nationalvalue = nv_order
+civilized = yes
+
+
+# Political reforms
+slavery = yes_slavery
+upper_house_composition = appointed
+vote_franschise = landed_voting
+public_meetings = yes_meeting
+press_rights = censored_press
+trade_unions = non_socialist
+voting_system = first_past_the_post
+political_parties = non_secret_ballots
+border_policy = quota_immigration
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = trinket_safety
+health_care = trinket_health_care
+unemployment_subsidies = trinket_subsidies
+pensions = no_pensions 
+school_reforms = low_schools
+
+# Inventions
+#corvettes = yes
+new_quisition = yes
+
+# Starting Consciousness
+consciousness = 3
+nonstate_consciousness = 1
+
+ruling_party = OME_conservative
+last_election = 3529.6.1
+upper_house = {
+	fascist = 5
+	liberal = 55
+	conservative = 25
+	reactionary = 15
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}

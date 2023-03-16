@@ -310,151 +310,38 @@ political_decisions = {
 			prestige = 20
 			any_country = {
 				limit = {
+					OR={
+						tag = OMN
+						tag = IST
+						tag = BET
+					}
 					is_culture_group = THIS
 					OR={
 						in_sphere = THIS
 						vassal_of = THIS
 					}
 				}
-				any_state ={
-					add_core = OMN
-				}
 				annex_to = OMN
 			}
 			add_accepted_culture = union
+			change_tag = OME
+			any_owned ={
+				limit={
+					OR={
+						is_core = OMN
+						is_core = IST
+						is_core = BET
+					}
+				}
+				add_core = THIS
+			}
 			set_country_flag = OMN_united
 		}
 		ai_will_do = {
 			factor = 1
 		}
 	}
-	vassalise_smale = {
-		potential = {
-			tag = OMN
-			has_country_flag = OMN_brutha_death
-			is_greater_power = yes
-			SML={
-				is_independant = yes
-				exists = yes
-				is_greater_power = no
-			}
-		}
-		
-		allow = {
-			year = 3560
-			prestige = 80
-			war = no
-			SML ={
-				OR={
-					in_sphere = THIS
-					alliance_with = THIS
-					relation = {who = THIS value = 100}
-				}
-				
-			}
-		}
-		effect = {
-			create_vassal = SML
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	vassalise_betrek = {
-		potential = {
-			tag = OMN
-			has_country_flag = OMN_brutha_death
-			is_greater_power = yes
-			BET={
-				is_independant = yes
-				exists = yes
-				is_greater_power = no
-			}
-		}
-		
-		allow = {
-			year = 3560
-			prestige = 80
-			war = no
-			BET ={
-				OR={
-					in_sphere = THIS
-					alliance_with = THIS
-					relation = {who = THIS value = 100}
-				}
-				is_independant = yes
-			}
-		}
-		effect = {
-			create_vassal = BET
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	vassalise_ushistan = {
-		potential = {
-			tag = OMN
-			is_greater_power = yes
-			has_country_flag = OMN_brutha_death
-			USH={
-				is_independant = yes
-				exists = yes
-				is_greater_power = no
-			}
-		}
-		
-		allow = {
-			year = 3560
-			prestige = 80
-			war = no
-			USH ={
-				OR={
-					in_sphere = THIS
-					alliance_with = THIS
-					relation = {who = THIS value = 100}
-				}
-			}
-		}
-		effect = {
-			create_vassal = USH
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	vassalise_istanzia = {
-		potential = {
-			tag = OMN
-			is_greater_power = yes
-			has_country_flag = OMN_brutha_death
-			IST={
-				is_independant = yes
-				exists = yes
-				is_greater_power = no
-			}
-		}
-		
-		allow = {
-			year = 3560
-			prestige = 80
-			war = no
-			IST ={
-				OR={
-					in_sphere = THIS
-					alliance_with = THIS
-					relation = {who = THIS value = 100}
-				}
-				is_independant = yes
-			}
-		}
-		effect = {
-			create_vassal = IST
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
+	
 	
 	consolidate_muntab = { #Muntab is now one state
 		potential = {
@@ -508,6 +395,83 @@ political_decisions = {
 					}
 				}
 				annex_to = THIS
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	reform_morporkian_empire = {
+		potential = {
+			tag = AMP
+			is_greater_power = yes
+			NOT={
+				ruling_party = AMP_vetinarism
+			}
+		}
+		
+		allow = {
+			prestige = 200
+			war = no
+			nationalism_n_imperialism = 1
+			STO={
+				all_core={
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+			CHR={
+				all_core={
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+			QRM={
+				all_core={
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			prestige = 20
+			change_tag = AME
+			STO={
+				every_core={
+					add_core = AME
+				}
+			}
+			QRM={
+				every_core={
+					add_core = AME
+				}
+			}
+			CHR={
+				every_core={
+					add_core = AME
+				}
 			}
 		}
 		ai_will_do = {

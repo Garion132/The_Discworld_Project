@@ -1,0 +1,5 @@
+owner = FRF
+controller = FRF
+add_core = FRF
+trade_goods = grain
+life_rating = 5

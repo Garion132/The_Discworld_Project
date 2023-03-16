@@ -1,3 +1,6 @@
-
+owner = ROS
+controller = ROS
+add_core = ROS
+add_core = NTF
 trade_goods = fish
 life_rating = 45

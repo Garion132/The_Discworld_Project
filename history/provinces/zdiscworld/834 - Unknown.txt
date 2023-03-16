@@ -1,3 +1,5 @@
-
+owner = DAC
+controller = DAC
+add_core = DAC
 trade_goods = iron
 life_rating = 52

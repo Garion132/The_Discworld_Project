@@ -359,7 +359,7 @@ early_classical_theory_and_critique = {
 }
 late_classical_theory = {
 	area = economic_thought_and_critique
-	year = 3540
+	year = 3550
 	cost = 7200
 
 	factory_input = -0.01
@@ -389,7 +389,7 @@ late_classical_theory = {
 }
 collectivist_theory = {
 	area = economic_thought_and_critique
-	year = 3540
+	year = 3560
 	cost = 10800
 
 	factory_input = -0.01
@@ -419,7 +419,7 @@ collectivist_theory = {
 }
 the_historical_theory = {
 	area = economic_thought_and_critique
-	year = 3470
+	year = 3570
 	cost = 14400
 
 	factory_input = -0.01
@@ -449,7 +449,7 @@ the_historical_theory = {
 }
 neoclassical_theory = {
 	area = economic_thought_and_critique
-	year = 3480
+	year = 3580
 	cost = 18000
 
 	factory_input = -0.01

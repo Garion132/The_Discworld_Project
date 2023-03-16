@@ -10,7 +10,7 @@ culture = sto_plainer
 culture = vampyre
 culture = werewolves
 culture = mouldavian
-culture = borogravian
+culture = upper_borogravian
 culture = zlobenian
 culture = ephebian
 culture = tsortian
@@ -34,6 +34,7 @@ press_rights = censored_press
 trade_unions = non_socialist
 voting_system = first_past_the_post
 political_parties = non_secret_ballots
+border_policy = open_borders
 
 # Social Reforms
 wage_reform = no_minimum_wage

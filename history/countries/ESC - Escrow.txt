@@ -1,7 +1,7 @@
 capital = 660
 primary_culture = upper_uberwaldian
-accepted_culture = uberwaldian
-religion = protestant
+culture = uberwaldian
+religion = othordox_omnianism
 government = absolute_monarchy
 plurality = 30
 nationalvalue = nv_order
@@ -19,6 +19,7 @@ press_rights = censored_press
 trade_unions = non_socialist
 voting_system = first_past_the_post
 political_parties = non_secret_ballots
+border_policy = quota_immigration
 
 # Social Reforms
 wage_reform = no_minimum_wage

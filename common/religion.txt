@@ -75,7 +75,7 @@ klatchian_gods = {
 		social_reform_desire = -0.25
 	}
 }
-borogravian_gods = {
+upper_borogravian_gods = {
 	nugganite = {
 		color = { 0.8 0.3 0 }
 		icon = 12

@@ -1,5 +1,6 @@
-owner = NTF
-controller = NTF
+owner = NNT
+controller = NNT
+add_core = NNT
 add_core = NTF
-trade_goods = fish
+trade_goods = fruit
 life_rating = 45

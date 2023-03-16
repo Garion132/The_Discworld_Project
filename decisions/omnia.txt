@@ -1,0 +1,133 @@
+political_decisions = {
+	vassalise_smale = {
+		potential = {
+			tag = OMN
+			has_country_flag = OMN_brutha_death
+			is_greater_power = yes
+			SML={
+				is_independant = yes
+				exists = yes
+				is_greater_power = no
+				is_vassal = no
+			}
+		}
+		
+		allow = {
+			#year = 3560
+			prestige = 80
+			war = no
+			SML ={
+				OR={
+					in_sphere = THIS
+					alliance_with = THIS
+					relation = {who = THIS value = 100}
+				}
+				
+			}
+		}
+		effect = {
+			create_vassal = SML
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	vassalise_betrek = {
+		potential = {
+			tag = OMN
+			has_country_flag = OMN_brutha_death
+			is_greater_power = yes
+			BET={
+				is_independant = yes
+				exists = yes
+				is_greater_power = no
+				is_vassal = no
+			}
+		}
+		
+		allow = {
+			#year = 3560
+			prestige = 80
+			war = no
+			BET ={
+				OR={
+					in_sphere = THIS
+					alliance_with = THIS
+					relation = {who = THIS value = 100}
+				}
+				is_independant = yes
+			}
+		}
+		effect = {
+			create_vassal = BET
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	vassalise_ushistan = {
+		potential = {
+			tag = OMN
+			is_greater_power = yes
+			has_country_flag = OMN_brutha_death
+			USH={
+				is_independant = yes
+				exists = yes
+				is_greater_power = no
+				is_vassal = no
+			}
+		}
+		
+		allow = {
+			#year = 3560
+			prestige = 80
+			war = no
+			USH ={
+				OR={
+					in_sphere = THIS
+					alliance_with = THIS
+					relation = {who = THIS value = 100}
+				}
+			}
+		}
+		effect = {
+			create_vassal = USH
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	vassalise_istanzia = {
+		potential = {
+			tag = OMN
+			is_greater_power = yes
+			has_country_flag = OMN_brutha_death
+			IST={
+				is_independant = yes
+				exists = yes
+				is_greater_power = no
+				is_vassal = no
+			}
+		}
+		
+		allow = {
+			#year = 3560
+			prestige = 80
+			war = no
+			IST ={
+				OR={
+					in_sphere = THIS
+					alliance_with = THIS
+					relation = {who = THIS value = 100}
+				}
+				is_independant = yes
+			}
+		}
+		effect = {
+			create_vassal = IST
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

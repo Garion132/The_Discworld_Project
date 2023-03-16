@@ -1,3 +1,5 @@
-
+owner = NKN
+controller = NKN
+add_core = NKN
 trade_goods = grain
-life_rating = 52
+life_rating = 31

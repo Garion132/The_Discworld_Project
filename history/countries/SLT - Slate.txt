@@ -38,6 +38,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 health_care = no_health_care
 school_reforms = no_schools
+border_policy = quota_immigration
 
 
 #========================= T E C H N O L O G I E S =========================

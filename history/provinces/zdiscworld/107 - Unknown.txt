@@ -2,4 +2,4 @@ owner = QRM
 controller = QRM
 add_core = QRM
 trade_goods = brassicas
-life_rating = 52
+life_rating = 32

@@ -1,5 +1,5 @@
 owner = OMN
 controller = OMN
 add_core = OMN
-trade_goods = clay
-life_rating = 52
+trade_goods = grain
+life_rating = 29

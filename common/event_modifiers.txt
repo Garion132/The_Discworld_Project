@@ -765,9 +765,9 @@ hotbed_of_war = {
 }
 
 kythian_crisis = {
-	immigrant_attract = -7.00
-	immigrant_push = 3.0
-	population_growth = -0.1
+	immigrant_attract = -70.00
+	immigrant_push = 10.0
+	population_growth = -0.05
 	icon = 20
 }
 

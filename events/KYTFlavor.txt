@@ -29,10 +29,9 @@ country_event = {
 		}
 		all_core={
 			limit={
-				NOT={
-					province_id = 419
-					province_id = 1810
-					province_id = 1811
+				OR={
+					region = KYT_5
+					region = KYT_3
 				}
 			}
 			add_province_modifier = {

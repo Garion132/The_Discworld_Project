@@ -1,3 +1,5 @@
-
+owner = HTC
+controller = HTC
+add_core = HTC
 trade_goods = fish
-life_rating = 45
+life_rating = 25

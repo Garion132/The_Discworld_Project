@@ -1355,7 +1355,7 @@
 }
 1554={
     farmers = {
-		culture = momerathian
+		culture = innish
 		religion = catholic
 		size = 4200
 	}
@@ -1440,7 +1440,7 @@
 }
 1564={
     farmers = {
-		culture = momerathian
+		culture = innish
 		religion = catholic
 		size = 3800
 	}
@@ -1452,16 +1452,26 @@
 }
 1565={
     farmers = {
-		culture = momerathian
+		culture = innish
 		religion = catholic
 		size = 6950
+	}
+	farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 4360
 	}
 }
 1566={
     farmers = {
-		culture = momerathian
+		culture = innish
 		religion = catholic
-		size = 11205
+		size = 5205
+	}
+	farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 7205
 	}
 }
 1567={
@@ -1515,35 +1525,35 @@
 }
 1574={
     farmers = {
-		culture = momerathian
+		culture = innish
 		religion = catholic
 		size = 6350
 	}
 }
 1575={
     farmers = {
-		culture = momerathian
+		culture = innish
 		religion = catholic
 		size = 4500
 	}
 }
 1576={
     farmers = {
-		culture = momerathian
+		culture = innish
 		religion = catholic
 		size = 3600
 	}
 }
 1577={
     farmers = {
-		culture = momerathian
+		culture = innish
 		religion = catholic
 		size = 7850
 	}
 }
 1578={
     farmers = {
-		culture = momerathian
+		culture = innish
 		religion = catholic
 		size = 6920
 	}
@@ -1764,5 +1774,54 @@
 		culture = klatchistanian
 		religion = catholic
 		size = 1000
+	}
+}
+2128={
+    farmers = {
+		culture = farferian
+		religion = catholic
+		size = 2100
+	}
+}
+2129={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 2100
+	}
+}
+2130={
+    farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 2100
+	}
+}
+2131={
+    farmers = {
+		culture = orohaian
+		religion = catholic
+		size = 2100
+	}
+}
+2132={
+    farmers = {
+		culture = orohaian
+		religion = catholic
+		size = 2100
+	}
+}
+2133={
+    farmers = {
+		culture = orohaian
+		religion = catholic
+		size = 2100
+	}
+}
+2134={
+    farmers = {
+		culture = orohaian
+		religion = catholic
+		size = 2100
 	}
 }

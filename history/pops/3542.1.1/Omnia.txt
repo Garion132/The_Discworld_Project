@@ -2,7 +2,42 @@
 	farmers = {
 		culture = istanzian
 		religion = catholic
-		size = 19800
+		size = 56000
+	}
+	farmers = {
+		culture = istanzian
+		religion = omnianism
+		size = 7910
+	}
+	artisans = {
+		culture = istanzian
+		religion = omnianism
+		size = 3000
+	}
+	artisans = {
+		culture = istanzian
+		religion = omnianism
+		size = 5000
+	}
+	soldiers = {
+		culture = istanzian
+		religion = catholic
+		size = 5000
+	}
+	aristocrats = {
+		culture = istanzian
+		religion = catholic
+		size = 120
+	}
+	officers = {
+		culture = istanzian
+		religion = catholic
+		size = 200
+	}
+	clergymen = {
+		culture = omnian
+		religion = omnianism
+		size = 180
 	}
     }
 228={
@@ -23,7 +58,7 @@
 	farmers = {
 		culture = omnian
 		religion = omnianism
-		size = 118000
+		size = 78000
 	}
 	soldiers = {
 		culture = omnian
@@ -71,44 +106,8 @@
 	farmers = {
 		culture = istanzian
 		religion = catholic
-		size = 56000
+		size = 19800
 	}
-	farmers = {
-		culture = istanzian
-		religion = omnianism
-		size = 7910
-	}
-	artisans = {
-		culture = istanzian
-		religion = omnianism
-		size = 3000
-	}
-	artisans = {
-		culture = istanzian
-		religion = omnianism
-		size = 5000
-	}
-	soldiers = {
-		culture = istanzian
-		religion = catholic
-		size = 5000
-	}
-	aristocrats = {
-		culture = istanzian
-		religion = catholic
-		size = 120
-	}
-	officers = {
-		culture = istanzian
-		religion = catholic
-		size = 200
-	}
-	clergymen = {
-		culture = omnian
-		religion = omnianism
-		size = 180
-	}
-	
 }
 235={
 	farmers = {
@@ -379,7 +378,7 @@
     clergymen = {
 		culture = omnian
 		religion = omnianism
-		size = 190000
+		size = 90000
 	}
 	artisans = {
 		culture = omnian
@@ -423,12 +422,12 @@
 	farmers = {
 		culture = ur_culture
 		religion = catholic
-		size = 78000
+		size = 17000
 	}
 	soldiers = {
 		culture = ur_culture
 		religion = catholic
-		size = 5600
+		size = 1700
 	}
     }
 273={
