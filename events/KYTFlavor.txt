@@ -80,6 +80,53 @@ province_event = {
 		name = "EVTOPTA41002" 
 		remove_province_modifier = kythian_crisis
 		secede_province = 0
-		life_rating = -50
+		life_rating = -20
+	}
+}
+country_event = {
+
+	id = 41003
+
+	trigger = {
+		tag = KYT
+		NOT={
+			any_owned_province={
+				OR={
+					region = KYT_5
+					region = KYT_3
+				}
+			}
+		}
+		owns = 2124
+	}
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 1
+	}
+	immediate = {
+		#hidden_effect = {
+			GOD_6={
+				limit={
+					owned_by = KYT
+				}
+				secede_province = AFR
+				add_core = AFR
+			}
+		#}
+	}
+
+	title = "EVTNAME41003"
+	desc = "EVTDESC41003"
+	picture = "Administration"
+
+	option = {
+		name = "EVTOPTA41003" 
+		
+	}
+	option = {
+		name = "EVTOPTB41003" 
+		change_tag_no_core_switch = AFR
 	}
 }

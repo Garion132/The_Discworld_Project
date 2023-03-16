@@ -129,7 +129,7 @@
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 8100
+		size = 18100
 	}
 	soldiers = {
 		culture = muntabian
@@ -438,12 +438,12 @@
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 26300
+		size = 36300
 	}
 	artisans = {
 		culture = muntabian
 		religion = catholic
-		size = 4500
+		size = 14500
 	}
 	soldiers = {
 		culture = muntabian
@@ -508,7 +508,7 @@
 	soldiers = {
 		culture = muntabian
 		religion = catholic
-		size = 1210
+		size = 2210
 	}
 }
 973={

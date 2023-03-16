@@ -2,4 +2,4 @@ owner = KYT
 controller = KYT
 add_core = KYT
 trade_goods = fish
-life_rating = 25
+life_rating = 35

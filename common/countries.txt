@@ -16,6 +16,7 @@ MUT 	= "countries/Muntab.txt"
 IST 	= "countries/Istanzia.txt"
 UBW 	= "countries/Uberwald.txt"
 
+AFR 	= "countries/Asfaras.txt"
 ANG 	= "countries/Anghazi.txt"
 ARI 	= "countries/Arikhotia.txt"
 BAH 	= "countries/Bahari.txt"
