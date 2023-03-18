@@ -392,8 +392,9 @@ country_event = {
 
 	trigger={
 		tag = AMP
-		date = 3575
+		year = 3575
 	}
+	fire_only_once = yes
 
 	title = "EVTNAME36912"
 	desc = "EVTDESC36912"
