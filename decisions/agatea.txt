@@ -1,0 +1,226 @@
+political_decisions = {
+	integrate_tang = {
+		potential = {
+			tag = AGA
+			civilized = yes
+			is_our_vassal = TNG
+		}
+		
+		allow = {
+			#year = 3560
+			OR={
+				is_greater_power = yes
+				is_secondary_power = yes
+			}
+			money = 1000000
+			war = no
+			TNG ={
+				OR={
+					in_sphere = THIS
+					alliance_with = THIS
+					relation = {who = THIS value = 100}
+				}
+				
+			}
+		}
+		effect = {
+			inherit = TNG
+			treasury = -1000000
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	integrate_hong = {
+		potential = {
+			tag = AGA
+			civilized = yes
+			is_our_vassal = HNG
+		}
+		
+		allow = {
+			#year = 3560
+			OR={
+				is_greater_power = yes
+				is_secondary_power = yes
+			}
+			money = 1000000
+			war = no
+			HNG ={
+				OR={
+					in_sphere = THIS
+					alliance_with = THIS
+					relation = {who = THIS value = 100}
+				}
+				
+			}
+		}
+		effect = {
+			inherit = HNG
+			treasury = -1000000
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	integrate_fang = {
+		potential = {
+			tag = AGA
+			civilized = yes
+			is_our_vassal = FNG
+		}
+		
+		allow = {
+			#year = 3560
+			OR={
+				is_greater_power = yes
+				is_secondary_power = yes
+			}
+			money = 1000000
+			war = no
+			FNG ={
+				OR={
+					in_sphere = THIS
+					alliance_with = THIS
+					relation = {who = THIS value = 100}
+				}
+				
+			}
+		}
+		effect = {
+			inherit = FNG
+			treasury = -1000000
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	integrate_sung = {
+		potential = {
+			tag = AGA
+			civilized = yes
+			is_our_vassal = SNG
+		}
+		
+		allow = {
+			#year = 3560
+			OR={
+				is_greater_power = yes
+				is_secondary_power = yes
+			}
+			money = 1000000
+			war = no
+			SNG ={
+				OR={
+					in_sphere = THIS
+					alliance_with = THIS
+					relation = {who = THIS value = 100}
+				}
+				
+			}
+		}
+		effect = {
+			inherit = SNG
+			treasury = -1000000
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	integrate_mcsweeney = {
+		potential = {
+			tag = AGA
+			civilized = yes
+			is_our_vassal = MCS
+		}
+		
+		allow = {
+			#year = 3560
+			OR={
+				is_greater_power = yes
+				is_secondary_power = yes
+			}
+			money = 1000000
+			war = no
+			MCS ={
+				OR={
+					in_sphere = THIS
+					alliance_with = THIS
+					relation = {who = THIS value = 100}
+				}
+				
+			}
+		}
+		effect = {
+			inherit = MCS
+			treasury = -1000000
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	integrate_bling = {
+		potential = {
+			tag = AGA
+			civilized = yes
+			is_our_vassal = BNG
+		}
+		
+		allow = {
+			#year = 3560
+			OR={
+				is_greater_power = yes
+				is_secondary_power = yes
+			}
+			money = 1000000
+			war = no
+			BNG ={
+				OR={
+					in_sphere = THIS
+					alliance_with = THIS
+					relation = {who = THIS value = 100}
+				}
+				
+			}
+		}
+		effect = {
+			inherit = BNG
+			treasury = -1000000
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	integrate_wung = {
+		potential = {
+			tag = AGA
+			civilized = yes
+			is_our_vassal = WNG
+		}
+		
+		allow = {
+			#year = 3560
+			OR={
+				is_greater_power = yes
+				is_secondary_power = yes
+			}
+			money = 1000000
+			war = no
+			WNG ={
+				OR={
+					in_sphere = THIS
+					alliance_with = THIS
+					relation = {who = THIS value = 100}
+				}
+				
+			}
+		}
+		effect = {
+			inherit = WNG
+			treasury = -1000000
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

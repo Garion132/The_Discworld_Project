@@ -638,6 +638,15 @@ assimilation_chance =
 			NOT = { unemployment = 0.05 }
 		}
 	}
+	modifier = {
+		factor = -1000
+		OR={
+			is_culture_group = dwarfs_group
+			is_culture_group = troll_group
+			is_culture_group = vampyre_group
+			is_culture_group = werewolves_group
+		}
+	}
 }
 
 #general conversion mtth, same for all pops

@@ -1,4 +1,4 @@
-capital = 1341
+capital = 2135
 primary_culture = low_dwarfs_group
 culture = dwarf
 religion = tak

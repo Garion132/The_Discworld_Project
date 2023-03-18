@@ -67,7 +67,7 @@ political_decisions = {
 			set_country_flag = UBW_shattered
 			add_accepted_culture = upper_uberwaldian
 			add_accepted_culture = uberwaldian
-			add_accepted_culture = outer_uberwaldian
+			add_accepted_culture = lipswiger
 		}
 		ai_will_do = {
 			factor = 1
@@ -130,6 +130,21 @@ political_decisions = {
 				THIS={create_vassal = SKN}
 			}
 			add_accepted_culture = union
+			AMP={
+				all_core ={
+					add_core = THIS
+				}
+			}
+			QRM={
+				all_core ={
+					add_core = THIS
+				}
+			}
+			CHR={
+				all_core ={
+					add_core = THIS
+				}
+			}
 		}
 		ai_will_do = {
 			factor = 1

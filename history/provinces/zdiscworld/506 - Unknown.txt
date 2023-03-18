@@ -2,5 +2,5 @@ owner = WNG
 controller = WNG
 add_core = WNG
 add_core = AGA
-trade_goods = silk
-life_rating = 52
+trade_goods = coal
+life_rating = 32

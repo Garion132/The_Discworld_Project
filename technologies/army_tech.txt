@@ -885,7 +885,7 @@ military_staff_system = {
 }
 military_plans = {
 	area = military_science
-	year = 3543
+	year = 3550
 	cost = 7200
 	unciv_military = yes
 	
@@ -1146,7 +1146,7 @@ army_command_principle = {
 }
 army_professionalism = {
 	area = army_leadership
-	year = 3543
+	year = 3555
 	cost = 7200
 	unciv_military = yes
 	morale = 0.1
@@ -1200,7 +1200,7 @@ army_professionalism = {
 }
 army_decision_making = {
 	area = army_leadership
-	year = 3560
+	year = 3565
 	cost = 10800
 	unciv_military = yes
 	morale = 0.2

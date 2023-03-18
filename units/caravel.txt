@@ -36,9 +36,9 @@ caravel = {
 	}
 	
 	#Naval Abilties
-	hull = 3
-	gun_power = 4
-	fire_range = 0.50
+	hull = 6
+	gun_power = 8
+	fire_range = 1.00
 	evasion = 0.25
 	torpedo_attack = 0
 }

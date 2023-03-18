@@ -1111,7 +1111,7 @@ medicine = {
 }
 inorganic_chemistry = {
 	area = chemistry_and_electricity
-	year = 3600
+	year = 3610
 	cost = 10800
 
 	supply_limit = 0.25
@@ -1146,7 +1146,7 @@ inorganic_chemistry = {
 }
 organic_chemistry = {
 	area = chemistry_and_electricity
-	year = 1610
+	year = 3630
 	cost = 14400
 
 	supply_limit = 0.25

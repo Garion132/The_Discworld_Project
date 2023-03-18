@@ -225,7 +225,8 @@ political_reforms = {
                 NOT = { has_country_flag = government_busy_with_something }
                 OR = {
                     NOT = { has_country_flag = the_slavery_debate }
-                    year = 1875
+					NOT = { tag = EPH }
+                    year = 3600
                 }
             }
         }
@@ -237,7 +238,8 @@ political_reforms = {
                 NOT = { has_country_flag = government_busy_with_something }
                 OR = {
                     NOT = { has_country_flag = the_slavery_debate }
-                    year = 1875
+                    NOT = { tag = EPH }
+                    year = 3600
                 }
             }
         }
@@ -580,7 +582,7 @@ political_reforms = {
         }
     }
 
-        debt_law = {
+    debt_law = {
         next_step_only = yes
         serfdom = {
             education_efficiency_modifier = -0.15
@@ -869,7 +871,7 @@ social_reforms = {
             administrative_multiplier = 1
             global_immigrant_attract = 0.01
             allow = {
-                has_country_flag = medicine_invented
+                #has_country_flag = medicine_invented
                 NOT = { has_country_flag = government_busy_with_something }
             }
         }
@@ -878,7 +880,7 @@ social_reforms = {
             administrative_multiplier = 2
             global_immigrant_attract = 0.02
             allow = {
-                has_country_flag = germs_invented
+                #has_country_flag = germs_invented
                 NOT = { has_country_flag = government_busy_with_something }
             }
         }
@@ -887,7 +889,7 @@ social_reforms = {
             administrative_multiplier = 3
             global_immigrant_attract = 0.03
             allow = {
-                has_country_flag = gaslights_invented
+                #has_country_flag = gaslights_invented
                 NOT = { has_country_flag = government_busy_with_something }
             }
         }
@@ -896,7 +898,7 @@ social_reforms = {
             administrative_multiplier = 4
             global_immigrant_attract = 0.04
             allow = {
-                has_country_flag = electricity_invented
+                #has_country_flag = electricity_invented
                 NOT = { has_country_flag = government_busy_with_something }
             }
         }

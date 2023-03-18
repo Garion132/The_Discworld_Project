@@ -10466,8 +10466,8 @@ integral_rail_system;Integral Rail System;Réseau intégr?de chemin de fer;Integra
 integral_rail_system_desc;Integral Rail System;Réseau intégr?de chemin de fer;Integrales Schienennetz;;Sistema ferroviario integral;;;;;;;;;x;;;; 
 limited_access_roads;Limited-Access Roads;Routes ?accès limit?Schnellstraßen;;Vías de acceso limitado;;;;;;;;;x;;;; 
 limited_access_roads_desc;Limited-Access Roads;Routes ?accès limit?Schnellstraßen;;Vías de acceso limitado;;;;;;;;;x;;;; 
-chemistry_and_electricity;Chemistry and Electricity;Chimie et électricit?Chemie und Elektrizität;;Química y electricidad;;;;;;;;;x;;;; 
-chemistry_and_electricity_desc;This area involves the development of chemistry and electricity and all its spinoffs.;Ce domaine concerne le développement de la chimie, de l'électricit?et de leurs applications.;Dieser Bereich bezieht sich auf die Entwicklung von Chemie und Elektrizität sowie aller Ausgliederungen.;;Esta área implica el desarrollo de la química y la electricidad y todos sus derivados.;;;;;;;;;x;;;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+chemistry_and_electricity;Chemistry;Chimie et électricit?Chemie und Elektrizität;;Química y electricidad;;;;;;;;;x;;;; 
+chemistry_and_electricity_desc;This area involves the development of chemistry and all its spinoffs.;Ce domaine concerne le développement de la chimie, de l'électricit?et de leurs applications.;Dieser Bereich bezieht sich auf die Entwicklung von Chemie und Elektrizität sowie aller Ausgliederungen.;;Esta área implica el desarrollo de la química y la electricidad y todos sus derivados.;;;;;;;;;x;;;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 basic_chemistry;Basic Chemistry;Chimie élémentaire;Grundlegende Chemie;;Química básica;;;;;;;;;x;;;; 
 basic_chemistry_desc;Basic Chemistry;Chimie élémentaire;Grundlegende Chemie;;Química básica;;;;;;;;;x;;;; 
 medicine;Medicine;Médecine;Medizin;;Medicina;;;;;;;;;x;;;; 

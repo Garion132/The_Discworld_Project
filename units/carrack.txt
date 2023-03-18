@@ -38,9 +38,9 @@ carrack = {
 	}
 	
 	#Naval Abilties
-	hull = 4
-	gun_power = 8
-	fire_range = 0.58
+	hull = 8
+	gun_power = 16
+	fire_range = 1.16
 	evasion = 0
 }
 

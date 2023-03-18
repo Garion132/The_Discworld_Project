@@ -4,7 +4,10 @@ country_event = {
 	id = 36900  
 
 	trigger = {
-		tag = AMP 
+		OR={
+			tag = AMP 
+			tag = AME
+		}
 		year = 3557
 	}
 	
@@ -12,7 +15,6 @@ country_event = {
  
 	mean_time_to_happen =  {
 		months = 6
-
 	}
 
 	title = "EVTNAME36900"
@@ -20,7 +22,6 @@ country_event = {
 	picture = "Administration"
 	
 	immediate = {
-		hidden_effect = {
 			XXXX_25 = { add_core = XX4 secede_province = THIS life_rating = 20}
 			XXXX_24 = { add_core = XX4 secede_province = THIS life_rating = 20}
 			XXXX_23 = { add_core = XX4 secede_province = THIS life_rating = 20}
@@ -45,7 +46,6 @@ country_event = {
 			XXXX_4 = { add_core = XX4 secede_province = THIS life_rating = 20}
 			XXXX_3 = { add_core = XX4 secede_province = THIS life_rating = 20}
 			XXXX_2 = { add_core = XX4 secede_province = THIS life_rating = 20}
-		}
 	}
 
 	option = {
@@ -55,10 +55,12 @@ country_event = {
 		name = "EVTOPTB36900" 	
 		release = XX4
 		create_vassal = XX4
+		XX4={government = democracy}
 	}
 	option = {
 		name = "EVTOPTC36900" 
 		release = XX4
+		XX4={government = democracy}
 	}
 }
 # #Rise of Lesip
@@ -384,3 +386,25 @@ country_event = {
 		
 	# }
 # }
+#death of ventari
+country_event = {
+	id = 36912
+
+	trigger={
+		tag = AMP
+		date = 3575
+	}
+
+	title = "EVTNAME36912"
+	desc = "EVTDESC36912"
+	picture = "Administration"
+
+	option = {
+		name = "EVTOPTA36912" 
+		
+	}
+	option = {
+		name = "EVTOPTB36912" 
+		ruling_party_ideology = reactionary
+	}
+}

@@ -2,5 +2,5 @@ owner = BYK
 controller = BYK
 add_core = BYK
 add_core = UBW
-trade_goods = grain
+trade_goods = timber
 life_rating = 52

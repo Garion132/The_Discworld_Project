@@ -1,0 +1,94 @@
+political_decisions = {
+	second_treaty_of_bugs = {
+		potential = {
+			tag = UBW
+			OR={
+				NOT={accepted_culture = werewolves}
+				NOT={accepted_culture = vampyre}
+			}
+		}
+		
+		allow = {
+			state_n_government = 1
+			owns = 802
+			BYK = {
+				exists = no
+			}
+			FWW = {
+				exists = no
+			}
+			OR={
+				citizens_rights = culture_voting_only
+				citizens_rights = all_voting_pops
+			}
+		}
+		
+		effect = {
+			add_accepted_culture = werewolves
+			add_accepted_culture = vampyre
+		}
+	}
+	fealty_of_diamond_king = {
+		potential = {
+			tag = UBW
+			NOT={accepted_culture = troll }
+		}
+		
+		allow = {
+			state_n_government = 1
+			DIA = {
+				OR={
+					exists = no
+					vassal_of = THIS
+				}
+			}
+			OR={
+				AND={
+					exists = MAR
+					exists = OYX
+					exists = GAB
+					exists = SCH
+					exists = DAC
+					exists = BAS
+					exists = SLA
+					exists = GRA
+					exists = SHA
+				}
+				has_country_flag = diamond_king_of_trolls
+			}
+		}
+		
+		effect = {
+			add_accepted_culture = troll
+		}
+	}
+	fealty_of_low_king = {
+		potential = {
+			tag = UBW
+			OR={
+				NOT={accepted_culture = dwarf}
+				NOT={accepted_culture = low_dwarfs_group}
+			}
+		}
+		
+		allow = {
+			state_n_government = 1
+			2135={
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			add_accepted_culture = dwarf
+			add_accepted_culture = low_dwarfs_group
+		}
+	}
+}

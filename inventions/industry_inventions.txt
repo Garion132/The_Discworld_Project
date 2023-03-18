@@ -745,3 +745,54 @@ carbon_soil_enrichment = {
 		farm_rgo_eff = 0.05
 	}
 }
+
+brick_construction = {
+	limit = { horse_powered_dynanmo_power = 1 }
+	chance = {
+		base = 2
+		
+	}
+	effect = {
+		factory_cost = -0.01 
+	}
+}
+iron_frame_construction = {
+	limit = { clockwork_system_power = 1 }
+	chance = {
+		base = 2
+		
+	}
+	effect = {
+		factory_cost = -0.01 
+	}
+}
+hydrolic_cranes_construction = {
+	limit = { water_wheel_power = 1 }
+	chance = {
+		base = 2
+		
+	}
+	effect = {
+		factory_cost = -0.01 
+	}
+}
+reinforced_concrete_construction = {
+	limit = { practical_steam_engine = 1 }
+	chance = {
+		base = 2
+		
+	}
+	effect = {
+		factory_cost = -0.01 
+	}
+}
+steel_frame_construction = {
+	limit = { high_n_low_pressure_steam_engines = 1 }
+	chance = {
+		base = 2
+		
+	}
+	effect = {
+		factory_cost = -0.01 
+	}
+}

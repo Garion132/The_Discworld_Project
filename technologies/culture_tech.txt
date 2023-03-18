@@ -24,7 +24,7 @@ classicism_n_early_romanticism = {
 
 romanticism = {
 	area = aesthetics
-	year = 3544
+	year = 3555
 	cost = 7200
 	
 	prestige = 0.05
@@ -54,7 +54,7 @@ romanticism = {
 
 realism = {
 	area = aesthetics
-	year = 3544
+	year = 3570
 	cost = 10800
 
 	prestige = 0.05
@@ -81,7 +81,7 @@ realism = {
 }
 impressionism = {
 	area = aesthetics
-	year = 3570
+	year = 3580
 	cost = 14400
 
 	prestige = 0.05
@@ -108,7 +108,7 @@ impressionism = {
 }
 expressionism = {
 	area = aesthetics
-	year = 3580
+	year = 3590
 	cost = 18000
 
 	prestige = 0.05
@@ -330,7 +330,7 @@ device_integration = {
 #social_thought
 new_quisition_and_vetinarism = {
 	area = social_thought
-	year = 3544
+	year = 3540
 	cost = 3600
 
 	colonial_migration = 0.05
@@ -480,7 +480,7 @@ enlightenment_thought = {
 }
 ideological_thought = {
 	area = political_thought
-	year = 3544
+	year = 3550
 	cost = 7200
 
 	max_national_focus = 1 
@@ -513,7 +513,7 @@ ideological_thought = {
 }
 state_n_government = {
 	area = political_thought
-	year = 3550
+	year = 3560
 	cost = 10800
 
 	max_national_focus = 1 

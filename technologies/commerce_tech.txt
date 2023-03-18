@@ -544,7 +544,7 @@ freedom_of_trade = {
 }
 market_structure = {
 	area = market_functionality
-	year = 3540
+	year = 3550
 	cost = 7200
 
 	influence = 0.1
@@ -578,7 +578,7 @@ market_structure = {
 }
 business_regulations = {
 	area = market_functionality
-	year = 3540
+	year = 3560
 	cost = 10800
 
 	influence = 0.2
@@ -607,7 +607,7 @@ business_regulations = {
 }
 market_regulations = {
 	area = market_functionality
-	year = 3560
+	year = 3570
 	cost = 14400
 
 	influence = 0.2
