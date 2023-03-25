@@ -1,6 +1,6 @@
 army = {
 	name = "Army of Borogravia"
-	location = 603
+	location = 752
 	regiment = {
 		name= "10th Infantry"
 		type = irregular
@@ -24,7 +24,7 @@ army = {
 	regiment = {
 		name= "1st Infantry"
 		type = irregular
-		home = 603
+		home = 752
 	}
 	regiment = {
 		name= "2nd Infantry"
@@ -34,7 +34,7 @@ army = {
 	regiment = {
 		name= "The Politicals"
 		type = warriors
-		home = 603
+		home = 752
 	}
 }
 

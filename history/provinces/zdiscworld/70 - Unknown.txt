@@ -4,3 +4,4 @@ add_core = SHI
 add_core = STO
 trade_goods = grain
 life_rating = 52
+

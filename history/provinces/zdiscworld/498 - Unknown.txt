@@ -2,4 +2,4 @@ owner = LAO
 controller = LAO
 add_core = LAO
 trade_goods = cotton
-life_rating = 52
+life_rating = 32

@@ -4,3 +4,4 @@ add_core = HNG
 add_core = AGA
 trade_goods = precious_metal
 life_rating = 52
+

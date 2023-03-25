@@ -3,4 +3,4 @@ controller = FNG
 add_core = FNG
 add_core = AGA
 trade_goods = fish
-life_rating = 20
+life_rating = 49

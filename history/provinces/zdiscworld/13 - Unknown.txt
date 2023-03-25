@@ -4,3 +4,4 @@ add_core = SHI
 add_core = STO
 life_rating = 52
 trade_goods = timber
+

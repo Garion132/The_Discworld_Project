@@ -2,4 +2,4 @@ owner = ANG
 controller = ANG
 add_core = ANG
 trade_goods = tobacco
-life_rating = 52
+life_rating = 20

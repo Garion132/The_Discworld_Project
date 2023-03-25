@@ -3,4 +3,4 @@ controller = ANG
 add_core = ANG
 add_core = HOW
 trade_goods = tea
-life_rating = 52
+life_rating = 20

@@ -2,4 +2,4 @@ owner = CTG
 controller = CTG
 add_core = CTG
 trade_goods = grain
-life_rating = 45
+life_rating = 20

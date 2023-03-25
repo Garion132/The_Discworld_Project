@@ -9,3 +9,4 @@ state_building = {
 	building = luxury_clothes_factory
 	upgrade = yes
 }
+

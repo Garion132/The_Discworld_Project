@@ -2,4 +2,4 @@ owner = EPH
 controller = EPH
 add_core = EPH
 trade_goods = grain
-life_rating = 52
+life_rating = 30

@@ -3,4 +3,4 @@ controller = IAX
 add_core = IAX
 add_core = UBW
 trade_goods = iron
-life_rating = 52
+life_rating = 21

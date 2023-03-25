@@ -1,5 +1,5 @@
 owner = BEO
 controller = BEO
 add_core = BEO
-life_rating = 52
+life_rating = 31
 trade_goods = fruit

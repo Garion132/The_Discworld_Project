@@ -4,3 +4,4 @@ add_core = HID
 add_core = MUT
 trade_goods = grain
 life_rating = 45
+

@@ -2,4 +2,5 @@ owner = LWD
 controller = LWD
 add_core = LWD
 trade_goods = fats
-life_rating = 10
+life_rating = 19
+

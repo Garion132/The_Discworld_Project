@@ -2,4 +2,4 @@ owner = KLS
 controller = KLS
 add_core = KLS
 trade_goods = iron
-life_rating = 52
+life_rating = 29

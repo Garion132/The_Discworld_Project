@@ -2,4 +2,4 @@ owner = UR0
 controller = UR0
 add_core = UR0
 trade_goods = treacle
-life_rating = 52
+life_rating = 30

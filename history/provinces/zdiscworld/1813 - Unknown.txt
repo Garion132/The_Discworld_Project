@@ -3,3 +3,4 @@ controller = NEV
 add_core = NEV
 trade_goods = fish
 life_rating = 20
+

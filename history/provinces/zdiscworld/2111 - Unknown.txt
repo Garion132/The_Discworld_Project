@@ -3,3 +3,4 @@ controller = AGA
 add_core = AGA
 trade_goods = clay
 life_rating = 32
+

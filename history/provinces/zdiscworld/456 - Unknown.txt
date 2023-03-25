@@ -3,3 +3,4 @@ controller = KRL
 add_core = KRL
 life_rating = 1
 trade_goods = grain
+

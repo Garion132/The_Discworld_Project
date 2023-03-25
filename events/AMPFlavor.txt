@@ -22,7 +22,11 @@ country_event = {
 	picture = "Administration"
 	
 	immediate = {
-			XXXX_25 = { add_core = XX4 secede_province = THIS life_rating = 20}
+	}
+
+	option = {
+		name = "EVTOPTA36900" 
+		XXXX_25 = { add_core = XX4 secede_province = THIS life_rating = 20}
 			XXXX_24 = { add_core = XX4 secede_province = THIS life_rating = 20}
 			XXXX_23 = { add_core = XX4 secede_province = THIS life_rating = 20}
 			XXXX_22 = { add_core = XX4 secede_province = THIS life_rating = 20}
@@ -47,18 +51,62 @@ country_event = {
 			XXXX_3 = { add_core = XX4 secede_province = THIS life_rating = 20}
 			XXXX_2 = { add_core = XX4 secede_province = THIS life_rating = 20}
 	}
-
-	option = {
-		name = "EVTOPTA36900" 
-	}
 	option = {
 		name = "EVTOPTB36900" 	
+		XXXX_25 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_24 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_23 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_22 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_21 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_20 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_19 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_18 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_17 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_16 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_15 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_14 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_13 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_12 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_11 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_10 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_9 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_8 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_7 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_6 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_5 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_4 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_3 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_2 = { add_core = XX4 secede_province = THIS life_rating = 20}
 		release = XX4
 		create_vassal = XX4
 		XX4={government = democracy}
 	}
 	option = {
 		name = "EVTOPTC36900" 
+		XXXX_25 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_24 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_23 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_22 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_21 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_20 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_19 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_18 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_17 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_16 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_15 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_14 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_13 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_12 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_11 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_10 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_9 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_8 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_7 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_6 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_5 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_4 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_3 = { add_core = XX4 secede_province = THIS life_rating = 20}
+			XXXX_2 = { add_core = XX4 secede_province = THIS life_rating = 20}
 		release = XX4
 		XX4={government = democracy}
 	}

@@ -2,4 +2,5 @@ owner = OYX
 controller = OYX
 add_core = OYX
 trade_goods = wool
-life_rating = 45
+life_rating = 25
+

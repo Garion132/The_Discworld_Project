@@ -3,4 +3,5 @@ controller = SHA
 add_core = SHA
 add_core = UBW
 trade_goods = cattle
-life_rating = 42
+life_rating = 29
+

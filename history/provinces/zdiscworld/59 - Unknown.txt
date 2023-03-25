@@ -13,3 +13,4 @@ state_building = {
 	building = ceramics_factory
 	upgrade = yes
 }
+

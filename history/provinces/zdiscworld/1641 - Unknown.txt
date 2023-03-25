@@ -2,4 +2,4 @@ owner = BHA
 controller = BHA
 add_core = BHA
 trade_goods = cotton
-life_rating = 20
+life_rating = 56

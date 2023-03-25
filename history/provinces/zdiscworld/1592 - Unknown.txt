@@ -2,4 +2,4 @@ owner = BRI
 controller = BRI
 add_core = BRI
 trade_goods = iron
-life_rating = 20
+life_rating = 31

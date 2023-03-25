@@ -398,14 +398,24 @@
     farmers = {
 		culture = farferian
 		religion = catholic
-		size = 3600
+		size = 23600
+	}
+	soldiers = {
+		culture = farferian
+		religion = catholic
+		size = 3540
 	}
 }
 963={
     farmers = {
 		culture = farferian
 		religion = catholic
-		size = 9600
+		size = 29600
+	}
+	soldiers = {
+		culture = farferian
+		religion = catholic
+		size = 1360
 	}
 }
 964={
@@ -543,21 +553,21 @@
     farmers = {
 		culture = farferian
 		religion = catholic
-		size = 3650
+		size = 33650
 	}
 }
 978={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 4480
+		size = 14480
 	}
 }
 979={
     farmers = {
 		culture = rehigreedian
 		religion = catholic
-		size = 9602
+		size = 29602
 	}
 }
 980={
@@ -593,7 +603,7 @@
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 1800
+		size = 11800
 	}
 }
 983={
@@ -607,28 +617,33 @@
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 4510
+		size = 14510
 	}
 }
 985={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 3980
+		size = 23980
 	}
 }
 986={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 2450
+		size = 12450
 	}
 }
 987={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 3650
+		size = 7650
+	}
+	farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 16890
 	}
 }
 988={
@@ -701,14 +716,14 @@
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 4510
+		size = 24510
 	}
 }
 992={
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 3980
+		size = 13980
 	}
 }
 993={
@@ -813,35 +828,45 @@
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 2195
+		size = 21950
 	}
 }
 1008={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 2420
+		size = 24200
+	}
+	farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 11650
 	}
 }
 1009={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 2360
+		size = 23600
 	}
 }
 1010={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 3105
+		size = 21050
+	}
+	farmers = {
+		culture = rehigreedian
+		religion = catholic
+		size = 18930
 	}
 }
 1011={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 2870
+		size = 28700
 	}
 }
 1012={
@@ -862,7 +887,7 @@
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 2364
+		size = 22364
 	}
 }
 1015={
@@ -939,7 +964,12 @@
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1365
+		size = 71365
+	}
+	soldiers = {
+		culture = brindisian
+		religion = catholic
+		size = 3120
 	}
 }
 1026={
@@ -960,7 +990,17 @@
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 1145
+		size = 61145
+	}
+	soldiers = {
+		culture = brindisian
+		religion = catholic
+		size = 2150
+	}
+	artisans = {
+		culture = brindisian
+		religion = catholic
+		size = 2361
 	}
 }
 1029={
@@ -1485,42 +1525,47 @@
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 6350
+		size = 16350
+	}
+	farmers = {
+		culture = muntabian
+		religion = catholic
+		size = 23100
 	}
 }
 1569={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 7450
+		size = 74500
 	}
 }
 1570={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 8620
+		size = 28620
 	}
 }
 1571={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 8750
+		size = 28750
 	}
 }
 1572={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 8950
+		size = 28950
 	}
 }
 1573={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 7410
+		size = 27410
 	}
 }
 1574={
@@ -1562,14 +1607,14 @@
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 8650
+		size = 38650
 	}
 }
 1580={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 4900
+		size = 44900
 	}
 	aristocrats = {
 		culture = brindisian
@@ -1588,21 +1633,21 @@
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 2100
+		size = 34100
 	}
 }
 1583={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 6700
+		size = 46700
 	}
 }
 1584={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 4400
+		size = 61400
 	}
 	soldiers = {
 		culture = brindisian
@@ -1614,14 +1659,14 @@
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 2870
+		size = 72870
 	}
 }
 1586={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 3700
+		size = 43700
 	}
 	soldiers = {
 		culture = brindisian
@@ -1668,14 +1713,19 @@
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 3690
+		size = 72690
+	}
+	soldiers = {
+		culture = brindisian
+		religion = catholic
+		size = 6400
 	}
 }
 1593={
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 2630
+		size = 62630
 	}
 }
 1594={
@@ -1696,7 +1746,7 @@
     farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 5400
+		size = 45400
 	}
 }
 1597={
@@ -1780,7 +1830,7 @@
     farmers = {
 		culture = farferian
 		religion = catholic
-		size = 2100
+		size = 32100
 	}
 }
 2129={

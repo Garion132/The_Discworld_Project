@@ -3,3 +3,4 @@ controller = KLA
 add_core = KLA
 life_rating = 52
 trade_goods = coffee
+

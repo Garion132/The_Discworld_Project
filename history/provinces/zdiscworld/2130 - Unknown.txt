@@ -2,4 +2,5 @@ owner = REH
 controller = REH
 add_core = REH
 trade_goods = grain
-life_rating = 5
+life_rating = 45
+

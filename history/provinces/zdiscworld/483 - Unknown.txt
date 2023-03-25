@@ -1,5 +1,6 @@
 owner = OCT
 controller = OCT
 add_core = OCT
+add_core = HOW
 trade_goods = tea
 life_rating = 52

@@ -3,4 +3,4 @@ controller = MUN
 add_core = MUN
 add_core = UBW
 trade_goods = iron
-life_rating = 52
+life_rating = 22

@@ -2,4 +2,5 @@ owner = AGA
 controller = AGA
 add_core = AGA
 trade_goods = grain
-life_rating = 52
+life_rating = 20
+

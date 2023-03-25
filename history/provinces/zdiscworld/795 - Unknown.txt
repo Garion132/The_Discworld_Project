@@ -3,4 +3,5 @@ controller = TRL
 add_core = TRL
 add_core = UBW
 trade_goods = timber
-life_rating = 52
+life_rating = 32
+

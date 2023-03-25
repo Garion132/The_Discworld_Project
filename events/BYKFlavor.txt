@@ -94,7 +94,7 @@ country_event = {
 	# id = 43003
 
 	# trigger = {
-		# owns = 701
+		# owns = 2135
 		# year = 3557
 	# }
  

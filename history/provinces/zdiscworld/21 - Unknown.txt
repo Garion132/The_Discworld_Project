@@ -3,3 +3,4 @@ controller = SKN
 add_core = SKN
 life_rating = 52
 trade_goods = iron
+

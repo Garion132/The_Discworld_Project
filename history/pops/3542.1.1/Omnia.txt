@@ -230,7 +230,7 @@
 	farmers = {
 		culture = klatchistanian
 		religion = catholic
-		size = 185000
+		size = 85000
 	}
 	soldiers = {
 		culture = klatchistanian
@@ -270,7 +270,7 @@
 	farmers = {
 		culture = klatchistanian
 		religion = catholic
-		size = 125000
+		size = 75000
 	}
 	soldiers = {
 		culture = klatchistanian
@@ -451,7 +451,7 @@
 	farmers = {
 		culture = omnian
 		religion = omnianism
-		size = 135000
+		size = 75000
 	}
 	clergymen = {
 		culture = omnian

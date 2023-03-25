@@ -2,4 +2,4 @@ owner = MOU
 controller = MOU
 add_core = MOU
 trade_goods = dye
-life_rating = 52
+life_rating = 33

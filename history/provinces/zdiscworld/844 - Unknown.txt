@@ -3,3 +3,4 @@ controller = SBG
 add_core = SBG
 trade_goods = iron
 life_rating = 21
+

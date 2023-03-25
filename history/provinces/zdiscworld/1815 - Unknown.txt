@@ -3,3 +3,4 @@ controller = KYT
 add_core = KYT
 trade_goods = fish
 life_rating = 20
+

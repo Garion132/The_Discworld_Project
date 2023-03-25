@@ -2,4 +2,4 @@ owner = HRL
 controller = HRL
 add_core = HRL
 trade_goods = grain
-life_rating = 45
+life_rating = 29

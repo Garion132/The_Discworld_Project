@@ -3,4 +3,4 @@ controller = LOK
 add_core = LOK
 add_core = UBW
 trade_goods = grain
-life_rating = 10
+life_rating = 25

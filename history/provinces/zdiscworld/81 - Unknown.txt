@@ -3,3 +3,4 @@ controller = AMP
 add_core = AMP
 trade_goods = dye
 life_rating = 32
+

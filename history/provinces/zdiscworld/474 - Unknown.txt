@@ -1,5 +1,7 @@
 owner = CLU
 controller = CLU
 add_core = CLU
+add_core = HOW
 life_rating = 52
 trade_goods = tobacco
+

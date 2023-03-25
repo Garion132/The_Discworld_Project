@@ -3,3 +3,4 @@ controller = MAR
 add_core = MAR
 trade_goods = iron
 life_rating = 20
+

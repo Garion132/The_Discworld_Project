@@ -2,4 +2,4 @@ owner = BOR
 controller = BOR
 add_core = BOR
 trade_goods = clay
-life_rating = 20
+life_rating = 35

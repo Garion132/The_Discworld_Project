@@ -2,4 +2,5 @@ owner = DAC
 controller = DAC
 add_core = DAC
 trade_goods = cattle
-life_rating = 45
+life_rating = 28
+

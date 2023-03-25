@@ -1,2 +1,2 @@
-life_rating = 34
+life_rating = 15
 trade_goods = timber

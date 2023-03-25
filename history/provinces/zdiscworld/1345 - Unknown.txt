@@ -1,5 +1,5 @@
 owner = ZAG
 controller = ZAG
 add_core = ZAG
-life_rating = 45
+life_rating = 24
 trade_goods = grain

@@ -2,4 +2,5 @@ owner = SCH
 controller = SCH
 add_core = SCH
 trade_goods = coal
-life_rating = 45
+life_rating = 31
+

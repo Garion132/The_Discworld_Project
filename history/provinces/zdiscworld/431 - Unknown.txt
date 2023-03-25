@@ -4,3 +4,4 @@ add_core = SLT
 add_core = UBW
 trade_goods = coal
 life_rating = 35
+

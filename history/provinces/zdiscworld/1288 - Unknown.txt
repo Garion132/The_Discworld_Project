@@ -2,4 +2,4 @@ owner = GON
 controller = GON
 add_core = GON
 trade_goods = grain
-life_rating = 45
+life_rating = 15

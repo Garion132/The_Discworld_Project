@@ -3,3 +3,4 @@ controller = AMP
 add_core = AMP
 life_rating = 52
 trade_goods = iron
+

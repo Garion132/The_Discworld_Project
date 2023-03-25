@@ -1,0 +1,6 @@
+owner = ANG
+controller = ANG
+add_core = ANG
+add_core = DRG
+trade_goods = cattle
+life_rating = 20

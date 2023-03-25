@@ -3,3 +3,4 @@ controller = REH
 add_core = REH
 trade_goods = fish
 life_rating = 45
+

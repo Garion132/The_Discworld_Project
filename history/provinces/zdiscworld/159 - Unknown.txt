@@ -1,6 +1,6 @@
 
 trade_goods = brassicas
-life_rating = 52
+life_rating = 20
 # state_building = {
 	# level = 1
 	# building = lumber_mill

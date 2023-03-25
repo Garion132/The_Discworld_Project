@@ -3,4 +3,4 @@ controller = ZLO
 add_core = ZLO
 add_core = BOR
 trade_goods = iron
-life_rating = 52
+life_rating = 43

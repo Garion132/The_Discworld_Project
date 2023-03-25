@@ -2,4 +2,4 @@ owner = SML
 controller = SML
 add_core = SML
 trade_goods = iron
-life_rating = 52
+life_rating = 20

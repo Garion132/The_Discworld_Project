@@ -1,5 +1,6 @@
 owner = NFR
 controller = NFR
 add_core = NFR
+add_core = HOW
 life_rating = 52
 trade_goods = grain

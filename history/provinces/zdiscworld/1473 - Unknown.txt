@@ -3,3 +3,4 @@ controller = URT
 add_core = URT
 life_rating = 20
 trade_goods = fish
+

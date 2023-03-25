@@ -1,45 +1,45 @@
 army = {
 	name = "Army of Zlobenia"
-	location = 628
+	location = 591
 	regiment = {
 		name= "1st Zlobenian Mounted"
 		type = cavalry
-		home = 628
+		home = 591
 	}
 	regiment = {
 		name= "2nd Zlobenian Mounted"
 		type = cavalry
-		home = 627
+		home = 591
 	}
 	regiment = {
 		name= "1st Zlobenian Spears"
 		type = warriors
-		home = 626
+		home = 591
 	}
 	regiment = {
 		name= "2nd Zlobenian Spears"
 		type = warriors
-		home = 625
+		home = 591
 	}
 	regiment = {
 		name= "3rd Zlobenian Spears"
 		type = warriors
-		home = 624
+		home = 592
 	}
 	regiment = {
 		name= "4th Zlobenian Spears"
 		type = warriors
-		home = 630
+		home = 598
 	}
 	regiment = {
 		name= "5th Zlobenian Spears"
 		type = warriors
-		home = 634
+		home = 604
 	}
 	regiment = {
 		name= "6th Zlobenian Spears"
 		type = warriors
-		home = 631
+		home = 589
 	}
 }
 

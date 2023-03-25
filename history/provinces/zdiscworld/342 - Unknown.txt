@@ -2,4 +2,4 @@ owner = SIR
 controller = SIR
 add_core = SIR
 trade_goods = tobacco
-life_rating = 52
+life_rating = 20

@@ -3,4 +3,4 @@ controller = BLI
 add_core = BLI
 add_core = UBW
 trade_goods = coal
-life_rating = 52
+life_rating = 43

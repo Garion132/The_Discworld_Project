@@ -43,22 +43,3 @@ army = {
 		home = 409
 	}
 }
-army = {
-	name = "Army of New Ghat"
-	location = 927
-	regiment = {
-		name= "1st Infantry"
-		type = warriors
-		home = 933
-	}
-	regiment = {
-		name= "2nd Infantry"
-		type = armored_footmen
-		home = 930
-	}
-	regiment = {
-		name= "3rd Infantry"
-		type = armored_footmen
-		home = 932
-	}
-}

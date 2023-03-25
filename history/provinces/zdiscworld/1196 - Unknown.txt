@@ -3,3 +3,4 @@ controller = HTC
 add_core = HTC
 trade_goods = fish
 life_rating = 25
+

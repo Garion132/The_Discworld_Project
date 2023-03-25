@@ -3,4 +3,5 @@ controller = NNT
 add_core = NNT
 add_core = NTF
 trade_goods = fruit
-life_rating = 45
+life_rating = 39
+

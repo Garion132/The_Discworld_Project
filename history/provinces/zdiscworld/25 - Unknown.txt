@@ -3,3 +3,4 @@ controller = CAR
 add_core = CAR
 life_rating = 52
 trade_goods = timber
+

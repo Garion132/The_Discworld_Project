@@ -1,3 +1,4 @@
 
-life_rating = 52
+life_rating = 20
 trade_goods = brassicas
+

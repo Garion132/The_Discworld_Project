@@ -3,3 +3,4 @@ controller = QRM
 add_core = QRM
 trade_goods = iron
 life_rating = 52
+

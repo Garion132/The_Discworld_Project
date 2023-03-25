@@ -3,3 +3,4 @@ controller = OMN
 add_core = OMN
 trade_goods = iron
 life_rating = 31
+

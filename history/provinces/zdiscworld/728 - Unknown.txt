@@ -3,4 +3,4 @@ controller = KLS
 add_core = KLS
 add_core = NKS
 trade_goods = cotton
-life_rating = 52
+life_rating = 29
