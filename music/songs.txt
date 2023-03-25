@@ -1,0 +1,161 @@
+# keep as reference - correct syntax but not used
+song = {
+	name = "adayatthecourt.mp3"
+	chance = {
+		factor = 0
+	}
+}
+song = {
+	name = "buckinghampalace.mp3"
+	chance = {
+		factor = 0
+	}
+}
+song = {
+	name = "countryside.mp3"
+	chance = {
+		factor = 0
+	}
+}
+song = {
+	name = "deathofprincealbert.mp3"
+	chance = {
+		factor = 0
+	}
+}
+song = {
+	name = "europeanno1850.mp3"
+	chance = {
+		factor = 0
+	}
+}
+song = {
+	name = "forgodandqueen.mp3"
+	chance = {
+		factor = 0
+	}
+}
+song = {
+	name = "handelthis.mp3"
+	chance = {
+		factor = 0
+	}
+}
+song = {
+	name = "inventions.mp3"
+	chance = {
+		factor = 0
+	}
+}
+song = {
+	name = "johanswaltz.mp3"
+	chance = {
+		factor = 0
+	}
+}
+song = {
+	name = "newworldanthem.mp3"
+	chance = {
+		factor = 0
+	}
+}
+song = {
+	name = "poverty.mp3"
+	chance = {
+		factor = 0
+	}
+}
+song = {
+	name = "queensscherzo.mp3"
+	chance = {
+		factor = 0
+	}
+}
+song = {
+	name = "russia1917.mp3"
+	chance = {
+		factor = 0
+	}
+}
+song = {
+	name = "thecoronation_titletheme.mp3" #replaced with the A-M national anthem
+	chance = { factor = 1 }
+
+song = {
+	name = "theroyalmarch.mp3"
+	chance = {
+		factor = 0
+	}
+}
+song = {
+	name = "wehaveindependence.mp3"
+	chance = {
+		factor = 0
+	}
+}
+song = {
+	name = "winter.mp3"
+	chance = {
+		factor = 0
+	}
+}
+# song = {
+	# name = "DiscworldMainTitleTheme.mp3" # the_time_to_run_finale.mp3
+	# chance = { factor = 1 }
+# }
+song = {
+	name = "ankhmorpork.mp3" # Ankh-morpork - Agal
+	chance = { factor = 1 }
+}
+song = {
+	name = "blackdesertofendlessstars.mp3" # Lookfar - tales from the disc
+	chance = { factor = 1 }
+}
+song = {
+	name = "HallOfHourglasses.mp3" # Lookfar - tales from the disc
+	chance = { factor = 1 }
+}
+song = {
+	name = "ItsTheHarvestDanceBillDoor.mp3" # Lookfar - tales from the disc
+	chance = { factor = 1 }
+}
+# song = {
+	# name = "MusicWithRocksIn.mp3" # Lookfar - tales from the disc
+	# chance = { factor = 1 }
+# }
+song = {
+	name = "TheAnkh-MorporkNightWatch.mp3" # Lookfar - tales from the disc
+	chance = { factor = 1 }
+}
+song = {
+	name = "TheDeathOfRats.mp3" # Lookfar - tales from the disc
+	chance = { factor = 1 }
+}
+song = {
+	name = "TheStarPeople_TheFairFolk.mp3" # Lookfar - tales from the disc
+	chance = { factor = 1 }
+}
+song = {
+	name = "TheWitchesofLancre.mp3" # Lookfar - tales from the disc
+	chance = { factor = 1 }
+}
+song = {
+	name = "soulmusictheme.mp3" # Soul music/ cartoon intro theme
+	chance = { factor = 1 }
+}
+song = {
+	name = "TheColourOfMagic.mp3" # main theme
+	chance = { factor = 1 }
+}
+song = {
+	name = "AllisLost.mp3" # Hogfather - all is lost
+	chance = { factor = 1 }
+}
+song = {
+	name = "Hogfather.mp3" # 
+	chance = { factor = 1 }
+}
+song = {
+	name = "GoingPostal.mp3" # 
+	chance = { factor = 1 }
+}
