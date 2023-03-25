@@ -4898,12 +4898,12 @@
 	farmers = {
 		culture = north_klatchistanian
 		religion = catholic
-		size = 3540
+		size = 33540
 	}
 	soldiers = {
 		culture = north_klatchistanian
 		religion = catholic
-		size = 1100
+		size = 6100
 	}
     }
 581={
@@ -4944,19 +4944,19 @@
 	farmers = {
 		culture = north_klatchistanian
 		religion = catholic
-		size = 3650
+		size = 23650
 	}
 	soldiers = {
 		culture = north_klatchistanian
 		religion = catholic
-		size = 1100
+		size = 4100
 	}
     }
 584={
 	farmers = {
 		culture = north_klatchistanian
 		religion = catholic
-		size = 5400
+		size = 25400
 	}
 	soldiers = {
 		culture = north_klatchistanian
@@ -4968,7 +4968,12 @@
 	farmers = {
 		culture = north_klatchistanian
 		religion = catholic
-		size = 21800
+		size = 61800
+	}
+	artisans = {
+		culture = north_klatchistanian
+		religion = catholic
+		size = 9700
 	}
 	soldiers = {
 		culture = north_klatchistanian
@@ -6885,7 +6890,12 @@
     farmers = {
 		culture = north_klatchistanian
 		religion = catholic
-		size = 8450
+		size = 28450
+	}
+	soldiers = {
+		culture = north_klatchistanian
+		religion = catholic
+		size = 3170
 	}
 }
 725={
@@ -6932,12 +6942,12 @@
     farmers = {
 		culture = north_klatchistanian
 		religion = catholic
-		size = 950
+		size = 6950
 	}
 	artisans = {
 		culture = north_klatchistanian
 		religion = catholic
-		size = 140
+		size = 1140
 	}
 }
 731={
@@ -13853,14 +13863,14 @@
 	farmers = {
 		culture = north_klatchistanian
 		religion = catholic
-		size = 4300
+		size = 14300
 	}
 }
 1719={
 	farmers = {
 		culture = north_klatchistanian
 		religion = catholic
-		size = 4500
+		size = 24500
 	}
 	soldiers = {
 		culture = north_klatchistanian
