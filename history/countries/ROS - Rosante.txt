@@ -1,5 +1,5 @@
 capital = 1159
-primary_culture = nothingfjord
+primary_culture = nothingfjorder
 religion = catholic
 government = absolute_monarchy
 plurality = -15

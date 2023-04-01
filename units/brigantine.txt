@@ -23,7 +23,7 @@ brigantine = {
 	build_time = 180
 	build_cost = {
 		clipper_convoy = 10
-		seige_engines = 5
+		seige_equipment = 5
 	}
 	min_port_level = 0
 	limit_per_port = -1
@@ -32,7 +32,7 @@ brigantine = {
 	supply_consumption = 1.0
 	supply_cost = {
 		clipper_convoy = 0.16
-		seige_engines = 0.04 #0.08
+		seige_equipment = 0.04 #0.08
 	}
 	
 	#Naval Abilties

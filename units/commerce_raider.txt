@@ -27,7 +27,7 @@ commerce_raider = {
 		artillery = 3
 		canned_food = 2
 	}
-	min_port_level = 1
+	min_port_level = 3
 	limit_per_port = -1
 	supply_consumption_score = 3
 	

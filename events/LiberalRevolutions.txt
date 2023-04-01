@@ -301,162 +301,162 @@ country_event = {
 
 
 
-#Potato Blight
-country_event = {
-	title = "EVTNAME10100"
-	desc = "EVTDESC10100"
-	id = 10100
-	picture = "Demonstration"
+# #Potato Blight
+# country_event = {
+	# title = "EVTNAME10100"
+	# desc = "EVTDESC10100"
+	# id = 10100
+	# picture = "Demonstration"
 	
-	trigger = {
-		continent = europe
-		civilized = yes
-		NOT = { inorganic_chemistry = 1 }
+	# trigger = {
+		# continent = europe
+		# civilized = yes
+		# NOT = { inorganic_chemistry = 1 }
 		
-	}
+	# }
 	
-	mean_time_to_happen = {
-		months = 250
-		modifier = {
-			factor = 0.8
-			any_owned_province = {
-				has_province_modifier = potato_blight
-			}
-		}
-		modifier = {
-			factor = 0.9
-				NOT = {
-					medicine = 1
-				}
-		}
-		modifier = {
-			factor = 0.9
-			NOT = {
-				poor_strata_life_needs = 0.8
-			}
-		}
-		modifier = {
-			factor = 1.5
-			poor_strata_life_needs = 0.95
-		}
+	# mean_time_to_happen = {
+		# months = 250
+		# modifier = {
+			# factor = 0.8
+			# any_owned_province = {
+				# has_province_modifier = potato_blight
+			# }
+		# }
+		# modifier = {
+			# factor = 0.9
+				# NOT = {
+					# medicine = 1
+				# }
+		# }
+		# modifier = {
+			# factor = 0.9
+			# NOT = {
+				# poor_strata_life_needs = 0.8
+			# }
+		# }
+		# modifier = {
+			# factor = 1.5
+			# poor_strata_life_needs = 0.95
+		# }
 		
-	}
-	option = {
-		name = "EVTOPTB10100"
+	# }
+	# option = {
+		# name = "EVTOPTB10100"
 		
-		random_owned = { 
-			limit = {
-				is_colonial = no
-				NOT = {
-					has_province_modifier = potato_blight
-					poor_strata_everyday_needs = 0.9
-				}
-			}
+		# random_owned = { 
+			# limit = {
+				# is_colonial = no
+				# NOT = {
+					# has_province_modifier = potato_blight
+					# poor_strata_everyday_needs = 0.9
+				# }
+			# }
 		
-			add_province_modifier = {
-				name = potato_blight
-				duration = 180
-				}
-			state_scope = {
-				any_pop = {
-					consciousness = 3
-				}
-			}
-		}
-			prestige = -2
+			# add_province_modifier = {
+				# name = potato_blight
+				# duration = 180
+				# }
+			# state_scope = {
+				# any_pop = {
+					# consciousness = 3
+				# }
+			# }
+		# }
+			# prestige = -2
 
-	}
-	option = {
-		name = "EVTOPTA10100"
-			random_owned = { 
-				limit = {
-					is_colonial = no
-					NOT = {
-						has_province_modifier = potato_blight
-						poor_strata_everyday_needs = 0.9
-					}
-				}
-			state_scope = {
-				any_owned = {
-					add_province_modifier = {
-						name = potato_blight
-						duration = 365
-					}
-				}
-			}
-		}
-	}
-}
+	# }
+	# option = {
+		# name = "EVTOPTA10100"
+			# random_owned = { 
+				# limit = {
+					# is_colonial = no
+					# NOT = {
+						# has_province_modifier = potato_blight
+						# poor_strata_everyday_needs = 0.9
+					# }
+				# }
+			# state_scope = {
+				# any_owned = {
+					# add_province_modifier = {
+						# name = potato_blight
+						# duration = 365
+					# }
+				# }
+			# }
+		# }
+	# }
+# }
 
-#Potato Famine Debated
-country_event = {
-	title = "EVTNAME10105"
-	desc = "EVTDESC10105"
-	id = 10105
-	picture = "Metis"
+# #Potato Famine Debated
+# country_event = {
+	# title = "EVTNAME10105"
+	# desc = "EVTDESC10105"
+	# id = 10105
+	# picture = "Metis"
 
-	trigger = {
-		has_country_flag = liberal_revolution_in_progress
-		any_owned_province = {
-			has_province_modifier = potato_blight
-		}
-	}
-	mean_time_to_happen = {
-		months = 12
-		modifier = {
-			factor = 0.9
-			political_reform_want = 0.02
-		}
-		modifier = {
-			factor = 0.9
-			political_reform_want = 0.03
-		}
-		modifier = {
-			factor = 0.9
-			political_reform_want = 0.04
-		}
-		modifier = {
-			factor = 0.9
-			liberal = 5
-		}
-		modifier = {
-			factor = 1.5
-			NOT = {
-				average_consciousness = 5
-			}
-		}
-	}
-	option = {
-		name = "EVTOPTA10105"
-		random_state = {
-			limit = {
-				is_colonial = no
-			}
-			any_owned = {
-				add_province_modifier = {
-					name = liberal_agitation
-					duration = 730
-				}
-			}
-		}
-	}
+	# trigger = {
+		# has_country_flag = liberal_revolution_in_progress
+		# any_owned_province = {
+			# has_province_modifier = potato_blight
+		# }
+	# }
+	# mean_time_to_happen = {
+		# months = 12
+		# modifier = {
+			# factor = 0.9
+			# political_reform_want = 0.02
+		# }
+		# modifier = {
+			# factor = 0.9
+			# political_reform_want = 0.03
+		# }
+		# modifier = {
+			# factor = 0.9
+			# political_reform_want = 0.04
+		# }
+		# modifier = {
+			# factor = 0.9
+			# liberal = 5
+		# }
+		# modifier = {
+			# factor = 1.5
+			# NOT = {
+				# average_consciousness = 5
+			# }
+		# }
+	# }
+	# option = {
+		# name = "EVTOPTA10105"
+		# random_state = {
+			# limit = {
+				# is_colonial = no
+			# }
+			# any_owned = {
+				# add_province_modifier = {
+					# name = liberal_agitation
+					# duration = 730
+				# }
+			# }
+		# }
+	# }
 
-	option = {
-		name = "EVTOPTB10105"
-		any_pop = {
-			limit = {
-				location = {
-					is_colonial = no
-				}
-			}
-			ideology = {
-				value = liberal
-				factor = 0.02
-			}
-			consciousness = 0.5
-		}
-	}
-}
+	# option = {
+		# name = "EVTOPTB10105"
+		# any_pop = {
+			# limit = {
+				# location = {
+					# is_colonial = no
+				# }
+			# }
+			# ideology = {
+				# value = liberal
+				# factor = 0.02
+			# }
+			# consciousness = 0.5
+		# }
+	# }
+# }
 
 #Nationalist Poet
 country_event = {
@@ -1343,10 +1343,6 @@ country_event = {
 		modifier = {
 			factor = 3
 			medicine = 1
-		}
-		modifier = {
-			factor = 2
-			electricity = 1
 		}
 		modifier = {
 			factor = 1.5

@@ -136,6 +136,9 @@ status_quo = {
 	po_status_quo = yes
 	
 	war_name = WAR_NAME
+	
+	on_add = {
+	}
 }
 
 # Conquest
@@ -192,6 +195,9 @@ conquest = {
 	po_annex = yes
 	
 	war_name = WAR_CONQUEST_NAME
+	
+	on_add = {
+	}
 }
 
 # Civil war

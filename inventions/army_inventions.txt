@@ -7,11 +7,11 @@ armor_production = {
 		base = 2
 		modifier = {
 			factor = 3
-			technology = metallurgic_principles
+			metallurgic_principles = 1
 		}
 		modifier = {
 			factor = 20
-			technology = high_grade_steel_weaponry
+			high_grade_steel_weaponry =1
 		}
 	}
 	effect = {
@@ -26,7 +26,7 @@ armored_tatics = {
 		base = -14
 		modifier = {
 			factor = 2
-			technology = metallurgic_principles
+			metallurgic_principles = 1
 		}
 		modifier = {
 			factor = 20
@@ -45,7 +45,7 @@ light_armors = {
 		base = 1
 		modifier = {
 			factor = 2
-			technology = metallurgic_principles
+			metallurgic_principles = 1
 		}
 	}
 	effect = {
@@ -95,7 +95,7 @@ spear_production = {
 		base = 20
 		modifier = {
 			factor = 2
-			technology = metallurgic_principles
+			metallurgic_principles = 1
 		}
 	}
 	effect = {
@@ -110,7 +110,7 @@ sword_production = {
 		base = 20
 		modifier = {
 			factor = 2
-			technology = metallurgic_principles
+			metallurgic_principles = 1
 		}
 	}
 	effect = {
@@ -127,7 +127,7 @@ cavalry_training = {
 		base = 20
 		modifier = {
 			factor = 2
-			technology = metallurgic_principles
+			metallurgic_principles = 1
 		}
 	}
 	effect = {
@@ -143,7 +143,10 @@ micromail = {
 			factor = 2
 			OR={
 				primary_culture = dwarf
+				primary_culture = low_dwarfs_group
 				accepted_culture = dwarf
+				pop_majority_culture = dwarf
+				pop_majority_culture = low_dwarfs_group
 			}
 		}
 		modifier = {
@@ -200,7 +203,7 @@ ammunition_production = {
 		base = 0
 		modifier = {
 			factor = 2
-			technology = metallurgic_principles
+			metallurgic_principles = 1
 		}
 		modifier = {
 			factor = 10
@@ -219,7 +222,7 @@ small_arms_production = {
 		base = 0
 		modifier = {
 			factor = 2
-			technology = metallurgic_principles
+			metallurgic_principles = 1
 		}
 		modifier = {
 			factor = 10
@@ -337,10 +340,6 @@ railroad_transport_groups = {
 			factor = 2
 			experimental_railroad = 1
 		}
-		modifier = {
-			factor = 3
-			early_railroad = 1
-		}
 	}
 	effect = {
 		mobilisation_size = 0.01
@@ -353,7 +352,7 @@ signal_detachments = {
 		base = 2
 		modifier = {
 			factor = 2
-			irregularry_staff_system = 1
+			clacks = 1
 		}
 		modifier = {
 			factor = 2
@@ -458,10 +457,6 @@ staff_command_support = {
 		base = 3
 		modifier = {
 			factor = 2
-			irregularry_staff_system = 1
-		}
-		modifier = {
-			factor = 2
 			army_professionalism = 1
 		}
 	}
@@ -474,10 +469,6 @@ trench_systems = {
 	limit = { deep_defense_system = 1 }
 	chance = {
 		base = 4
-		modifier = {
-			factor = 2
-			breech_loaded_rifles = 1
-		}
 		modifier = {
 			factor = 2
 			invention = flexible_firepower
@@ -517,10 +508,6 @@ elastic_defense_system = {
 	limit = { deep_defense_system = 1 }
 	chance = {
 		base = 4
-		modifier = {
-			factor = 2
-			machine_guns = 1
-		}
 		modifier = {
 			factor = 2
 			invention = trench_systems
@@ -564,11 +551,6 @@ flexible_counterattacks = {
 			factor = 2
 			invention = elastic_defense_system
 		}
-		
-		modifier = {
-			factor = 2
-			combustion_engine = 1
-		}
 	}
 	effect = {
 		infantry = {
@@ -599,10 +581,6 @@ low_echelon_fire_support = {
 	limit = { infiltration = 1 }
 	chance = {
 		base = 5
-		modifier = {
-			factor = 2
-			indirect_artillery_fire = 1
-		}
 		modifier = {
 			factor = 2
 			invention = signal_detachments
@@ -650,10 +628,6 @@ stormtrooper_training = {
 	limit = { infiltration = 1 }
 	chance = {
 		base = 5
-		modifier = {
-			factor = 2
-			bolt_action_rifles = 1
-		}
 	}
 	effect = {
 		infantry = {
@@ -678,10 +652,6 @@ firepower_vs_mobility = {
 		modifier = {
 			factor = 2
 			nationalism_n_imperialism = 1
-		}
-		modifier = {
-			factor = 1
-			machine_guns = 1
 		}
 	}
 	effect = {
@@ -715,14 +685,6 @@ grand_battle_plan_vs_superior_firepower = {
 	limit = { modern_army_doctrine = 1 }
 	chance = {
 		base = 2
-		modifier = {
-			factor = 1
-			invention = pragmatism
-		}
-		modifier = {
-			factor = 2
-			invention = modern_logics
-		}
 	}
 	effect = {
 		army_base = {
@@ -869,10 +831,6 @@ colonial_negotiations = {
 		base = 0
 		modifier = {
 			factor = 25
-			machine_guns = 1
-		}
-		modifier = {
-			factor = 25
 			economic_responsibility = 1 
 		}
 		modifier = {
@@ -898,70 +856,6 @@ colonial_negotiations = {
 }
 #iron_breech_loaded_artillery
 #indirect_artillery_fire
-#heavy_armament
-light_artillery = {
-	limit = { heavy_armament_dunno = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 1
-			modern_divisional_structure = 1
-		}
-		modifier = {
-			factor = 2
-			modern_army_doctrine = 1
-		}
-	}
-	effect = {
-		artillery = {
-			attack = 0.1
-			support = 0.1
-			supply_consumption = 0.25
-		}
-	}
-}
-medium_artillery = {
-	limit = { heavy_armament_dunno = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 4
-			modern_army_doctrine = 1
-		}
-		modifier = {
-			factor = -6
-			not = { invention = light_artillery }
-		}
-	}
-	effect = {
-		artillery = {
-			attack = 0.1
-			support = 0.1
-			supply_consumption = 0.25
-		}
-	}
-}
-heavy_artillery = {
-	limit = { heavy_armament_dunno = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 4
-			modern_divisional_structure = 1
-		}
-		modifier = {
-			factor = -6
-			not = { invention = medium_artillery }
-		}
-	}
-	effect = {
-		artillery = {
-			attack = 0.1
-			support = 0.1
-			supply_consumption = 0.25
-		}
-	}
-}
 #irregularry_staff_system
 cuirassier_activation = {
 	limit = { military_statistics = 1 }
@@ -1002,266 +896,12 @@ hussar_activation = {
 		activate_unit = hussar 
 	}
 }	
-	
-#irregularry_plans
-clacks_coordination = {
-	limit = { irregularry_plans = 1 }
-	chance = {
-		base = -4
-		modifier = {
-			factor = 1
-			army_professionalism = 1
-		}
-		modifier = {
-			factor = 2
-			early_railroad = 1
-		}
-		modifier = {
-			factor = 6
-			clacks = 1
-		}
-	}
-	effect = {
-		army_base = {
-			default_organisation = 5
-			supply_consumption = 0.10
-		} 
-	}
-}
 
-mobilization_time_tables = {
-	limit = { irregularry_plans = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 1
-			invention = telegraph_coordination
-		}
-		modifier = {
-			factor = 2
-			strategic_mobility = 1
-		}
-	}
-	effect = {
-		mobilisation_size = 0.01
-	}
-}
-
-personnel_category_tables = {
-	limit = { irregularry_plans = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			invention = mobilization_time_tables
-		}
-		modifier = {
-			factor = 2
-			scientific_management = 1
-		}
-	}
-	effect = {
-		mobilisation_size = 0.01
-	}
-}
-
-#irregularry_statistics
-ammunition_area_effect_calculations = {
-	limit = { irregularry_statistics = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 1
-			empiricism = 1
-		}
-		modifier = {
-			factor = 2
-			scientific_management = 1
-		}
-	}
-	effect = {
-		army_base = {
-			default_organisation = 2.5
-			supply_consumption = 0.05
-		} 
-	}
-}
-
-empirical_combat_efficiency_matrix = {
-	limit = { irregularry_statistics = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 1
-			empiricism = 1
-		}
-		modifier = {
-			factor = 1
-			breech_loaded_rifles = 1
-		}
-	}
-	effect = {
-		army_base = {
-			default_organisation = 2.5
-			supply_consumption = 0.05
-		} 
-	}
-}
-
-combat_loss_evaluation_schemata = {
-	limit = { irregularry_statistics = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 1
-			point_defense_system = 1
-		}
-		modifier = {
-			factor = 2
-			mechanical_production = 1
-		}
-	}
-	effect = {
-		army_base = {
-			default_organisation = 2.5
-			supply_consumption = 0.05
-		} 
-	}
-}
-
-#irregularry_logistics
-pre_planned_depot_systems = {
-	limit = { irregularry_logistics = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			invention = sequence_planning
-		}
-		modifier = {
-			factor = 1
-			invention = distribution_channels
-		}
-	}
-	effect = {
-		army_base = {
-			default_organisation = 2.5
-			supply_consumption = 0.05
-		} 
-	}
-}
-
-logistical_calculations = {
-	limit = { irregularry_logistics = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 3
-			invention = distribution_channels
-		}
-		modifier = {
-			factor = 2
-			iron_railroad = 1
-		}
-	}
-	effect = {
-		army_base = {
-			default_organisation = 2.5
-			supply_consumption = 0.05
-		} 
-	}
-}
-
-replenishment_transport_organisation = {
-	limit = { irregularry_logistics = 1 }
-	chance = {
-		base = 3
-		modifier = {
-			factor = 2
-			invention = logistical_calculations
-		}
-		modifier = {
-			factor = 2
-			iron_railroad = 1
-		}
-	}
-	effect = {
-		army_base = {
-			default_organisation = 2.5
-			supply_consumption = 0.05
-		} 
-	}
-}
-
-#irregularry_directionism
-army_political_lobbying = {
-	limit = { irregularry_directionism = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 1
-			state_n_government = 1
-		}
-		modifier = {
-			factor = 2
-			analytic_philosophy = 1
-		}
-	}
-	effect = {
-		mobilisation_economy_impact = -0.05
-	}
-}
-
-army_irregularry_political_decision_making = {
-	limit = { irregularry_directionism = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 1
-			army_nco_training = 1
-		}
-		modifier = {
-			factor = 2
-			invention = political_science
-		}
-	}
-	effect = {
-		army_base = {
-			default_organisation = 2.5
-			supply_consumption = 0.05
-		} 
-	}
-}
-
-army_local_irregularry_government = {
-	limit = { irregularry_directionism = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 1
-			nationalism_n_imperialism = 1
-		}
-		modifier = {
-			factor = 2
-			invention = dogma_of_violence
-		}
-	}
-	effect = {
-		army_base = {
-			default_organisation = 2.5
-			supply_consumption = 0.05
-		} 
-	}
-}
 #army_professionalism
 army_academic_training = {
 	limit = { army_professionalism = 1 }
 	chance = {
 		base = 2
-		modifier = {
-			factor = 1
-			idealism = 1
-		}
 		modifier = {
 			factor = 2
 			ideological_thought = 1
@@ -1341,11 +981,6 @@ army_delegated_power = {
 			factor = 1
 			invention = distribution_channels
 		}
-		modifier = {
-			factor = 2
-			invention = telegraph_coordination
-		}
-
 	}
 	effect = {
 		morale = 0.3
@@ -1381,10 +1016,6 @@ army_alternative_plans = {
 			factor = 1
 			nationalism_n_imperialism = 1
 		}
-		modifier = {
-			factor = 2
-			empiricism = 1
-		}
 	}
 	effect = {
 		army_base = {
@@ -1410,10 +1041,6 @@ saddle_orders = {
 	chance = {
 		base = 2
 		modifier = {
-			factor = 1
-			invention = i_empiricism
-		}
-		modifier = {
 			factor = 2
 			invention = trench_systems
 		}
@@ -1432,10 +1059,6 @@ army_literate_ncos = {
 			factor = 2
 			invention = army_academic_training
 		}
-		modifier = {
-			factor = 2
-			functionalism = 1
-		}
 	}
 	effect = {
 		army_base = {
@@ -1451,10 +1074,6 @@ nco_field_training = {
 		modifier = {
 			factor = 2
 			invention = field_training
-		}
-		modifier = {
-			factor = 2
-			iron_railroad = 1
 		}
 	}
 	effect = {

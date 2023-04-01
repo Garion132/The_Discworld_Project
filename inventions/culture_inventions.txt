@@ -11,10 +11,6 @@ socialist_realism = {
 			factor = 2
 			ruling_party_ideology = socialist
 		}
-		modifier = {
-			factor = 2
-			invention = dogma_of_mass_action
-		}
 	}
 	effect = {
 		shared_prestige = 25 
@@ -32,10 +28,6 @@ communist = {
 		modifier = {
 			factor = 2
 			ruling_party_ideology = socialist
-		}
-		modifier = {
-			factor = 2
-			invention = dogma_of_mass_action
 		}
 	}
 	effect = {
@@ -325,8 +317,12 @@ black_ribbon = {
 	chance = {
 		base = 1
 		modifier = {
-			factor = 5
-			culture = vampyre
+			factor = 3
+			pop_majority_culture = vampyre
+		}
+		modifier = {
+			factor = 2
+			has_pop_culture = vampyre
 		}
 		modifier = {
 			factor = 10
@@ -375,10 +371,6 @@ sociology = {
 		base = 2
 		modifier = {
 			factor = 2
-			analytic_philosophy = 1
-		}
-		modifier = {
-			factor = 2
 			scientific_management = 1
 		}
 	}
@@ -417,10 +409,6 @@ social_anthropology = {
 	news = no
 	chance = {
 		base = 2
-		modifier = {
-			factor = 2
-			assembly_line = 1
-		}
 	}
 	effect = {
 		colonial_prestige = 0.1 

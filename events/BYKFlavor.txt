@@ -22,7 +22,7 @@ country_event = {
 		UBW={
 			any_pop={
 				limit={
-					is_culture_group = FWW
+					is_culture_group = werewolves_group
 				}
 				ideology = {
 					factor = 15
@@ -66,7 +66,7 @@ country_event = {
 		FWW={
 			casus_belli = {
 				target = SPL
-				type = conquest_any
+				type = conquest
 				months = 60
 			}
 		}

@@ -32,7 +32,7 @@ omnian = {
 		political_reform_desire = -0.05
 	}
 
-	othordox_omnianism = {
+	orthodox_omnianism = {
 		color = { 0.3 0.6 0.6 }
 		icon = 5
 		global_assimilation_rate = 0.075

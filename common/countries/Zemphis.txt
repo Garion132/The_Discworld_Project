@@ -123,22 +123,12 @@ party = {
 }
 
 unit_names = {
-	dreadnought = {
-		 "Dreadnought" "Bellerophon" "Superb" "Temeraire" "St Vincent" "Collingwood" "Vanguard" "Neptune" "Colossus" "Hercules" "Orion" "Monarch" "Conqueror" "Thunderer" "King George V" "Centurion" "Audacious" "Ajax" "Iron Duke" "Marlborough" "Benbow" "Emperor of India" "Agincourt" "Erin" "Canada" "Queen Elizabeth" "Warspite" "Barham" "Valiant" "Malaya" "Royal Oak" "Royal Sovereign" "RevZEMe" "Resolution" "Ramillies" "ResZEMance" "Nelson" "Rodney" "Prince of Wales" "Duke of York" "Anson" "Howe" "Lion"
-	}
-	
-	battleship = {
-		"Royal Sovereign" "Ramillies" "Royal Oak" "Repulse" "RevZEMe" "Resolution" "Empress of India" "Majestic" "Caesar" "Hannibal" "Illustrious" "Jupiter" "Magnificent" "Mars" "Prince George" "Victorious" "Canopus" "Albion" "Glory" "Goliath" "Ocean" "VZEMeance" "Formidable" "IrresZEMible" "Implacable" "Bulwark" "London" "Venerable" "Duncan" "Albemarle" "Cornwallis" "Exmouth" "Montagu" "Russell" "Queen" "Prince of Wales" "King Edward VII" "Africa" "Britannia" "Commonwealth" "Dominion" "Hibernia" "Hindustan" "New Zealand" "Swiftsure" "Triumph" "Lord Nelson" "Agamemnon" "CZEMerdown" "Victoria" "Sans Pareil" "Trafalgar" "Nile"
-	}
 	
 	ironclad = {
 		"Warrior" "Black Prince" "Defence" "ResZEMance" "Hector" "Valiant" "Achilles" "Minotaur" "Agincourt" "Northumberland" "Prince Consort" "Caledonia" "Ocean" "Royal Oak" "Royal Alfred" "Research" "Enterprise" "Favorite" "Zealous" "Repulse" "Lord Clyde" "Lord Warden" "Pallas" "Bellerophon" "Penelope" "Hercules" "Monarch" "Captain" "Audacious" "Invincible" "Iron Duke" "Vanguard" "Swiftsure" "Triumph" "Sultan" "Devastation" "Thunderer" "Alexandra" "Temeraire" "Superb" "Neptune" "Inflexible" "Agamemnon" "Ajax"
 	}
 	manowar = {
 		"Royal Albert" "Windsor CaZEMe" "Marlborough" "Royal Sovereign" "Prince of Wales" "Queen" "Victoria" "Frederick William" "Algiers" "Albion" "Aboukir" "Exmouth" "Saint Jean D'Acre" "Hannibal" "Princess Royal" "Caesar" "Vanguard" "Goliath" "Suberb" "Meeanee" "Collingwood" "Centurion" "Mars" "Lion" "Majestic" "Colossus" "IrresZEMible" "Brunswick" "Orion" "Hood" "Edgar" "Sans Pareil" "Boscawen" "Cumberland"
-	}
-	cruiser = {
-	"Shannon" "Nelson" "NorthZEMton" "Imperieuse" "Warspite" "Orlando" "Australia" "Undaunted" "Narcissus" "Galatea" "Immortalite" "Aurora" "Blake" "Blenheim" "Edgar" "Hawke" "Endymion" "Royal Arthur" "Gibraltar" "Grafton" "St George" "Theseus" "Cresent" "Powerful" "Terrible" "Diadem" "Niobe" "Europa" "Andromeda" "ZEMhitrite" "Argonaut" "Ariadne" "Spartiate" "Cressy" "Sutlej" "Aboukir" "Hogue" "Bacchante" "Euryalus" "Drake" "Good Hope" "King Alfred" "Leviathan" "Monmouth" "Bedford" "Essex" "Kent" "Berwick" "Cornwall" "Cumberland" "Donegal" "Lancaster" "Suffolk" "Devonshire" "HZEMshire" "Carnarvon" "Antrim" "Roxburgh" "Argyll" "Duke of Edinburgh" "Black Prince" "Warrior" "Cochrane" "Achilles" "Natal" "Minotaur" "Shannon" "Defence"
 	}
 	frigate = {
 		"Cyclops" "Vulture" "Firebrand" "Gladiator" "SZEMson" "Centaur" "Dragon" "Penelope" "Retribution" "Terrible" "AvZEMer" "Birkenhead" "Odin" "Sidon" "Leopard" "Tiger" "Magicienne" "Valorous" "Furious" "Resolute" "ZEMhion" "Arrogant" "Dauntless" "Vigilant" "Termagant" "Euphrates" "Tribune" "Curacoa" "Imperieuse" "Euryalus" "Aurora" "Forte" "Chesapeake" "Liffey" "Shannon" "Topaze" "Bacchante" "Liverpool" "Diadem" "Dons" "Ariadne" "Galatea" "Emerald" "Melpomene" "Immortalite" "Orlando" "Mersey" "Narcissus" "NewcaZEMe" "Glasgow" "BrZEMol" "Undaunted" "Tweed" "Dryad" "Belvidera" "Pomone" "Raleigh" "Briton" "Barham" "Boadicea" "Bucephalus" "Dextrous" "Endymion" "ZEMer" "Blonde" "Astrea" "Dartmouth" "Inconstant" "Shah" "Raleigh"

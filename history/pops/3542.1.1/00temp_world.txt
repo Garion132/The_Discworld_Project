@@ -194,7 +194,7 @@
 	}
 	artisans = {
 		culture = uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 10000
 	}
 	artisans = {
@@ -691,7 +691,7 @@
 	}
 	artisans = {
 		culture = klatchian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 7000
 	}
     farmers = {
@@ -5460,7 +5460,17 @@
 	farmers = {
 		culture = upper_borogravian
 		religion = nugganite
-		size = 3900
+		size = 2400
+	}
+	farmers = {
+		culture = zlobenian
+		religion = catholic
+		size = 2100
+	}
+	farmers = {
+		culture = mouldavian
+		religion = catholic
+		size = 1900
 	}
     }
 622={
@@ -5487,8 +5497,8 @@
 		size = 1300
 	}
 	officers = {
-		culture = upper_borogravian
-		religion = mouldavian
+		culture = mouldavian
+		religion = nugganite
 		size = 10
 	}
 	aristocrats = {
@@ -5766,7 +5776,7 @@
 655={
     labourers = {
 		culture = varnith
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 3600
 	}
 	labourers = {
@@ -5776,7 +5786,7 @@
 	}
 	soldiers = {
 		culture = vampyre
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 1500
 	}
 	aristocrats = {
@@ -5961,22 +5971,22 @@
 670={
     farmers = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 11400
 	}
 	artisans = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 3625
 	}
 	soldiers = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 11400
 	}
 	farmers = {
 		culture = uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 13700
 	}
 }
@@ -6015,34 +6025,34 @@
 672={
     farmers = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 12600
 	}
 	 farmers = {
 		culture = uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 13500
 	}
 }
 673={
     farmers = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 23900
 	}
 	soldiers = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 4200
 	}
 	artisans = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 6450
 	}
 	clergymen = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 450
 	}
 }
@@ -6153,7 +6163,7 @@
 676={
 	craftsmen = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 5000
 	}
 	craftsmen = {
@@ -6163,7 +6173,7 @@
 	}
     labourers = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 15310
 	}
 	labourers = {
@@ -6190,27 +6200,27 @@
 677={
     labourers = {
 		culture = lipswiger
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 37460
 	}
 	soldiers = {
 		culture = lipswiger
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 6410
 	}
 	artisans = {
 		culture = lipswiger
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 4870
 	}
 	aristocrats = {
 		culture = lipswiger
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 125
 	}
 	officers = {
 		culture = lipswiger
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 16
 	}
 	labourers = {
@@ -6227,7 +6237,7 @@
 678={
     farmers = {
 		culture = uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 11850
 	}
 	labourers = {
@@ -6239,41 +6249,41 @@
 679={
     farmers = {
 		culture = uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 12000
 	}
 	farmers = {
 		culture = lipswiger
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 7900
 	}
 	soldiers = {
 		culture = lipswiger
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 1050
 	}
 }
 680={
     farmers = {
 		culture = uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 3450
 	}
 	soldiers = {
 		culture = uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 1300
 	}
 }
 681={
     farmers = {
 		culture = uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 9400
 	}
 	soldiers = {
 		culture = uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 1699
 	}
 	farmers = {
@@ -6285,34 +6295,34 @@
 682={
     farmers = {
 		culture = uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 23890
 	}
 	artisans = {
 		culture = uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 8490
 	}
 	soldiers = {
 		culture = uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 2384
 	}
 	capitalists = {
 		culture = uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 8
 	}
 	clergymen = {
 		culture = uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 281
 	}
 }
 683={
     farmers = {
 		culture = uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 12630
 	}
 }
@@ -6350,12 +6360,12 @@
 687={
     labourers = {
 		culture = rheinthalian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 11890
 	}
 	labourers = {
 		culture = dwarf
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 6750
 	}
 }
@@ -6367,55 +6377,55 @@
 	}
 	soldiers = {
 		culture = werewolves
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 1050
 	}
 }
 689={
     farmers = {
 		culture = rheinthalian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 10994
 	}
 	artisans = {
 		culture = rheinthalian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 1070
 	}
 }
 690={
     farmers = {
 		culture = rheinthalian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 2130
 	}
 	farmers = {
 		culture = werewolves
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 300
 	}
 	soldiers = {
 		culture = werewolves
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 1120
 	}
 	aristocrats= {
 		culture = werewolves
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 20
 	}
 }
 691={
     farmers = {
 		culture = rheinthalian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 1875
 	}
 }
 692={
     farmers = {
 		culture = rheinthalian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 12000
 	}
 	aristocrats = {
@@ -6437,14 +6447,14 @@
 	}
     farmers = {
 		culture = rheinthalian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 21000
 	}
 }
 694={
     farmers = {
 		culture = rheinthalian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 13750
 	}
 	soldiers = {
@@ -6456,26 +6466,26 @@
 695={
     farmers = {
 		culture = rheinthalian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 19600
 	}
 	soldiers = {
 		culture = rheinthalian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 2270
 	}
 }
 696={
     farmers = {
 		culture = varnith
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 3840
 	}
 }
 697={
     farmers = {
 		culture = varnith
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 2800
 	}
 	soldiers = {
@@ -6487,7 +6497,7 @@
 698={
     labourers = {
 		culture = varnith
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 14300
 	}
 	labourers = {
@@ -6497,7 +6507,7 @@
 	}
 	soldiers = {
 		culture = varnith
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 1250
 	}
 	soldiers = {
@@ -6524,7 +6534,7 @@
 699={
     labourers = {
 		culture = lipswiger
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 1230
 	}
 	labourers = {
@@ -6556,12 +6566,12 @@
 700={
     labourers = {
 		culture = lipswiger
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 4800
 	}
 	craftsmen = {
 		culture = lipswiger
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 700
 	}
 	labourers = {
@@ -6682,7 +6692,7 @@
 708={
     farmers = {
 		culture = lipswiger
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 12000
 	}
 	aristocrats = {
@@ -6697,7 +6707,7 @@
 	}
 	soldiers = {
 		culture = lipswiger
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 1200
 	}
 }
@@ -6714,12 +6724,12 @@
 	}
 	soldiers = {
 		culture = lipswiger
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 1100
 	}
     farmers = {
 		culture = lipswiger
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 27000
 	}
 }
@@ -7580,7 +7590,7 @@
 	}
 	artisans = {
 		culture = uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 1360
 	}
 	artisans = {
@@ -7595,7 +7605,7 @@
 	}
 	clergymen = {
 		culture = vampyre
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 70
 	}
 	aristocrats = {
@@ -7644,7 +7654,7 @@
 784={
 	labourers = {
 		culture = uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 7100
 	}
     labourers = {
@@ -7666,17 +7676,17 @@
 785={
     farmers = {
 		culture = uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 14000
 	}
 	soldiers = {
 		culture = uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 1100
 	}
 	aristocrats = {
 		culture = uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 10
 	}
 }
@@ -7881,22 +7891,22 @@
 800={
     farmers = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 33800
 	}
 	soldiers = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 4400
 	}
 	artisans = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 8900
 	}
 	clergymen = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 1200
 	}
 }
@@ -8356,7 +8366,7 @@
 840={
     farmers = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 3400
 	}
 	farmers = {
@@ -8389,31 +8399,31 @@
 844={
     farmers = {
 		culture = uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 2489
 	}
 	soldiers = {
 		culture = uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 698
 	}
 	artisans = {
 		culture = uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 19
 	}
 }
 845={
     farmers = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 2150
 	}
 }
 846={
 	labourers = {
 		culture = varnith
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 2500
 	}
 	labourers = {
@@ -8450,24 +8460,24 @@
 847={
     farmers = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 12890
 	}
 	soldiers = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 1365
 	}
 }
 848={
     farmers = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 3600
 	}
 	artisans = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 900
 	}
 	farmers = {
@@ -8516,7 +8526,7 @@
 	}
     labourers = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 1980
 	}
 	labourers = {
@@ -8528,7 +8538,7 @@
 851={
     labourers = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 3400
 	}
 	labourers = {
@@ -8545,19 +8555,19 @@
 852={
     farmers = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 8900
 	}
 	soldiers = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 1500
 	}
 }
 853={
     labourers = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 5600
 	}
 	labourers = {
@@ -8574,7 +8584,7 @@
 854={
     labourers = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 5600
 	}
 	labourers = {
@@ -11752,27 +11762,27 @@
 1341={
     farmers = {
 		culture = nefian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 1300
 	}
 	artisans = {
 		culture = nefian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 300
 	}
 	soldiers = {
 		culture = nefian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 600
 	}
 	aristocrats = {
 		culture = nefian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 20
 	}
 	clergymen = {
 		culture = nefian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 30
 	}
 }
@@ -15832,13 +15842,6 @@
         farmers = {
 		culture = hergen
 		religion = catholic
-		size = 1200
-	}
-}
-1965={
-        farmers = {
-		culture = hergen
-		religion = catholic
 		size = 1900
 	}
 }
@@ -16409,13 +16412,6 @@
 		size = 500
 	}
 }
-2033={
-        farmers = {
-		culture = agatean
-		religion = catholic
-		size = 500
-	}
-}
 2034={
         farmers = {
 		culture = agatean
@@ -16720,10 +16716,15 @@
 	}
     }
 2073={
-        farmers = {
+    farmers = {
 		culture = upper_borogravian
+		religion = nugganite
+		size = 7132
+	}
+	farmers = {
+		culture = mouldavian
 		religion = catholic
-		size = 9132
+		size = 3780
 	}
     }
 2074={
@@ -16771,7 +16772,7 @@
 2087={
     farmers = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 23400
 	}
 	farmers = {
@@ -16786,12 +16787,12 @@
 	}
 	farmers = {
 		culture = werewolves
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 3600
 	}
 	soldiers = {
 		culture = upper_uberwaldian
-		religion = othordox_omnianism
+		religion = orthodox_omnianism
 		size = 1900
 	}
 }

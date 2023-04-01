@@ -35,7 +35,6 @@ luxury_needs = {
 	luxury_clothes = 1
 	luxury_furniture = 1
 	wine = 10
-	fuel = 0.2
 	coffee = 2
 }
 
@@ -5933,18 +5932,6 @@ rehabilitation = {
         }
 
         modifier = {
-            factor = 0
-            country = {
-                primary_culture = british
-                OR = {
-                    government = hms_government
-                    government = prussian_constitutionalism
-                    government = absolute_monarchy
-                }
-            }
-        }
-
-        modifier = {
             factor = 0.25
             OR = {
                 agree_with_ruling_party = 0.40
@@ -6017,16 +6004,6 @@ rehabilitation = {
                 country = { NOT = { slavery = no_slavery } }
                 country = { debt_law = serfdom }
             }
-        }
-
-        modifier = {
-            factor = 0
-            OR = {
-                is_primary_culture = yes
-                is_accepted_culture = yes
-            }
-            is_culture_group = american_cultures
-            country = { government = democracy }
         }
 
         modifier = {

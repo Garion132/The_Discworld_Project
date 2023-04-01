@@ -1,5 +1,5 @@
 capital = 1345
-primary_culture = sorca
+primary_culture = sorcan
 religion = protestant
 government = absolute_monarchy
 plurality = 5

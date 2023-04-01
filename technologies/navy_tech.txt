@@ -1239,11 +1239,6 @@ main_armament = {
 			factor = 1.25
 			year = 3600
 		}
-		# Our cruisers need torpedoes!
-		modifier = {
-			factor = 1.25
-			invention = protected_cruisers
-		}
 		# Bigger navy, more weight
 		modifier = {
 			factor = 1.1
@@ -1324,11 +1319,6 @@ advanced_naval_design = {
 			total_num_of_ports = 12
 			rank = 16
 			clipper_design = 1
-		}
-		# Our Dreadnoughts need better guns
-		modifier = {
-			factor = 1.5
-			invention = dreadnoughts
 		}
 		# Bigger navy, more weight
 		modifier = {

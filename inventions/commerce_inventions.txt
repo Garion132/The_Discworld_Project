@@ -290,10 +290,6 @@ gold_standard = {
 			invention = double_standard
 		}
 		modifier = {
-			factor = 2
-			invention = ludwig_von_mises #Tu ne cede malis, sed contra audentior
-		}
-		modifier = {
 			factor = 3
 			economic_policy = laissez_faire
 		}
@@ -969,10 +965,6 @@ lighting = {
 	news = no
 	chance = {
 		base = 2
-		modifier = {
-			factor = 4
-			electricity = 1
-		}
 		modifier = {
 			factor = 2
 			economic_policy = laissez_faire

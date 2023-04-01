@@ -28,6 +28,8 @@ reactionary_rebels = {
 		prussian_constitutionalism = absolute_monarchy
 		hms_government = absolute_monarchy
 		democracy = presidential_dictatorship
+		theocracy = theocracy
+		patricianship = absolute_monarchy
 	}
 	
 	
@@ -227,6 +229,8 @@ fascist_rebels = {
 		prussian_constitutionalism = fascist_dictatorship
 		hms_government = fascist_dictatorship
 		democracy = fascist_dictatorship
+		theocracy = fascist_dictatorship
+		patricianship = fascist_dictatorship
 	}
 	
 	
@@ -428,6 +432,8 @@ communist_rebels = {
 		prussian_constitutionalism = proletarian_dictatorship
 		hms_government = proletarian_dictatorship
 		democracy = proletarian_dictatorship
+		theocracy = proletarian_dictatorship
+		patricianship = proletarian_dictatorship
 	}
 	
 	
@@ -640,6 +646,8 @@ anarcho_liberal_rebels = {
 		prussian_constitutionalism = bourgeois_dictatorship
 		hms_government = bourgeois_dictatorship
 		democracy = bourgeois_dictatorship
+		theocracy = bourgeois_dictatorship
+		patricianship = bourgeois_dictatorship
 	}
 	
 	
@@ -835,6 +843,8 @@ nationalist_rebels = {
 		prussian_constitutionalism = prussian_constitutionalism
 		hms_government = hms_government
 		democracy = democracy
+		theocracy = theocracy
+		patricianship = patricianship
 	}
 	
 	
@@ -1051,6 +1061,8 @@ pan_nationalist_rebels = {
 		prussian_constitutionalism = prussian_constitutionalism
 		hms_government = hms_government
 		democracy = democracy
+		theocracy = theocracy
+		patricianship = patricianship
 	}
 
 	defection = pan_nationalist		# If the country seeks independence, defection specifies what type of provinces it wants.
@@ -1269,9 +1281,11 @@ liberal_rebels = {
 		bourgeois_dictatorship = democracy
 		fascist_dictatorship = democracy
 		absolute_monarchy = hms_government
+		theocracy = hms_government
 		prussian_constitutionalism = democracy
 		hms_government = democracy
 		democracy = democracy
+		patricianship = democracy
 	}
 	
 	
@@ -1477,6 +1491,8 @@ unciv_reactionary_rebels = {
 		prussian_constitutionalism = absolute_monarchy
 		hms_government = absolute_monarchy
 		democracy = absolute_monarchy
+		theocracy = theocracy
+		patricianship = absolute_monarchy
 	}
 	
 	

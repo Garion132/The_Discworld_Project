@@ -43,10 +43,6 @@ country_event = {
 			factor = 1.1
 			economic_policy = laissez_faire
 		}
-		modifier = {
-			factor = 1.5
-			invention = ludwig_von_mises
-		}
 	}
 	
 	option = {

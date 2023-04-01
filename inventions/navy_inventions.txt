@@ -24,10 +24,6 @@ brown_water_school = {
 		base = 2
 		modifier = {
 			factor = 2
-			empiricism = 1
-		}
-		modifier = {
-			factor = 2
 			naval_statistics = 1
 		}
 	}
@@ -280,10 +276,6 @@ ironclads = {
 			factor = 2
 			invention = monitors
 		}
-		modifier = {
-			factor = 2
-			invention = torpedo_boats
-		}
 	}
 	effect = {
 		activate_unit = ironclad  
@@ -296,10 +288,6 @@ monitors = {
 		modifier = {
 			factor = 2
 			invention = ironclads
-		}
-		modifier = {
-			factor = 2
-			invention = torpedo_boats
 		}
 	}
 	effect = {
@@ -708,10 +696,6 @@ large_hull_form = {
 	chance = {
 		base = 2
 		modifier = {
-			factor = 1
-			invention = fordism
-		}
-		modifier = {
 			factor = 3
 			shift_work = 1
 		}
@@ -720,26 +704,6 @@ large_hull_form = {
 		navy_base = {
 			hull = 1
 		} 
-	}
-}
-#modern_naval_design
-wireless = {
-	limit = { modern_naval_design = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 3
-			invention = national_radio_networks
-		}
-		modifier = {
-			factor = 2
-			invention = industrial_rnd_investments
-		}
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 5
-		}
 	}
 }
 #naval_plans
@@ -871,10 +835,6 @@ underway_refueling = {
 		base = 2
 		modifier = {
 			factor = 2
-			invention = cracking
-		}
-		modifier = {
-			factor = 2
 			colonial_nation = yes
 		}
 	}
@@ -912,10 +872,6 @@ radio_telegraphy = {
 		modifier = {
 			factor = 2
 			electricity = 1
-		}
-		modifier = {
-			factor = 4
-			invention = national_radio_networks
 		}
 	}
 	effect = {
@@ -972,10 +928,6 @@ local_military_government = {
 		modifier = {
 			factor = 1
 			is_greater_power = yes
-		}
-		modifier = {
-			factor = 2
-			invention = pragmatism
 		}
 	}
 	effect = {
@@ -1036,10 +988,6 @@ academic_training = {
 			factor = 2
 			ideological_thought = 1
 		}
-		modifier = {
-			factor = 2
-			idealism = 1
-		}
 	}
 	effect = {
 		navy_base = {
@@ -1075,10 +1023,6 @@ societal_status = {
 		modifier = {
 			factor = 2
 			invention = national_fraternity
-		}
-		modifier = {
-			factor = 2
-			functionalism = 1
 		}
 	}
 	effect = {
@@ -1136,10 +1080,6 @@ delegated_power = {
 			factor = 1
 			main_armament = 1
 		}
-		modifier = {
-			factor = 1
-			biologism = 1
-		}
 	}
 	effect = {
 		navy_base = {
@@ -1156,10 +1096,6 @@ wargames = {
 		modifier = {
 			factor = 1
 			prestige = 40
-		}
-		modifier = {
-			factor = 2
-			empiricism = 1
 		}
 	}
 	effect = {
@@ -1215,10 +1151,6 @@ literate_ncos = {
 		modifier = {
 			factor = 2
 			invention = academic_training
-		}
-		modifier = {
-			factor = 2
-			analytic_philosophy = 1
 		}
 	}
 	effect = {
@@ -1292,14 +1224,6 @@ naval_exercises = {
 		modifier = {
 			factor = 2
 			invention = war_gamming
-		}
-		modifier = {
-			factor = 1
-			invention = offensive_attitude
-		}
-		modifier = {
-			factor = 1
-			invention = defensive_attitude
 		}
 	}
 	effect = {

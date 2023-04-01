@@ -21,7 +21,7 @@ galley = {
 	build_time = 180
 	build_cost = {
 		clipper_convoy = 5
-		seige_engines = 2
+		seige_equipment = 2
 	}
 	min_port_level = 0
 	limit_per_port = -1
@@ -30,7 +30,7 @@ galley = {
 	supply_consumption = 1.0
 	supply_cost = {
 		clipper_convoy = 0.08
-		seige_engines = 0.02 #0.08
+		seige_equipment = 0.02 #0.08
 	}
 	
 	#Naval Abilties

@@ -1,7 +1,7 @@
 political_decisions = {
 	eject_timidrids = {
 		potential = {
-			primary_culture = muntab
+			primary_culture = muntabian
 			TIM={
 				is_vassal = no
 				exists = yes
@@ -20,7 +20,7 @@ political_decisions = {
 			casus_belli = {
 				target = TIM
 				state_province_id = 1565
-				type = annex
+				type = acquire_state
 				months = 36
 			}
 		}

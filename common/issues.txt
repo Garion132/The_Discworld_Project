@@ -262,7 +262,7 @@ political_reforms = {
             poor_vote = 0
             global_immigrant_attract = 0.01
             allow = {
-                NOT = { has_country_flag = theocratic_government }
+                government = theocracy
                 NOT = { has_country_flag = government_busy_with_something }
             }
         }
@@ -565,13 +565,7 @@ political_reforms = {
             allow = {
                 NOT = { has_country_flag = government_busy_with_something }
                 OR = {
-                    is_culture_group = latin_american_cultures
-                    is_culture_group = american_cultures
-                    is_culture_group = african_diaspora_cultures
-                    is_culture_group = native_american
-                    primary_culture = australian
-                    primary_culture = anglo_canadian
-                    primary_culture = french_canadian
+                    primary_culture = foureckian
                 }
             }
         }
@@ -1275,7 +1269,7 @@ economic_reforms = {
             on_execute = {
                 effect = {
                     plurality = 5
-                    activate_technology = late_enlightenment_philosophy
+                    activate_technology = magical_education
                     any_pop = {
                         scaled_militancy = {
                             ideology = liberal
@@ -1308,21 +1302,8 @@ economic_reforms = {
             allow = { NOT = { has_country_flag = lacking_writing_system } money = 2000 }
 
             on_execute = {
-                trigger = {
-                    can_build_railway_in_capital = {
-                        in_whole_capital_state = yes # no = just in main capital province.
-                        limit_to_world_greatest_level = yes
-                    }
-                }
                 effect = {
-                    treasury = -2000
-                    set_country_flag = activate_experimental_railroad
-                    activate_technology = experimental_railroad
-
-                    build_railway_in_capital = {
-                        in_whole_capital_state = yes # no = just in main capital province.
-                        limit_to_world_greatest_level = yes
-                    }
+					activate_technology = paved_roads
 
                     any_pop = {
                         scaled_militancy = {
@@ -1343,40 +1324,40 @@ economic_reforms = {
         }
     }
 
-    firearms_production = {
-        no_firearms_production = {
+    # firearms_production = {
+        # no_firearms_production = {
 
-        }
-        yes_firearms_production = {
-            technology_cost = 12000
-            civilization_progress_modifier = 0.15
-            allow = { NOT = { has_country_flag = lacking_writing_system } money = 10000 }
+        # }
+        # yes_firearms_production = {
+            # technology_cost = 12000
+            # civilization_progress_modifier = 0.15
+            # allow = { NOT = { has_country_flag = lacking_writing_system } money = 10000 }
 
-            on_execute = {
-                effect = {
-                    treasury = -10000
-                    activate_technology = guild_based_production
-                    build_factory_in_capital_state = small_arms_factory
+            # on_execute = {
+                # effect = {
+                    # treasury = -10000
+                    # activate_technology = guild_based_production
+                    # build_factory_in_capital_state = small_arms_factory
 
 
-                    any_pop = {
-                        scaled_militancy = {
-                            ideology = liberal
-                            factor = 1
-                        }
-                        scaled_militancy = {
-                            ideology = conservative
-                            factor = 2
-                        }
-                        scaled_militancy = {
-                            ideology = reactionary
-                            factor = 3
-                        }
-                    }
-                }
-            }
-        }
-    }
+                    # any_pop = {
+                        # scaled_militancy = {
+                            # ideology = liberal
+                            # factor = 1
+                        # }
+                        # scaled_militancy = {
+                            # ideology = conservative
+                            # factor = 2
+                        # }
+                        # scaled_militancy = {
+                            # ideology = reactionary
+                            # factor = 3
+                        # }
+                    # }
+                # }
+            # }
+        # }
+    # }
 
     pre_indust = {
         no_pre_indust = {
@@ -1389,7 +1370,8 @@ economic_reforms = {
             allow = { NOT = { has_country_flag = lacking_writing_system } money = 2000 }
 
             on_execute = {
-                trigger = { can_build_factory_in_capital_state = cement_factory # example, no trigger needed here
+                trigger = { 
+					can_build_factory_in_capital_state = cement_factory # example, no trigger needed here
 
                 }
 
@@ -1428,7 +1410,7 @@ economic_reforms = {
             on_execute = {
                 effect = {
                     treasury = -7000
-                    activate_technology = piston_steam_engine
+                    activate_technology = hand_cranked_power
                     build_factory_in_capital_state = fabric_factory
 
                     any_pop = {
@@ -1508,7 +1490,7 @@ military_reforms = {
 
             on_execute = {
                 effect = {
-                    activate_technology = flintlock_rifles
+                    activate_technology = high_grade_steel_weaponry
                     set_country_flag = using_foreign_weapons
                     any_pop = {
                         scaled_militancy = {
@@ -1773,8 +1755,7 @@ military_reforms = {
 
             on_execute = {
                 effect = {
-                    activate_technology = clipper_design
-                    activate_technology = steamers
+                    activate_technology = carvel_design
                     set_country_flag = using_foreign_ships
 
                     any_pop = {
@@ -1845,6 +1826,10 @@ military_reforms = {
         yes_foreign_artillery = {
             technology_cost = 11000
             civilization_progress_modifier = 0.1
+			
+			allow = {
+				pop_majority_culture = agatean
+			}
 
             on_execute = {
                 effect = {

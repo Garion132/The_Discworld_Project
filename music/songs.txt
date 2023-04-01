@@ -80,7 +80,7 @@ song = {
 song = {
 	name = "thecoronation_titletheme.mp3" #replaced with the A-M national anthem
 	chance = { factor = 1 }
-
+}
 song = {
 	name = "theroyalmarch.mp3"
 	chance = {

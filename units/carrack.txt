@@ -25,7 +25,7 @@ carrack = {
 	build_time = 360
 	build_cost = {
 		clipper_convoy = 15
-		seige_engines = 10
+		seige_equipment = 10
 	}
 	min_port_level = 1
 	limit_per_port = -1
@@ -34,7 +34,7 @@ carrack = {
 	supply_consumption = 1.0
 	supply_cost = {
 		clipper_convoy = 0.24
-		seige_engines = 0.08 #0.16
+		seige_equipment = 0.08 #0.16
 	}
 	
 	#Naval Abilties

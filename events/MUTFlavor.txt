@@ -140,7 +140,7 @@ country_event = {
 	id = 37003
 
 	trigger = {
-		tag = MUT
+		tag = MAI
 		VUM = { exists = yes }
 		#year = 3552
 		#NOT = {

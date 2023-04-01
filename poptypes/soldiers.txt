@@ -58,7 +58,6 @@ luxury_needs = {
 	furniture = 3
 	liquor = 1.5
 	paper = 1.0
-	fuel = 0.1
 	coffee = 0.45
 	tobacco = 0.95
 	#dye = 0.5
@@ -5670,18 +5669,6 @@ all_voting_pops = {
         }
 
         modifier = {
-            factor = 0
-            country = {
-                primary_culture = british
-                OR = {
-                    government = hms_government
-                    government = prussian_constitutionalism
-                    government = absolute_monarchy
-                }
-            }
-        }
-
-        modifier = {
             factor = 0.25
             OR = {
                 agree_with_ruling_party = 0.40
@@ -5754,16 +5741,6 @@ all_voting_pops = {
                 country = { NOT = { slavery = no_slavery } }
                 country = { debt_law = serfdom }
             }
-        }
-
-        modifier = {
-            factor = 0
-            OR = {
-                is_primary_culture = yes
-                is_accepted_culture = yes
-            }
-            is_culture_group = american_cultures
-            country = { government = democracy }
         }
 
         modifier = {

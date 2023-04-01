@@ -26,7 +26,7 @@ monitor = {
 		artillery = 6
 		canned_food = 10
 	}
-	min_port_level = 3
+	min_port_level = 4
 	limit_per_port = -1
 	supply_consumption_score = 3
 	
