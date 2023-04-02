@@ -2,5 +2,5 @@ owner = PSC
 controller = PSC
 add_core = PSC
 add_core = UBW
-trade_goods = coal
+trade_goods = grain
 life_rating = 52

@@ -1542,7 +1542,7 @@ country_event = {
 				who = THIS
 				value = -5
 			}
-			country_event = { id=13270 days=0 }
+			#country_event = { id=13270 days=0 }
 		}
 	}
 }

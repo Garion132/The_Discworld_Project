@@ -930,7 +930,7 @@ province_event = {
 	trigger = {
 		NOT = { has_country_modifier = recent_safari2 }
 		is_colonial = yes
-		continent = africa
+		continent = klatch
 	}
 	
 	mean_time_to_happen = {
@@ -950,12 +950,6 @@ province_event = {
 			factor = 0.9
 			NOT = {
 				average_consciousness = 4
-			}
-		}
-		modifier = {
-			factor = 0.9
-			owner = {
-				machine_guns = 1 #This modifier is very funny
 			}
 		}
 		modifier = {
@@ -995,77 +989,77 @@ province_event = {
 }
 
 #Heia Safari!
-province_event = {
-	id = 14660
-	title = "EVTNAME14660"
-	desc = "EVTDESC14660"
+# province_event = {
+	# id = 14660
+	# title = "EVTNAME14660"
+	# desc = "EVTDESC14660"
 	
-	trigger = {
-		year = 1860
-		NOT = { has_country_modifier = recent_safari }
-		is_colonial = yes
-		continent = africa
-		owner = { civilized = yes }
-		}
+	# trigger = {
+		# year = 1860
+		# NOT = { has_country_modifier = recent_safari }
+		# is_colonial = yes
+		# continent = africa
+		# owner = { civilized = yes }
+		# }
 	
-	mean_time_to_happen = {
-		months = 2400
-		modifier = {
-			factor = 0.9
-			NOT = {
-				average_militancy = 5
-			}
-		}
-		modifier = {
-			factor = 0.9
-			NOT = {
-				average_consciousness = 5
-			}
-		}
-		modifier = {
-			factor = 0.9
-			NOT = {
-				life_rating = 15
-			}
-		}
+	# mean_time_to_happen = {
+		# months = 2400
+		# modifier = {
+			# factor = 0.9
+			# NOT = {
+				# average_militancy = 5
+			# }
+		# }
+		# modifier = {
+			# factor = 0.9
+			# NOT = {
+				# average_consciousness = 5
+			# }
+		# }
+		# modifier = {
+			# factor = 0.9
+			# NOT = {
+				# life_rating = 15
+			# }
+		# }
 		
-		modifier = {
-			factor = 1.5
-			average_militancy = 5
-		}
-	}
+		# modifier = {
+			# factor = 1.5
+			# average_militancy = 5
+		# }
+	# }
 	
-	option = {
-		name = "EVTOPTA14660"
-		owner = {
-			prestige = 3
-		}
-		add_country_modifier = {
-			name = recent_safari
-			duration = 365
-		}
-	}
+	# option = {
+		# name = "EVTOPTA14660"
+		# owner = {
+			# prestige = 3
+		# }
+		# add_country_modifier = {
+			# name = recent_safari
+			# duration = 365
+		# }
+	# }
 	
-	option = {
-		name = "EVTOPTB14660"
-		random_country = {
-			limit = {
-				civilized = yes
-				NOT = {
-					tag = THIS
-				}
-			}
-			relation = {
-				who = THIS
-				value = 30
-			}
-		}
-		 add_country_modifier = {
-			name = recent_safari
-			duration = 365
-		}
-	}
-}
+	# option = {
+		# name = "EVTOPTB14660"
+		# random_country = {
+			# limit = {
+				# civilized = yes
+				# NOT = {
+					# tag = THIS
+				# }
+			# }
+			# relation = {
+				# who = THIS
+				# value = 30
+			# }
+		# }
+		 # add_country_modifier = {
+			# name = recent_safari
+			# duration = 365
+		# }
+	# }
+# }
 
 # The Heart of Darkness
 country_event = {

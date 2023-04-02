@@ -51,6 +51,13 @@ outer_island_cultures = {
 		last_names = { Xiuquan Yunshan Xiuqing Dakai Yucheng Rengan Zicai Yongfu Fengjia Yatsen
 		}
 	}
+	be_trobi = { 
+		color = { 190 130 130}
+		first_names = { Hong Feng Shi Li Chen Liu Qiu Sun Soong Liao Xue Zhang Xie Wu Shu Tsai Deng Zhen Huang Ye Yang
+		}
+		last_names = { Xiuquan Yunshan Xiuqing Dakai Yucheng Rengan Zicai Yongfu Fengjia Yatsen
+		}
+	}
 	#union = AGA
 }
 

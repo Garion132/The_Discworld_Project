@@ -1,3 +1,6 @@
+ZLO = {
+	value = 30		#relation
+}
 army = {
 	name = "1st Istanzian Force"
 	location = 234

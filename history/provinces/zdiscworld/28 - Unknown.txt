@@ -1,5 +1,5 @@
 owner = SHR
 controller = SHR
 add_core = SHR
-trade_goods = grain
+trade_goods = wool
 life_rating = 52

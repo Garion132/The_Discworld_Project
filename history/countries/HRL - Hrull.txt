@@ -1,4 +1,4 @@
-capital = 1557
+capital = 1538
 primary_culture = hrullian
 religion = protestant
 government = absolute_monarchy

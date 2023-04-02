@@ -2,6 +2,6 @@ owner = MOM
 controller = MOM
 add_core = MOM
 add_core = IRM
-trade_goods = grain
+trade_goods = silkn
 life_rating = 20
 

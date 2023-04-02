@@ -49,11 +49,11 @@ alliance=
 		end_date="4000.1.1"
 		start_date="2600.1.1"
 	}
-alliance=
-	{
-		first="GEN"
-		second="ZLO"
-		end_date="4000.1.1"
-		start_date="2600.1.1"
-	}
+# alliance=
+	# {
+		# first="GEN"
+		# second="ZLO"
+		# end_date="4000.1.1"
+		# start_date="2600.1.1"
+	# }
 	

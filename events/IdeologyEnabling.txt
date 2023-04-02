@@ -39,10 +39,6 @@ country_event = {
 		
 		modifier = {
 			factor = 0.5
-			invention = pierre_joseph_proudhon
-		}
-		modifier = {
-			factor = 0.5
 			OR = {
 			unemployment = 0.2
 			NOT = {
@@ -108,14 +104,6 @@ country_event = {
 	mean_time_to_happen = {
 		months = 300
 		
-		modifier = {
-			factor = 0.5
-			invention = karl_marx
-		}
-		modifier = {
-			factor = 0.8
-			invention = friedrich_engels
-		}
 		modifier = {
 			factor = 1.5
 			poor_strata_life_needs = 0.95
@@ -188,7 +176,7 @@ country_event = {
 			is_ideology_enabled = fascist 
 		}
 		
-		year = 3570
+		year = 3590
 		literacy = 0.65
 		civilized = yes
 		OR = {
@@ -207,10 +195,6 @@ country_event = {
 	mean_time_to_happen =  {
 		months = 300
 		
-		modifier = {
-			factor = 0.5
-			invention = karl_marx
-		}
 		modifier = {
 			factor = 0.9
 			war_exhaustion = 4

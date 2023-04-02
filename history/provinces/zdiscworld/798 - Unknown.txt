@@ -2,5 +2,5 @@ owner = TRL
 controller = TRL
 add_core = TRL
 add_core = UBW
-trade_goods = coal
+trade_goods = timber
 life_rating = 52

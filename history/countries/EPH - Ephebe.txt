@@ -1,4 +1,4 @@
-capital = 294
+capital = 69
 primary_culture = ephebian
 religion = ephebic
 government = democracy

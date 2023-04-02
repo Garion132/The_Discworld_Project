@@ -1,4 +1,4 @@
-capital = 403
+capital = 1535
 primary_culture = vanglemeshian
 religion = catholic
 government = absolute_monarchy

@@ -2,5 +2,5 @@ owner = UGL
 controller = UGL
 add_core = UGL
 add_core = UBW
-trade_goods = timber
+trade_goods = cattle
 life_rating = 52

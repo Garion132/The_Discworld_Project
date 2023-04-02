@@ -245,9 +245,7 @@ political_decisions = {
 			change_tag = DIA
 			any_country = {
 				limit = {
-					OR = {
-						primary_culture = troll 
-					}
+					primary_culture = troll 
 					OR = {
 						in_sphere = THIS
 						vassal_of = THIS

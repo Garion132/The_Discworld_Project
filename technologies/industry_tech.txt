@@ -556,7 +556,7 @@ metallurgic_principles = {
 		}
 	}
 }
-metal_seperation_technquines = {
+metal_seperation_techniques = {
 	area = metallurgy
 	year = 3550
 	cost = 7200

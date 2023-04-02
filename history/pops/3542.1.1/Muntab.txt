@@ -85,6 +85,11 @@
 		religion = catholic
 		size = 150
 	}
+	clergymen = {
+		culture = muntabian
+		religion = catholic
+		size = 1680
+	}
 	artisans = {
 		culture = muntabian
 		religion = catholic
@@ -596,7 +601,7 @@
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 3958
+		size = 7958
 	}
 }
 982={
@@ -605,12 +610,22 @@
 		religion = catholic
 		size = 11800
 	}
+	soldiers = {
+		culture = muntabian
+		religion = catholic
+		size = 2490
+	}
 }
 983={
     farmers = {
 		culture = muntabian
 		religion = catholic
 		size = 13870
+	}
+	soldiers = {
+		culture = muntabian
+		religion = catholic
+		size = 1890
 	}
 }
 984={
@@ -632,6 +647,11 @@
 		culture = muntabian
 		religion = catholic
 		size = 12450
+	}
+	soldiers = {
+		culture = muntabian
+		religion = catholic
+		size = 1590
 	}
 }
 987={
@@ -1318,7 +1338,7 @@
 }
 1543={
     farmers = {
-		culture = khanlian
+		culture = tezuman
 		religion = catholic
 		size = 6100
 	}
@@ -1388,7 +1408,7 @@
 }
 1553={
     farmers = {
-		culture = hrullian
+		culture = klatchistanian
 		religion = catholic
 		size = 4000
 	}
@@ -1414,7 +1434,7 @@
 }
 1556={
     farmers = {
-		culture = hrullian
+		culture = tezuman
 		religion = catholic
 		size = 3980
 	}
@@ -1466,14 +1486,14 @@
 }
 1562={
     farmers = {
-		culture = hrullian
+		culture = tezuman
 		religion = catholic
 		size = 6870
 	}
 }
 1563={
     farmers = {
-		culture = hrullian
+		culture = tezuman
 		religion = catholic
 		size = 4600
 	}

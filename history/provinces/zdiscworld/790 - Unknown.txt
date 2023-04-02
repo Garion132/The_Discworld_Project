@@ -2,6 +2,6 @@ owner = TRL
 controller = TRL
 add_core = TRL
 add_core = UBW
-trade_goods = cattle
+trade_goods = grain
 life_rating = 32
 
