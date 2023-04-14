@@ -1,0 +1,127 @@
+political_decisions = {
+	repair_circumfence = {
+		potential = {
+			tag = KRL
+			check_variable = {
+				which = "Circumfence Stability"
+				value = 1
+			}
+			NOT={has_country_flag = working_on_fence}
+		}
+		
+		allow = {
+			money = 20000
+			NOT={
+				check_variable = {
+					which = "Circumfence Stability"
+					value = 20
+				}
+			}
+		}
+		
+		effect = {
+			treasury = -20000
+			set_country_flag = working_on_fence
+			country_event = {id = 42003 days = 180}
+		}
+	}
+	check_status_circumfence = {
+		potential = {
+			tag = KRL
+			check_variable = {
+				which = "Circumfence Stability"
+				value = 1
+			}
+			ai = no
+		}
+		
+		allow = {
+			ai = yes
+				check_variable = {
+					which = "Circumfence Stability"
+					value = 20
+				}
+				check_variable = {
+					which = "Circumfence Stability"
+					value = 19
+				}
+				check_variable = {
+					which = "Circumfence Stability"
+					value = 18
+				}
+				check_variable = {
+					which = "Circumfence Stability"
+					value = 17
+				}
+				check_variable = {
+					which = "Circumfence Stability"
+					value = 16
+				}
+				check_variable = {
+					which = "Circumfence Stability"
+					value = 15
+				}
+				check_variable = {
+					which = "Circumfence Stability"
+					value = 14
+				}
+				check_variable = {
+					which = "Circumfence Stability"
+					value = 13
+				}
+				check_variable = {
+					which = "Circumfence Stability"
+					value = 12
+				}
+				check_variable = {
+					which = "Circumfence Stability"
+					value = 11
+				}
+				check_variable = {
+					which = "Circumfence Stability"
+					value = 10
+				}
+				check_variable = {
+					which = "Circumfence Stability"
+					value = 9
+				}
+				check_variable = {
+					which = "Circumfence Stability"
+					value = 8
+				}
+				check_variable = {
+					which = "Circumfence Stability"
+					value = 7
+				}
+				check_variable = {
+					which = "Circumfence Stability"
+					value = 6
+				}
+				check_variable = {
+					which = "Circumfence Stability"
+					value = 5
+				}
+				check_variable = {
+					which = "Circumfence Stability"
+					value = 4
+				}
+				check_variable = {
+					which = "Circumfence Stability"
+					value = 3
+				}
+				check_variable = {
+					which = "Circumfence Stability"
+					value = 2
+				}
+				check_variable = {
+					which = "Circumfence Stability"
+					value = 1
+				}
+			
+		}
+		
+		effect = {
+			
+		}
+	}
+}

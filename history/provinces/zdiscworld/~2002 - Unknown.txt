@@ -1,7 +1,0 @@
-owner = MOM
-controller = MOM
-add_core = MOM
-add_core = IRM
-trade_goods = grain
-life_rating = 20
-

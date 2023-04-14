@@ -8518,7 +8518,12 @@
     farmers = {
 		culture = upper_uberwaldian
 		religion = orthodox_omnianism
-		size = 2150
+		size = 12150
+	}
+	soldiers = {
+		culture = upper_uberwaldian
+		religion = orthodox_omnianism
+		size = 1947
 	}
 }
 846={

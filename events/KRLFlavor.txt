@@ -6,6 +6,10 @@ country_event = {
 	picture = "crisis"
 	trigger = {
 		tag = KRL
+		check_variable = {
+			which = "Circumfence Stability"
+			value = 1
+		}
 	}
 	allow_multiple_instances = yes
 	
@@ -46,5 +50,196 @@ country_event = {
 			1 = { luxury_furniture = 50 }
 			1 = { luxury_clothes = 50 }
 		}
+	}
+}
+country_event = {#status of the cirumfence
+	id = 42001
+	title = "EVTNAME42001"
+	desc = "EVTDESC42001"
+	picture = "crisis"
+	trigger = {
+		tag = KRL
+		NOT={has_country_flag=KRL_startup}
+	}
+	option = {
+		name = "EVTOPTA42001" # perfect
+		ai_chance = {
+			factor = 95
+		}
+		set_country_flag=KRL_startup
+		set_variable = {
+			which = "Circumfence Stability"
+			value = 20
+		}
+
+	}
+}
+country_event = {
+	id = 42002
+	title = "EVTNAME42002"
+	desc = "EVTDESC42002"
+	picture = "crisis"
+	is_triggered_only = yes
+	option = {
+		name = "EVTOPTA42002" # perfect
+		change_variable = {
+			which = "Circumfence Stability"
+			value = -1
+		}
+	}
+	option = {
+		name = "EVTOPTB42002" # perfect
+		
+	}
+}
+country_event = {#
+	id = 42003
+	title = "EVTNAME42003"
+	desc = "EVTDESC42003"
+	picture = "crisis"
+	is_triggered_only = yes
+	option = {
+		name = "ok" # perfect
+		change_variable = {
+			which = "Circumfence Stability"
+			value = 1
+		}
+		clr_country_flag = working_on_fence
+	}
+}
+country_event = {#surviors found in a wreak, slavery allowed
+	id = 42004
+	title = "EVTNAME42004"
+	desc = "EVTDESC42004"
+	picture = "crisis"
+	trigger = {
+		tag = KRL
+		check_variable = {
+			which = "Circumfence Stability"
+			value = 5
+		}
+		NOT={slavery = no_slavery}
+	}
+	allow_multiple_instances = yes
+	
+	mean_time_to_happen =  {
+		months = 24
+	}
+
+	option = {
+		name = "EVTOPTA42004" # Ransom them
+		ai_chance = {
+			factor = 60
+		}
+		random_list = {
+			31 = { add_tax_relative_income = 0.5 }
+			26 = { add_tax_relative_income = 1.0 }
+			22 = { add_tax_relative_income = 1.5 }
+			18 = { add_tax_relative_income = 2.0 }
+			3  = { add_tax_relative_income = 2.5 }
+		}
+	}
+	option = {
+		name = "EVTOPTB42004" # Enslave them
+		ai_chance = {
+			factor = 35
+		}
+		random_owned={
+			limit = {
+				is_slave = yes
+			}
+			random_pop = {
+				limit = {
+					type = slaves
+				}
+				reduce_pop = 1.01
+			}
+		}
+	}
+	option = {
+		name = "EVTOPTC42004" # scarifice them
+		ai_chance = {
+			factor = 5
+		}
+		prestige = 1.5
+		any_state={
+			limit = {
+				is_slave = yes
+			}
+			any_pop = {
+				limit = {
+					type = slaves
+				}
+				militancy = 0.2
+			}
+		}
+	}
+}
+country_event = {#surviors found in a wreak, slavery disallowed
+	id = 42005
+	title = "EVTNAME42004"
+	desc = "EVTDESC42004"
+	picture = "crisis"
+	trigger = {
+		tag = KRL
+		check_variable = {
+			which = "Circumfence Stability"
+			value = 5
+		}
+		slavery = no_slavery
+	}
+	allow_multiple_instances = yes
+	
+	mean_time_to_happen =  {
+		months = 24
+	}
+
+	option = {
+		name = "EVTOPTA42005" # Salvage charges
+		ai_chance = {
+			factor = 100
+		}
+		random_list = {
+			31 = { add_tax_relative_income = 1.0 }
+			26 = { add_tax_relative_income = 2.0 }
+			22 = { add_tax_relative_income = 3.0 }
+			18 = { add_tax_relative_income = 4.0 }
+			3  = { add_tax_relative_income = 5.0 }
+		}
+	}
+}
+country_event = {#Sea Monster washes into the Circumfence 
+	id = 42006
+	title = "EVTNAME42006"
+	desc = "EVTDESC42006"
+	picture = "crisis"
+	trigger = {
+		tag = KRL
+		check_variable = {
+			which = "Circumfence Stability"
+			value = 1
+		}
+	}
+	allow_multiple_instances = yes
+	
+	news = yes
+	#news_desc_long = "EVTDESC42006_NEWS_LONG"
+	#news_desc_medium = "EVTDESC42006_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC42006_NEWS_SHORT"
+	
+	mean_time_to_happen =  {
+		months = 240
+	}
+
+	option = { # damnation, lose 4 C-stab
+		name = "EVTOPTA42006" 
+		ai_chance = {
+			factor = 100
+		}
+		change_variable = {
+			which = "Circumfence Stability"
+			value = -4
+		}
+		
 	}
 }
