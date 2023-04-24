@@ -262,7 +262,7 @@ political_reforms = {
             poor_vote = 0
             global_immigrant_attract = 0.01
             allow = {
-                government = theocracy
+                NOT={government = theocracy}
                 NOT = { has_country_flag = government_busy_with_something }
             }
         }
