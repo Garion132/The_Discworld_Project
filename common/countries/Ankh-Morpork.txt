@@ -19,7 +19,7 @@ party = {
 party = {
 	name = "AMP_vetinarism"
 	start_date = 1830.1.1
-	end_date = 3700.1.1
+	end_date = 3592.1.1
 
 	ideology = conservative
 

@@ -46,6 +46,8 @@ freedom_of_trade = 1
 # Inventions
 #corvettes = yes
 
+oob = "PSE_oob.txt"
+
 # Starting Consciousness
 consciousness = 3
 nonstate_consciousness = 1

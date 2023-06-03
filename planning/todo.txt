@@ -4,4 +4,3 @@ Morporkian Empire formable
 centralisation of agatea "mechanic"
 clercs in morpork
 nerf clergy in omnia (decrease demotion chance/decrease number of pops)
-construction methods: factory building speed/cost boni; brick construction, iron frame, hydrolic cranes ,reinforced concreate, steel frame
