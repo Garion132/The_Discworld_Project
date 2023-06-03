@@ -3207,7 +3207,7 @@
 	soldiers = {
 		culture = far_klatchian
 		religion = catholic
-		size = 12000
+		size = 4200
 	}
 	artisans = {
 		culture = far_klatchian
@@ -3224,7 +3224,7 @@
 	soldiers = {
 		culture = far_klatchian
 		religion = catholic
-		size = 24000
+		size = 7400
 	}
 	artisans = {
 		culture = far_klatchian
@@ -3384,7 +3384,7 @@
 	soldiers = {
 		culture = far_klatchian
 		religion = catholic
-		size = 7800
+		size = 4800
 	}
     }
 376={

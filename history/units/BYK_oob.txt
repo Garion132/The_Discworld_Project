@@ -43,7 +43,22 @@ army = {
 	name = "Army of Bonk"
 	location = 674
 	regiment = {
-		name= "Bonk Guards"
+		name= "1. Bonk Guards"
+		type = warriors
+		home = 674
+	}
+	regiment = {
+		name= "2. Bonk Guards"
+		type = warriors
+		home = 674
+	}
+	regiment = {
+		name= "3. Bonk Guards"
+		type = warriors
+		home = 674
+	}
+	regiment = {
+		name= "4. Bonk Guards"
 		type = warriors
 		home = 674
 	}
