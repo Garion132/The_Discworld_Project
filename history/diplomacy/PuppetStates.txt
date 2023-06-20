@@ -80,6 +80,18 @@ substate = {
 	start_date = 1816.1.1
 	end_date = 3610.1.1
 }
+substate = {
+	first = HOW
+	second = CLU
+	start_date = 1816.1.1
+	end_date = 3610.1.1
+}
+substate = {
+	first = HOW
+	second = ZAB
+	start_date = 1816.1.1
+	end_date = 3610.1.1
+}
 #agatean warlords
 substate = {
 	first = AGA

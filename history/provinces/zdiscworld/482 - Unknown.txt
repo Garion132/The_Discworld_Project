@@ -3,4 +3,5 @@ controller = OCT
 add_core = OCT
 add_core = HOW
 trade_goods = tea
-life_rating = 52
+life_rating = 41
+naval_base = 1

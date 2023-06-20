@@ -569,7 +569,17 @@
     farmers = {
 		culture = elharibian
 		religion = omnianism
-		size = 12400
+		size = 22400
+	}
+	soldiers = {
+		culture = elharibian
+		religion = omnianism
+		size = 1200
+	}
+	artisans = {
+		culture = elharibian
+		religion = omnianism
+		size = 874
 	}
 	clergymen = {
 		culture = omnian

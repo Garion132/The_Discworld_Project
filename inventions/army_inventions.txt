@@ -871,7 +871,7 @@ cuirassier_activation = {
 	}
 }
 dragoon_activation = {
-	limit = { military_statistics = 1 }
+	limit = { military_directionism = 1 }
 	chance = {
 		base = 2
 		modifier = {
@@ -884,7 +884,7 @@ dragoon_activation = {
 	}
 }
 hussar_activation = {
-	limit = { military_statistics = 1 }
+	limit = { military_directionism = 1 }
 	chance = {
 		base = 2
 		modifier = {

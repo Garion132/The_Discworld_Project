@@ -1,2 +1,5 @@
+owner = MED
+controller = MED
+add_core = MED
 trade_goods = brassicas
 life_rating = 20

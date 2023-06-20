@@ -1,0 +1,55 @@
+##influence
+army = {
+	name = "Army of Mairal"
+	location = 927
+	regiment = {
+		name= "1st Infantry"
+		type = warriors
+		home = 927
+	}
+	regiment = {
+		name= "2nd Infantry"
+		type = warriors
+		home = 927
+	}
+	regiment = {
+		name= "3rd Infantry"
+		type = warriors
+		home = 932
+	}
+	regiment = {
+		name= "4th Infantry"
+		type = warriors
+		home = 930
+	}
+	regiment = {
+		name= "5th Infantry"
+		type = warriors
+		home = 972
+	}
+	regiment = {
+		name= "6th Infantry"
+		type = warriors
+		home = 932
+	}
+	regiment = {
+		name= "7th Infantry"
+		type = warriors
+		home = 930
+	}
+	regiment = {
+		name= "8th Infantry"
+		type = warriors
+		home = 972
+	}
+	regiment = {
+		name= "1st Mounted"
+		type = cavalry
+		home = 927
+	}
+	regiment = {
+		name= "2nd Mounted"
+		type = cavalry
+		home = 926
+	}
+}

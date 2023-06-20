@@ -64,27 +64,50 @@ political_decisions = {
 			set_country_flag = STL_STG_offer
 		}
 	}
-	sheep_ridge_delegation = {
+	big_cabbage_delegation = {
 		potential = {
 			tag = STL
-			SHR={
+			BCG={
 				is_vassal = no
 				exists = yes
 			}
-			NOT={has_country_flag = STL_SHR_offer}
+			NOT={has_country_flag = STL_BCG_offer}
 		}
 		
 		allow = {
 			year = 3551
 			OR={
-				alliance_with = SHR
-				relation = { who = SHR value = 100 }
+				alliance_with = BCG
+				relation = { who = BCG value = 100 }
 			}
 		}
 		
 		effect = {
-			SHR={country_event = { id=39004 days=0 }}
-			set_country_flag = STL_SHR_offer
+			BCG={country_event = { id=39004 days=0 }}
+			set_country_flag = STL_BCG_offer
+		}
+	}
+	sto_arana_delegation = {
+		potential = {
+			tag = STL
+			STA={
+				is_vassal = no
+				exists = yes
+			}
+			NOT={has_country_flag = STL_STA_offer}
+		}
+		
+		allow = {
+			year = 3551
+			OR={
+				alliance_with = STA
+				relation = { who = STA value = 100 }
+			}
+		}
+		
+		effect = {
+			STA={country_event = { id=39004 days=0 }}
+			set_country_flag = STL_STA_offer
 		}
 	}
 }

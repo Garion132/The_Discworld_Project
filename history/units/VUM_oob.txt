@@ -1,0 +1,35 @@
+##influence
+army = {
+	name = "Army of Vumuilon"
+	location = 967
+	regiment = {
+		name= "1st Infantry"
+		type = warriors
+		home = 967
+	}
+	regiment = {
+		name= "2nd Infantry"
+		type = warriors
+		home = 983
+	}
+	regiment = {
+		name= "3rd Infantry"
+		type = warriors
+		home = 969
+	}
+	regiment = {
+		name= "4th Infantry"
+		type = warriors
+		home = 968
+	}
+	regiment = {
+		name= "1st Mounted"
+		type = cavalry
+		home = 967
+	}
+	regiment = {
+		name= "2nd Mounted"
+		type = cavalry
+		home = 967
+	}
+}

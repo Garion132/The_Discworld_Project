@@ -32,6 +32,7 @@ school_reforms = low_schools
 # Inventions
 #corvettes = yes
 
+oob = "PAL_oob.txt"
 
 ruling_party = PAL_conservative
 upper_house = {

@@ -1,3 +1,5 @@
-
+owner = ORU
+controller = ORU
+add_core = ORU
 trade_goods = coal
 life_rating = 20

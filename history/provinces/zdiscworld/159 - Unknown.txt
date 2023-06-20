@@ -1,4 +1,7 @@
-
+owner = STF
+controller = STF
+add_core = STF
+add_core = STO
 trade_goods = brassicas
 life_rating = 20
 # state_building = {

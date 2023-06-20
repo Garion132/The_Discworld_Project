@@ -1,3 +1,5 @@
-
+owner = PAE
+controller = PAE
+add_core = PAE
 trade_goods = iron
 life_rating = 20

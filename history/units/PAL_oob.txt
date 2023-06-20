@@ -1,0 +1,15 @@
+##influence
+army = {
+	name = "Army of Pales"
+	location = 928
+	regiment = {
+		name= "1st Infantry"
+		type = irregular
+		home = 928
+	}
+	regiment = {
+		name= "2nd Infantry"
+		type = irregular
+		home = 928
+	}
+}

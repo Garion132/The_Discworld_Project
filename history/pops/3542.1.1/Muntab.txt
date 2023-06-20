@@ -530,7 +530,7 @@
     farmers = {
 		culture = muntabian
 		religion = catholic
-		size = 3950
+		size = 8950
 	}
 }
 974={
@@ -687,7 +687,7 @@
 	farmers = {
 		culture = brindisian
 		religion = catholic
-		size = 63000
+		size = 43000
 	}
 	artisans = {
 		culture = brindisian
@@ -699,15 +699,10 @@
 		religion = catholic
 		size = 60
 	}
-	capitalists = {
-		culture = brindisian
-		religion = catholic
-		size = 15
-	}
 	soldiers = {
 		culture = brindisian
 		religion = catholic
-		size = 7200
+		size = 3200
 	}
 }
 990={

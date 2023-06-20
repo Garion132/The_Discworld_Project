@@ -57,6 +57,10 @@ issues = {
             factor = 0
             country = { civilized = no }
         }
+		modifier = {
+			add = -2
+			culture = ephebian
+		}
     }
 
     freedom_of_womb = {
@@ -84,5 +88,9 @@ issues = {
             factor = 0
             country = { civilized = no }
         }
+		modifier = {
+			factor = 4
+			culture = ephebian
+		}
     }
 }

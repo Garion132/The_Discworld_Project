@@ -1,2 +1,5 @@
+owner = MED
+controller = MED
+add_core = MED
 trade_goods = timber
 life_rating = 20

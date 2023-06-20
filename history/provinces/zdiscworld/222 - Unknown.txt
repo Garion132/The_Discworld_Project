@@ -1,2 +1,5 @@
+owner = COL
+controller = COL
+add_core = COL
 trade_goods = brassicas
 life_rating = 20
