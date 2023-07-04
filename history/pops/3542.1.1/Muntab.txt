@@ -1396,14 +1396,14 @@
 }
 1552={
     farmers = {
-		culture = klatchistanian
+		culture = ushistanian
 		religion = catholic
 		size = 4350
 	}
 }
 1553={
     farmers = {
-		culture = klatchistanian
+		culture = ushistanian
 		religion = catholic
 		size = 4000
 	}

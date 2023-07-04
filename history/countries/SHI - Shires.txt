@@ -1,5 +1,5 @@
 capital = 15
-primary_culture = sto_plainer
+primary_culture = shirefolk
 religion = protestant
 government = absolute_monarchy
 plurality = -15

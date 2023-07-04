@@ -1,5 +1,5 @@
-capital = 221
-primary_culture = sto_plainer
+capital = 222
+primary_culture = medini
 religion = catholic
 government = absolute_monarchy
 plurality = -15
@@ -33,7 +33,7 @@ school_reforms = low_schools
 #corvettes = yes
 
 
-ruling_party = CLO_conservative
+ruling_party = COL_conservative
 upper_house = {
 	fascist = 0
 	liberal = 0

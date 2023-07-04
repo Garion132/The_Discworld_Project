@@ -1,6 +1,7 @@
 owner = SCH
 controller = SCH
 add_core = SCH
+add_core = DIA
 trade_goods = coal
 life_rating = 31
 

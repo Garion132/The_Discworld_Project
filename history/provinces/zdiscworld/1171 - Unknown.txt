@@ -1,6 +1,7 @@
 owner = OYX
 controller = OYX
 add_core = OYX
+add_core = DIA
 trade_goods = wool
 life_rating = 29
 

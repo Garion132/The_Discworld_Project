@@ -14,6 +14,7 @@ culture = upper_borogravian
 culture = zlobenian
 culture = ephebian
 culture = tsortian
+culture = shirefolk
 religion = protestant
 government = patricianship
 plurality = 5

@@ -1,5 +1,5 @@
 capital = 172
-primary_culture = sto_plainer
+primary_culture = medini
 religion = catholic
 government = absolute_monarchy
 plurality = -15

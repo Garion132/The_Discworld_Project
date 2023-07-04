@@ -2,6 +2,7 @@ owner = MAR
 controller = MAR
 add_core = MAR
 add_core = LWD
+add_core = DIA
 trade_goods = iron
 life_rating = 19
 

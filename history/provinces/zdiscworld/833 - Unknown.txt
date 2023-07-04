@@ -1,6 +1,7 @@
 owner = DAC
 controller = DAC
 add_core = DAC
+add_core = DIA
 trade_goods = timber
 life_rating = 28
 

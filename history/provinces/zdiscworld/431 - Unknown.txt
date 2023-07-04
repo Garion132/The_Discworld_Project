@@ -2,6 +2,7 @@ owner = SLT
 controller = SLT
 add_core = SLT
 add_core = UBW
+add_core = DIA
 trade_goods = coal
 life_rating = 35
 

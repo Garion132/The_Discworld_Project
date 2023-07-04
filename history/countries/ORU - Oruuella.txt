@@ -1,5 +1,5 @@
 capital = 740
-primary_culture = sto_plainer
+primary_culture = oruuellan
 religion = catholic
 government = absolute_monarchy
 plurality = -15
