@@ -9,19 +9,13 @@ military_goods = {
 		cost = 10.00
 		color = { 208 202 127 } 
 	}
-	bows_and_crossbows = { #ranged Equipment
-		cost = 14.00
-		color = { 208 202 127 } 
-		available_from_start = no
-	}
-	arrows = { 
-		cost = 4.00
-		color = { 208 202 127 } 
-		available_from_start = no
-	}
 	armor = { 
 		cost = 25.00
 		color = { 208 202 127 } 
+	}
+	seige_equipment = { 
+		cost = 58.00 
+		color = { 255 39 12 }
 	}
 	ammunition = { 
 		cost = 17.50
@@ -48,9 +42,10 @@ military_goods = {
 		color = { 255 39 12 }
 		available_from_start = no
 	}
-	seige_equipment = { 
+	igor_goods = { 
 		cost = 58.00 
-		color = { 255 39 12 }
+		color = { 255 188 250 }
+		available_from_start = no
 	}
 	
 }
@@ -60,33 +55,37 @@ raw_material_goods = {
 		cost = 2.0
 		color = { 255 255 255 }
 	}
-	dye = {	
-		cost = 12.00
-		color = { 69 0 182 }
-	}
 	wool = { 
 		cost = 0.7
 		color = { 234 195 158 }
-	}
-	silk = { 
-		cost = 10.0
-		color = { 125 158 43 }
-	}
-	coal = { 
-		cost = 2.3
-		color = { 11 29 77 }
-	}
-	sulphur = { 
-		cost = 6.0
-		color = { 181 228 102 }
 	}
 	iron = { 
 		cost = 3.5
 		color = { 111 111 111 }
 	}
+	coal = { 
+		cost = 2.3
+		color = { 11 29 77 }
+	}
 	timber = { 
 		cost = 0.9
 		color = { 146 72 17 }
+	}
+	clay = { 
+		cost = 1.2
+		color = { 173 162 117 }
+	}
+	dye = {	
+		cost = 12.00
+		color = { 69 0 182 }
+	}
+	sulphur = { 
+		cost = 6.0
+		color = { 181 228 102 }
+	}
+	silk = { 
+		cost = 10.0
+		color = { 125 158 43 }
 	}
 	tropical_wood = { 
 		cost = 5.4
@@ -96,24 +95,15 @@ raw_material_goods = {
 		cost = 7.0
 		color = { 123 110 86 }
 	}
-	oil = { 
+	sapent_pearwood = { 
 		cost = 12.0
-		color = { 0 0 0 }
-		available_from_start = no
+		color = { 38 127 0 }
 	}
 	precious_metal = { 
 		cost = 16
 		tradeable = no
 		money = yes	
 		color = { 253 199 110 }
-	}
-	clay = { 
-		cost = 1.2
-		color = { 173 162 117 }
-	}
-	sapent_pearwood = { 
-		cost = 12.0
-		color = { 38 127 0 }
 	}
 }
 
@@ -127,29 +117,30 @@ industrial_goods = {
 		cost = 16.0
 		color = { 185 187 164 }
 	}
-	machine_parts = { 
-		cost = 36.5
-		color = { 177 198 196 }
-		available_from_start = no
-	}
 	glass = { 
 		cost = 2.9
 		color = { 201 200 199 }
 	}
-	blank = { 
-		cost = 12.0
-		color = { 0 0 0 }
-		available_from_start = no
-		tradeable = no
+	fabric = { 
+		cost = 1.8
+		color = { 186 50 40 }
+	}
+	lumber = { 
+		cost = 1.0
+		color = { 180 94 26 }
 	}
 	fertilizer = { 
 		cost = 10.0
 		color = { 133 101 35 }
 	}
-	explosives = { 
-		cost = 20.00
-		color = { 192 68 20 }
+	machine_parts = { 
+		cost = 36.5
+		color = { 177 198 196 }
 		available_from_start = no
+	}
+	transportation = { 
+		cost = 25.00
+		color = { 190 122 255 }
 	}
 	clipper_convoy = { 
 		cost = 42.00 
@@ -163,36 +154,23 @@ industrial_goods = {
 		overseas_penalty = yes
 		color = { 76 18 0 }
 	}
-	fabric = { 
-		cost = 1.8
-		color = { 186 50 40 }
+	explosives = { 
+		cost = 20.00
+		color = { 192 68 20 }
+		available_from_start = no
 	}
-	lumber = { 
-		cost = 1.0
-		color = { 180 94 26 }
+	clacks_equipment = { 
+		cost = 48.00
+		color = { 190 122 255 }
+		available_from_start = no
 	}
+	
 }
 
 consumer_goods = {
-	re_annuals = { 
-		cost = 12.4
-		color = { 216 185 77 }
-	}
-	treacle = { 
-		cost = 1
-		color = { 216 185 77 }
-	}
 	brassicas = { 
 		cost = 1.6
 		color = { 51 135 22 }
-	}
-	fats = { 
-		cost = 6
-		color = { 216 185 77 }
-	}
-	paper = { 
-		cost = 3.4
-		color = { 216 185 77 }
 	}
 	cattle = { 
 		cost = 2.0
@@ -210,6 +188,15 @@ consumer_goods = {
 		cost = 2.2
 		color = { 219 157 36 }
 	}
+	fats = { 
+		cost = 6
+		color = { 216 185 77 }
+	}
+	
+	re_annuals = { 
+		cost = 12.4
+		color = { 216 185 77 }
+	}
 	tobacco = {	
 		cost = 1.1
 		color = { 100 69 30 }
@@ -226,14 +213,36 @@ consumer_goods = {
 		cost = 3.2
 		color = { 114 162 47 }
 	}
-	wine = { 
-		cost = 9.7
-		color = { 123 0 54 }
+	sugar = { 
+		cost = 2.20
+		color = { 221 188 188 }
+	}
+	
+	meats = { 
+		cost = 1.1
+		color = { 255 137 180 }
+	}
+	treacle = { 
+		cost = 1
+		color = { 216 185 77 }
 	}
 	liquor = { 
 		cost = 6.4
 		color = { 76 5 0 }
 	}
+	ceramics = { 
+		cost = 2.20
+		color = { 255 89 219 }
+	}	
+	groceries = { 
+		cost = 2.7
+		color = { 134 198 127 }
+	}
+	paper = { 
+		cost = 3.4
+		color = { 216 185 77 }
+	}
+	
 	regular_clothes = { 
 		cost = 5.8
 		color = { 217 17 19 }
@@ -250,12 +259,12 @@ consumer_goods = {
 		cost = 59.00
 		color = { 255 140 184 }
 	}
+	wine = { 
+		cost = 9.7
+		color = { 123 0 54 }
+	}
 	vul_wine = { 
 		cost = 25.60
-		color = { 255 89 219 }
-	}
-	ceramics = { 
-		cost = 2.20
 		color = { 255 89 219 }
 	}
 }

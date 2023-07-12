@@ -22,14 +22,14 @@ aqui = {
 		armor = 1
 		wool = 10
 		swords = 5
-		spears = 5
+		small_arms = 5
 	}
 	
 	supply_consumption = 1.0
 	supply_cost = {
 		wool = 0.1
 		armor = 0.01
-		spears = 0.1
+		small_arms = 0.1
 		swords = 0.1
 	}
 	

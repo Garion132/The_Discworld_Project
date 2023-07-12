@@ -699,6 +699,8 @@ clacks = {
 	regular_experience_level = 5
 	reinforce_rate = 0.05
 	
+	activate_building = clacks_manufactory_factory
+	
 	ai_chance = {
 		factor = 1.01
 		modifier = {

@@ -15,6 +15,7 @@ everyday_needs = {
 	furniture = 3
 	fats = 0.1
 	ceramics = 1
+	groceries = 1.2
 }
 
 life_needs = {

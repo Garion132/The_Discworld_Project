@@ -49,6 +49,7 @@ everyday_needs = {
 	tea = 5
 	fats = 0.2
 	ceramics = 1.2
+	groceries = 0.8
 }
 
 life_needs = {

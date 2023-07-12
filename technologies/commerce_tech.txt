@@ -726,7 +726,8 @@ organized_factories = {
 	area = tech_organization
 	year = 3555
 	cost = 7200
-
+	
+	activate_building = food_packaging_factory
 	factory_output = 0.01
 		ai_chance = {
 		factor = 1.05

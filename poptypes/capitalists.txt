@@ -28,12 +28,12 @@ everyday_needs = {
 	coffee = 20
 	fats = 0.4
 	ceramics = 3
+	groceries = 1.2
 }
 
 life_needs = {
-	cattle = 0.75
+	meats = 1.75
 	wool =  1
-	fish =  1
 	fruit =  1
 	grain =  2.5
 	brassicas = 1

@@ -7,6 +7,15 @@ hospitals = {
 		pop_growth = 0.0002
 	}
 }
+industrial_fat_rendering = {
+	limit = { alchemical_practises = 1 }
+	chance = {
+		base = 2
+	}
+	effect = {
+		activate_building = fat_rendering_factory
+	}
+}
 alchemical_guilds = {
 	limit = { metallurgic_principles = 1 }
 	chance = {
@@ -451,7 +460,7 @@ army_forced_march = {
 	}
 }
 #early_railroad
-iron_girder = {
+dick_simnel = {
 	limit = { experimental_railroad = 1 }
 	news = no
 	chance = {
@@ -459,6 +468,30 @@ iron_girder = {
 		modifier = {
 			factor = 8
 			is_culture_group = sto_plains
+		}
+	}
+	effect = {
+		shared_prestige = 25 
+	}
+}
+train_construction = {
+	limit = { experimental_railroad = 1 }
+	news = no
+	chance = {
+		base = 9
+	}
+	effect = {
+		activate_building = train_foundry_factory 
+	}
+}
+iron_girder = {
+	limit = { experimental_railroad = 1 }
+	news = no
+	chance = {
+		base = 0
+		modifier = {
+			factor = 2
+			invention = dick_simnel
 		}
 	}
 	effect = {
@@ -469,10 +502,14 @@ am_st_hygienic_railway = {
 	limit = { experimental_railroad = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = -8
 		modifier = {
 			factor = 8
 			is_culture_group = sto_plains
+		}
+		modifier = {
+			factor = 10
+			invention = dick_simnel
 		}
 	}
 	effect = {
@@ -482,6 +519,36 @@ am_st_hygienic_railway = {
 #iron_railroad
 #steel_railroad
 #medicine
+the_igor_method = {
+	limit = { medicine = 1 }
+	chance = {
+		base = 2
+		modifier = {
+			factor = 2
+			army_professionalism = 1
+		}
+		modifier = {
+			factor = 2
+			military_statistics = 1
+		}
+	}
+	effect = {
+		activate_building = igor_markets_factory
+	}
+}
+what_goes_around = {
+	limit = { medicine = 1 }
+	chance = {
+		base = 0
+		modifier = {
+			factor = 4
+			the_igor_method = 1
+		}
+	}
+	effect = {
+		pop_growth = 0.0002
+	}
+}
 combat_medicine = {
 	limit = { medicine = 1 }
 	chance = {
@@ -714,6 +781,15 @@ brick_construction = {
 	}
 	effect = {
 		factory_cost = -0.01 
+	}
+}
+wool_fiber_fabrics = {
+	limit = { horse_powered_dynanmo_power = 1 }
+	chance = {
+		base = 3
+	}
+	effect = {
+		activate_building = spinnery_factory
 	}
 }
 iron_frame_construction = {

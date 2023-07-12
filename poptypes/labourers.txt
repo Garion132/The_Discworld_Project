@@ -36,6 +36,7 @@ luxury_needs = {
 	fats = 0.2
 	treacle = 0.1
 	ceramics = 1.2
+	groceries = 1.2
 }
 
 

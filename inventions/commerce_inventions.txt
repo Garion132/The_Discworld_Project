@@ -454,6 +454,7 @@ friedrich_hayek = {
 		permanent_prestige = 1 
 	}
 }
+
 #market_structure
 polypoly_structure = {
 	news = no

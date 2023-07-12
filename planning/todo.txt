@@ -2,3 +2,14 @@ buff uberwald minors
 centralisation of agatea "mechanic"
 clercs in morpork
 nerf clergy in omnia (decrease demotion chance/decrease number of pops)
+
+formables
+	unifacation of Howandaland
+	ramtop confederation
+	klatchian Empire
+	Octrine Country
+	Great Outdoors
+	hubland horde?
+XXXX
+	pops
+	rgos

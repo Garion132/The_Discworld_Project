@@ -40,6 +40,7 @@ luxury_needs = {
 	wine = 10
 	coffee = 2
 	vul_wine = 2
+	groceries = 1.2
 }
 
 everyday_needs = {
@@ -53,6 +54,7 @@ everyday_needs = {
 	tea = 5
 	fats = 0.2
 	ceramics = 1.2
+	meats = 1
 }
 life_needs = {
 	cattle = 0.75

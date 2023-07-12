@@ -26,7 +26,8 @@ cuirassier = {
 	build_cost = {
 		small_arms = 10
 		canned_food = 10
-		steel = 20
+		armor = 20
+		swords = 5
 	}
 	
 	supply_consumption = 1.0

@@ -30,7 +30,7 @@ galley = {
 	supply_consumption = 1.0
 	supply_cost = {
 		clipper_convoy = 0.08
-		seige_equipment = 0.02 #0.08
+		spears = 0.04 #0.08
 	}
 	
 	#Naval Abilties

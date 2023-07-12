@@ -38,6 +38,7 @@ luxury_needs = {
 	luxury_furniture = 1
 	wine = 10
 	coffee = 2
+	groceries = 1.2
 }
 
 everyday_needs = {
@@ -54,9 +55,8 @@ everyday_needs = {
 }
 
 life_needs = {
-	cattle = 0.75
+	meats = 2
 	wool =  1
-	fish =  1
 	fruit =  1
 	grain =  2.5
 	brassicas = 1
