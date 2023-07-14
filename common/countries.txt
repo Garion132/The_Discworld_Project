@@ -9,6 +9,7 @@ AMP		= "countries/Ankh-Morpork.txt"
 AME		= "countries/Morporkian Empire.txt"
 AGA		= "countries/Agatean Empire.txt"
 KLA		= "countries/Klatch.txt"
+KLE		= "countries/Klatchian Empire.txt"
 KRL 	= "countries/Krull.txt"
 PSE 	= "countries/Pseudopolis.txt"
 BYK 	= "countries/Bonk.txt"#later uberwald

@@ -414,6 +414,129 @@ political_decisions = {
 			factor = 1
 		}
 	}
+	reform_klatchian_empire = {
+		potential = {
+			tag = KLA
+			is_greater_power = yes
+		}
+		
+		allow = {
+			prestige = 200
+			war = no
+			nationalism_n_imperialism = 1
+			KLA={
+				all_core={
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+			HER={
+				all_core={
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+			YMI={
+				all_core={
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+			ANG={
+				all_core={
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+			KLA_6={
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			KLA_3={
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			prestige = 20
+			change_tag = KLE
+			KLA={
+				every_core={
+					add_core = KLE
+				}
+			}
+			HER={
+				every_core={
+					add_core = KLE
+				}
+			}
+			YMI={
+				every_core={
+					add_core = KLE
+				}
+			}
+			YMI={
+				every_core={
+					add_core = KLE
+				}
+			}
+			any_country = {
+				limit = {
+					NOT = {
+						is_greater_power = yes
+					}
+					is_culture_group = klatchian
+					in_sphere = THIS
+				}
+				country_event = { id=11101 days=0 }
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 	
 	# form_union_nation = {
 		# potential = {
