@@ -1,5 +1,5 @@
 owner = VAE
 controller = VAE
 add_core = VAE
-trade_goods = brassicas
+trade_goods = sugar
 life_rating = 20

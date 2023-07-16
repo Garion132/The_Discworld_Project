@@ -1,5 +1,5 @@
 owner = MED
 controller = MED
 add_core = MED
-trade_goods = brassicas
+trade_goods = sugar
 life_rating = 61

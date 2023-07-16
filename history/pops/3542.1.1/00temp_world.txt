@@ -729,22 +729,27 @@
 	farmers = {
 		culture = sto_lat
 		religion = catholic
-		size = 105200
+		size = 96200
 	}
 	craftsmen = {
 		culture = sto_lat
 		religion = catholic
-		size = 3500
+		size = 7500
+	}
+	clergymen = {
+		culture = sto_lat
+		religion = catholic
+		size = 1476
 	}
 	artisans = {
 		culture = sto_lat
 		religion = catholic
-		size = 2000
+		size = 4000
 	}
 	artisans = {
 		culture = sto_plainer
 		religion = catholic
-		size = 800
+		size = 1800
 	}
 	soldiers = {
 		culture = sto_lat
@@ -754,19 +759,29 @@
 	aristocrats = {
 		culture = sto_lat
 		religion = catholic
-		size = 60
+		size = 160
 	}
 	capitalists = {
 		culture = sto_lat
 		religion = catholic
-		size = 20
+		size = 70
 	}
 	}
 42={
 	farmers = {
 		culture = sto_lat
 		religion = catholic
-		size = 42000
+		size = 30300
+	}
+	soldiers = {
+		culture = sto_lat
+		religion = catholic
+		size = 2781
+	}
+	artisans = {
+		culture = sto_lat
+		religion = catholic
+		size = 9421
 	}
     }
 43={
@@ -2093,29 +2108,64 @@
 	}
     }
 148={
-        farmers = {
+    farmers = {
 		culture = sto_plainer
 		religion = catholic
-		size = 45000
+		size = 41000
+	}
+	soldiers = {
+		culture = sto_plainer
+		religion = catholic
+		size = 4122
+	}
+	artisans = {
+		culture = sto_plainer
+		religion = catholic
+		size = 3871
+	}
+	aristocrats = {
+		culture = sto_plainer
+		religion = catholic
+		size = 64
 	}
     }
 149={
-        farmers = {
+    farmers = {
 		culture = sto_plainer
 		religion = catholic
-		size = 39220
+		size = 36220
+	}
+	artisans = {
+		culture = sto_plainer
+		religion = catholic
+		size = 1942
+	}
+	soldiers = {
+		culture = sto_plainer
+		religion = catholic
+		size = 1140
 	}
     }
 150={
     farmers = {
 		culture = sto_plainer
 		religion = catholic
-		size = 29000
+		size = 21400
+	}
+	artisans = {
+		culture = sto_plainer
+		religion = catholic
+		size = 3641
 	}
 	farmers = {
 		culture = sto_lat
 		religion = catholic
-		size = 13000
+		size = 10500
+	}
+	soldiers = {
+		culture = sto_lat
+		religion = catholic
+		size = 2541
 	}
     }
 151={
@@ -2189,14 +2239,44 @@
     farmers = {
 		culture = sto_plainer
 		religion = catholic
-		size = 34000
+		size = 26000
+	}
+	artisans = {
+		culture = sto_plainer
+		religion = catholic
+		size = 14200
+	}
+	soldiers = {
+		culture = sto_plainer
+		religion = catholic
+		size = 3410
+	}
+	aristocrats = {
+		culture = sto_plainer
+		religion = catholic
+		size = 150
 	}
     }
 158={
-        farmers = {
+    farmers = {
 		culture = sto_plainer
 		religion = catholic
 		size = 53000
+	}
+	artisans = {
+		culture = sto_plainer
+		religion = catholic
+		size = 1645
+	}
+	soldiers = {
+		culture = sto_plainer
+		religion = catholic
+		size = 2781
+	}
+	clergymen = {
+		culture = sto_plainer
+		religion = catholic
+		size = 641
 	}
     }
 159={
@@ -2275,7 +2355,7 @@
 	soldiers = {
 		culture = sto_lat
 		religion = catholic
-		size = 7980
+		size = 3980
 	}
     }
 166={
@@ -2464,17 +2544,37 @@
 		religion = catholic
 		size = 27000
 	}
+	farmers = {
+		culture = chirmian
+		religion = catholic
+		size = 12851
+	}
     }
 187={
     farmers = {
 		culture = chirmian
 		religion = catholic
-		size = 57000
+		size = 37000
 	}
 	soldiers = {
 		culture = chirmian
 		religion = catholic
-		size = 3490
+		size = 4490
+	}
+	artisans = {
+		culture = chirmian
+		religion = catholic
+		size = 13641
+	}
+	bureaucrats = {
+		culture = chirmian
+		religion = catholic
+		size = 974
+	}
+	aristocrats = {
+		culture = chirmian
+		religion = catholic
+		size = 164
 	}
     }
 188={
@@ -2485,10 +2585,20 @@
 	}
     }
 189={
-        farmers = {
+    farmers = {
 		culture = chirmian
 		religion = catholic
-		size = 47500
+		size = 42500
+	}
+	soldiers = {
+		culture = chirmian
+		religion = catholic
+		size = 1061
+	}
+	artisans = {
+		culture = chirmian
+		religion = catholic
+		size = 4501
 	}
     }
 190={

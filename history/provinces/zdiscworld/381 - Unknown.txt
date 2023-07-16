@@ -1,5 +1,5 @@
 owner = HER
 controller = HER
 add_core = HER
-trade_goods = fish
+trade_goods = sugar
 life_rating = 52

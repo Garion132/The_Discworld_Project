@@ -1,5 +1,5 @@
 owner = SML
 controller = SML
 add_core = SML
-trade_goods = timber
+trade_goods = wool
 life_rating = 20

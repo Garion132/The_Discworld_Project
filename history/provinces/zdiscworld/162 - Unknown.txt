@@ -2,5 +2,5 @@ owner = COL
 controller = COL
 add_core = COL
 
-trade_goods = timber
+trade_goods = sugar
 life_rating = 20

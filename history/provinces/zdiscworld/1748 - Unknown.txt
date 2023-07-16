@@ -1,5 +1,5 @@
 owner = GEN
 controller = GEN
 add_core = GEN
-trade_goods = grain
+trade_goods = sugar
 life_rating = 20

@@ -1,5 +1,5 @@
 owner = ELH
 controller = ELH
 add_core = ELH
-trade_goods = timber
+trade_goods = wool
 life_rating = 20
