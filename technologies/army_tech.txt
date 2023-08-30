@@ -311,6 +311,7 @@ steel_weaponry = {
 	year = 3540
 	cost = 3600
 	unciv_military = yes
+	activate_unit = warriors
 	
 	combat_width = -1
 
@@ -350,8 +351,7 @@ steel_weaponry = {
 high_grade_steel_weaponry = {
 	area = light_armament
 	year = 3550
-	cost = 3600
-	unciv_military = yes
+	cost = 7200
 	warriors = {
 		attack = 0.25
 	}
@@ -400,8 +400,7 @@ high_grade_steel_weaponry = {
 dwarf_forged_weaponry = {#gonnes
 	area = light_armament
 	year = 3560
-	cost = 3600
-	unciv_military = yes
+	cost = 10800
 	warriors = {
 		attack = 0.25
 	}
@@ -450,7 +449,7 @@ dwarf_forged_weaponry = {#gonnes
 flintlock_arquebus = {
 	area = light_armament
 	year = 3590
-	cost = 3600
+	cost = 14400
 	unciv_military = yes
 	
 	activate_unit = aqui
@@ -492,7 +491,7 @@ flintlock_arquebus = {
 flintlock_rifles = {
 	area = light_armament
 	year = 3620
-	cost = 3600
+	cost = 18000
 	unciv_military = yes
 	
 	activate_unit = infantry
@@ -534,7 +533,7 @@ flintlock_rifles = {
 muzzle_loaded_rifles = {
 	area = light_armament
 	year = 3630
-	cost = 7200
+	cost = 21600
 	unciv_military = yes
 	activate_unit = engineer
 	

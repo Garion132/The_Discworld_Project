@@ -18,6 +18,52 @@ armor_production = {
 		activate_building = armor_foundry 
 	}
 }
+spear_production = {
+	limit = { 
+		steel_weaponry = 1 
+	}
+	chance = {
+		base = 20
+		modifier = {
+			factor = 2
+			metallurgic_principles = 1
+		}
+	}
+	effect = {
+		activate_building = spears_factory 
+	}
+}
+sword_production = {
+	limit = { 
+		steel_weaponry = 1 
+	}
+	chance = {
+		base = 20
+		modifier = {
+			factor = 2
+			metallurgic_principles = 1
+		}
+	}
+	effect = {
+		activate_building = swords_factory 
+	}
+}
+
+cavalry_training = {
+	limit = { 
+		steel_weaponry = 1 
+	}
+	chance = {
+		base = 20
+		modifier = {
+			factor = 2
+			metallurgic_principles = 1
+		}
+	}
+	effect = {
+		activate_unit = cavalry
+	}
+}
 armored_tatics = {
 	limit = { 
 		high_grade_steel_weaponry = 1 
@@ -47,6 +93,11 @@ light_armors = {
 			factor = 2
 			metallurgic_principles = 1
 		}
+		modifier = {
+			factor = 2
+			war = yes
+			war_countries = { invention = light_armors }
+		}
 	}
 	effect = {
 		infantry = {
@@ -87,60 +138,46 @@ light_armors = {
 		}
 	}
 }
-spear_production = {
-	limit = { 
-		steel_weaponry = 1 
-	}
+high_grade_steel_armament = {
+	limit = { high_grade_steel_weaponry = 1 }
 	chance = {
-		base = 20
+		base = 5
 		modifier = {
 			factor = 2
-			metallurgic_principles = 1
+			invention = sword_production
+		}
+		modifier = {
+			factor = 2
+			war = yes
+			war_countries = { invention = high_grade_steel_armament }
 		}
 	}
 	effect = {
-		activate_building = spears_factory 
-	}
-}
-sword_production = {
-	limit = { 
-		steel_weaponry = 1 
-	}
-	chance = {
-		base = 20
-		modifier = {
-			factor = 2
-			metallurgic_principles = 1
+		warriors = {
+			attack = 1
+			supply_consumption = 0.10
 		}
-	}
-	effect = {
-		activate_unit = warriors
-		activate_building = swords_factory 
-	}
-}
-
-cavalry_training = {
-	limit = { 
-		steel_weaponry = 1 
-	}
-	chance = {
-		base = 20
-		modifier = {
-			factor = 2
-			metallurgic_principles = 1
+		armored_footmen = {
+			attack = 1
+			supply_consumption = 0.10
 		}
-	}
-	effect = {
-		activate_unit = cavalry
+		irregular = {
+			attack = 1
+			supply_consumption = 0.10
+		}
+		cavalry = {
+			attack = 0.5
+			supply_consumption = 0.10
+		}
 	}
 }
 
 micromail = {
 	limit = { dwarf_forged_weaponry = 1 }
 	chance = {
-		base = 0
+		base = -1
 		modifier = {
-			factor = 2
+			factor = 3
 			OR={
 				primary_culture = dwarf
 				primary_culture = low_dwarfs_group
@@ -153,6 +190,11 @@ micromail = {
 			factor = 2
 			controls = 1
 		}
+		modifier = {
+			factor = 2
+			war = yes
+			war_countries = { invention = micromail }
+		}
 	}
 	effect = {
 		infantry = {
@@ -190,6 +232,77 @@ micromail = {
 		}
 		army_base = {
 			supply_consumption = 0.1
+		}
+	}
+}
+burliegh_and_stronginthearm = {
+	limit = { dwarf_forged_weaponry = 1 }
+	chance = {
+		base = -2
+		modifier = {
+			factor = 3
+			simple_mechanization = 1
+		}
+		modifier = {
+			factor = 3
+			clockwork_system_power = 1
+		}
+	}
+	effect = {
+		factory_goods_output = {
+			seige_engines = 0.1
+		}
+		warriors = {
+			attack = 0.5
+		}
+		armored_footmen = {
+			attack = 0.5
+		}
+		irregular = {
+			attack = 0.5
+		}
+	}
+}
+dwarf_forged_armament = {
+	limit = { dwarf_forged_weaponry = 1 }
+	chance = {
+		base = 5
+		modifier = {
+			factor = 2
+			invention = burliegh_and_stronginthearm
+		}
+		modifier = {
+			factor = 2
+			OR={
+				primary_culture = dwarf
+				primary_culture = low_dwarfs_group
+				accepted_culture = dwarf
+				pop_majority_culture = dwarf
+				pop_majority_culture = low_dwarfs_group
+			}
+		}
+		modifier = {
+			factor = 2
+			war = yes
+			war_countries = { invention = dwarf_forged_armament }
+		}
+	}
+	effect = {
+		warriors = {
+			attack = 0.5
+			supply_consumption = 0.10
+		}
+		armored_footmen = {
+			attack = 1
+			supply_consumption = 0.10
+		}
+		irregular = {
+			attack = 0.5
+			supply_consumption = 0.10
+		}
+		cavalry = {
+			attack = 0.5
+			supply_consumption = 0.10
 		}
 	}
 }
@@ -231,6 +344,39 @@ small_arms_production = {
 	}
 	effect = {
 		activate_building = small_arms_factory
+	}
+}
+flintlock_arquebus_armament = {
+	limit = { flintlock_arquebus = 1 }
+	chance = {
+		base = 5
+		modifier = {
+			factor = 2
+			invention = small_arms_production
+		}
+		modifier = {
+			factor = 2
+			war = yes
+			war_countries = { invention = flintlock_arquebus_armament }
+		}
+	}
+	effect = {
+		aqui = {
+			attack = 1
+			supply_consumption = 0.10
+		}
+		armored_footmen = {
+			attack = 1
+			supply_consumption = 0.10
+		}
+		irregular = {
+			attack = 2
+			supply_consumption = 0.10
+		}
+		cavalry = {
+			attack = 0.5
+			supply_consumption = 0.10
+		}
 	}
 }
 seige_workshops = {

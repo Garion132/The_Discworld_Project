@@ -334,9 +334,9 @@ market_determined_exchange_rates = {
 
 
 #economic_thought_and_critique
-early_classical_theory_and_critique = {
+mercantilist_theory = {
 	area = economic_thought_and_critique
-	year = 3540
+	year = 3520
 	cost = 3600
 	
 	activate_building = lumber_mill
@@ -357,9 +357,9 @@ early_classical_theory_and_critique = {
 		}
 	}
 }
-late_classical_theory = {
+reflected_sound_as_of_underground_spirits = {
 	area = economic_thought_and_critique
-	year = 3550
+	year = 3540
 	cost = 7200
 
 	factory_input = -0.01
@@ -387,7 +387,7 @@ late_classical_theory = {
 		}
 	}
 }
-collectivist_theory = {
+ankh_morpork_theory = {
 	area = economic_thought_and_critique
 	year = 3560
 	cost = 10800
@@ -417,7 +417,7 @@ collectivist_theory = {
 		}		
 	}
 }
-the_historical_theory = {
+free_market_theory = {
 	area = economic_thought_and_critique
 	year = 3570
 	cost = 14400
@@ -447,7 +447,7 @@ the_historical_theory = {
 		}		
 	}
 }
-neoclassical_theory = {
+collectivist_theory = {
 	area = economic_thought_and_critique
 	year = 3580
 	cost = 18000
@@ -477,7 +477,7 @@ neoclassical_theory = {
 		}		
 	}
 }
-keynesian_economics = {
+historical_theory = {
 	area = economic_thought_and_critique
 	year = 3610
 	cost = 21600

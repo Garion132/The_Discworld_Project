@@ -279,6 +279,20 @@ fixed_intramonetary_exchange_rates = {
 		tax_eff = 1 
 	}
 }
+moist_von_lipwig = {
+	limit = { private_bank_money_bill_printing = 1 }
+	news = no
+	chance = {
+		base = 0
+		modifier = {
+			factor = 2
+			postal_service = 1
+		}
+	}
+	effect={
+		shared_prestige = 15
+	}
+}
 #central_bank_money_bill_printing
 gold_standard = {
 	limit = { central_bank_money_bill_printing = 1 }
@@ -381,9 +395,9 @@ hyperinflation = {
 		factory_cost = 0.1
 	}
 }
-#eary_classical_theory
+#mercantilist_theory
 john_ramsay_mcculloch = {
-	limit = { early_classical_theory_and_critique = 1 }
+	limit = { mercantilist_theory = 1 }
 	news = no
 	chance = {
 		base = 2
@@ -401,7 +415,7 @@ john_ramsay_mcculloch = {
 	}
 }
 nassau_william_sr = {
-	limit = { early_classical_theory_and_critique = 1 }
+	limit = { mercantilist_theory = 1 }
 	news = no
 	chance = {
 		base = 2
@@ -418,8 +432,9 @@ nassau_william_sr = {
 		activate_building = paper_mill 
 	}
 }
+
 james_mill = {
-	limit = { early_classical_theory_and_critique = 1 }
+	limit = { reflected_sound_as_of_underground_spirits = 1 }
 	news = no
 	chance = {
 		base = 2
@@ -436,19 +451,39 @@ james_mill = {
 		activate_building = luxury_furniture_factory 
 	}
 }
-friedrich_hayek = {
-	limit = { keynesian_economics = 1 }
+inn_sewer_ants = {
+	limit = { reflected_sound_as_of_underground_spirits = 1 }
+	news = no
+	chance = {
+		base = 2	
+		modifier = {
+			factor = 2
+			culture=agatean
+		}
+	}
+	effect = {
+		factory_cost = -0.05
+		loan_interest = -0.005
+	}
+}
+
+harry_king = {
+	limit = { ankh_morpork_theory = 1 }
 	news = no
 	chance = {
 		base = 2
-		modifier = {
-			factor = 2
-			is_ideology_enabled = socialist
-		}
-		modifier = {
-			factor = 2
-			ruling_party_ideology = socialist
-		}
+		
+	}
+	effect = {
+		permanent_prestige = 1 
+	}
+}
+the_glooper = {
+	limit = { ankh_morpork_theory = 1 }
+	news = no
+	chance = {
+		base = 2
+		
 	}
 	effect = {
 		permanent_prestige = 1 

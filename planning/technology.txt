@@ -23,7 +23,6 @@ Modern_Golemancy:✔
 	
 Megalith computing✔
 	Hex✔
-	the Glopper (monetary tech needed)
 	
 Device Integration (needs to be locked to have the device flag)✔
 	The Undertaking(subways)✔
@@ -32,14 +31,13 @@ Device Integration (needs to be locked to have the device flag)✔
 	Piecekeeper
 	
 Deep mining:
-	Safety Lamps
-	Deep-Shaft Fat Mining
+	Safety Lamps✔
+	Deep-Shaft Fat Mining✔
 
 	
 Mechanical theory:
-	Burliegh & Stronginthearm Crossbows
-	Burliegh & Stronginthearm Piecemaker
-	Watchmaking
+	Burliegh & Stronginthearm✔
+	Watchmaking✔
 	
 No.8 powder:
 	Barking Dogs(bombards)
@@ -71,7 +69,7 @@ messangers:✔
 postal service:✔
 
 Clacks:✔
-	Portable clacks towers
+	Portable clacks towers✔
 	dual phase clacks✔
 	Goblin crews✔
 
@@ -89,14 +87,20 @@ Combination Harvester
 
 *economics
 
-medieval theory
+mercantilist theory
 
 reflected-sound-as-of-underground-spirits(economics)
 	Inn-sewer-ants
 
 Ankh-morpork theory
 	Harry King
+	the Glopper 
 
+Free-Market Theory
+
+Collectivist theory
+
+Historical Theory
 
 simple ship designs
 
@@ -115,3 +119,15 @@ steamers
 Iron Steamers
 	ironclads
 	monitors
+	
+categories to change:
+	military science
+	naval doctrine
+	naval Engineering
+	economic thought and critique
+		mercantilist theory
+		reflected-sound-as-of-underground-spirits
+		Ankh-morpork theory
+	aesthetics
+	political thought
+	

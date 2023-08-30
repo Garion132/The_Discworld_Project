@@ -142,9 +142,14 @@ imp_timepieces = {
 	news = no
 	chance = {
 		base = 2
+		modifier = {
+			factor = -1
+			invention = mechanical_timepieces
+		}
 	}
 	effect = {
 		factory_output = 0.025
+		shared_prestige = 5
 	}
 }
 dis_organisers_mk1 = {
@@ -208,9 +213,14 @@ golem_backed_dollar = {
 	chance = {
 		base = 0
 		modifier = {
-			factor = 2
+			factor = 1
 			private_bank_money_bill_printing = 1
 		}
+		modifier = {
+			factor = 2
+			invention = moist_von_lipwig
+		}
+		
 	}
 	effect = {
 		tax_eff = 3 
@@ -234,6 +244,16 @@ golem_constuction = {
 	}
 	effect = {
 		factory_output = 0.25
+	}
+}
+golem_creation = {
+	limit = { modern_golemancy = 1 }
+	news = no
+	chance = {
+		base = 0
+	}
+	effect = {
+		##
 	}
 }
 golem_army = {
@@ -354,7 +374,7 @@ goblin_engraving = {
 		base = 2
 		modifier = {
 			factor = 4
-			tag = AMP
+			tag = SHI
 		}
 	}
 	effect = {
@@ -1165,13 +1185,15 @@ the_police_state = {
 	}
 }
 
-stamps = {
-	limit = { printing_press = 1 }
+postmens_oath = {
+	limit = { postal_service = 1 }
 	news = no
 	chance = {
 		base = 2
 	}
-	tax_efficiency = 0.02
+	effect = {
+		shared_prestige = 10 
+	}
 }
 dual_phase_clacks = {
 	limit = { clacks = 1 }
@@ -1192,4 +1214,37 @@ goblin_crews = {
 		}
 	}
 	tax_efficiency = 0.02
+	effect = {
+		factory_goods_output = {
+			clacks_equipment = 0.02
+		}
+	}
+}
+stamps = {
+	limit = { printing_press = 1 }
+	news = no
+	chance = {
+		base = 1
+		modifier = {
+			factor = 2
+			invention = moist_von_lipwig
+		}
+	}
+	tax_efficiency = 0.02
+}
+portable_clacks = {
+	limit = { coloured_clacks = 1 }
+	news = no
+	chance = {
+		base = -2
+		modifier = {
+			factor = 4
+			mechanical_production = 1
+		}
+	}
+	effect = {
+		factory_goods_output = {
+			clacks_equipment = 0.15 
+		}
+	}
 }

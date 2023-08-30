@@ -2,5 +2,5 @@ owner = VOX
 controller = VOX
 add_core = VOX
 add_core = UBW
-trade_goods = grain
+trade_goods = timber
 life_rating = 20

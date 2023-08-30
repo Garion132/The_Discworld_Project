@@ -1,9 +1,3 @@
-circumfence:
-the circumfense has a ___ value from 0 to 20, which starts at 20
-over time a series of events will decrease the value or cost something
-a few events will allow krull to gain value for a cost(or gain prestige if at 20)
-krull will have a repeatable decision to increase the value after a short time for a price
-
 poptypes:
 	golems
 	serfs?

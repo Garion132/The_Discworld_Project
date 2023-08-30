@@ -16,6 +16,25 @@ industrial_fat_rendering = {
 		activate_building = fat_rendering_factory
 	}
 }
+#Basic Chemistry
+synthetic_dye = {
+	limit = { basic_chemistry = 1 }
+	chance = {
+		base = 2
+		modifier = {
+			factor = 2
+			clean_coal = 1
+		}
+		modifier = {
+			factor = 2
+			management_strategy = 1
+		}
+	}
+	effect = {
+		activate_building = dye_factory 
+	}
+}
+#
 alchemical_guilds = {
 	limit = { metallurgic_principles = 1 }
 	chance = {
@@ -34,6 +53,34 @@ alchemical_guilds = {
 		}
 		factory_goods_output = {
 			explosives = 0.02 
+		}
+	}
+}
+safety_lamps = {
+	limit = { metallurgic_principles = 1 }
+	chance = {
+		base = -1
+		modifier = {
+			factor = 3
+			theories_of_chemistry = 1
+		}
+	}
+	effect = {
+		mine_rgo_eff = 0.05
+	}
+}
+deep-shaft_fat_mining = {
+	limit = { metallurgic_principles = 1 }
+	chance = {
+		base = -1
+		modifier = {
+			factor = 2
+			guilds = 1
+		}
+	}
+	effect = {
+		rgo_goods_output = {
+			fats = 0.50
 		}
 	}
 }
@@ -152,6 +199,21 @@ mechanized_slaughtering_block = {
 		rgo_goods_output = {
 			wool = 0.2
 		}
+	}
+}
+mechanical_timepieces = {
+	limit = { mechanical_production = 1 }
+	news = no
+	chance = {
+		base = 2
+		modifier = {
+			factor = -1
+			invention = imp_timepieces
+		}
+	}
+	effect = {
+		factory_output = 0.025
+		shared_prestige = 5
 	}
 }
 #interchangeable_parts
@@ -518,6 +580,24 @@ am_st_hygienic_railway = {
 }
 #iron_railroad
 #steel_railroad
+army_igors = {
+	limit = { theories_of_chemistry = 1 }
+	chance = {
+		base = 2
+		modifier = {
+			factor = 2
+			army_professionalism = 1
+		}
+		modifier = {
+			factor = 2
+			military_statistics = 1
+		}
+	}
+	effect = {
+		land_attrition = -0.05 
+		soldier_to_pop_loss = 0.01
+	}
+}
 #medicine
 the_igor_method = {
 	limit = { medicine = 1 }
@@ -721,23 +801,6 @@ catalytic_fermentative_process = {
 	}
 }
 #organic_chemistry
-synthetic_dye = {
-	limit = { organic_chemistry = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			clean_coal = 1
-		}
-		modifier = {
-			factor = 2
-			management_strategy = 1
-		}
-	}
-	effect = {
-		activate_building = dye_factory 
-	}
-}
 gaslights = {
 	limit = { organic_chemistry = 1 }
 	chance = {
