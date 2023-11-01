@@ -62,3 +62,6 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
+3541.1.1={
+	decision = sign_the_black_ribbon_pledge
+}

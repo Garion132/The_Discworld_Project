@@ -1,4 +1,23 @@
 political_decisions = {
+	sign_the_black_ribbon_pledge = {
+		potential = {
+			primary_culture = vampyre
+			NOT = {
+				has_country_flag = signed_the_black_ribbon_pledge
+			}
+			
+		}
+		
+		allow = {
+			invention = black_ribbon
+		}
+		
+		effect = {
+			set_country_flag = signed_the_black_ribbon_pledge
+			prestige = 5
+		
+		}
+	}
 	second_treaty_of_bugs = {
 		potential = {
 			tag = UBW

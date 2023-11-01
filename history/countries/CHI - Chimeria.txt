@@ -1,4 +1,4 @@
-capital = 47
+capital = 1621
 primary_culture = chimerian
 religion = protestant
 government = absolute_monarchy

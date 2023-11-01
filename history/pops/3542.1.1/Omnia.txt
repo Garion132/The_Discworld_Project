@@ -113,14 +113,14 @@
 	farmers = {
 		culture = istanzian
 		religion = catholic
-		size = 47400
+		size = 37400
 	}
     }
 236={
     farmers = {
 		culture = betrek
 		religion = catholic
-		size = 94300
+		size = 29430
 	}
 	soldiers = {
 		culture = betrek
@@ -146,7 +146,7 @@
         farmers = {
 		culture = istanzian
 		religion = catholic
-		size = 38000
+		size = 18000
 	}
     }
 240={
@@ -164,17 +164,17 @@
 	}
     }
 242={
-        farmers = {
+    farmers = {
 		culture = klatchistanian
 		religion = catholic
-		size = 64000
+		size = 16400
 	}
     }
 243={
         farmers = {
 		culture = betrek
 		religion = catholic
-		size = 92000
+		size = 29200
 	}
     }
 244={
@@ -260,7 +260,7 @@
 	}
     }
 255={
-        farmers = {
+     farmers = {
 		culture = klatchistanian
 		religion = catholic
 		size = 38000
@@ -270,7 +270,7 @@
 	farmers = {
 		culture = klatchistanian
 		religion = catholic
-		size = 75000
+		size = 27500
 	}
 	soldiers = {
 		culture = klatchistanian
@@ -329,14 +329,14 @@
         farmers = {
 		culture = klatchistanian
 		religion = catholic
-		size = 70000
+		size = 17000
 	}
     }
 264={
     farmers = {
 		culture = klatchistanian
 		religion = catholic
-		size = 68000
+		size = 26800
 	}
     }
 265={
@@ -350,14 +350,14 @@
     farmers = {
 		culture = ushistanian
 		religion = catholic
-		size = 48000
+		size = 24800
 	}
     }
 267={
     farmers = {
 		culture = klatchistanian
 		religion = catholic
-		size = 38000
+		size = 13800
 	}
     }
 268={
@@ -371,14 +371,14 @@
     farmers = {
 		culture = klatchistanian
 		religion = catholic
-		size = 95000
+		size = 29500
 	}
     }
 59={
     clergymen = {
 		culture = omnian
 		religion = omnianism
-		size = 90000
+		size = 70000
 	}
 	artisans = {
 		culture = omnian
@@ -615,7 +615,7 @@
     farmers = {
 		culture = omnian
 		religion = omnianism
-		size = 95000
+		size = 39500
 	}
 	clergymen = {
 		culture = omnian
@@ -783,7 +783,7 @@
 	farmers = {
 		culture = smalian
 		religion = omnianism
-		size = 74000
+		size = 17400
 	}
 	soldiers = {
 		culture = smalian
@@ -798,7 +798,7 @@
 	artisans = {
 		culture = smalian
 		religion = omnianism
-		size = 4000
+		size = 4200
 	}
     }
 316={

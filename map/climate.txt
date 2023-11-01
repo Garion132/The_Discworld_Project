@@ -1231,7 +1231,7 @@ temperate_climate = {
 }
 
 harsh_climate = {
-	
+	2158 2159 2160 2161 2162 2163 2164 2165
 	
 }
 

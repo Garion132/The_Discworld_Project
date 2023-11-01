@@ -1,2 +1,5 @@
-trade_goods = grain
-life_rating = 10
+owner = ECA
+controller = ECA
+add_core = ECA
+trade_goods = fish
+life_rating = 8

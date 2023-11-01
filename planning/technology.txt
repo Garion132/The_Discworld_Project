@@ -87,20 +87,20 @@ Combination Harvester
 
 *economics
 
-mercantilist theory
+mercantilist theory✔
 
-reflected-sound-as-of-underground-spirits(economics)
-	Inn-sewer-ants
+reflected-sound-as-of-underground-spirits(economics)✔
+	Inn-sewer-ants✔
 
-Ankh-morpork theory
-	Harry King
-	the Glopper 
+Ankh-morpork theory✔
+	Harry King✔
+	the Glopper ✔
 
-Free-Market Theory
+Free-Market Theory✔
 
-Collectivist theory
+Collectivist theory✔
 
-Historical Theory
+Historical Theory✔
 
 simple ship designs
 
@@ -124,10 +124,12 @@ categories to change:
 	military science
 	naval doctrine
 	naval Engineering
-	economic thought and critique
-		mercantilist theory
-		reflected-sound-as-of-underground-spirits
-		Ankh-morpork theory
 	aesthetics
 	political thought
 	
+	
+aesthetics:
+
+	Bloody Stupid Johnson
+	Methodia Rascal
+	Leonard of quirm
