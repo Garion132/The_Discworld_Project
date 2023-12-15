@@ -14,6 +14,14 @@ rebel =
 	irregular = 0
 }
 
+life_needs = {
+	meats = 1.75
+	wool =  1
+	fruit =  1
+	grain =  2.5
+	brassicas = 1
+}
+
 everyday_needs = {
 	coal = 1
 	paper = 10
@@ -25,16 +33,8 @@ everyday_needs = {
 	fats = 0.2
 	ceramics = 1.2
 	groceries = 1.2
+	clacks_equipment = 0.5
 }
-
-life_needs = {
-	meats = 1.75
-	wool =  1
-	fruit =  1
-	grain =  2.5
-	brassicas = 1
-}
-
 
 luxury_needs = {
 	opium = 10

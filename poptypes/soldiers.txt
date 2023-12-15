@@ -63,6 +63,7 @@ luxury_needs = {
 	#dye = 0.5
 	treacle = 0.05
 	fats = 0.1
+	igor_goods = 0.1
 }
 
 

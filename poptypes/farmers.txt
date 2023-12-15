@@ -35,6 +35,7 @@ luxury_needs = {
 	treacle = 0.1
 	ceramics = 1.2
 	groceries = 1.2
+	clacks_equipment = 0.1
 }
 
 country_migration_target =
