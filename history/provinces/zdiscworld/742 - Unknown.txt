@@ -1,5 +1,5 @@
 owner = ORU
 controller = ORU
 add_core = ORU
-trade_goods = grain
-life_rating = 20
+trade_goods = sulphur
+life_rating = 35

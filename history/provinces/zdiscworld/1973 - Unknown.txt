@@ -1,5 +1,5 @@
 owner = MOU
 controller = MOU
 add_core = MOU
-trade_goods = fruit
+trade_goods = grain
 life_rating = 20

@@ -1,5 +1,5 @@
 owner = KHN
 controller = KHN
 add_core = KHN
-trade_goods = tea
+trade_goods = dye
 life_rating = 20

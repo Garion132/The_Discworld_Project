@@ -2,5 +2,5 @@ owner = RHA
 controller = RHA
 add_core = RHA
 add_core = UBW
-trade_goods = grain
+trade_goods = sulphur
 life_rating = 26

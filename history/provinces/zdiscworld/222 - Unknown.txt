@@ -1,5 +1,5 @@
 owner = COL
 controller = COL
 add_core = COL
-trade_goods = brassicas
-life_rating = 20
+trade_goods = iron
+life_rating = 40

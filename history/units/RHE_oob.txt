@@ -1,30 +1,30 @@
 army = {
 	name = "Army of Rheinthal"
-	location = 722
+	location = 417
 	regiment = {
 		name= "1st Rheinthal infantry"
-		type = armored_footmen
-		home = 722
+		type = warrior
+		home = 417
 	}
 	regiment = {
 		name= "2nd Rheinthal infantry"
-		type = armored_footmen
-		home = 731
+		type = warrior
+		home = 702
 	}
 	regiment = {
 		name= "3rd Rheinthal infantry"
 		type = irregular
-		home = 732
+		home = 690
 	}
 	regiment = {
 		name= "4th Rheinthal infantry"
 		type = irregular
-		home = 719
+		home = 694
 	}
 	regiment = {
 		name= "5th Rheinthal infantry"
 		type = irregular
-		home = 725
+		home = 669
 	}
 }
 

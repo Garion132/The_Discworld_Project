@@ -1,5 +1,5 @@
 owner = FRF
 controller = FRF
 add_core = FRF
-trade_goods = fish
+trade_goods = rubber
 life_rating = 45

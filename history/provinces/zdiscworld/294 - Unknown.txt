@@ -1,6 +1,6 @@
 owner = EPH
 controller = EPH
 add_core = EPH
-trade_goods = fruit
+trade_goods = iron
 life_rating = 30
 

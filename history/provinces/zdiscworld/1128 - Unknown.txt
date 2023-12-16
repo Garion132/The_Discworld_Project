@@ -2,6 +2,6 @@ owner = MAR
 controller = MAR
 add_core = MAR
 add_core = DIA
-trade_goods = grain
+trade_goods = sulphur
 life_rating = 28
 

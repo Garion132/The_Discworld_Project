@@ -1,5 +1,5 @@
 owner = ZLO
 controller = ZLO
 add_core = ZLO
-trade_goods = grain
+trade_goods = wool
 life_rating = 33

@@ -2,6 +2,6 @@ owner = STA
 controller = STA
 add_core = STA
 add_core = STO
-life_rating = 20
+life_rating = 34
 trade_goods = brassicas
 

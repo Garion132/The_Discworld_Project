@@ -2,4 +2,4 @@ owner = VUL
 controller = VUL
 add_core = VUL
 life_rating = 20
-trade_goods = grain
+trade_goods = sugar

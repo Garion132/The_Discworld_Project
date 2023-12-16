@@ -2,4 +2,4 @@ owner = IST
 controller = IST
 add_core = IST
 trade_goods = brassicas
-life_rating = 20
+life_rating = 30

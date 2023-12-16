@@ -2283,12 +2283,12 @@
     labourers = {
 		culture = sto_plainer
 		religion = catholic
-		size = 45000
+		size = 35000
 	}
 	soldiers = {
 		culture = sto_plainer
 		religion = catholic
-		size = 20000
+		size = 3000
 	}
     }
 160={
@@ -7434,7 +7434,17 @@
     farmers = {
 		culture = oruuellan
 		religion = catholic
-		size = 1990
+		size = 21990
+	}
+	soldiers = {
+		culture = oruuellan
+		religion = catholic
+		size = 2411
+	}
+	aristocrats = {
+		culture = oruuellan
+		religion = catholic
+		size = 79
 	}
 }
 734={
@@ -7498,7 +7508,7 @@
     farmers = {
 		culture = oruuellan
 		religion = catholic
-		size = 3400
+		size = 23400
 	}
 }
 741={

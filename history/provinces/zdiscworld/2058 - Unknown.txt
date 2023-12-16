@@ -1,2 +1,2 @@
-trade_goods = fruit
+trade_goods = timber
 life_rating = 25

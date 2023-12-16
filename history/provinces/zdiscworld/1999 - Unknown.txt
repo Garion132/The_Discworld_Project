@@ -2,4 +2,4 @@ owner = IRM
 controller = IRM
 add_core = IRM
 trade_goods = silk
-life_rating = 20
+life_rating = 32

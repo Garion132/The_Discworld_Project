@@ -1,5 +1,5 @@
 owner = MOU
 controller = MOU
 add_core = MOU
-trade_goods = dye
+trade_goods = cattle
 life_rating = 33

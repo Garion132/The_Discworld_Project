@@ -1,6 +1,6 @@
 owner = SBG
 controller = SBG
 add_core = SBG
-trade_goods = iron
+trade_goods = sulphur
 life_rating = 21
 

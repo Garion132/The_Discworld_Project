@@ -599,7 +599,7 @@ explosives_factory = {
 	template = factory_template
 	input_goods = {   
 		fertilizer = 3		#30
-		ammunition = 0.8	#14	total input+maint = 54
+		coal = 6	#14	total input+maint = 54
 	}
 	output_goods = explosives 
 	value = 3			#60
@@ -634,7 +634,7 @@ ceramics_factory = {
 ammunition_factory = {       
 	template = cheap_factory_template
 	input_goods = {      
-		sulphur = 2		#12
+		explosives = 0.6		#12
 		iron = 4		#10.5	total input+maint = 30
 	}
 	output_goods = ammunition 
@@ -1538,7 +1538,7 @@ artisan_regular_clothes = {
 artisan_explosives = {       
 	input_goods = {   
 		fertilizer = 3		#30
-		ammunition = 0.8	#14	total input+maint = 54
+		coal = 6	#14	total input+maint = 54
 	}
 	output_goods = explosives 
 	value = 3			#60
@@ -1630,8 +1630,8 @@ artisan_butcher = {
 artisan_ammunition = {       
 	input_goods = {      
 		sulphur = 2		#12
-		coal = 2		#4.6
-		iron = 5		#17.5	total input+maint = 44
+		coal = 4		#9.2
+		iron = 5		#17.5	total input+maint = 48.6
 	}
 	output_goods = ammunition 
 	value = 3			#52.5

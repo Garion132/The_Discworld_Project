@@ -455,6 +455,15 @@ field_fortifications = {
 		}
 	}
 	effect = {
+		irregular = {
+			defence = 1
+		}
+		warriors = {
+			defence = 1
+		}
+		armored_footmen = {
+			defence = 1
+		}
 		infantry = {
 			defence = 1
 		}
@@ -531,6 +540,9 @@ flexible_firepower = {
 		}
 	}
 	effect = {
+		irregular = {
+			defence = 1
+		}
 		infantry = {
 			defence = 1
 		}
@@ -571,6 +583,9 @@ synchronized_heavy_support = {
 		}
 	}
 	effect = {
+		irregular = {
+			defence = 1
+		}
 		infantry = {
 			defence = 1
 		}
@@ -621,6 +636,15 @@ trench_systems = {
 		}
 	}
 	effect = {
+		irregular = {
+			defence = 1
+		}
+		warriors = {
+			defence = 0.5
+		}
+		armored_footmen = {
+			defence = 0.5
+		}
 		infantry = {
 			defence = 1
 		}
@@ -660,6 +684,15 @@ elastic_defense_system = {
 		}
 	}
 	effect = {
+		irregular = {
+			defence = 1
+		}
+		warriors = {
+			defence = 0.5
+		}
+		armored_footmen = {
+			defence = 0.5
+		}
 		infantry = {
 			defence = 1
 		}
@@ -699,6 +732,15 @@ flexible_counterattacks = {
 		}
 	}
 	effect = {
+		irregular = {
+			defence = 1
+		}
+		warriors = {
+			defence = 0.5
+		}
+		armored_footmen = {
+			defence = 0.5
+		}
 		infantry = {
 			attack = 1
 		}
@@ -741,6 +783,15 @@ low_echelon_fire_support = {
 		}
 	}
 	effect = {
+		irregular = {
+			attack = 1
+		}
+		warriors = {
+			attack = 0.5
+		}
+		armored_footmen = {
+			attack = 0.5
+		}
 		infantry = {
 			attack = 1
 		}
@@ -853,6 +904,15 @@ human_wave_vs_spearhead = {
 		}
 	}
 	effect = {
+		irregular = {
+			attack = 1
+		}
+		warriors = {
+			attack = 0.5
+		}
+		armored_footmen = {
+			attack = 0.5
+		}
 		infantry = {
 			attack = 1
 			defence = 1
@@ -897,6 +957,10 @@ flintlock_rifle_armament = {
 		}
 	}
 	effect = {
+		irregular = {
+			attack = 1
+			supply_consumption = 0.10
+		}
 		infantry = {
 			attack = 1
 			supply_consumption = 0.10
@@ -932,6 +996,10 @@ muzzle_loaded_rifle_armament = {
 		}
 	}
 	effect = {
+		irregular = {
+			attack = 1
+			supply_consumption = 0.10
+		}
 		infantry = {
 			attack = 1
 			supply_consumption = 0.10
