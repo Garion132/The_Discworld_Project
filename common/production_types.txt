@@ -682,7 +682,7 @@ fat_rendering = {
 	template = factory_template
 	input_goods = { 
 		cattle = 2 		#
-		sheep = 2 		#
+		wool = 2 		#
 		coal = 0.2 		#
 	}
 	output_goods = fats 
@@ -690,7 +690,7 @@ fat_rendering = {
 	bonus = {
 		trigger = { 
 			OR = {
-				trade_goods_in_state = sheep
+				trade_goods_in_state = wool
 				trade_goods_in_state = cattle
 				}
 			}
@@ -1607,7 +1607,7 @@ artisan_transportation = {
 }
 artisan_butcher = {       
 	input_goods = {   
-		sheep = 4		#
+		wool = 4		#
 		cattle = 4		#
 		fish = 4		#
 	}
