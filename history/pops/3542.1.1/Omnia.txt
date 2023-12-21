@@ -213,7 +213,7 @@
 	}
     }
 249={
-        farmers = {
+	farmers = {
 		culture = klatchistanian
 		religion = catholic
 		size = 39000
@@ -230,7 +230,7 @@
 	farmers = {
 		culture = klatchistanian
 		religion = catholic
-		size = 85000
+		size = 48500
 	}
 	soldiers = {
 		culture = klatchistanian
@@ -375,10 +375,15 @@
 	}
     }
 59={
-    clergymen = {
+    bureaucrats = {
 		culture = omnian
 		religion = omnianism
-		size = 70000
+		size = 68700
+	}
+	clergymen = {
+		culture = omnian
+		religion = omnianism
+		size = 1300
 	}
 	artisans = {
 		culture = omnian
