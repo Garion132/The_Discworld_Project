@@ -45,7 +45,7 @@ outer_island_cultures = {
 	leader = european
 	unit = EuropeanGC
 	pearl_islander = { 
-		color = { 130 100 100}
+		color = { 206 125 168}
 		first_names = { Hong Feng Shi Li Chen Liu Qiu Sun Soong Liao Xue Zhang Xie Wu Shu Tsai Deng Zhen Huang Ye Yang
 		}
 		last_names = { Xiuquan Yunshan Xiuqing Dakai Yucheng Rengan Zicai Yongfu Fengjia Yatsen
@@ -53,6 +53,27 @@ outer_island_cultures = {
 	}
 	be_trobi = { 
 		color = { 190 130 130}
+		first_names = { Hong Feng Shi Li Chen Liu Qiu Sun Soong Liao Xue Zhang Xie Wu Shu Tsai Deng Zhen Huang Ye Yang
+		}
+		last_names = { Xiuquan Yunshan Xiuqing Dakai Yucheng Rengan Zicai Yongfu Fengjia Yatsen
+		}
+	}
+	brown_islander = { 
+		color = { 160 102 88}
+		first_names = { Hong Feng Shi Li Chen Liu Qiu Sun Soong Liao Xue Zhang Xie Wu Shu Tsai Deng Zhen Huang Ye Yang
+		}
+		last_names = { Xiuquan Yunshan Xiuqing Dakai Yucheng Rengan Zicai Yongfu Fengjia Yatsen
+		}
+	}
+	mithosian = { 
+		color = { 132 216 213}
+		first_names = { Hong Feng Shi Li Chen Liu Qiu Sun Soong Liao Xue Zhang Xie Wu Shu Tsai Deng Zhen Huang Ye Yang
+		}
+		last_names = { Xiuquan Yunshan Xiuqing Dakai Yucheng Rengan Zicai Yongfu Fengjia Yatsen
+		}
+	}
+	bounsea = { 
+		color = { 146 211 182}
 		first_names = { Hong Feng Shi Li Chen Liu Qiu Sun Soong Liao Xue Zhang Xie Wu Shu Tsai Deng Zhen Huang Ye Yang
 		}
 		last_names = { Xiuquan Yunshan Xiuqing Dakai Yucheng Rengan Zicai Yongfu Fengjia Yatsen
@@ -85,18 +106,18 @@ dwarfs_group = {
 	leader = european
 	unit = EuropeanGC
 	dwarf = { 
-		color = { 130 100 100}
-		first_names = { Hong Feng Shi Li Chen Liu Qiu Sun Soong Liao Xue Zhang Xie Wu Shu Tsai Deng Zhen Huang Ye Yang
+		color = { 213 163 194}
+		first_names = { Aeron Albrecht Ardent B'hrian Cheery Ironhammer Snorey Giamo Hwel Modo Rhys Tagwen Bashfull Bedwyr Berwyn Blodwen Boddony Cuddy Dozy Dee Fflergant Gimick Gimlet Glod Thog Goria Gunilla Gowdie Bjorn Helmhammerhand Gunder Setha Lackjaw Magus Pepe Minty Abba Erig Morose Pors Zakzak Sullien Hrolf Gradpot
 		}
-		last_names = { Xiuquan Yunshan Xiuqing Dakai Yucheng Rengan Zicai Yongfu Fengjia Yatsen
+		last_names = { Albrechtson Littlebottom Bloodaxe Casanunda Rhysson Tagwenson Footcracker Bashfullsson Cheerysson Beddsson Brakenshield Dozysson Cuddysson Deesson Gimlet Glodsson Glodssonsson Thogson Goodmountian Graumunchen Hammerhock Helmclever Ironbender Hamcrusher Ironcrust Ironfoundersson Ironhammer Magusson Rocksmasher Stronginthearm Heddwyn Thighbiter Thunderaxe Thunderfoot Thundergust Ringfounder
 		}
 		radicalism = 5
 	}
 	low_dwarfs_group = {
 		color = {248 165 255}
-		first_names = { Hong Feng Shi Li Chen Liu Qiu Sun Soong Liao Xue Zhang Xie Wu Shu Tsai Deng Zhen Huang Ye Yang
+		first_names = { Aeron Albrecht Ardent B'hrian Cheery Ironhammer Snorey Giamo Hwel Modo Rhys Tagwen Bashfull Bedwyr Berwyn Blodwen Boddony Cuddy Dozy Dee Fflergant Gimick Gimlet Glod Thog Goria Gunilla Gowdie Bjorn Helmhammerhand Gunder Setha Lackjaw Magus Pepe Minty Abba Erig Morose Pors Zakzak Sullien Hrolf Gradpot
 		}
-		last_names = { Xiuquan Yunshan Xiuqing Dakai Yucheng Rengan Zicai Yongfu Fengjia Yatsen
+		last_names = { Albrechtson Littlebottom Bloodaxe Casanunda Rhysson Tagwenson Footcracker Bashfullsson Cheerysson Beddsson Brakenshield Dozysson Cuddysson Deesson Gimlet Glodsson Glodssonsson Thogson Goodmountian Graumunchen Hammerhock Helmclever Ironbender Hamcrusher Ironcrust Ironfoundersson Ironhammer Magusson Rocksmasher Stronginthearm Heddwyn Thighbiter Thunderaxe Thunderfoot Thundergust Ringfounder
 		}
 		radicalism = 5
 	}

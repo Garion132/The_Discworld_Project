@@ -1,7 +1,7 @@
 #army_doctrine
 post_napoleonic_thought = {
 	area = army_doctrine
-	year = 3543
+	year = 3535
 	cost = 3600
 	unciv_military = yes
 

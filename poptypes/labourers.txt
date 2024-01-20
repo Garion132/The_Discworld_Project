@@ -102,6 +102,10 @@ country_migration_target =
 		vote_franschise = universal_voting
 	}
 	modifier = {
+		factor = 1.5
+		government = patricianship
+	}
+	modifier = {
 		factor = 0.1
 		NOT = {
 			any_owned_province = {

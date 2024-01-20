@@ -110,7 +110,8 @@ country_event = {#treaty with northern minors
 	option = {#agree
 		name = "EVTOPTA39004" 
 		treasury = 5000
-		STL={create_vassal = ROOT
+		STL={
+			create_vassal = ROOT
 			country_event = { id=39005 days=0 }
 		}
 	}

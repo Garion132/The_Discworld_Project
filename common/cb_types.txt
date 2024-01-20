@@ -46,6 +46,7 @@ gunboat
 conquest 
 civil_war 
 acquire_core_state 
+unite_muntab
 annex_core_country
 acquire_state 
 acquire_substate_region
@@ -171,6 +172,12 @@ conquest = {
 						NOT = { nationalism_n_imperialism = 1 }
 					}
 				}
+			}
+		}
+		THIS={
+			OR={
+				civilized = yes
+				NOT={tag = AGA}
 			}
 		}
 		is_independant = yes
@@ -366,6 +373,71 @@ acquire_core_state = {
 	war_name = WAR_TAKE_CORE_NAME
 	
 	on_add = {
+	}
+}
+
+unite_muntab = {
+	sprite_index = 5
+	is_triggered_only = yes
+	months = 12
+
+	construction_speed = 0.8
+
+	badboy_factor = 0
+	prestige_factor = 2
+	peace_cost_factor = 0.7
+	penalty_factor = 1
+	always = yes
+
+	break_truce_prestige_factor = 5
+	break_truce_infamy_factor = 2
+	break_truce_militancy_factor = 2
+	truce_months = 48
+
+	good_relation_prestige_factor = 1
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+
+	can_use = {
+		MUT={exists = no}
+		THIS = {
+			primary_culture = muntabian
+			rank = 16
+			OR = {
+				war_policy = jingoism
+				war_policy = pro_military
+			}
+		}
+		neighbour = THIS
+		any_owned_province = {
+			is_core = MUT
+		}
+		OR = {
+			war_with = THIS
+			THIS = { NOT = { has_country_modifier = punitive_effects } }
+		}
+		NOT = { has_country_modifier = neutrality has_country_modifier = mediating_political_solution }
+		THIS = { NOT = { has_country_modifier = neutrality } }
+	}
+
+	allowed_states = {
+		any_owned_province = {
+			OR={
+			is_core = MUT
+			}
+		}
+	}
+
+	po_demand_state = yes
+
+	war_name = WAR_MUNTAB_EMPIRE_NAME
+
+	on_add = {
+		move_issue_percentage = {
+			from = jingoism
+			to = pro_military
+			value = 0.25
+		}
 	}
 }
 

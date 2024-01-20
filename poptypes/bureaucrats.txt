@@ -114,7 +114,7 @@ country_migration_target =
 	}
 	modifier = {
 		factor = 1.5
-		tag = AMP
+		government = patricianship
 	}
 	modifier = {
 		factor = 1.05

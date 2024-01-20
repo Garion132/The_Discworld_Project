@@ -762,8 +762,9 @@ railroad = {
 	goods_cost =
 	{
 		timber = 100
-		cement = 100
+		cement = 50
 		steel = 100
+		transportation = 35
 	}
 	time = 720
 	visibility = yes

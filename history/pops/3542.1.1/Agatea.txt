@@ -630,7 +630,7 @@
     farmers = {
 		culture = agatean
 		religion = ancestor_worship
-		size = 98000
+		size = 87100
 	}
 	artisans = {
 		culture = agatean
@@ -646,6 +646,21 @@
 		culture = agatean
 		religion = ancestor_worship
 		size = 6600
+	}
+	clergymen = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 6724
+	}
+	bureaucrats = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 2854
+	}
+	aristocrats = {
+		culture = agatean
+		religion = ancestor_worship
+		size = 1210
 	}
     }
 562={
