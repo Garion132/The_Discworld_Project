@@ -30,7 +30,7 @@ factory_template = {
 	
 	}
 	type = factory
-	workforce = 3500
+	workforce = 5000
 }
 
 cheap_factory_template = {
@@ -61,7 +61,7 @@ cheap_factory_template = {
 	
 	}
 	type = factory
-	workforce = 3500 
+	workforce = 5000 
 }
 
 machine_part_user_template = {
@@ -91,7 +91,7 @@ machine_part_user_template = {
 	
 	}
 	type = factory
-	workforce = 3500 
+	workforce = 5000 
 }
 
 cement_template = {
@@ -122,7 +122,7 @@ cement_template = {
 	
 	}
 	type = factory
-	workforce = 3500 
+	workforce = 5000 
 }
 
 ############# STRATEGIC FACTORIES
