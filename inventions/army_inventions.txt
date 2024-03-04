@@ -64,6 +64,32 @@ cavalry_training = {
 		activate_unit = cavalry
 	}
 }
+steel_armament = {
+	limit = { steel_weaponry = 1 }
+	chance = {
+		base = 5
+		modifier = {
+			factor = 2
+			invention = sword_production
+		}
+		modifier = {
+			factor = 2
+			war = yes
+			war_countries = { invention = steel_armament }
+		}
+	}
+	effect = {
+		warriors = {
+			attack = 0.5
+			supply_consumption = 0.10
+		}
+		irregular = {
+			attack = 0.5
+			supply_consumption = 0.10
+		}
+	}
+}
+
 armored_tatics = {
 	limit = { 
 		high_grade_steel_weaponry = 1 

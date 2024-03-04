@@ -1,6 +1,7 @@
 owner = AMP
 controller = AMP
 add_core = AMP
+add_core = MAQ
 life_rating = 37
-trade_goods = timber
+trade_goods = fruit
 

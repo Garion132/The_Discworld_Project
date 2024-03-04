@@ -1,6 +1,6 @@
 owner = AMP
 controller = AMP
 add_core = AMP
-trade_goods = fruit
+trade_goods = timber
 life_rating = 32
 

@@ -1,5 +1,5 @@
 capital = 658
-primary_culture = ramtops
+primary_culture = varnith
 religion = protestant
 government = absolute_monarchy
 plurality = -15

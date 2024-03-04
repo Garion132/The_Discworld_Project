@@ -9,7 +9,7 @@ aqui = {
 	floating_flag = no
 	
 	#Core Abilities
-	priority = 5
+	priority = 7
 	max_strength = 3
 	default_organisation = 20
 	maximum_speed = 4.00

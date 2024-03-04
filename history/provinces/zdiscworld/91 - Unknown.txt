@@ -1,5 +1,6 @@
 owner = QRM
 controller = QRM
 add_core = QRM
+add_core = MAQ
 trade_goods = cotton
 life_rating = 38

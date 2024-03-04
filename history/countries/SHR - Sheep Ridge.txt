@@ -1,5 +1,5 @@
 capital = 136
-primary_culture = sto_plainer
+primary_culture = ramtop
 religion = protestant
 government = absolute_monarchy
 plurality = 30

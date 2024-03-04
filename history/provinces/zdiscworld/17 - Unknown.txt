@@ -1,5 +1,6 @@
-owner = ZEM
-controller = ZEM
+owner = GRV
+controller = GRV
+add_core = GRV
 add_core = ZEM
 add_core = STO
 life_rating = 52

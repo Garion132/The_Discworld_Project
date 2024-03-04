@@ -1,6 +1,6 @@
 AMP_1 = { 1 2 }#ankh morpork
-AMP_2 = { 10 9 11 12 35}#holly wood
-AMP_3 = { 8 7 6 62 }#northern ankh
+AMP_2 = { 10 11 12 35}#holly wood
+AMP_3 = { 7 9 6 62 }#northern ankh
 AMP_4 = { 3 4 5 199}#eastern ankh
 
 RAM_1 = { 25 26 30 31 }
@@ -14,7 +14,7 @@ STL_3 = { 38 39 141}
 STL_4 = { 46 44 51 139 142 150}
 
 QRM_1 = { 13 14 15 70 131}
-QRM_4 = { 81 83 89 91 107 }#Maquis
+QRM_4 = { 81 83 89 91 107 8 }#Maquis
 QRM_2 = { 82 90 114 106}
 QRM_3 = { 92 93 88 86 85}
 QRM_5 = { 87 63 71 }

@@ -1,6 +1,7 @@
 owner = AMP
 controller = AMP
 add_core = AMP
+add_core = MAQ
 trade_goods = dye
 life_rating = 32
 
