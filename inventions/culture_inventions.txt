@@ -68,7 +68,7 @@ uu_education = {
 		base = 2
 	}
 	effect = {
-		education_efficiency = 0.50
+		education_efficiency = 0.30
 	}
 }
 witchery = {
@@ -86,7 +86,7 @@ witchery = {
 		}
 	}
 	effect = {
-		education_efficiency = 0.50
+		education_efficiency = 0.30
 	}
 }
 
@@ -335,14 +335,22 @@ black_ribbon = {
 	limit = { racial_outreach = 1 }
 	news = yes
 	chance = {
-		base = 1
+		base = 0
+		modifier = {
+			factor = 1
+			has_pop_culture = vampyre
+		}
 		modifier = {
 			factor = 3
 			pop_majority_culture = vampyre
 		}
 		modifier = {
 			factor = 2
-			has_pop_culture = vampyre
+			primary_culture = vampyre
+		}
+		modifier = {
+			factor = 1
+			accepted_culture = vampyre
 		}
 		modifier = {
 			factor = 10
@@ -350,6 +358,36 @@ black_ribbon = {
 		}
 	}
 	core_pop_consciousness_modifier = 0.01
+	non_accepted_pop_militancy_modifier = -0.01
+}
+grags = {
+	limit = { racial_outreach = 1 }
+	news = yes
+	chance = {
+		base = 0
+		modifier = {
+			factor = 1
+			has_pop_culture = dwarf
+		}
+		modifier = {
+			factor = 3
+			pop_majority_culture = dwarf
+		}
+		modifier = {
+			factor = 2
+			primary_culture = dwarf
+		}
+		modifier = {
+			factor = 1
+			accepted_culture = dwarf
+		}
+		modifier = {
+			factor = 10
+			tag = LWD
+		}
+	}
+	core_pop_consciousness_modifier = -0.01
+	core_pop_militancy_modifier = 0.01
 }
 #goblin_liberation
 goblin_music = {
@@ -1231,6 +1269,16 @@ stamps = {
 		}
 	}
 	tax_efficiency = 0.02
+}
+newspapers = {
+	limit = { printing_press = 1 }
+	news = no
+	chance = {
+		base = 2
+	}
+	effect={
+		shared_prestige = 5
+	}
 }
 portable_clacks = {
 	limit = { coloured_clacks = 1 }

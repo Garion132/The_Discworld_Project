@@ -60,8 +60,6 @@ Goblin Liberation:✔
 	
 Orc Acceptance✔
 
-Music With Rocks In
-
 *comunication
 
 messangers:✔
@@ -77,6 +75,7 @@ Printing press:✔
 	Stamps✔
 	
 	
+	Octo-cellulose✔
 
 Steam engines:
 	Iron girder✔
@@ -127,9 +126,35 @@ categories to change:
 	aesthetics
 	political thought
 	
-	
 aesthetics:
-
 	Bloody Stupid Johnson
 	Methodia Rascal
+	
+	
 	Leonard of quirm
+	
+Moving Pictures
+	
+	High Jinks at the Store
+	Pelias and Melisande
+	Sword of Passione
+	A Kings Ransom
+	The Dark Forest
+	Mystery Mountian
+	A Bolde Adventurer
+	Tales of the Dwarfes
+	An Exciting Study of Pottery Making
+	Bad Menace of Troll Valley
+	Shadowe of the Dessert
+	The Third Gnome
+	Golde Diggers of 1457
+	Turkey Legs
+	Blown Away
+	Valley of the Trolls
+	A Night At The Arena
+	Burninge Passiones
+	
+Music With Rocks In
+	Sioni Bod Da
+	Pathway to Paradise
+	

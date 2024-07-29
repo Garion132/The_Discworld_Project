@@ -16,6 +16,15 @@ industrial_fat_rendering = {
 		activate_building = fat_rendering_factory
 	}
 }
+octo_cellulose = {
+	limit = { alchemical_practises = 1 }
+	chance = {
+		base = 2
+	}
+	effect = { 
+		factory_throughput = 0.01 
+	}
+}
 #Basic Chemistry
 synthetic_dye = {
 	limit = { basic_chemistry = 1 }
@@ -501,6 +510,25 @@ steel_alloys = {
 		}
 	}
 }
+#dirt Roads
+milestone = {
+	limit = { dirt_roads = 1 }
+	chance = {
+		base = 2
+	}
+	effect = {
+		rgo_output = 0.01
+	}
+}
+waystations = {
+	limit = { dirt_roads = 1 }
+	chance = {
+		base = 2
+	}
+	effect = {
+		supply_limit = 0.1
+	}
+}
 #cobbled Roads
 army_forced_march = {
 	limit = { cobbled_roads = 1 }
@@ -600,16 +628,12 @@ army_igors = {
 }
 #medicine
 the_igor_method = {
-	limit = { medicine = 1 }
+	limit = { basic_chemistry = 1 }
 	chance = {
 		base = 2
 		modifier = {
 			factor = 2
-			army_professionalism = 1
-		}
-		modifier = {
-			factor = 2
-			military_statistics = 1
+			medicine = 1
 		}
 	}
 	effect = {
@@ -617,18 +641,19 @@ the_igor_method = {
 	}
 }
 what_goes_around = {
-	limit = { medicine = 1 }
+	limit = { basic_chemistry = 1 }
 	chance = {
 		base = 0
 		modifier = {
 			factor = 4
-			the_igor_method = 1
+			invention = the_igor_method
 		}
 	}
 	effect = {
 		pop_growth = 0.0002
 	}
 }
+#medicine
 combat_medicine = {
 	limit = { medicine = 1 }
 	chance = {

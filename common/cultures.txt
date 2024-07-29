@@ -157,7 +157,7 @@ morporkian = {
 		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
 		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
 		
-		last_names = { "de Worde" Vetanari Nobbes Vimes Rust Selachii Eorle Purdeigh Venturi}
+		last_names = { "de Worde" Vetanari Nobbes Vimes Rust Selachii Eorle Purdeigh Venturi George "d'Eath" Lavish}
 	}
 	foureckian = { #austrailians
 		color = { 160 57 62}

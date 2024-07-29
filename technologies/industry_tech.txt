@@ -910,7 +910,7 @@ dirt_roads = {
 cobbled_roads = {
 	area = tech_infrastructure
 	year = 3545
-	cost = 3600
+	cost = 7200
 	
 	supply_consumption = -0.05
 	factory_throughput = 0.04
@@ -935,7 +935,7 @@ cobbled_roads = {
 paved_roads = {
 	area = tech_infrastructure
 	year = 3550
-	cost = 3600
+	cost = 7200
 	
 	supply_consumption = -0.1
 	factory_throughput = 0.05
@@ -959,8 +959,8 @@ paved_roads = {
 }
 experimental_railroad = {
 	area = tech_infrastructure
-	year = 3570
-	cost = 3600
+	year = 3565
+	cost = 10800
 
 	activate_building = railroad
 	

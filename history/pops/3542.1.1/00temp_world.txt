@@ -8587,7 +8587,22 @@
     farmers = {
 		culture = outer_uberwaldian
 		religion = catholic
-		size = 432
+		size = 13732
+	}
+	soldiers = {
+		culture = outer_uberwaldian
+		religion = catholic
+		size = 2781
+	}
+	bureaucrats = {
+		culture = outer_uberwaldian
+		religion = catholic
+		size = 1724
+	}
+	artisans = {
+		culture = outer_uberwaldian
+		religion = catholic
+		size = 3641
 	}
 }
 798={
@@ -8984,21 +8999,21 @@
     farmers = {
 		culture = outer_uberwaldian
 		religion = catholic
-		size = 786
+		size = 7786
 	}
 }
 829={
     farmers = {
 		culture = outer_uberwaldian
 		religion = catholic
-		size = 693
+		size = 3693
 	}
 }
 830={
     farmers = {
 		culture = outer_uberwaldian
 		religion = catholic
-		size = 841
+		size = 4841
 	}
 }
 831={
