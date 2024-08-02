@@ -248,7 +248,7 @@ golem_foundry = {
 	visibility = yes
 	onmap = no
 
-	production_type = golem_factory
+	production_type = golem_foundry
 	pop_build_factory = yes
 }
 siege_workshop = {

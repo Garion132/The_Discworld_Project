@@ -1727,10 +1727,10 @@ negotiated_transfer = {
 			is_colonial = no
 		}
 		any_owned_province = {
-                     OR = {
-			is_colonial = yes
-			is_colonial = no
-                     }
+			OR = {
+				is_colonial = yes
+				is_colonial = no
+			}
 		}
 		not = { any_owned_province = { is_capital = yes } }
 	}

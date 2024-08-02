@@ -1072,7 +1072,7 @@ vampyre_group = {
 		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
 		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
 	}
-	union = UBW
+	#union = UBW
 }
 werewolves_group = {
 	leader = european

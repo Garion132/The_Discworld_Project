@@ -1,7 +1,7 @@
 capital = 660
 primary_culture = upper_uberwaldian
 culture = uberwaldian
-religion = othordox_omnianism
+religion = orthodox_omnianism
 government = absolute_monarchy
 plurality = 30
 nationalvalue = nv_order
