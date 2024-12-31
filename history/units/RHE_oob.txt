@@ -3,12 +3,12 @@ army = {
 	location = 417
 	regiment = {
 		name= "1st Rheinthal infantry"
-		type = warrior
+		type = warriors
 		home = 417
 	}
 	regiment = {
 		name= "2nd Rheinthal infantry"
-		type = warrior
+		type = warriors
 		home = 702
 	}
 	regiment = {

@@ -2074,7 +2074,7 @@
 		size = 26718
 	}
 	soldiers = {
-		soldiers = sto_plainer
+		culture = sto_plainer
 		religion = catholic
 		size = 1945
 	}

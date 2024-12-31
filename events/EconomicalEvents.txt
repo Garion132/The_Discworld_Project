@@ -31,10 +31,6 @@ country_event = {
 		}
 		modifier = {
 			factor = 0.9
-			keynesian_economics = 1
-		}
-		modifier = {
-			factor = 0.9
 			any_neighbor_country = {
 				has_country_modifier = stock_market_crash
 			}
@@ -89,10 +85,6 @@ country_event = {
 		modifier = {
 			factor = 0.9
 			unemployment = 0.05
-		}
-		modifier = {
-			factor = 0.9
-			keynesian_economics = 1
 		}
 		modifier = {
 			factor = 0.9

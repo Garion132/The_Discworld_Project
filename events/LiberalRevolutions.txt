@@ -1436,12 +1436,6 @@ province_event = {
 			}
 		}
 		modifier = {
-			factor = 2
-			owner = {
-				electricity = 1
-			}
-		}
-		modifier = {
 			factor = 0.9
 			NOT = {
 				poor_strata_everyday_needs = 0.9
